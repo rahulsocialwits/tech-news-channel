@@ -100,7 +100,7 @@ Write a completely original article. Do not copy sentences from the sources. Do 
 Return the article fields required by the response schema. Do not add extra fields.
 
 Article requirements:
-- 700-1100 words where the source material supports it.
+- 500-700 words where the source material supports it.
 - Start with a strong factual introduction.
 - Include sections for what happened, important details, context, impact, and availability/next steps when supported.
 - Use useful H2 headings and paragraphs; lists are allowed when helpful.
@@ -126,7 +126,7 @@ ${JSON.stringify(stories)}`;
         { role: "user", content: prompt }
       ],
       temperature: 0.3,
-      max_completion_tokens: 3800,
+      max_completion_tokens: 2800,
       reasoning_effort: "low",
       include_reasoning: false,
       response_format: {
@@ -426,7 +426,7 @@ async function publishArticle(env, article) {
 async function runNewsJob(env) {
   if (!env) throw new Error("Worker environment is unavailable.");
   const allStories = await collectNews();
-  const stories = allStories.slice(0, 12);
+  const stories = allStories.slice(0, 5).map(x => ({source:x.source,title:x.title,url:x.url,description:String(x.description||"").slice(0,500)}));
   if (!stories.length) throw new Error("No RSS stories were found.");
 
   const article = await generateArticle(env, stories);
