@@ -14,6 +14,7 @@ const GITHUB_OWNER = "rahulsocialwits";
 const GITHUB_REPO = "tech-news-channel";
 const GITHUB_BRANCH = "main";
 const SITE_URL = "https://rahulsocialwits.github.io/tech-news-channel";
+const SITE_ORIGIN = "https://rahulsocialwits.github.io";
 
 function clean(value = "") {
   return value
@@ -157,7 +158,7 @@ const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
 function corsHeaders() {
-  return { "Access-Control-Allow-Origin": SITE_URL, "Access-Control-Allow-Headers": "Content-Type, Authorization", "Access-Control-Allow-Methods": "GET, POST, OPTIONS", "Vary": "Origin" };
+  return { "Access-Control-Allow-Origin": SITE_ORIGIN, "Access-Control-Allow-Headers": "Content-Type, Authorization", "Access-Control-Allow-Methods": "GET, POST, OPTIONS", "Vary": "Origin" };
 }
 
 function json(data, init = {}) {
