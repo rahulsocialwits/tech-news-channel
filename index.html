@@ -22,7 +22,7 @@
       <a href="#software">Software</a>
       <a href="#startups">Startups</a>
     </nav>
-    <button class="search-btn" id="searchToggle" aria-label="Search">⌕</button>
+    <div class="header-tools"><button class="search-btn" id="searchToggle" aria-label="Search">⌕</button><button class="menu-btn" id="menuToggle" aria-label="Open menu">☰</button></div>
   </div>
 </header>
 
@@ -68,11 +68,11 @@
 
 <section class="newsletter wrap" id="newsletter">
   <div><div class="eyebrow">THE DAILY BRIEFING</div><h2>Important tech news. Without the noise.</h2><p>A clean daily digest of the stories worth knowing.</p></div>
-  <form onsubmit="return false"><input type="email" placeholder="Your email address" aria-label="Email"><button class="btn">Subscribe</button></form>
+  <form id="subscribeForm"><input id="subscriberName" type="text" placeholder="Your name" aria-label="Name"><input id="subscriberEmail" type="email" placeholder="Your email address" aria-label="Email" required><button class="btn" id="subscribeButton" type="submit">Subscribe</button><small id="subscribeStatus" class="subscribe-status"></small></form>
 </section>
 </main>
 
-<footer>
+<footer><div class="footer-top wrap"><div><div class="eyebrow">TECHPULSE</div><h3>Technology, clearly explained.</h3><p>Original coverage of AI, software, gadgets, cloud and startups.</p></div><div class="footer-social"><a href="#newsletter">Newsletter</a><a href="#latest">Latest News</a><a href="#ai">AI</a><a href="#software">Software</a></div></div>
   <div class="wrap footer-grid">
     <div><a class="brand" href="index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a><p>Independent technology news, explained clearly.</p></div>
     <div><b>Sections</b><a href="#ai">AI</a><a href="#gadgets">Gadgets</a><a href="#software">Software</a></div>
