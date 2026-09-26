@@ -338,6 +338,23 @@ async function updateArticle(env, articleId, updates) {
   await githubPut(env, "data/articles.json", JSON.stringify(articles, null, 2) + "\n", "Update edited TechPulse article", file.sha);
   return next;
 }
+async function createManualArticle(env, input) {
+  const title = String(input.title || "").trim();
+  const description = String(input.description || "").trim();
+  const content = String(input.content || "").trim();
+  const category = String(input.category || "Technology").trim();
+  const feature_image = String(input.feature_image || "").trim();
+  if (!title) throw new Error("Title is required.");
+  if (!content) throw new Error("Article content is required.");
+  const article = {
+    title, description, content, category,
+    labels: Array.isArray(input.labels) ? input.labels : [],
+    source_urls: Array.isArray(input.source_urls) ? input.source_urls : [],
+    feature_image
+  };
+  return publishArticle(env, article);
+}
+
 async function publishArticle(env, article) {
   const { file, articles } = await getArticlesIndex(env);
   const sourceUrls = Array.isArray(article.source_urls) ? article.source_urls.filter(Boolean) : [];
@@ -462,6 +479,40 @@ export default {
       const subscriberCount = await env.DB.prepare("SELECT COUNT(*) AS count FROM subscribers").first();
       const logs = await env.DB.prepare("SELECT run_type, status, article_id, message, created_at FROM automation_logs ORDER BY id DESC LIMIT 10").all();
       return json({ ok: true, subscribers: Number(subscriberCount?.count || 0), automation_logs: logs.results || [] });
+    }
+
+    if (url.pathname === "/subscribe" && request.method === "POST") {
+      try {
+        const body = await request.json();
+        const name = String(body.name || "Subscriber").trim().slice(0, 120);
+        const email = String(body.email || "").trim().toLowerCase().slice(0, 254);
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json({ ok: false, error: "Please enter a valid email address." }, { status: 400 });
+        if (!env.DB) return json({ ok: false, error: "Subscriber database is unavailable." }, { status: 500 });
+        await env.DB.prepare("INSERT INTO subscribers (name, email, status) VALUES (?, ?, 'active') ON CONFLICT(email) DO UPDATE SET name = excluded.name, status = 'active'").bind(name || "Subscriber", email).run();
+        return json({ ok: true, message: "You're subscribed to TechPulse." });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 400 });
+      }
+    }
+
+    if (url.pathname === "/admin/subscribers" && request.method === "GET") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      const rows = await env.DB.prepare("SELECT id, name, email, status, created_at FROM subscribers ORDER BY id DESC LIMIT 500").all();
+      return json({ ok: true, subscribers: rows.results || [] });
+    }
+
+    if (url.pathname === "/admin/create-article" && request.method === "POST") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      try {
+        const body = await request.json();
+        const result = await createManualArticle(env, body);
+        if (env.DB) await env.DB.prepare("INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)").bind("manual_create", result.published ? "published" : "failed", result.id || null, result.title || "").run();
+        return json({ ok: true, ...result });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 500 });
+      }
     }
 
     if (url.pathname === "/admin/article" && request.method === "POST") {
