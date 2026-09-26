@@ -339,7 +339,7 @@ async function updateArticle(env, articleId, updates) {
   return next;
 }
 async function publishArticle(env, article) {
-  const { file, articles } = await getArticlesIndex();
+  const { file, articles } = await getArticlesIndex(env);
   const sourceUrls = Array.isArray(article.source_urls) ? article.source_urls.filter(Boolean) : [];
 
   const duplicate = articles.find(existing =>
