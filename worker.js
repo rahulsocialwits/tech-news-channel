@@ -97,15 +97,7 @@ Using ONLY the supplied source items, identify ONE timely technology story worth
 
 Write a completely original article. Do not copy sentences from the sources. Do not invent facts, quotes, numbers, product details, dates, or claims. If a detail is not supported by the supplied sources, omit it.
 
-Return ONLY valid JSON:
-{
-  "title": "SEO-friendly headline",
-  "description": "150-160 character summary",
-  "category": "AI | Cloud | Gadgets | Software | Startups | Technology",
-  "labels": ["Technology", "AI"],
-  "content": "<p>...</p><h2>...</h2>...",
-  "source_urls": ["https://..."]
-}
+Return the article fields required by the response schema. Do not add extra fields.
 
 Article requirements:
 - 700-1100 words where the source material supports it.
@@ -136,7 +128,7 @@ ${JSON.stringify(stories)}`;
       temperature: 0.3,
       max_completion_tokens: 6500,
       reasoning_effort: "low",
-      reasoning_format: "hidden",
+      include_reasoning: false,
       response_format: {
         type: "json_schema",
         json_schema: {
