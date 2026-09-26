@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TechPulse Admin</title><link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+<div class="logo"><b>T</b> Tech<span>Pulse</span></div>
+<div class="admin-label">ADMIN PANEL</div>
+<nav>
+<a class="active" href="#overview">📊 Overview</a><a href="#news">📰 News</a><a href="#drafts">📝 Drafts</a><a href="#published">✅ Published</a><a href="#categories">📂 Categories</a><a href="#sources">🌐 Sources</a><a href="#subscribers">👥 Subscribers</a><a href="#ai">🤖 AI Settings</a><a href="#seo">🔍 SEO</a><a href="#settings">⚙️ Site Settings</a>
+</nav>
+<a class="site-link" href="../index.html">↗ View Website</a>
+</aside>
+<main class="main">
+<header><button id="menu">☰</button><div><div class="kicker">TECHPULSE</div><h1 id="pageTitle">Overview</h1></div><div class="header-actions"><span class="status">● Automation active</span></div></header>
+<section id="overview" class="page active">
+<div class="hero"><div><span class="badge">NEWS ENGINE</span><h2>Good evening, Admin 👋</h2><p>Your technology newsroom is connected to RSS, Groq and GitHub.</p></div><div class="next">NEXT RUN<strong>5:00 PM</strong><small>Daily · IST</small></div></div>
+<div class="cards"><div class="card"><span>📰</span><b id="total">—</b><small>Total Articles</small></div><div class="card"><span>⚡</span><b>2</b><small>Runs / Day</small></div><div class="card"><span>🌐</span><b>9</b><small>News Sources</small></div><div class="card"><span>👥</span><b>—</b><small>Subscribers</small></div></div>
+<div class="grid2"><div class="panel"><div class="panel-head"><h3>Automation</h3><span class="live">LIVE</span></div><div class="timeline"><div><b>5:00 PM IST</b><span>Daily technology news publication</span></div><div><b>12:30 AM IST</b><span>Night technology news publication</span></div></div></div><div class="panel"><div class="panel-head"><h3>Quick Actions</h3></div><div class="actions"><button onclick="location.hash='news'">📰 View News</button><button onclick="location.hash='sources'">🌐 Manage Sources</button><button onclick="location.hash='subscribers'">👥 Subscribers</button></div></div></div>
+</section>
+<section id="news" class="page"><div class="section-head"><div><h2>News</h2><p>Stories collected from connected RSS sources.</p></div><button class="primary" id="refresh">↻ Refresh Feed</button></div><div id="newsList" class="list"></div></section>
+<section id="drafts" class="page"><div class="section-head"><div><h2>Drafts</h2><p>AI-generated stories awaiting review.</p></div></div><div class="empty">📝<b>No drafts yet</b><span>Draft management will connect to the Worker database.</span></div></section>
+<section id="published" class="page"><div class="section-head"><div><h2>Published</h2><p>Articles currently published on TechPulse.</p></div></div><div id="publishedList" class="list"></div></section>
+<section id="categories" class="page"><div class="section-head"><div><h2>Categories</h2><p>Organize your technology coverage.</p></div></div><div class="chips"><span>AI</span><span>Cloud</span><span>Gadgets</span><span>Software</span><span>Startups</span><span>Technology</span></div></section>
+<section id="sources" class="page"><div class="section-head"><div><h2>Sources</h2><p>Connected RSS feeds.</p></div></div><div id="sourcesList" class="source-grid"></div></section>
+<section id="subscribers" class="page"><div class="section-head"><div><h2>Subscribers</h2><p>Private newsletter subscriber management.</p></div></div><div class="empty">👥<b>Subscriber database not connected yet</b><span>Subscribers will be stored privately in the backend, never in the public GitHub repository.</span></div></section>
+<section id="ai" class="page"><div class="section-head"><div><h2>AI Settings</h2><p>Current article generation configuration.</p></div></div><div class="settings"><label>Model<input value="openai/gpt-oss-20b" disabled></label><label>Article length<input value="700–1100 words" disabled></label><label>Temperature<input value="0.3" disabled></label></div></section>
+<section id="seo" class="page"><div class="section-head"><div><h2>SEO</h2><p>Search visibility settings.</p></div></div><div class="settings"><label>Site URL<input value="https://rahulsocialwits.github.io/tech-news-channel/" disabled></label><label>Sitemap<input value="/sitemap.xml" disabled></label></div></section>
+<section id="settings" class="page"><div class="section-head"><div><h2>Site Settings</h2><p>Core TechPulse configuration.</p></div></div><div class="settings"><label>Admin email<input value="rahulsocialwits@gmail.com" disabled></label><label>Publishing schedule<input value="5:00 PM + 12:30 AM IST" disabled></label></div></section>
+</main></div><script src="admin.js"></script>
+</body></html>
