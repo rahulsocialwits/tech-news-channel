@@ -153,6 +153,47 @@ ${JSON.stringify(stories)}`;
   return article;
 }
 
+const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
+const SESSION_TTL_SECONDS = 60 * 60 * 24;
+
+function corsHeaders() {
+  return { "Access-Control-Allow-Origin": SITE_URL, "Access-Control-Allow-Headers": "Content-Type, Authorization", "Access-Control-Allow-Methods": "GET, POST, OPTIONS", "Vary": "Origin" };
+}
+
+function json(data, init = {}) {
+  return Response.json(data, { ...init, headers: { ...corsHeaders(), ...(init.headers || {}) } });
+}
+
+async function sha256(value) {
+  const bytes = new TextEncoder().encode(value);
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)].map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+async function createAdminSession(env) {
+  if (!env.DB) throw new Error("D1 binding DB is missing.");
+  const token = crypto.randomUUID() + "-" + crypto.randomUUID();
+  const tokenHash = await sha256(token);
+  const expiresAt = new Date(Date.now() + SESSION_TTL_SECONDS * 1000).toISOString();
+  await env.DB.prepare("INSERT INTO admin_sessions (token_hash, expires_at) VALUES (?, ?)").bind(tokenHash, expiresAt).run();
+  return { token, expiresAt };
+}
+
+async function requireAdmin(request, env) {
+  if (!env.DB) return { ok: false, error: "D1 binding DB is missing." };
+  const header = request.headers.get("Authorization") || "";
+  if (!header.startsWith("Bearer ")) return { ok: false, error: "Unauthorized" };
+  const token = header.slice(7).trim();
+  if (!token) return { ok: false, error: "Unauthorized" };
+  const tokenHash = await sha256(token);
+  const row = await env.DB.prepare("SELECT id, expires_at FROM admin_sessions WHERE token_hash = ?").bind(tokenHash).first();
+  if (!row) return { ok: false, error: "Unauthorized" };
+  if (new Date(row.expires_at).getTime() <= Date.now()) {
+    await env.DB.prepare("DELETE FROM admin_sessions WHERE id = ?").bind(row.id).run();
+    return { ok: false, error: "Session expired" };
+  }
+  return { ok: true, sessionId: row.id };
+}
 function githubHeaders(env) {
   if (!env.GITHUB_TOKEN) throw new Error("GITHUB_TOKEN secret is missing.");
   return {
@@ -344,33 +385,57 @@ async function runNewsJob(env) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: corsHeaders() });
+    if (url.pathname === "/health") return json({ ok: true, service: "TechPulse News Engine" });
 
-    if (url.pathname === "/health") {
-      return Response.json({ ok: true, service: "TechPulse News Engine" });
+    if (url.pathname === "/admin/login" && request.method === "POST") {
+      try {
+        const body = await request.json();
+        const email = String(body.email || "").trim().toLowerCase();
+        const password = String(body.password || "");
+        if (!env.ADMIN_TOKEN) return json({ ok: false, error: "Admin secret is not configured." }, { status: 500 });
+        if (email !== ADMIN_EMAIL.toLowerCase() || password !== env.ADMIN_TOKEN) return json({ ok: false, error: "Invalid email or password." }, { status: 401 });
+        const session = await createAdminSession(env);
+        return json({ ok: true, token: session.token, expires_at: session.expiresAt, email: ADMIN_EMAIL });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 400 });
+      }
+    }
+
+    if (url.pathname === "/admin/me" && request.method === "GET") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      return json({ ok: true, email: ADMIN_EMAIL });
+    }
+
+    if (url.pathname === "/admin/logout" && request.method === "POST") {
+      const auth = await requireAdmin(request, env);
+      if (auth.ok) await env.DB.prepare("DELETE FROM admin_sessions WHERE id = ?").bind(auth.sessionId).run();
+      return json({ ok: true });
+    }
+
+    if (url.pathname === "/admin/stats" && request.method === "GET") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      const subscriberCount = await env.DB.prepare("SELECT COUNT(*) AS count FROM subscribers").first();
+      const logs = await env.DB.prepare("SELECT run_type, status, article_id, message, created_at FROM automation_logs ORDER BY id DESC LIMIT 10").all();
+      return json({ ok: true, subscribers: Number(subscriberCount?.count || 0), automation_logs: logs.results || [] });
     }
 
     if (url.pathname === "/test-news") {
       const auth = request.headers.get("Authorization") || "";
       const expected = env.ADMIN_TOKEN ? "Bearer " + env.ADMIN_TOKEN : "";
-      if (!env.ADMIN_TOKEN || auth !== expected) {
-        return Response.json({ ok: false, error: "Unauthorized" }, { status: 401 });
-      }
-
+      if (!env.ADMIN_TOKEN || auth !== expected) return json({ ok: false, error: "Unauthorized" }, { status: 401 });
       try {
         const result = await runNewsJob(env);
-        return Response.json({ ok: true, ...result });
+        return json({ ok: true, ...result });
       } catch (error) {
-        return Response.json({ ok: false, error: error.message }, { status: 500 });
+        return json({ ok: false, error: error.message }, { status: 500 });
       }
     }
 
-    return Response.json({
-      ok: true,
-      service: "TechPulse News Engine",
-      endpoints: ["/health", "/test-news"]
-    });
+    return json({ ok: true, service: "TechPulse News Engine", endpoints: ["/health", "/admin/login", "/admin/me", "/admin/logout", "/admin/stats", "/test-news"] });
   },
-
   async scheduled(controller, env, ctx) {
     ctx.waitUntil((async () => {
       try {
