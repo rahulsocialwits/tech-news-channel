@@ -273,6 +273,7 @@ function buildArticleHtml(article, date, pagePath) {
   const title = escapeHtml(article.title);
   const description = escapeHtml(article.description || "");
   const category = escapeHtml(article.category || "Technology");
+  const image = escapeHtml(article.feature_image || "");
   const body = article.content || "";
   const sources = Array.isArray(article.source_urls) ? article.source_urls : [];
 
@@ -290,6 +291,7 @@ function buildArticleHtml(article, date, pagePath) {
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${title} | TechPulse</title>
 <meta name="description" content="${description}">
+${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
 <link rel="stylesheet" href="../assets/css/style.css">
 </head>
@@ -305,6 +307,7 @@ function buildArticleHtml(article, date, pagePath) {
 <div class="eyebrow">${category} • NEWS</div>
 <h1>${title}</h1>
 <div class="meta">${escapeHtml(date)} · ${escapeHtml(readTime(body))}</div>
+${image ? '<img class="article-feature-image" src="' + image + '" alt="' + title + '" width="1000" height="600" loading="eager">': ""}
 <div class="article-lead">${description}</div>
 <div class="article-content">${body}</div>
 ${sourceLinks}
@@ -321,6 +324,20 @@ function buildSitemap(existingXml, pagePath) {
   return existingXml.replace("</urlset>", `<url><loc>${loc}</loc></url></urlset>`);
 }
 
+async function updateArticle(env, articleId, updates) {
+  const { file, articles } = await getArticlesIndex(env);
+  const index = articles.findIndex(x => x.id === articleId);
+  if (index < 0) throw new Error("Article not found.");
+  const current = articles[index];
+  const next = { ...current, title: String(updates.title || current.title).trim(), description: String(updates.description ?? current.description ?? "").trim(), excerpt: String(updates.description ?? current.excerpt ?? current.description ?? "").trim(), category: String(updates.category || current.category || "Technology").trim(), labels: Array.isArray(updates.labels) ? updates.labels : (current.labels || []), feature_image: String(updates.feature_image ?? current.feature_image ?? "").trim() };
+  if (!next.title) throw new Error("Title is required.");
+  if (!next.page) throw new Error("Article page is missing.");
+  const html = buildArticleHtml({ ...next, content: String(updates.content ?? "") }, next.date || isoDate(), next.page);
+  await githubPut(env, next.page, html, "Edit TechPulse article: " + next.title);
+  articles[index] = next;
+  await githubPut(env, "data/articles.json", JSON.stringify(articles, null, 2) + "\n", "Update edited TechPulse article", file.sha);
+  return next;
+}
 async function publishArticle(env, article) {
   const { file, articles } = await getArticlesIndex();
   const sourceUrls = Array.isArray(article.source_urls) ? article.source_urls.filter(Boolean) : [];
@@ -344,6 +361,7 @@ async function publishArticle(env, article) {
     description: article.description || "",
     category: article.category || "Technology",
     labels: Array.isArray(article.labels) ? article.labels : [],
+    feature_image: article.feature_image || "",
     date,
     readTime: readTime(article.content || ""),
     excerpt: article.description || "",
@@ -446,6 +464,19 @@ export default {
       return json({ ok: true, subscribers: Number(subscriberCount?.count || 0), automation_logs: logs.results || [] });
     }
 
+    if (url.pathname === "/admin/article" && request.method === "POST") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      try {
+        const body = await request.json();
+        const articleId = String(body.id || "").trim();
+        if (!articleId) return json({ ok: false, error: "Article ID is required." }, { status: 400 });
+        const result = await updateArticle(env, articleId, body);
+        return json({ ok: true, article: result });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 500 });
+      }
+    }
     if (url.pathname === "/test-news" && request.method === "POST") {
       let auth = await requireAdmin(request, env);
 
