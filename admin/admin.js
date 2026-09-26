@@ -9,6 +9,36 @@ function renderSources(){document.getElementById("sourcesList").innerHTML=source
 async function loadStats(){try{const data=await api("/admin/stats");const el=document.querySelector("#subscribers .empty");if(el)el.innerHTML="👥<b>"+data.subscribers+" active subscribers</b><span>Subscriber database is connected privately to Cloudflare D1.</span>"}catch(e){}}
 async function loadPublished(){try{const r=await fetch("../data/articles.json",{cache:"no-store"});const data=await r.json();document.getElementById("total").textContent=data.length;document.getElementById("publishedList").innerHTML=data.map(x=>'<div class="item"><small>'+x.date+' · '+x.category+'</small><h3>'+escapeHtml(x.title)+'</h3><a href="../'+escapeHtml(x.page)+'" target="_blank">View article →</a></div>').join("");document.getElementById("newsList").innerHTML=data.slice(0,10).map(x=>'<div class="item"><small>'+x.date+' · '+x.category+'</small><h3>'+escapeHtml(x.title)+'</h3><a href="../'+escapeHtml(x.page)+'" target="_blank">Open →</a></div>').join("")}catch(e){}}
 function escapeHtml(v){return String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
+
+async function publishTestNews(){
+  const button=document.getElementById("testNews");
+  const status=document.getElementById("testNewsStatus");
+  if(!button||!status)return;
+  button.disabled=true;
+  button.textContent="⏳ Publishing...";
+  status.className="action-status loading";
+  status.textContent="Fetching RSS sources and generating the article with Groq…";
+  try{
+    const data=await api("/test-news",{method:"POST"});
+    if(data.published){
+      status.className="action-status success";
+      status.innerHTML="✅ Published: <b>"+escapeHtml(data.title)+"</b>";
+    }else if(data.duplicate){
+      status.className="action-status warning";
+      status.textContent="⚠️ Duplicate article skipped. Existing ID: "+data.existing_id;
+    }else{
+      status.className="action-status success";
+      status.textContent="✅ Test completed.";
+    }
+    await loadPublished();
+  }catch(error){
+    status.className="action-status error";
+    status.textContent="❌ "+error.message;
+  }finally{
+    button.disabled=false;
+    button.textContent="🚀 Publish Test News";
+  }
+}
 function route(){const id=location.hash.slice(1)||"overview";document.querySelectorAll(".page").forEach(p=>p.classList.toggle("active",p.id===id));document.querySelectorAll("nav a").forEach(a=>a.classList.toggle("active",a.getAttribute("href")==="#"+id));const link=document.querySelector('nav a[href="#'+id+'"]');document.getElementById("pageTitle").textContent=link?link.textContent.replace(/^\S+\s/,""):id;document.querySelector(".sidebar")?.classList.remove("open")}
 async function boot(){const ok=await checkAuth();if(!ok)return;renderSources();await Promise.all([loadPublished(),loadStats()]);route()}
-document.addEventListener("DOMContentLoaded",()=>{document.getElementById("loginForm").addEventListener("submit",async e=>{e.preventDefault();const error=document.getElementById("loginError");error.textContent="Signing in...";try{const data=await fetch(WORKER_URL+"/admin/login",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:document.getElementById("loginEmail").value,password:document.getElementById("loginPassword").value})});const result=await data.json();if(!data.ok)throw new Error(result.error||"Login failed");sessionStorage.setItem("techpulse_admin_session",result.token);document.getElementById("loginPassword").value="";error.textContent="";await boot()}catch(err){error.textContent=err.message}});document.getElementById("menu").onclick=()=>document.querySelector(".sidebar").classList.toggle("open");document.getElementById("refresh").onclick=loadPublished;document.getElementById("logout").onclick=async()=>{try{await api("/admin/logout",{method:"POST"})}catch(e){}sessionStorage.removeItem("techpulse_admin_session");showLogin(true)};window.addEventListener("hashchange",route);boot()});
+document.addEventListener("DOMContentLoaded",()=>{document.getElementById("loginForm").addEventListener("submit",async e=>{e.preventDefault();const error=document.getElementById("loginError");error.textContent="Signing in...";try{const data=await fetch(WORKER_URL+"/admin/login",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:document.getElementById("loginEmail").value,password:document.getElementById("loginPassword").value})});const result=await data.json();if(!data.ok)throw new Error(result.error||"Login failed");sessionStorage.setItem("techpulse_admin_session",result.token);document.getElementById("loginPassword").value="";error.textContent="";await boot()}catch(err){error.textContent=err.message}});document.getElementById("menu").onclick=()=>document.querySelector(".sidebar").classList.toggle("open");document.getElementById("refresh").onclick=loadPublished;document.getElementById("testNews").onclick=publishTestNews;document.getElementById("logout").onclick=async()=>{try{await api("/admin/logout",{method:"POST"})}catch(e){}sessionStorage.removeItem("techpulse_admin_session");showLogin(true)};window.addEventListener("hashchange",route);boot()});
