@@ -358,7 +358,9 @@ async function updateArticle(env, articleId, updates) {
   if (!next.title) throw new Error("Title is required.");
   if (!next.page) throw new Error("Article page is missing.");
   const html = buildArticleHtml({ ...next, content: String(updates.content ?? "") }, next.date || isoDate(), next.page);
-  await githubPut(env, next.page, html, "Edit TechPulse article: " + next.title);
+  // The article page already exists when editing. GitHub requires its current blob SHA.
+  const existingArticleFile = await githubGet(env, next.page);
+  await githubPut(env, next.page, html, "Edit TechPulse article: " + next.title, existingArticleFile.sha);
   articles[index] = next;
   await githubPut(env, "data/articles.json", JSON.stringify(articles, null, 2) + "\n", "Update edited TechPulse article", file.sha);
   return next;
