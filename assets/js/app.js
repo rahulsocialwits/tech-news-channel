@@ -58,9 +58,9 @@ function renderHome(items){
   }
 
   grid.innerHTML = items.map((item,index)=>{
-    const artClass = item.category==="AI" ? "ai-art" : item.category==="Cloud" ? "blue-art" : "orange-art";
+    const artClass = item.category==="AI" ? "ai-art" : item.category==="Cloud" ? "blue-art" : "orange-art"; const image = item.feature_image ? '<img src="'+escapeHtml(item.feature_image)+'" alt="" loading="lazy">':"";
     return '<article class="story '+(index===0?'featured':'')+'">'+
-      '<a href="'+escapeHtml(item.page)+'"><div class="story-art '+artClass+'"><span>'+escapeHtml(item.category)+'</span></div></a>'+
+      '<a href="'+escapeHtml(item.page)+'"><div class="story-art '+artClass+(item.feature_image?" has-image":"")+'">'+image+'<span>'+escapeHtml(item.category)+'</span></div></a>'+
       '<div class="story-body"><span class="tag">'+escapeHtml(item.category)+'</span>'+
       '<h3><a href="'+escapeHtml(item.page)+'">'+escapeHtml(item.title)+'</a></h3>'+
       '<p>'+escapeHtml(item.excerpt)+'</p><div class="meta">'+escapeHtml(item.date)+' · '+escapeHtml(item.readTime)+'</div></div></article>';
