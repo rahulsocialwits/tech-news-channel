@@ -423,14 +423,39 @@ export default {
       return json({ ok: true, subscribers: Number(subscriberCount?.count || 0), automation_logs: logs.results || [] });
     }
 
-    if (url.pathname === "/test-news") {
-      const auth = request.headers.get("Authorization") || "";
-      const expected = env.ADMIN_TOKEN ? "Bearer " + env.ADMIN_TOKEN : "";
-      if (!env.ADMIN_TOKEN || auth !== expected) return json({ ok: false, error: "Unauthorized" }, { status: 401 });
+    if (url.pathname === "/test-news" && request.method === "POST") {
+      let auth = await requireAdmin(request, env);
+
+      // Backward compatibility for direct testing with the raw ADMIN_TOKEN.
+      if (!auth.ok) {
+        const header = request.headers.get("Authorization") || "";
+        const expected = env.ADMIN_TOKEN ? "Bearer " + env.ADMIN_TOKEN : "";
+        if (expected && header === expected) auth = { ok: true, sessionId: null };
+      }
+
+      if (!auth.ok) return json({ ok: false, error: auth.error || "Unauthorized" }, { status: 401 });
+
       try {
         const result = await runNewsJob(env);
+        if (env.DB) {
+          await env.DB.prepare(
+            "INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)"
+          ).bind(
+            "manual_test",
+            result.published ? "published" : (result.duplicate ? "duplicate" : "completed"),
+            result.id || result.existing_id || null,
+            result.published ? result.title : (result.duplicate ? "Duplicate article skipped" : "Test completed")
+          ).run();
+        }
         return json({ ok: true, ...result });
       } catch (error) {
+        if (env.DB) {
+          try {
+            await env.DB.prepare(
+              "INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)"
+            ).bind("manual_test", "failed", null, error.message.slice(0, 500)).run();
+          } catch (logError) {}
+        }
         return json({ ok: false, error: error.message }, { status: 500 });
       }
     }
