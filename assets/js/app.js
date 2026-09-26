@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const b=document.getElementById("searchToggle");if(b)b.addEventListener("click",()=>{const q=prompt("Search TechPulse");if(q)alert("Search index integration will be connected to the article data feed: "+q)})});
