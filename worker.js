@@ -218,7 +218,7 @@ async function requireAdmin(request, env) {
   return { ok: true, sessionId: row.id };
 }
 function githubHeaders(env) {
-  if (!env.GITHUB_TOKEN) throw new Error("GITHUB_TOKEN secret is missing.");
+  if (!env || !env.GITHUB_TOKEN) throw new Error("GITHUB_TOKEN secret is missing or Worker environment is unavailable.");
   return {
     "Authorization": "Bearer " + env.GITHUB_TOKEN,
     "Accept": "application/vnd.github+json",
@@ -389,6 +389,7 @@ async function publishArticle(env, article) {
 }
 
 async function runNewsJob(env) {
+  if (!env) throw new Error("Worker environment is unavailable.");
   const allStories = await collectNews();
   const stories = allStories.slice(0, 12);
   if (!stories.length) throw new Error("No RSS stories were found.");
