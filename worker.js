@@ -306,13 +306,14 @@ function buildArticleHtml(article, date, pagePath) {
 <meta name="description" content="${description}">
 ${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
-<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="stylesheet" href="../assets/css/style.css?v=20260927-3">
 </head>
 <body>
 <header class="site-header">
 <div class="wrap nav">
 <a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a>
-<nav><a href="../index.html">Home</a><a href="../index.html#latest">Latest</a><a href="../index.html#ai">AI</a><a href="../index.html#software">Software</a></nav>
+<nav><a href="../index.html">Home</a><a href="../index.html#latest">Latest</a><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></nav>
+<div class="header-tools"><button class="search-btn" id="searchToggle" aria-label="Search">⌕</button><button class="menu-btn" id="menuToggle" aria-label="Open menu">☰</button></div>
 </div>
 </header>
 <main>
@@ -327,6 +328,7 @@ ${sourceLinks}
 </article>
 </main>
 <footer><div class="wrap copyright">© 2026 TechPulse. <a href="../index.html">Back to homepage</a></div></footer>
+<script src="../assets/js/app.js?v=20260927-3"></script>
 </body>
 </html>`;
 }
