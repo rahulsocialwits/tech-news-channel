@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chatgpt",
+    "title": "What Is ChatGPT? How OpenAI's AI Assistant Works",
+    "category": "AI",
+    "date": "2026-09-26",
+    "readTime": "6 min read",
+    "excerpt": "A practical introduction to ChatGPT, what it can do, how conversational AI works at a high level, and where users should be careful.",
+    "page": "articles/chatgpt.html"
+  },
+  {
+    "id": "cloud-computing",
+    "title": "What Is Cloud Computing? A Simple Guide to the Cloud",
+    "category": "Cloud",
+    "date": "2026-09-26",
+    "readTime": "5 min read",
+    "excerpt": "Cloud computing lets people and businesses use computing resources over the internet instead of relying only on local hardware.",
+    "page": "articles/cloud-computing.html"
+  },
+  {
+    "id": "deepseek",
+    "title": "What Is DeepSeek? Understanding the AI Model and Company",
+    "category": "AI",
+    "date": "2026-09-26",
+    "readTime": "6 min read",
+    "excerpt": "DeepSeek is an AI company and model family that has drawn attention for its research, language models and approach to efficient AI development.",
+    "page": "articles/deepseek.html"
+  }
+]
