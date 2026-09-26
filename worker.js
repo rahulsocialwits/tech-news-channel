@@ -126,7 +126,7 @@ ${JSON.stringify(stories)}`;
         { role: "user", content: prompt }
       ],
       temperature: 0.3,
-      max_completion_tokens: 6500,
+      max_completion_tokens: 3800,
       reasoning_effort: "low",
       include_reasoning: false,
       response_format: {
@@ -390,7 +390,7 @@ async function publishArticle(env, article) {
 
 async function runNewsJob(env) {
   const allStories = await collectNews();
-  const stories = allStories.slice(0, 40);
+  const stories = allStories.slice(0, 12);
   if (!stories.length) throw new Error("No RSS stories were found.");
 
   const article = await generateArticle(env, stories);
