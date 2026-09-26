@@ -93,100 +93,107 @@ async function generateArticle(env, stories) {
 
   const prompt = `You are the TechPulse technology newsroom.
 
-Using ONLY the supplied source items, identify ONE timely technology story worth publishing today. Prefer a story with clear, recent, concrete information. Cross-check details across supplied sources when possible.
+Using ONLY the supplied source items, select ONE timely technology story worth publishing today.
 
-Write a completely original article. Do not copy sentences from the sources. Do not invent facts, quotes, numbers, product details, dates, or claims. If a detail is not supported by the supplied sources, omit it.
+Write an original 500-700 word technology news article. Do not copy source sentences. Do not invent facts, quotes, numbers, dates, product details or claims. Use only facts supported by the supplied sources. If something is uncertain or unsupported, omit it.
 
-Return the article fields required by the response schema. Do not add extra fields.
+Return ONLY one valid JSON object with EXACTLY these keys:
+{
+  "title": "string",
+  "description": "short factual SEO description",
+  "category": "AI",
+  "labels": ["AI", "Technology"],
+  "content": "<p>...</p><h2>...</h2><p>...</p>",
+  "source_urls": ["https://actual-source-url"]
+}
 
-Article requirements:
-- 500-700 words where the source material supports it.
-- Start with a strong factual introduction.
-- Include sections for what happened, important details, context, impact, and availability/next steps when supported.
-- Use useful H2 headings and paragraphs; lists are allowed when helpful.
-- End with a concise factual takeaway.
-- HTML content must contain only article-body tags such as p, h2, h3, ul, ol, li, strong, em, a.
-- Do not include html, head, body, script, style, markdown fences, or navigation.
-- source_urls must contain the original source URLs actually used.
-- Do not make claims beyond the supplied source items.
+Rules:
+- category must be exactly one of: AI, Cloud, Gadgets, Software, Startups, Technology.
+- labels must be an array of short strings.
+- content must be HTML body fragments only using p, h2, h3, ul, ol, li, strong, em and a.
+- Never include markdown fences, html, head, body, script, style or navigation.
+- source_urls must contain only the original source URLs supplied below and must include the URLs actually used.
+- The JSON must be syntactically valid. Escape quotation marks inside JSON strings.
+- Do not add any other keys.
 
 SOURCE ITEMS:
 ${JSON.stringify(stories)}`;
 
   let response;
   let lastBody = "";
+
   for (let attempt = 0; attempt < 2; attempt++) {
     response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
       method: "POST",
-    headers: {
-      "Authorization": "Bearer " + env.GROQ_API_KEY,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      model: "openai/gpt-oss-20b",
-      messages: [
-        { role: "system", content: "You are a factual technology news editor. Output JSON only." },
-        { role: "user", content: prompt }
-      ],
-      temperature: 0.3,
-      max_completion_tokens: 2600,
-      reasoning_effort: "low",
-      include_reasoning: false,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
-          name: "techpulse_article",
-          strict: true,
-          schema: {
-            type: "object",
-            properties: {
-              title: { type: "string" },
-              description: { type: "string" },
-              category: {
-                type: "string",
-                enum: ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"]
-              },
-              labels: {
-                type: "array",
-                items: { type: "string" }
-              },
-              content: { type: "string" },
-              source_urls: {
-                type: "array",
-                items: { type: "string" }
-              }
-            },
-            required: ["title", "description", "category", "labels", "content", "source_urls"],
-            additionalProperties: false
-          }
-        }
-      }
-    })
-  });
+      headers: {
+        "Authorization": "Bearer " + env.GROQ_API_KEY,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        model: "openai/gpt-oss-20b",
+        messages: [
+          { role: "user", content: prompt }
+        ],
+        temperature: 0.2,
+        max_completion_tokens: 3200,
+        reasoning_effort: "low",
+        include_reasoning: false,
+        response_format: { type: "json_object" }
+      })
+    });
 
     if (response.ok) break;
+
     lastBody = await response.text();
+
     if (response.status === 429 && attempt === 0) {
       const retryAfter = Number(response.headers.get("Retry-After") || 20);
-      await new Promise(resolve => setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000)));
+      await new Promise(resolve =>
+        setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000))
+      );
       continue;
     }
-    throw new Error("Groq HTTP " + response.status + ": " + lastBody.slice(0, 700));
+
+    throw new Error("Groq HTTP " + response.status + ": " + lastBody.slice(0, 900));
   }
 
   if (!response?.ok) {
-    throw new Error("Groq HTTP 429: " + lastBody.slice(0, 700));
+    throw new Error("Groq request failed: " + lastBody.slice(0, 900));
   }
 
   const data = await response.json();
-  const raw = data.choices?.[0]?.message?.content || "{}";
-  const article = JSON.parse(raw);
+  const raw = data.choices?.[0]?.message?.content || "";
 
-  if (!article.title || !article.content || !Array.isArray(article.source_urls)) {
-    throw new Error("Groq returned an incomplete article.");
+  let article;
+  try {
+    article = JSON.parse(raw);
+  } catch (error) {
+    throw new Error("Groq returned invalid JSON. Please retry the news job.");
   }
 
-  return article;
+  const allowedCategories = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"];
+  const category = allowedCategories.includes(article.category) ? article.category : "Technology";
+  const labels = Array.isArray(article.labels)
+    ? article.labels.map(x => String(x).trim()).filter(Boolean).slice(0, 8)
+    : [];
+  const sourceUrls = Array.isArray(article.source_urls)
+    ? article.source_urls.map(x => String(x).trim()).filter(Boolean)
+    : [];
+  const suppliedUrls = new Set(stories.map(x => x.url));
+  const validSourceUrls = sourceUrls.filter(url => suppliedUrls.has(url));
+
+  if (!article.title || !article.content || !validSourceUrls.length) {
+    throw new Error("Groq returned an incomplete article. No unsupported source URL will be published.");
+  }
+
+  return {
+    title: String(article.title).trim(),
+    description: String(article.description || "").trim().slice(0, 320),
+    category,
+    labels,
+    content: String(article.content).trim(),
+    source_urls: validSourceUrls
+  };
 }
 
 const WORKER_VERSION = "2026-09-27-v4";
