@@ -1,4 +1,4 @@
-name = "techpulse-news-engine"
+name = "tech-news-channel"
 main = "worker.js"
 compatibility_date = "2026-09-26"
 
