@@ -5,7 +5,7 @@ compatibility_date = "2026-09-26"
 [[d1_databases]]
 binding = "DB"
 database_name = "techpulse-db"
-database_id = "14b321b7-f3f9-494d-ae96-e7def53e1358"
+database_id = "659777d6-de82-4431-9cf9-c99857eb1bde"
 
 [triggers]
 crons = [ "30 11 * * *", "0 19 * * *" ]
