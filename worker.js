@@ -113,8 +113,11 @@ Article requirements:
 SOURCE ITEMS:
 ${JSON.stringify(stories)}`;
 
-  const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
-    method: "POST",
+  let response;
+  let lastBody = "";
+  for (let attempt = 0; attempt < 2; attempt++) {
+    response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+      method: "POST",
     headers: {
       "Authorization": "Bearer " + env.GROQ_API_KEY,
       "Content-Type": "application/json"
@@ -126,7 +129,7 @@ ${JSON.stringify(stories)}`;
         { role: "user", content: prompt }
       ],
       temperature: 0.3,
-      max_completion_tokens: 2800,
+      max_completion_tokens: 2600,
       reasoning_effort: "low",
       include_reasoning: false,
       response_format: {
@@ -161,8 +164,18 @@ ${JSON.stringify(stories)}`;
     })
   });
 
-  if (!response.ok) {
-    throw new Error("Groq HTTP " + response.status + ": " + (await response.text()).slice(0, 500));
+    if (response.ok) break;
+    lastBody = await response.text();
+    if (response.status === 429 && attempt === 0) {
+      const retryAfter = Number(response.headers.get("Retry-After") || 20);
+      await new Promise(resolve => setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000)));
+      continue;
+    }
+    throw new Error("Groq HTTP " + response.status + ": " + lastBody.slice(0, 700));
+  }
+
+  if (!response?.ok) {
+    throw new Error("Groq HTTP 429: " + lastBody.slice(0, 700));
   }
 
   const data = await response.json();
@@ -355,6 +368,19 @@ async function createManualArticle(env, input) {
   return publishArticle(env, article);
 }
 
+async function createDemoArticle(env) {
+  const article = {
+    title: "TechPulse Test Article: How AI Assistants Are Changing Everyday Work",
+    description: "A TechPulse demo article used to test publishing, homepage cards, article pages, feature images and editing without using Groq.",
+    category: "AI",
+    labels: ["AI", "Technology", "Demo"],
+    source_urls: [],
+    feature_image: ""
+  };
+  article.content = "<p>This is a TechPulse demonstration article. It is intentionally created without Groq so the complete publishing pipeline can be tested safely.</p><h2>Why this test exists</h2><p>The demo checks the article index, GitHub publishing, homepage rendering, responsive article layout, editing and sitemap updates.</p><h2>What you can test</h2><ul><li>Open the article from the homepage.</li><li>Check the responsive header and footer.</li><li>Edit the title, description or content from the admin panel.</li><li>Set a 1000 × 600 feature image.</li><li>Refresh the Published section and confirm the updated article.</li></ul><h2>Test status</h2><p>If you can complete these steps, the core TechPulse publishing pipeline is working independently of AI generation.</p>";
+  return publishArticle(env, article);
+}
+
 async function publishArticle(env, article) {
   const { file, articles } = await getArticlesIndex(env);
   const sourceUrls = Array.isArray(article.source_urls) ? article.source_urls.filter(Boolean) : [];
@@ -369,7 +395,7 @@ async function publishArticle(env, article) {
   }
 
   const date = isoDate();
-  const id = slugify(article.title) + "-" + date;
+  const id = slugify(article.title) + "-" + date + (sourceUrls.length ? "" : "-" + Date.now().toString(36));
   const pagePath = "articles/" + id + ".html";
 
   const record = {
@@ -500,6 +526,32 @@ export default {
       if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
       const rows = await env.DB.prepare("SELECT id, name, email, status, created_at FROM subscribers ORDER BY id DESC LIMIT 500").all();
       return json({ ok: true, subscribers: rows.results || [] });
+    }
+
+    if (url.pathname === "/admin/demo-article" && request.method === "POST") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      try {
+        const result = await createDemoArticle(env);
+        if (env.DB) await env.DB.prepare("INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)").bind("demo_test", result.published ? "published" : "duplicate", result.id || null, result.title || "").run();
+        return json({ ok: true, ...result });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 500 });
+      }
+    }
+
+    if (url.pathname === "/admin/subscriber" && request.method === "DELETE") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      try {
+        const body = await request.json();
+        const id = Number(body.id);
+        if (!Number.isInteger(id)) return json({ ok: false, error: "Subscriber ID is required." }, { status: 400 });
+        await env.DB.prepare("DELETE FROM subscribers WHERE id = ?").bind(id).run();
+        return json({ ok: true });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 400 });
+      }
     }
 
     if (url.pathname === "/admin/create-article" && request.method === "POST") {
