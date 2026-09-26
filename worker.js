@@ -189,6 +189,7 @@ ${JSON.stringify(stories)}`;
   return article;
 }
 
+const WORKER_VERSION = "2026-09-27-v4";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
@@ -306,14 +307,14 @@ function buildArticleHtml(article, date, pagePath) {
 <meta name="description" content="${description}">
 ${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
-<link rel="stylesheet" href="../assets/css/style.css?v=20260927-3">
+<link rel="stylesheet" href="../assets/css/style.css?v=20260927-4">
 </head>
 <body>
 <header class="site-header">
 <div class="wrap nav">
 <a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a>
-<nav><a href="../index.html">Home</a><a href="../index.html#latest">Latest</a><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></nav>
-<div class="header-tools"><button class="search-btn" id="searchToggle" aria-label="Search">⌕</button><button class="menu-btn" id="menuToggle" aria-label="Open menu">☰</button></div>
+<nav id="mainNav"><a href="../index.html">Home</a><a href="../index.html#latest">Latest</a><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a><a href="../about.html">About</a><a href="../contact.html">Contact</a></nav>
+<div class="header-tools"><button class="search-btn" id="searchToggle" aria-label="Search TechPulse">⌕</button><button class="menu-btn" id="menuToggle" aria-label="Open menu">☰</button></div>
 </div>
 </header>
 <main>
@@ -327,8 +328,12 @@ ${image ? '<img class="article-feature-image" src="' + image + '" alt="' + title
 ${sourceLinks}
 </article>
 </main>
-<footer><div class="wrap copyright">© 2026 TechPulse. <a href="../index.html">Back to homepage</a></div></footer>
-<script src="../assets/js/app.js?v=20260927-3"></script>
+<section class="article-newsletter"><div class="eyebrow">THE TECHPULSE BRIEFING</div><h2>Get important tech news without the noise.</h2><p>Enter your name and email to receive the TechPulse briefing.</p><form id="subscribeForm"><input id="subscriberName" type="text" placeholder="Your name" aria-label="Name"><input id="subscriberEmail" type="email" placeholder="Your email address" aria-label="Email" required><button class="btn" id="subscribeButton" type="submit">Subscribe</button><small id="subscribeStatus" class="subscribe-status"></small></form></section>
+<div class="article-footer-links"><a href="../index.html#latest">← Back to latest news</a><a href="../contact.html">Contact TechPulse →</a></div>
+</article>
+</main>
+<footer><div class="footer-top wrap"><div><div class="eyebrow">TECHPULSE</div><h3>Technology, clearly explained.</h3><p>Original coverage of AI, software, gadgets, cloud and startups.</p></div><div class="footer-social"><a href="../index.html#newsletter">Newsletter</a><a href="../index.html#latest">Latest News</a><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a></div></div><div class="wrap footer-grid"><div><a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a><p>Independent technology news, explained clearly.</p></div><div><b>Sections</b><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></div><div><b>Company</b><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a><a href="../contact.html#editorial">Editorial Policy</a></div></div><div class="wrap copyright">© 2026 TechPulse. Built for the open web.</div></footer>
+<script src="../assets/js/app.js?v=20260927-4"></script>
 </body>
 </html>`;
 }
@@ -473,7 +478,7 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: corsHeaders() });
-    if (url.pathname === "/health") return json({ ok: true, service: "TechPulse News Engine" });
+    if (url.pathname === "/health") return json({ ok: true, service: "TechPulse News Engine", version: WORKER_VERSION, bindings: { DB: !!env?.DB, GITHUB_TOKEN: !!env?.GITHUB_TOKEN, GROQ_API_KEY: !!env?.GROQ_API_KEY, ADMIN_TOKEN: !!env?.ADMIN_TOKEN } });
 
     if (url.pathname === "/admin/login" && request.method === "POST") {
       try {
@@ -499,6 +504,12 @@ export default {
       const auth = await requireAdmin(request, env);
       if (auth.ok) await env.DB.prepare("DELETE FROM admin_sessions WHERE id = ?").bind(auth.sessionId).run();
       return json({ ok: true });
+    }
+
+    if (url.pathname === "/admin/diagnostics" && request.method === "GET") {
+      const auth = await requireAdmin(request, env);
+      if (!auth.ok) return json({ ok: false, error: auth.error }, { status: 401 });
+      return json({ ok: true, version: WORKER_VERSION, github_token: !!env?.GITHUB_TOKEN, groq_api_key: !!env?.GROQ_API_KEY, admin_token: !!env?.ADMIN_TOKEN, d1: !!env?.DB, time: new Date().toISOString() });
     }
 
     if (url.pathname === "/admin/stats" && request.method === "GET") {
@@ -619,14 +630,26 @@ export default {
       }
     }
 
-    return json({ ok: true, service: "TechPulse News Engine", endpoints: ["/health", "/admin/login", "/admin/me", "/admin/logout", "/admin/stats", "/test-news"] });
+    return json({ ok: true, service: "TechPulse News Engine", version: WORKER_VERSION, endpoints: ["/health", "/admin/login", "/admin/me", "/admin/logout", "/admin/stats", "/admin/diagnostics", "/test-news"] });
   },
   async scheduled(controller, env, ctx) {
     ctx.waitUntil((async () => {
       try {
-        await runNewsJob(env);
+        const result = await runNewsJob(env);
+        if (env.DB) {
+          await env.DB.prepare("INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)")
+            .bind("scheduled", result.published ? "published" : (result.duplicate ? "duplicate" : "completed"), result.id || result.existing_id || null, result.title || "Scheduled run completed")
+            .run();
+        }
       } catch (error) {
         console.error("TechPulse scheduled job failed:", error.message);
+        if (env.DB) {
+          try {
+            await env.DB.prepare("INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)")
+              .bind("scheduled", "failed", null, String(error.message || error).slice(0,500))
+              .run();
+          } catch (_) {}
+        }
       }
     })());
   }
