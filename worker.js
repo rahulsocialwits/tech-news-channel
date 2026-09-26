@@ -135,7 +135,37 @@ ${JSON.stringify(stories)}`;
       ],
       temperature: 0.3,
       max_completion_tokens: 6500,
-      response_format: { type: "json_object" }
+      reasoning_effort: "low",
+      reasoning_format: "hidden",
+      response_format: {
+        type: "json_schema",
+        json_schema: {
+          name: "techpulse_article",
+          strict: true,
+          schema: {
+            type: "object",
+            properties: {
+              title: { type: "string" },
+              description: { type: "string" },
+              category: {
+                type: "string",
+                enum: ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"]
+              },
+              labels: {
+                type: "array",
+                items: { type: "string" }
+              },
+              content: { type: "string" },
+              source_urls: {
+                type: "array",
+                items: { type: "string" }
+              }
+            },
+            required: ["title", "description", "category", "labels", "content", "source_urls"],
+            additionalProperties: false
+          }
+        }
+      }
     })
   });
 
