@@ -326,8 +326,6 @@ ${image ? '<img class="article-feature-image" src="' + image + '" alt="' + title
 <div class="article-lead">${description}</div>
 <div class="article-content">${body}</div>
 ${sourceLinks}
-</article>
-</main>
 <section class="article-newsletter"><div class="eyebrow">THE TECHPULSE BRIEFING</div><h2>Get important tech news without the noise.</h2><p>Enter your name and email to receive the TechPulse briefing.</p><form id="subscribeForm"><input id="subscriberName" type="text" placeholder="Your name" aria-label="Name"><input id="subscriberEmail" type="email" placeholder="Your email address" aria-label="Email" required><button class="btn" id="subscribeButton" type="submit">Subscribe</button><small id="subscribeStatus" class="subscribe-status"></small></form></section>
 <div class="article-footer-links"><a href="../index.html#latest">← Back to latest news</a><a href="../contact.html">Contact TechPulse →</a></div>
 </article>
