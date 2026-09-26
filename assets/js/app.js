@@ -75,8 +75,12 @@ function searchArticles(query){
   document.getElementById("latest")?.scrollIntoView({behavior:"smooth"});
 }
 
+async function subscribe(e){e.preventDefault();const b=document.getElementById("subscribeButton"),s=document.getElementById("subscribeStatus");b.disabled=true;s.className="subscribe-status loading";s.textContent="Subscribing…";try{const r=await fetch("https://tech-news-channel.rahulsocialwits.workers.dev/subscribe",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:document.getElementById("subscriberName").value,email:document.getElementById("subscriberEmail").value})});const d=await r.json();if(!r.ok)throw new Error(d.error||"Subscription failed");s.className="subscribe-status success";s.textContent="✓ "+d.message;document.getElementById("subscribeForm").reset()}catch(e){s.className="subscribe-status error";s.textContent="✕ "+e.message}finally{b.disabled=false}}
+
 document.addEventListener("DOMContentLoaded",()=>{
   loadArticles();
+  const sf=document.getElementById("subscribeForm"); if(sf)sf.addEventListener("submit",subscribe);
+  const mt=document.getElementById("menuToggle"); if(mt)mt.addEventListener("click",()=>document.querySelector(".nav nav")?.classList.toggle("open"));
   const b=document.getElementById("searchToggle");
   if(b)b.addEventListener("click",()=>{
     const q=prompt("Search TechPulse");
