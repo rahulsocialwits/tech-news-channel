@@ -1,3 +1,6 @@
 name = "techpulse-news-engine"
 main = "worker.js"
 compatibility_date = "2026-09-26"
+
+[triggers]
+crons = [ "30 11 * * *" ]
