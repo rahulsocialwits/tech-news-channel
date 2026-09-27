@@ -8,4 +8,4 @@ database_name = "techpulse-db"
 database_id = "659777d6-de82-4431-9cf9-c99857eb1bde"
 
 [triggers]
-crons = [ "30 * * * *" ]
+crons = [ "0 * * * *" ]
