@@ -296,7 +296,7 @@ ${JSON.stringify(recentTitles.slice(0, 20))}`;
     source_urls: []
   };
 }
-const WORKER_VERSION = "2026-09-27-v7";
+const WORKER_VERSION = "2026-09-27-v8";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
