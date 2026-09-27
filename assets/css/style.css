@@ -111,3 +111,5 @@ footer .brand>span:last-child span{color:#ff7a62}
 .market-disclaimer{margin:2px 0 0;font-size:11px;opacity:.55}
 @media(max-width:850px){.market-masonry-grid{columns:3 150px}.market-masonry-head{align-items:start}}
 @media(max-width:560px){.market-masonry{padding-top:18px}.market-masonry-grid{columns:2 140px;column-gap:10px}.market-card{padding:15px;border-radius:15px;min-height:120px;margin-bottom:10px}.market-card-lg,.market-card-wide{min-height:140px}.market-masonry-head{display:block}.market-note{display:block;margin-top:7px}}
+
+.market-price{font-size:22px;font-weight:800;letter-spacing:-.03em;margin-top:12px}.market-status.market-up{background:#eaf7ee;color:#177245}.market-status.market-down{background:#fff0f0;color:#b42318}.market-status:not(.market-up):not(.market-down){color:#667085}
