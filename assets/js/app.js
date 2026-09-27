@@ -172,23 +172,15 @@ document.addEventListener("DOMContentLoaded",()=>{
 });
 
 async function loadMarketData(){
-  const grid=document.querySelector(".market-masonry-grid");
-  if(!grid) return;
+  const grid=document.querySelector(".market-masonry-grid");if(!grid)return;
   const endpoint="https://tech-news-channel.rahulsocialwits.workers.dev/market";
   try{
-    const r=await fetch(endpoint+"?t="+Date.now(),{cache:"no-store"});
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    const data=await r.json();
-    if(!data.ok || !Array.isArray(data.quotes)) throw new Error(data.error||"Market data unavailable");
-    grid.innerHTML=data.quotes.map(q=>{
-      const price=Number(q.price), change=Number(q.change), pct=Number(q.changePercent);
-      const valid=Number.isFinite(price);
-      const up=Number.isFinite(change)?change>=0:true;
-      const cls=valid?(up?"market-up":"market-down"):"market-unavailable";
-      return '<a class="market-card market-card-link" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><span class="market-company">'+q.name+'</span><strong>'+q.symbol+'</strong><small>'+q.sector+'</small><div class="market-price">'+(valid?"$"+price.toFixed(2):"—")+'</div><b class="market-status '+cls+'">'+(Number.isFinite(change)?((up?"+":"")+change.toFixed(2)+" · "+(up?"+":"")+pct.toFixed(2)+"%"):"Quote unavailable")+'</b></a>';
-    }).join("");
-    const note=document.querySelector(".market-note"); if(note) note.textContent="Live market data";
-    const disclaimer=document.querySelector(".market-disclaimer"); if(disclaimer) disclaimer.textContent="Live US stock quotes via Finnhub. Data availability may vary by market hours and provider limits.";
-  }catch(e){ console.warn("TechPulse market data:",e); }
+    const r=await fetch(endpoint+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
+    const data=await r.json();if(!data.ok||!Array.isArray(data.quotes))throw new Error(data.error||"Market data unavailable");
+    const renderQuote=q=>{const price=Number(q.price),change=Number(q.change),pct=Number(q.changePercent),valid=Number.isFinite(price),up=Number.isFinite(change)?change>=0:true,cls=valid?(up?"market-up":"market-down"):"market-unavailable";return '<a class="market-card market-card-link" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><span class="market-company">'+escapeHtml(q.name)+'</span><strong>'+escapeHtml(q.symbol)+'</strong><small>'+escapeHtml(q.sector)+'</small><div class="market-price">'+(valid?"$"+price.toFixed(2):"—")+'</div><b class="market-status '+cls+'">'+(Number.isFinite(change)?((up?"+":"")+change.toFixed(2)+" · "+(up?"+":"")+pct.toFixed(2)+"%"):"Quote unavailable")+'</b><span class="market-ticker-open">View details →</span></a>';};
+    const html=data.quotes.map(renderQuote).join("");grid.innerHTML=html+html;
+    const note=document.querySelector(".market-note");if(note)note.textContent="Live market data";
+    requestAnimationFrame(()=>grid.classList.add("is-loaded"));
+  }catch(e){console.warn("TechPulse market data:",e);grid.innerHTML='<div class="loading-card">Live market data is temporarily unavailable.</div>';}
 }
 document.addEventListener("DOMContentLoaded",loadMarketData);
