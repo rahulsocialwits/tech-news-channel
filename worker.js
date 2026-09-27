@@ -453,7 +453,7 @@ ${sourceLinks}
 <a href="../latest.html"><span>▤</span><span>Latest</span></a>
 <a href="../market.html"><span>▥</span><span>Market</span></a>
 <a href="../category.html"><span>◈</span><span>Category</span></a>
-<a href="../index.html"><span>☰</span><span>Menu</span></a>
+<a href="../contact.html"><span>✉</span><span>Contact</span></a>
 </nav>
 <footer><div class="footer-top wrap"><div><div class="eyebrow">TECHPULSE</div><h3>Technology, clearly explained.</h3><p>Original coverage of AI, software, gadgets, cloud and startups.</p></div><div class="footer-social"><a href="../index.html#newsletter">Newsletter</a><a href="../index.html#latest">Latest News</a><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a></div></div><div class="wrap footer-grid"><div><a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a><p>Independent technology news, explained clearly.</p></div><div><b>Sections</b><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></div><div><b>Company</b><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a><a href="../contact.html#editorial">Editorial Policy</a></div></div><div class="wrap copyright">© 2026 TechPulse. Built for the open web.</div></footer>
 <script src="../assets/js/app.js?v=20260927-8"></script>
