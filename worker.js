@@ -100,7 +100,7 @@ function readTime(content = "") {
 async function generateArticle(env, stories, recentCategories = []) {
   if (!env.GROQ_API_KEY) throw new Error("GROQ_API_KEY secret is missing.");
 
-  const underused = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"]
+  const underused = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Cybersecurity", "Mobile", "Gaming", "Fintech", "Enterprise", "Science", "Technology"]
     .filter(category => !recentCategories.slice(0, 12).includes(category));
 
   const prompt = `You are the TechPulse technology newsroom.
@@ -184,7 +184,7 @@ ${JSON.stringify(stories)}`;
     throw new Error("Groq returned invalid JSON. Please retry the news job.");
   }
 
-  const allowedCategories = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"];
+  const allowedCategories = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Cybersecurity", "Mobile", "Gaming", "Fintech", "Enterprise", "Science", "Technology"];
   const category = allowedCategories.includes(article.category) ? article.category : "Technology";
   const labels = Array.isArray(article.labels)
     ? article.labels.map(x => String(x).trim()).filter(Boolean).slice(0, 8)
@@ -685,13 +685,21 @@ async function runNewsJob(env) {
 
 const MARKET_SYMBOLS = [
   { symbol: "NVDA", name: "NVIDIA", sector: "Semiconductors · AI" },
+  { symbol: "AMD", name: "AMD", sector: "Semiconductors · AI" },
+  { symbol: "INTC", name: "Intel", sector: "Semiconductors" },
+  { symbol: "AVGO", name: "Broadcom", sector: "Semiconductors · Infrastructure" },
   { symbol: "AAPL", name: "Apple", sector: "Consumer Tech" },
   { symbol: "MSFT", name: "Microsoft", sector: "Software · Cloud" },
   { symbol: "GOOGL", name: "Alphabet", sector: "Search · Cloud · AI" },
   { symbol: "AMZN", name: "Amazon", sector: "Cloud · Commerce" },
   { symbol: "META", name: "Meta", sector: "Platforms · AI" },
-  { symbol: "AMD", name: "AMD", sector: "Semiconductors · AI" },
-  { symbol: "TSLA", name: "Tesla", sector: "EV · Technology" }
+  { symbol: "ORCL", name: "Oracle", sector: "Cloud · Enterprise" },
+  { symbol: "CRM", name: "Salesforce", sector: "Software · Cloud" },
+  { symbol: "ADBE", name: "Adobe", sector: "Software · Creative" },
+  { symbol: "NFLX", name: "Netflix", sector: "Streaming · Media" },
+  { symbol: "TSLA", name: "Tesla", sector: "EV · Technology" },
+  { symbol: "PLTR", name: "Palantir", sector: "AI · Data" },
+  { symbol: "UBER", name: "Uber", sector: "Mobility · Technology" }
 ];
 
 async function getMarketQuotes(env) {
