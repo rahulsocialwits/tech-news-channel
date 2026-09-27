@@ -415,6 +415,17 @@ function buildArticleHtml(article, date, pagePath) {
 ${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
 <link rel="stylesheet" href="../assets/css/style.css?v=20260927-5">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<meta property="og:title" content="${title} | TechPulse">
+<meta property="og:description" content="${description}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="TechPulse">
+${image ? '<meta property="og:image" content="' + image + '">' : ""}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${title} | TechPulse">
+<meta name="twitter:description" content="${description}">
+${image ? '<meta name="twitter:image" content="' + image + '">' : ""}
+<script type="application/ld+json">${JSON.stringify({ "@context":"https://schema.org", "@type":"NewsArticle", "mainEntityOfPage":{"@type":"WebPage","@id":SITE_URL+"/"+pagePath}, "headline":article.title, "description":article.description||"", "datePublished":date+"T00:00:00+05:30", "dateModified":date+"T00:00:00+05:30", "author":{"@type":"Organization","name":"TechPulse","url":SITE_URL+"/about.html"}, "publisher":{"@type":"Organization","name":"TechPulse","url":SITE_URL+"/"}, "articleSection":article.category||"Technology", "keywords":Array.isArray(article.labels)?article.labels:[], "isAccessibleForFree":true })}</script>
 </head>
 <body>
 <header class="site-header">
