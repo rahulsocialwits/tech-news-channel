@@ -41,6 +41,66 @@ function renderHome(items){
   }).join("");
 }
 
+async function fetchArticleFeed(){
+  const candidates=[pagePrefix()+"data/articles.json","/tech-news-channel/data/articles.json","data/articles.json"];
+  for(const path of candidates){
+    try{
+      const r=await fetch(path+"?v="+Date.now(),{cache:"no-store"});
+      if(!r.ok) continue;
+      const data=await r.json();
+      if(Array.isArray(data)) return data;
+    }catch(_){}
+  }
+  return FALLBACK_ARTICLES;
+}
+
+async function renderLatestPage(){
+  const grid=document.getElementById("allNewsGrid");
+  if(!grid)return;
+  grid.innerHTML='<div class="loading-card">Loading latest stories…</div>';
+  const items=await fetchArticleFeed();
+  const params=new URLSearchParams(location.search);
+  const cat=(params.get("cat")||"").trim().toLowerCase();
+  const q=(params.get("q")||"").trim().toLowerCase();
+  let filtered=items;
+  if(cat)filtered=filtered.filter(x=>String(x.category||"").toLowerCase()===cat);
+  if(q)filtered=filtered.filter(x=>(String(x.title||"")+" "+String(x.category||"")+" "+String(x.excerpt||x.description||"")+" "+(Array.isArray(x.labels)?x.labels.join(" "):"")).toLowerCase().includes(q));
+  const title=document.getElementById("latestTitle");
+  if(title)title.textContent=cat?(cat.charAt(0).toUpperCase()+cat.slice(1)+" Technology News"):(q?("Search results for “"+q+"”"):"Latest Technology News");
+  if(!filtered.length){grid.innerHTML='<div class="empty-state"><h2>No stories in this section yet</h2><p>Try another category or return to the latest newsroom.</p><a class="btn" href="latest.html">View all latest news</a></div>';return;}
+  grid.innerHTML=filtered.map(x=>{
+    const image=x.feature_image?'<img src="'+escapeHtml(x.feature_image)+'" alt="" loading="lazy" decoding="async">':"";
+    const cls=x.feature_image?"has-image":"ai-art";
+    return '<article class="story"><a href="'+escapeHtml(x.page)+'"><div class="story-art '+cls+'">'+image+'<span>'+escapeHtml(x.category||"Technology")+'</span></div></a><div class="story-body"><span class="tag">'+escapeHtml(x.category||"Technology")+'</span><h3><a href="'+escapeHtml(x.page)+'">'+escapeHtml(x.title)+'</a></h3><p>'+escapeHtml(x.excerpt||x.description||"")+'</p><div class="meta">'+escapeHtml(x.date||"")+" · "+escapeHtml(x.readTime||"")+'</div></div></article>';
+  }).join("");
+}
+
+async function renderCategoryPage(){
+  const grid=document.getElementById("categoryGrid");
+  if(!grid)return;
+  const items=await fetchArticleFeed();
+  const cats=[
+    ["AI","Artificial intelligence, models, agents and AI products."],
+    ["Cloud","Cloud platforms, infrastructure and data services."],
+    ["Gadgets","Phones, laptops, wearables and smart devices."],
+    ["Software","Apps, developer tools and software platforms."],
+    ["Cybersecurity","Security, privacy, breaches and cyber defense."],
+    ["Mobile","Smartphones, mobile apps and wireless technology."],
+    ["Gaming","Games, consoles, PC gaming and interactive technology."],
+    ["Startups","Founders, funding, products and emerging companies."],
+    ["Fintech","Payments, digital finance and financial technology."],
+    ["Enterprise","Business software, IT and enterprise technology."],
+    ["Science","Space, research and technology breakthroughs."],
+    ["Technology","Major technology stories across the industry."]
+  ];
+  grid.innerHTML=cats.map(([name,desc])=>{
+    const count=items.filter(x=>String(x.category||"").toLowerCase()===name.toLowerCase()).length;
+    return '<a class="category-tile" href="latest.html?cat='+encodeURIComponent(name)+'"><div class="category-icon">'+categoryIcon(name)+'</div><div><h2>'+name+'</h2><p>'+desc+'</p><span class="category-count">'+count+' '+(count===1?'story':'stories')+'</span></div></a>';
+  }).join("");
+}
+function categoryIcon(name){
+  return ({AI:"✦",Cloud:"☁",Gadgets:"◉",Software:"▣",Cybersecurity:"⌁",Mobile:"▤",Gaming:"◇",Startups:"↗",Fintech:"₹",Enterprise:"▦",Science:"✧",Technology:"⌘"})[name]||"•";
+}
 function searchArticles(query){
   const q=String(query||"").trim().toLowerCase();
   if(!q){renderHome(articles);return;}
@@ -107,6 +167,8 @@ document.addEventListener("DOMContentLoaded",()=>{
   setupNavigation();
   loadArticles();
   document.getElementById("subscribeForm")?.addEventListener("submit",subscribe);
+  renderLatestPage();
+  renderCategoryPage();
 });
 
 async function loadMarketData(){
