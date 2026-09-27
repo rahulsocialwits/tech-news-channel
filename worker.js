@@ -8,7 +8,8 @@ const FEEDS = [
   { name: "Tom's Hardware", url: "https://www.tomshardware.com/feeds/all" },
   { name: "Android Authority", url: "https://www.androidauthority.com/feed/" },
   { name: "9to5Google", url: "https://9to5google.com/feed/" },
-  { name: "Google News", url: "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en" }
+  { name: "Google News", url: "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en" },
+  { name: "The Hindu Technology", url: "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" }
 ];
 
 const GITHUB_OWNER = "rahulsocialwits";
