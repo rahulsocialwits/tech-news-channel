@@ -296,7 +296,7 @@ ${JSON.stringify(recentTitles.slice(0, 20))}`;
     source_urls: []
   };
 }
-const WORKER_VERSION = "2026-09-27-v6";
+const WORKER_VERSION = "2026-09-27-v7";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
@@ -663,6 +663,46 @@ async function runNewsJob(env) {
     ...result
   };
 }
+
+
+const MARKET_SYMBOLS = [
+  { symbol: "NVDA", name: "NVIDIA", sector: "Semiconductors · AI" },
+  { symbol: "AAPL", name: "Apple", sector: "Consumer Tech" },
+  { symbol: "MSFT", name: "Microsoft", sector: "Software · Cloud" },
+  { symbol: "GOOGL", name: "Alphabet", sector: "Search · Cloud · AI" },
+  { symbol: "AMZN", name: "Amazon", sector: "Cloud · Commerce" },
+  { symbol: "META", name: "Meta", sector: "Platforms · AI" },
+  { symbol: "AMD", name: "AMD", sector: "Semiconductors · AI" },
+  { symbol: "TSLA", name: "Tesla", sector: "EV · Technology" }
+];
+
+async function getMarketQuotes(env) {
+  if (!env.FINNHUB_API_KEY) throw new Error("FINNHUB_API_KEY secret is missing.");
+  const quotes = await Promise.allSettled(MARKET_SYMBOLS.map(async item => {
+    const r = await fetch("https://finnhub.io/api/v1/quote?symbol=" + encodeURIComponent(item.symbol) + "&token=" + encodeURIComponent(env.FINNHUB_API_KEY), {
+      headers: { "User-Agent": "TechPulse-Market/1.0" }
+    });
+    if (!r.ok) throw new Error(item.symbol + " HTTP " + r.status);
+    const q = await r.json();
+    return {
+      symbol: item.symbol,
+      name: item.name,
+      sector: item.sector,
+      price: Number.isFinite(Number(q.c)) ? Number(q.c) : null,
+      change: Number.isFinite(Number(q.d)) ? Number(q.d) : null,
+      changePercent: Number.isFinite(Number(q.dp)) ? Number(q.dp) : null,
+      high: Number.isFinite(Number(q.h)) ? Number(q.h) : null,
+      low: Number.isFinite(Number(q.l)) ? Number(q.l) : null,
+      open: Number.isFinite(Number(q.o)) ? Number(q.o) : null,
+      previousClose: Number.isFinite(Number(q.pc)) ? Number(q.pc) : null,
+      timestamp: q.t ? new Date(Number(q.t) * 1000).toISOString() : null
+    };
+  }));
+  return quotes.map((result, i) => result.status === "fulfilled"
+    ? result.value
+    : { ...MARKET_SYMBOLS[i], price: null, change: null, changePercent: null, high: null, low: null, open: null, previousClose: null, timestamp: null, error: "Quote unavailable" });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -782,6 +822,15 @@ export default {
         return json({ ok: false, error: error.message }, { status: 500 });
       }
     }
+    if (url.pathname === "/market" && request.method === "GET") {
+      try {
+        const quotes = await getMarketQuotes(env);
+        return json({ ok: true, provider: "Finnhub", updated_at: new Date().toISOString(), quotes });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 500 });
+      }
+    }
+
     if (url.pathname === "/test-news" && request.method === "POST") {
       let auth = await requireAdmin(request, env);
 
@@ -819,7 +868,7 @@ export default {
       }
     }
 
-    return json({ ok: true, service: "TechPulse News Engine", version: WORKER_VERSION, endpoints: ["/health", "/admin/login", "/admin/me", "/admin/logout", "/admin/stats", "/admin/diagnostics", "/test-news"] });
+    return json({ ok: true, service: "TechPulse News Engine", version: WORKER_VERSION, endpoints: ["/health", "/admin/login", "/admin/me", "/admin/logout", "/admin/stats", "/admin/diagnostics", "/market", "/test-news"] });
   },
   async scheduled(controller, env, ctx) {
     ctx.waitUntil((async () => {
