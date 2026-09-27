@@ -37,8 +37,29 @@ async function loadArticles(){
   }catch(e){}
 }
 
-function renderTopNews(items){const box=document.getElementById("topNewsGrid");if(!box)return;const top=(items||[]).slice(0,6);if(!top.length){box.innerHTML="<div class=\"loading-card\">No top stories available right now.</div>";return;}box.innerHTML=top.map((item,index)=>{const image=item.feature_image?'<img src="'+escapeHtml(item.feature_image)+'" alt="" loading="lazy" decoding="async">':"";return '<a class="top-news-card" href="'+escapeHtml(item.page)+'"><span class="top-news-number">'+String(index+1).padStart(2,"0")+"</span><div class=\"top-news-art \"+(image?"has-image":"")+"\">"+image+"</div><div class=\"top-news-copy\"><span class=\"tag\">"+escapeHtml(item.category||"Technology")+"</span><h3>"+escapeHtml(item.title)+"</h3><p>"+escapeHtml(item.excerpt||item.description||"")+"</p><div class=\"meta\">"+escapeHtml(item.date||"")+" · "+escapeHtml(item.readTime||"")+"</div></div></a>';}).join("");}
-
+function renderTopNews(items){
+  const box=document.getElementById("topNewsGrid");
+  if(!box)return;
+  const top=(items||[]).slice(0,6);
+  if(!top.length){
+    box.innerHTML="<div class=\"loading-card\">No top stories available right now.</div>";
+    return;
+  }
+  box.innerHTML=top.map((item,index)=>{
+    const image=item.feature_image
+      ? '<img src="'+escapeHtml(item.feature_image)+'" alt="" loading="lazy" decoding="async">'
+      : "";
+    const artClass=image?" has-image":"";
+    return '<a class="top-news-card" href="'+escapeHtml(item.page)+'">'
+      +'<span class="top-news-number">'+String(index+1).padStart(2,"0")+'</span>'
+      +'<div class="top-news-art'+artClass+'">'+image+'</div>'
+      +'<div class="top-news-copy"><span class="tag">'+escapeHtml(item.category||"Technology")+'</span>'
+      +'<h3>'+escapeHtml(item.title)+'</h3>'
+      +'<p>'+escapeHtml(item.excerpt||item.description||"")+'</p>'
+      +'<div class="meta">'+escapeHtml(item.date||"")+' · '+escapeHtml(item.readTime||"")+'</div></div>'
+      +'</a>';
+  }).join("");
+}
 function renderHome(items){
   const topNews=document.getElementById("topNewsGrid");
   if(topNews)renderTopNews(items);
