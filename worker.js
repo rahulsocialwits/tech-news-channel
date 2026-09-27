@@ -11,7 +11,8 @@ const FEEDS = [
   { name: "Google News", url: "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en" },
   { name: "The Hindu Technology", url: "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
   { name: "The Indian Express Technology", url: "https://indianexpress.com/section/technology/feed/" },
-  { name: "TechNewsWorld", url: "https://www.technewsworld.com/perl/syndication/rssfull.pl" }
+  { name: "TechNewsWorld", url: "https://www.technewsworld.com/perl/syndication/rssfull.pl" },
+  { name: "India Technology News", url: "https://indiatechnologynews.in/feed/" }
 ];
 
 const GITHUB_OWNER = "rahulsocialwits";
