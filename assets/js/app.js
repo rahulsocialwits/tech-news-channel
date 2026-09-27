@@ -97,6 +97,7 @@ function setupNavigation(){
   const mt=document.getElementById("menuToggle"),nav=document.getElementById("mainNav");
   if(mt&&nav)mt.addEventListener("click",()=>nav.classList.toggle("open"));
   nav?.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>nav.classList.remove("open")));
+  document.querySelectorAll(".mobile-menu-trigger").forEach(btn=>btn.addEventListener("click",e=>{e.preventDefault();nav?.classList.toggle("open");}));
   const search=document.getElementById("searchToggle");
   if(search)search.addEventListener("click",openSearch);
 }
