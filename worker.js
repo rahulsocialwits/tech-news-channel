@@ -850,8 +850,16 @@ export default {
     }
     if (url.pathname === "/market" && request.method === "GET") {
       try {
+        const cache = caches.default;
+        const cacheKey = new Request(new URL("/market", url.origin), request);
+        const cached = await cache.match(cacheKey);
+        if (cached) return cached;
         const quotes = await getMarketQuotes(env);
-        return json({ ok: true, provider: "Finnhub", updated_at: new Date().toISOString(), quotes });
+        const response = json({ ok: true, provider: "Finnhub", updated_at: new Date().toISOString(), quotes }, {
+          headers: { "Cache-Control": "public, max-age=60, s-maxage=60" }
+        });
+        await cache.put(cacheKey, response.clone());
+        return response;
       } catch (error) {
         return json({ ok: false, error: error.message }, { status: 500 });
       }
