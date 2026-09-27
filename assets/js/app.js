@@ -204,6 +204,19 @@ document.addEventListener("DOMContentLoaded",()=>{
   document.getElementById("subscribeForm")?.addEventListener("submit",subscribe);
 });
 
+const MARKET_FALLBACK=[
+ {name:"NVIDIA",symbol:"NVDA",sector:"Semiconductors · AI"},
+ {name:"AMD",symbol:"AMD",sector:"Semiconductors · AI"},
+ {name:"Apple",symbol:"AAPL",sector:"Consumer Tech"},
+ {name:"Microsoft",symbol:"MSFT",sector:"Software · Cloud"},
+ {name:"Alphabet",symbol:"GOOGL",sector:"Search · Cloud · AI"},
+ {name:"Amazon",symbol:"AMZN",sector:"Cloud · Commerce"},
+ {name:"Meta",symbol:"META",sector:"Platforms · AI"},
+ {name:"Tesla",symbol:"TSLA",sector:"EV · Technology"}
+];
+function renderMarketFallback(strip){
+ strip.innerHTML=MARKET_FALLBACK.map(q=>'<a class="market-strip-card market-pending" href="company.html?symbol='+encodeURIComponent(q.symbol)+'"><div><b>'+escapeHtml(q.name)+'</b><span>'+escapeHtml(q.symbol)+'</span></div><strong>—</strong><small>'+escapeHtml(q.sector)+'</small><em>View company →</em></a>').join("");
+}
 function renderMarketStrip(strip,quotes){
  strip.innerHTML=(quotes||[]).map(q=>{const p=Number(q.price),c=Number(q.change),pc=Number(q.changePercent),up=c>=0;return '<a class="market-strip-card" href="company.html?symbol='+encodeURIComponent(q.symbol)+'"><div><b>'+escapeHtml(q.name)+'</b><span>'+escapeHtml(q.symbol)+'</span></div><strong>'+(Number.isFinite(p)?"$"+p.toFixed(2):"—")+'</strong><small class="'+(up?"up":"down")+'">'+(Number.isFinite(c)?((up?"+":"")+c.toFixed(2)+" · "+(up?"+":"")+pc.toFixed(2)+"%"):"Quote unavailable")+'</small><em>Details →</em></a>';}).join("")||'<div class="loading-card">Market data unavailable.</div>';
 }
@@ -219,7 +232,7 @@ async function loadMarketData(){
    try{localStorage.setItem("techpulse_market_v1",JSON.stringify(quotes));}catch(_){}
    renderMarketStrip(strip,quotes);
  }catch(e){
-   if(!(Array.isArray(cached)&&cached.length))strip.innerHTML='<div class="loading-card">Live market data is temporarily unavailable.</div>';
+   if(!(Array.isArray(cached)&&cached.length))renderMarketFallback(strip);
  }
 }
 document.addEventListener("DOMContentLoaded",loadMarketData);
