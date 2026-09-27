@@ -10,13 +10,15 @@ function escapeHtml(value){return String(value??"").replace(/[&<>"']/g,c=>({"&":
 function pagePrefix(){return location.pathname.includes("/articles/")?"../":"";}
 
 async function loadArticles(){
+  // Render immediately from the tiny local fallback, then refresh with the full feed.
+  articles=FALLBACK_ARTICLES.slice();
+  renderHome(articles);
   try{
     const response=await fetch(pagePrefix()+"data/articles.json",{cache:"default"});
     if(!response.ok)throw new Error("feed unavailable");
     const data=await response.json();
-    articles=Array.isArray(data)?data:[];
-  }catch(e){articles=FALLBACK_ARTICLES;}
-  renderHome(articles);
+    if(Array.isArray(data)&&data.length){articles=data;renderHome(articles);}
+  }catch(e){}
 }
 
 function renderTopNews(items){const box=document.getElementById("topNewsGrid");if(!box)return;const top=(items||[]).slice(0,6);if(!top.length){box.innerHTML="<div class=\"loading-card\">No top stories available right now.</div>";return;}box.innerHTML=top.map((item,index)=>{const image=item.feature_image?'<img src="'+escapeHtml(item.feature_image)+'" alt="" loading="lazy" decoding="async">':"";return '<a class="top-news-card" href="'+escapeHtml(item.page)+'"><span class="top-news-number">'+String(index+1).padStart(2,"0")+"</span><div class=\"top-news-art \"+(image?"has-image":"")+"\">"+image+"</div><div class=\"top-news-copy\"><span class=\"tag\">"+escapeHtml(item.category||"Technology")+"</span><h3>"+escapeHtml(item.title)+"</h3><p>"+escapeHtml(item.excerpt||item.description||"")+"</p><div class=\"meta\">"+escapeHtml(item.date||"")+" · "+escapeHtml(item.readTime||"")+"</div></div></a>';}).join("");}
@@ -61,7 +63,7 @@ async function fetchArticleFeed(){
 async function renderLatestPage(){
   const grid=document.getElementById("allNewsGrid");
   if(!grid)return;
-  grid.innerHTML='<div class="loading-card">Loading latest stories…</div>';
+  grid.innerHTML='';
   const items=await fetchArticleFeed();
   const params=new URLSearchParams(location.search);
   const cat=(params.get("cat")||"").trim().toLowerCase();
@@ -130,6 +132,29 @@ async function subscribe(e){
   finally{b.disabled=false;}
 }
 
+function ensureSearchModal(){
+  if(document.getElementById("searchModal"))return;
+  document.body.insertAdjacentHTML("beforeend",'<div class="search-modal" id="searchModal" hidden><div class="search-box" role="dialog" aria-modal="true"><div class="search-top"><input id="globalSearchInput" type="search" placeholder="Search TechPulse…"><button class="search-close" id="searchClose">×</button></div><div class="search-results" id="searchResults"><div class="search-empty">Type to search TechPulse.</div></div></div></div>');
+  const m=document.getElementById("searchModal"),i=document.getElementById("globalSearchInput");
+  document.getElementById("searchClose").onclick=closeSearch;
+  m.addEventListener("click",e=>{if(e.target===m)closeSearch();});
+  i.addEventListener("input",()=>renderSearchResults(i.value));
+  i.addEventListener("keydown",e=>{if(e.key==="Escape")closeSearch();});
+}
+async function renderSearchResults(query){
+  const box=document.getElementById("searchResults"),q=String(query||"").trim().toLowerCase();
+  if(!q){box.innerHTML='<div class="search-empty">Type to search TechPulse.</div>';return;}
+  if(!articles.length)articles=await fetchArticleFeed();
+  const matches=articles.filter(x=>(String(x.title||"")+" "+String(x.category||"")+" "+String(x.excerpt||x.description||"")+" "+(Array.isArray(x.labels)?x.labels.join(" "):"")).toLowerCase().includes(q)).slice(0,10);
+  box.innerHTML=matches.length?matches.map(x=>'<a class="search-result" href="'+escapeHtml(x.page)+'"><small>'+escapeHtml(x.category||"Technology")+'</small><b>'+escapeHtml(x.title)+'</b><span>'+escapeHtml(x.excerpt||x.description||"")+'</span></a>').join(""):'<div class="search-empty">No stories found.</div>';
+}
+function openSearch(){
+  ensureSearchModal();
+  const m=document.getElementById("searchModal"),i=document.getElementById("globalSearchInput");
+  m.hidden=false;i.value="";document.body.style.overflow="hidden";setTimeout(()=>i.focus(),20);
+}
+function closeSearch(){const m=document.getElementById("searchModal");if(m)m.hidden=true;document.body.style.overflow="";}
+
 function setupNavigation(){
   const mt=document.getElementById("menuToggle"),nav=document.getElementById("mainNav");
   if(mt&&nav)mt.addEventListener("click",()=>nav.classList.toggle("open"));
@@ -154,4 +179,4 @@ async function loadMarketData(){
  strip.innerHTML=(d.quotes||[]).map(q=>{const p=Number(q.price),c=Number(q.change),pc=Number(q.changePercent),up=c>=0;return '<a class="market-strip-card" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><div><b>'+escapeHtml(q.name)+'</b><span>'+escapeHtml(q.symbol)+'</span></div><strong>'+(Number.isFinite(p)?"$"+p.toFixed(2):"—")+'</strong><small class="'+(up?"up":"down")+'">'+(Number.isFinite(c)?((up?"+":"")+c.toFixed(2)+" · "+(up?"+":"")+pc.toFixed(2)+"%"):"Quote unavailable")+'</small><em>Details →</em></a>';}).join("");
  }catch(e){console.warn(e);strip.innerHTML='<div class="loading-card">Live market data is temporarily unavailable.</div>';}
 }
-document.addEventListener("DOMContentLoaded",()=>{setTimeout(loadMarketData,900);});
+document.addEventListener("DOMContentLoaded",loadMarketData);
