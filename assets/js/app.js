@@ -106,3 +106,27 @@ document.addEventListener("DOMContentLoaded",()=>{
   loadArticles();
   document.getElementById("subscribeForm")?.addEventListener("submit",subscribe);
 });
+
+async function loadMarketData(){
+  const grid=document.querySelector(".market-masonry-grid");
+  if(!grid) return;
+  try{
+    const r=await fetch("https://tech-news-channel.rahulsocialwits.workers.dev/market",{cache:"no-store"});
+    const data=await r.json();
+    if(!data.ok) throw new Error(data.error||"Market data unavailable");
+    grid.innerHTML=data.quotes.map(q=>{
+      const has=Number.isFinite(q.price);
+      const up=Number(q.change)>=0;
+      const change=Number.isFinite(q.change)?((up?"+":"")+q.change.toFixed(2)):"—";
+      const pct=Number.isFinite(q.changePercent)?((up?"+":"")+q.changePercent.toFixed(2)+"%"):"—";
+      return '<article class="market-card"><span class="market-company">'+q.name+'</span><strong>'+q.symbol+'</strong><small>'+q.sector+'</small><div class="market-price">'+(has?"$"+q.price.toFixed(2):"Data unavailable")+'</div><b class="market-status '+(has?(up?"market-up":"market-down"):"")+'">'+(has?(change+" · "+pct):"Unavailable")+'</b></article>';
+    }).join("");
+    const note=document.querySelector(".market-note");
+    if(note) note.textContent="Live market data";
+    const disclaimer=document.querySelector(".market-disclaimer");
+    if(disclaimer) disclaimer.textContent="Market data provided by Finnhub. Quotes may be delayed or subject to provider and exchange rules.";
+  }catch(e){
+    console.warn("TechPulse market data:",e);
+  }
+}
+document.addEventListener("DOMContentLoaded",loadMarketData);
