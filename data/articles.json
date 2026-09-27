@@ -1,5 +1,23 @@
 [
   {
+    "id": "tesla-s-500-mile-semi-faces-new-infrastructure-hurdle-as-charging-gaps-persist-2026-09-27",
+    "title": "Tesla’s 500‑mile Semi Faces New Infrastructure Hurdle as Charging Gaps Persist",
+    "description": "Tesla’s long‑range electric truck still struggles to find enough charging points, limiting its commercial viability.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-27",
+    "readTime": "3 min read",
+    "excerpt": "Tesla’s long‑range electric truck still struggles to find enough charging points, limiting its commercial viability.",
+    "page": "articles/tesla-s-500-mile-semi-faces-new-infrastructure-hurdle-as-charging-gaps-persist-2026-09-27.html",
+    "source_urls": [
+      "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+    ]
+  },
+  {
     "id": "enterprise-ai-pilots-shine-but-production-remains-the-real-challenge-2026-09-27",
     "title": "Enterprise AI Pilots Shine, but Production Remains the Real Challenge",
     "description": "A new study shows that while AI pilots succeed in controlled environments, scaling them to production exposes data, cost, and reliability hurdles.",
