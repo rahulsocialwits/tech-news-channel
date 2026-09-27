@@ -414,7 +414,7 @@ function buildArticleHtml(article, date, pagePath) {
 <meta name="description" content="${description}">
 ${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
-<link rel="stylesheet" href="../assets/css/style.css?v=20260927-5">
+<link rel="stylesheet" href="../assets/css/style.css?v=20260927-12">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <meta property="og:title" content="${title} | TechPulse">
 <meta property="og:description" content="${description}">
@@ -431,7 +431,7 @@ ${image ? '<meta name="twitter:image" content="' + image + '">' : ""}
 <header class="site-header">
 <div class="wrap nav">
 <a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a>
-<nav id="mainNav"><a href="../index.html">Home</a><a href="../index.html#latest">Latest</a><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a><a href="../about.html">About</a><a href="../contact.html">Contact</a></nav>
+<nav id="mainNav"><a href="../index.html">Home</a><a href="../latest.html">Latest</a><a href="../category.html">Categories</a><a href="../market.html">Market</a><a href="../about.html">About</a><a href="../contact.html">Contact</a></nav>
 <div class="header-tools"><button class="search-btn" id="searchToggle" aria-label="Search TechPulse">⌕</button><button class="menu-btn" id="menuToggle" aria-label="Open menu">☰</button></div>
 </div>
 </header>
@@ -448,8 +448,15 @@ ${sourceLinks}
 <div class="article-footer-links"><a href="../index.html#latest">← Back to latest news</a><a href="../contact.html">Contact TechPulse →</a></div>
 </article>
 </main>
+<nav class="mobile-bottom-nav">
+<a href="../index.html"><span>⌂</span><span>Home</span></a>
+<a href="../latest.html"><span>▤</span><span>Latest</span></a>
+<a href="../market.html"><span>▥</span><span>Market</span></a>
+<a href="../category.html"><span>◈</span><span>Category</span></a>
+<a href="../index.html"><span>☰</span><span>Menu</span></a>
+</nav>
 <footer><div class="footer-top wrap"><div><div class="eyebrow">TECHPULSE</div><h3>Technology, clearly explained.</h3><p>Original coverage of AI, software, gadgets, cloud and startups.</p></div><div class="footer-social"><a href="../index.html#newsletter">Newsletter</a><a href="../index.html#latest">Latest News</a><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a></div></div><div class="wrap footer-grid"><div><a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a><p>Independent technology news, explained clearly.</p></div><div><b>Sections</b><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></div><div><b>Company</b><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a><a href="../contact.html#editorial">Editorial Policy</a></div></div><div class="wrap copyright">© 2026 TechPulse. Built for the open web.</div></footer>
-<script src="../assets/js/app.js?v=20260927-5"></script>
+<script src="../assets/js/app.js?v=20260927-8"></script>
 </body>
 </html>`;
 }
@@ -837,6 +844,32 @@ export default {
       try {
         const quotes = await getMarketQuotes(env);
         return json({ ok: true, provider: "Finnhub", updated_at: new Date().toISOString(), quotes });
+      } catch (error) {
+        return json({ ok: false, error: error.message }, { status: 500 });
+      }
+    }
+
+    if (url.pathname === "/market/history" && request.method === "GET") {
+      try {
+        if (!env.FINNHUB_API_KEY) throw new Error("FINNHUB_API_KEY secret is missing.");
+        const symbol = String(url.searchParams.get("symbol") || "NVDA").toUpperCase();
+        const allowed = new Set(MARKET_SYMBOLS.map(x => x.symbol));
+        if (!allowed.has(symbol)) return json({ ok: false, error: "Unsupported market symbol." }, { status: 400 });
+        const days = Math.min(Math.max(Number(url.searchParams.get("days") || 30), 7), 90);
+        const to = Math.floor(Date.now() / 1000);
+        const from = to - days * 86400;
+        const endpoint = "https://finnhub.io/api/v1/stock/candle?symbol=" + encodeURIComponent(symbol) + "&resolution=D&from=" + from + "&to=" + to + "&token=" + encodeURIComponent(env.FINNHUB_API_KEY);
+        const response = await fetch(endpoint, { headers: { "User-Agent": "TechPulse-Market/1.0" } });
+        if (!response.ok) throw new Error(symbol + " history HTTP " + response.status);
+        const data = await response.json();
+        if (data.s !== "ok" || !Array.isArray(data.t)) return json({ ok: false, error: "Historical data unavailable." }, { status: 502 });
+        const history = data.t.map((ts, i) => ({
+          timestamp: new Date(Number(ts) * 1000).toISOString(),
+          close: Number(data.c?.[i]),
+          high: Number(data.h?.[i]),
+          low: Number(data.l?.[i])
+        })).filter(x => Number.isFinite(x.close));
+        return json({ ok: true, symbol, days, history });
       } catch (error) {
         return json({ ok: false, error: error.message }, { status: 500 });
       }
