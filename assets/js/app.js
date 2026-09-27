@@ -25,7 +25,7 @@ function renderHome(items){
   const count=document.getElementById("storyCount");
   const ticker=document.getElementById("tickerText");
   if(count)count.textContent=items.length+" stories";
-  if(ticker)ticker.textContent=items.length?items.map(x=>x.title).join("  •  "):"No stories found.";
+  if(ticker)ticker.textContent=items.length?items.slice(0,4).map(x=>x.title).join("  •  "):"No stories found.";
   const hero=items[0],heroCard=document.getElementById("heroCard");
   if(heroCard){
     heroCard.innerHTML=hero?
@@ -33,7 +33,8 @@ function renderHome(items){
       '<span class="pill">TechPulse</span><div><h2>No matching stories</h2><p>Try another search.</p></div>';
   }
   if(!items.length){grid.innerHTML='<div class="loading-card">No stories match your search.</div>';return;}
-  grid.innerHTML=items.map((item,index)=>{
+  const homeItems = items.slice(0,4);
+  grid.innerHTML=homeItems.map((item,index)=>{
     const artClass=item.category==="AI"?"ai-art":item.category==="Cloud"?"blue-art":"orange-art";
     const image=item.feature_image?'<img src="'+escapeHtml(item.feature_image)+'" alt="" loading="lazy">':"";
     return '<article class="story '+(index===0?'featured':'')+'"><a href="'+escapeHtml(item.page)+'"><div class="story-art '+artClass+(item.feature_image?" has-image":"")+'">'+image+'<span>'+escapeHtml(item.category||"Technology")+'</span></div></a><div class="story-body"><span class="tag">'+escapeHtml(item.category||"Technology")+'</span><h3><a href="'+escapeHtml(item.page)+'">'+escapeHtml(item.title)+'</a></h3><p>'+escapeHtml(item.excerpt||item.description||"")+'</p><div class="meta">'+escapeHtml(item.date||"")+" · "+escapeHtml(item.readTime||"")+'</div></div></article>';
@@ -121,7 +122,7 @@ async function loadMarketData(){
       const valid=Number.isFinite(price);
       const up=Number.isFinite(change)?change>=0:true;
       const cls=valid?(up?"market-up":"market-down"):"market-unavailable";
-      return '<article class="market-card"><span class="market-company">'+q.name+'</span><strong>'+q.symbol+'</strong><small>'+q.sector+'</small><div class="market-price">'+(valid?"$"+price.toFixed(2):"—")+'</div><b class="market-status '+cls+'">'+(Number.isFinite(change)?((up?"+":"")+change.toFixed(2)+" · "+(up?"+":"")+pct.toFixed(2)+"%"):"Quote unavailable")+'</b></article>';
+      return '<a class="market-card market-card-link" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><span class="market-company">'+q.name+'</span><strong>'+q.symbol+'</strong><small>'+q.sector+'</small><div class="market-price">'+(valid?"$"+price.toFixed(2):"—")+'</div><b class="market-status '+cls+'">'+(Number.isFinite(change)?((up?"+":"")+change.toFixed(2)+" · "+(up?"+":"")+pct.toFixed(2)+"%"):"Quote unavailable")+'</b></a>';
     }).join("");
     const note=document.querySelector(".market-note"); if(note) note.textContent="Live market data";
     const disclaimer=document.querySelector(".market-disclaimer"); if(disclaimer) disclaimer.textContent="Live US stock quotes via Finnhub. Data availability may vary by market hours and provider limits.";
