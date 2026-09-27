@@ -93,14 +93,25 @@ function readTime(content = "") {
   return Math.max(3, Math.ceil(words / 180)) + " min read";
 }
 
-async function generateArticle(env, stories) {
+async function generateArticle(env, stories, recentCategories = []) {
   if (!env.GROQ_API_KEY) throw new Error("GROQ_API_KEY secret is missing.");
+
+  const underused = ["AI", "Cloud", "Gadgets", "Software", "Startups", "Technology"]
+    .filter(category => !recentCategories.slice(0, 12).includes(category));
 
   const prompt = `You are the TechPulse technology newsroom.
 
 Using ONLY the supplied source items, select ONE timely technology story worth publishing today.
 
 Write an original 500-700 word technology news article. Do not copy source sentences. Do not invent facts, quotes, numbers, dates, product details or claims. Use only facts supported by the supplied sources. If something is uncertain or unsupported, omit it.
+
+IMPORTANT EDITORIAL DIVERSITY:
+- Do NOT default to AI just because AI is popular.
+- Choose the most relevant category supported by the source material.
+- Prefer Cloud, Gadgets, Software, Startups or broader Technology when the sources support a strong story.
+- Recent category mix is supplied below. Avoid repeating the same category when another well-supported option exists.
+- Recent categories: ${JSON.stringify(recentCategories.slice(0, 12))}
+- Underused categories: ${JSON.stringify(underused)}
 
 Return ONLY one valid JSON object with EXACTLY these keys:
 {
@@ -136,9 +147,7 @@ ${JSON.stringify(stories)}`;
       },
       body: JSON.stringify({
         model: "openai/gpt-oss-20b",
-        messages: [
-          { role: "user", content: prompt }
-        ],
+        messages: [{ role: "user", content: prompt }],
         temperature: 0.2,
         max_completion_tokens: 3200,
         reasoning_effort: "low",
@@ -148,23 +157,18 @@ ${JSON.stringify(stories)}`;
     });
 
     if (response.ok) break;
-
     lastBody = await response.text();
 
     if (response.status === 429 && attempt === 0) {
       const retryAfter = Number(response.headers.get("Retry-After") || 20);
-      await new Promise(resolve =>
-        setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000))
-      );
+      await new Promise(resolve => setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000)));
       continue;
     }
 
     throw new Error("Groq HTTP " + response.status + ": " + lastBody.slice(0, 900));
   }
 
-  if (!response?.ok) {
-    throw new Error("Groq request failed: " + lastBody.slice(0, 900));
-  }
+  if (!response?.ok) throw new Error("Groq request failed: " + lastBody.slice(0, 900));
 
   const data = await response.json();
   const raw = data.choices?.[0]?.message?.content || "";
@@ -201,7 +205,94 @@ ${JSON.stringify(stories)}`;
   };
 }
 
-const WORKER_VERSION = "2026-09-27-v4";
+async function generateAIFallbackArticle(env, recentTitles = []) {
+  if (!env.GROQ_API_KEY) throw new Error("GROQ_API_KEY secret is missing.");
+
+  const prompt = `You are the TechPulse technology newsroom.
+
+There is no suitable fresh source story for this hourly publishing slot. Create ONE original, useful, evergreen technology article focused on AI.
+
+Choose a distinct topic that is NOT substantially the same as the recent article titles below. Prefer practical AI concepts, workflows, tools, applications, infrastructure, security, developer topics, responsible AI, AI productivity, or explainers. Do not invent current events, prices, statistics, company announcements, quotes, or time-sensitive claims.
+
+Write 500-700 words in clear newsroom style. The article must be useful even without current news.
+
+Return ONLY one valid JSON object with EXACTLY these keys:
+{
+  "title": "string",
+  "description": "short factual SEO description",
+  "category": "AI",
+  "labels": ["AI", "Technology"],
+  "content": "<p>...</p><h2>...</h2><p>...</p>",
+  "source_urls": []
+}
+
+Rules:
+- category must be exactly AI.
+- source_urls MUST be an empty array.
+- content must be HTML body fragments only using p, h2, h3, ul, ol, li, strong and em.
+- Never include markdown fences, html, head, body, script, style or navigation.
+- Do not make unsupported current-event claims.
+- Do not add any other keys.
+
+RECENT ARTICLE TITLES:
+${JSON.stringify(recentTitles.slice(0, 20))}`;
+
+  let response;
+  let lastBody = "";
+
+  for (let attempt = 0; attempt < 2; attempt++) {
+    response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Authorization": "Bearer " + env.GROQ_API_KEY,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        model: "openai/gpt-oss-20b",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0.35,
+        max_completion_tokens: 3200,
+        reasoning_effort: "low",
+        include_reasoning: false,
+        response_format: { type: "json_object" }
+      })
+    });
+
+    if (response.ok) break;
+    lastBody = await response.text();
+
+    if (response.status === 429 && attempt === 0) {
+      const retryAfter = Number(response.headers.get("Retry-After") || 20);
+      await new Promise(resolve => setTimeout(resolve, Math.min(Math.max(retryAfter * 1000, 12000), 40000)));
+      continue;
+    }
+
+    throw new Error("Groq fallback HTTP " + response.status + ": " + lastBody.slice(0, 900));
+  }
+
+  if (!response?.ok) throw new Error("Groq fallback request failed: " + lastBody.slice(0, 900));
+
+  const data = await response.json();
+  const raw = data.choices?.[0]?.message?.content || "";
+  let article;
+  try {
+    article = JSON.parse(raw);
+  } catch (_) {
+    throw new Error("Groq fallback returned invalid JSON.");
+  }
+
+  if (!article.title || !article.content) throw new Error("Groq fallback returned an incomplete AI article.");
+
+  return {
+    title: String(article.title).trim(),
+    description: String(article.description || "").trim().slice(0, 320),
+    category: "AI",
+    labels: Array.isArray(article.labels) ? article.labels.map(x => String(x).trim()).filter(Boolean).slice(0, 8) : ["AI", "Technology"],
+    content: String(article.content).trim(),
+    source_urls: []
+  };
+}
+const WORKER_VERSION = "2026-09-27-v5";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
@@ -470,20 +561,54 @@ async function publishArticle(env, article) {
 
 async function runNewsJob(env) {
   if (!env) throw new Error("Worker environment is unavailable.");
-  const allStories = await collectNews();
-  const stories = allStories.slice(0, 5).map(x => ({source:x.source,title:x.title,url:x.url,description:String(x.description||"").slice(0,500)}));
-  if (!stories.length) throw new Error("No RSS stories were found.");
 
-  const article = await generateArticle(env, stories);
-  const result = await publishArticle(env, article);
+  const current = await getArticlesIndex(env);
+  const recentArticles = current.articles || [];
+
+  const publishedToday = env.DB
+    ? await env.DB.prepare(
+        "SELECT COUNT(*) AS count FROM automation_logs WHERE run_type = 'scheduled' AND status = 'published' AND date(datetime(created_at, '+5 hours', '+30 minutes')) = date('now', '+5 hours', '+30 minutes')"
+      ).first()
+    : { count: 0 };
+
+  if (Number(publishedToday?.count || 0) >= 17) {
+    return { published: false, daily_limit: true, title: "Daily publishing limit reached" };
+  }
+
+  const recentCategories = recentArticles.map(x => x.category).filter(Boolean);
+  const allStories = await collectNews();
+  const stories = allStories
+    .sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0))
+    .slice(0, 8)
+    .map(x => ({source:x.source,title:x.title,url:x.url,description:String(x.description||"").slice(0,500)}));
+
+  let article;
+  let mode = "news";
+
+  if (stories.length) {
+    article = await generateArticle(env, stories, recentCategories);
+  } else {
+    mode = "ai-fallback";
+    article = await generateAIFallbackArticle(env, recentArticles.map(x => x.title));
+  }
+
+  let result = await publishArticle(env, article);
+
+  // If the source story was already published, use the hourly slot for a distinct AI article.
+  if (result.duplicate) {
+    mode = "ai-fallback";
+    article = await generateAIFallbackArticle(env, recentArticles.map(x => x.title));
+    result = await publishArticle(env, article);
+  }
 
   console.log("TechPulse news job:", JSON.stringify({
     sources_checked: FEEDS.length,
     stories_found: stories.length,
+    mode,
     ...result
   }));
 
-  return { sources_checked: FEEDS.length, stories_found: stories.length, ...result };
+  return { sources_checked: FEEDS.length, stories_found: stories.length, mode, ...result };
 }
 
 export default {
@@ -647,10 +772,18 @@ export default {
   async scheduled(controller, env, ctx) {
     ctx.waitUntil((async () => {
       try {
+        // Cron runs in UTC. TechPulse publishing window is 07:00-23:00 IST.
+        const ist = new Date(new Date(controller.scheduledTime).toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
+        const hour = ist.getHours();
+        if (hour < 7 || hour > 22) {
+          console.log("TechPulse scheduled check skipped outside publishing window:", hour);
+          return;
+        }
+
         const result = await runNewsJob(env);
         if (env.DB) {
           await env.DB.prepare("INSERT INTO automation_logs (run_type, status, article_id, message) VALUES (?, ?, ?, ?)")
-            .bind("scheduled", result.published ? "published" : (result.duplicate ? "duplicate" : "completed"), result.id || result.existing_id || null, result.title || "Scheduled run completed")
+            .bind("scheduled", result.published ? "published" : (result.daily_limit ? "limit" : (result.duplicate ? "duplicate" : "completed")), result.id || result.existing_id || null, result.mode ? (result.mode + ": " + (result.title || "Scheduled run completed")) : (result.title || "Scheduled run completed"))
             .run();
         }
       } catch (error) {
