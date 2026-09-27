@@ -296,7 +296,7 @@ ${JSON.stringify(recentTitles.slice(0, 20))}`;
     source_urls: []
   };
 }
-const WORKER_VERSION = "2026-09-27-v14";
+const WORKER_VERSION = "2026-09-27-v15";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
@@ -414,7 +414,7 @@ function buildArticleHtml(article, date, pagePath) {
 <meta name="description" content="${description}">
 ${image ? '<meta property="og:image" content="' + image + '">': ""}
 <link rel="canonical" href="${SITE_URL}/${pagePath}">
-<link rel="stylesheet" href="../assets/css/style.css?v=20260927-15">
+<link rel="stylesheet" href="../assets/css/style.css?v=20260927-16">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <meta property="og:title" content="${title} | TechPulse">
 <meta property="og:description" content="${description}">
@@ -456,7 +456,7 @@ ${sourceLinks}
 <a href="../contact.html"><span>✉</span><span>Contact</span></a>
 </nav>
 <footer><div class="footer-top wrap"><div><div class="eyebrow">TECHPULSE</div><h3>Technology, clearly explained.</h3><p>Original coverage of AI, software, gadgets, cloud and startups.</p></div><div class="footer-social"><a href="../index.html#newsletter">Newsletter</a><a href="../index.html#latest">Latest News</a><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a></div></div><div class="wrap footer-grid"><div><a class="brand" href="../index.html"><span class="brand-mark">T</span><span>Tech<span>Pulse</span></span></a><p>Independent technology news, explained clearly.</p></div><div><b>Sections</b><a href="../index.html#ai">AI</a><a href="../index.html#gadgets">Gadgets</a><a href="../index.html#software">Software</a><a href="../index.html#startups">Startups</a></div><div><b>Company</b><a href="../about.html">About Us</a><a href="../contact.html">Contact Us</a><a href="../contact.html#editorial">Editorial Policy</a></div></div><div class="wrap copyright">© 2026 TechPulse. Built for the open web.</div></footer>
-<script src="../assets/js/app.js?v=20260927-15"></script>
+<script src="../assets/js/app.js?v=20260927-16"></script>
 </body>
 </html>`;
 }
