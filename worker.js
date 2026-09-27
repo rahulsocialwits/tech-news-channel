@@ -12,7 +12,11 @@ const FEEDS = [
   { name: "The Hindu Technology", url: "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
   { name: "The Indian Express Technology", url: "https://indianexpress.com/section/technology/feed/" },
   { name: "TechNewsWorld", url: "https://www.technewsworld.com/perl/syndication/rssfull.pl" },
-  { name: "India Technology News", url: "https://indiatechnologynews.in/feed/" }
+  { name: "India Technology News", url: "https://indiatechnologynews.in/feed/" },
+  { name: "MIT Technology Review", url: "https://www.technologyreview.com/feed/" },
+  { name: "BleepingComputer", url: "https://www.bleepingcomputer.com/feed/" },
+  { name: "XDA Developers", url: "https://www.xda-developers.com/feed/" },
+  { name: "CNET", url: "https://www.cnet.com/rss/news/" }
 ];
 
 const GITHUB_OWNER = "rahulsocialwits";
@@ -292,7 +296,7 @@ ${JSON.stringify(recentTitles.slice(0, 20))}`;
     source_urls: []
   };
 }
-const WORKER_VERSION = "2026-09-27-v5";
+const WORKER_VERSION = "2026-09-27-v6";
 const ADMIN_EMAIL = "rahulsocialwits@gmail.com";
 const SESSION_TTL_SECONDS = 60 * 60 * 24;
 
@@ -576,11 +580,52 @@ async function runNewsJob(env) {
   }
 
   const recentCategories = recentArticles.map(x => x.category).filter(Boolean);
+  const recentSources = recentArticles
+    .map(x => Array.isArray(x.source_urls) && x.source_urls[0] ? x.source_urls[0] : "")
+    .filter(Boolean);
+
+  // Collect from every configured source, then rotate across sources instead of
+  // simply taking the globally newest stories (which can let one publisher dominate).
   const allStories = await collectNews();
-  const stories = allStories
-    .sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0))
-    .slice(0, 8)
-    .map(x => ({source:x.source,title:x.title,url:x.url,description:String(x.description||"").slice(0,500)}));
+  const seenUrls = new Set(recentArticles.flatMap(x => Array.isArray(x.source_urls) ? x.source_urls : []));
+  const bySource = new Map();
+
+  for (const story of allStories) {
+    if (!story?.url || !story?.title || seenUrls.has(story.url)) continue;
+    if (!bySource.has(story.source)) bySource.set(story.source, []);
+    bySource.get(story.source).push(story);
+  }
+
+  // Newest story from each source first; sources used recently get lower priority.
+  const sourceBuckets = [...bySource.entries()]
+    .map(([source, items]) => ({
+      source,
+      recentPenalty: recentSources.some(url => items.some(x => x.url === url)) ? 1 : 0,
+      items: items.sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0))
+    }))
+    .sort((a, b) => a.recentPenalty - b.recentPenalty);
+
+  const stories = [];
+  const usedSources = new Set();
+
+  // Round-robin: maximum one story per source in the AI input.
+  // This prevents TechCrunch/Google News/etc. from filling the whole candidate set.
+  for (let round = 0; round < 2 && stories.length < 12; round++) {
+    for (const bucket of sourceBuckets) {
+      if (stories.length >= 12) break;
+      if (round === 0 && usedSources.has(bucket.source)) continue;
+      const story = bucket.items[round];
+      if (!story) continue;
+      stories.push({
+        source: story.source,
+        title: story.title,
+        url: story.url,
+        published: story.published,
+        description: String(story.description || "").slice(0, 400)
+      });
+      usedSources.add(bucket.source);
+    }
+  }
 
   let article;
   let mode = "news";
@@ -594,7 +639,8 @@ async function runNewsJob(env) {
 
   let result = await publishArticle(env, article);
 
-  // If the source story was already published, use the hourly slot for a distinct AI article.
+  // If every supplied news item is already represented, use the slot for a
+  // distinct AI article rather than republishing the same story.
   if (result.duplicate) {
     mode = "ai-fallback";
     article = await generateAIFallbackArticle(env, recentArticles.map(x => x.title));
@@ -604,13 +650,19 @@ async function runNewsJob(env) {
   console.log("TechPulse news job:", JSON.stringify({
     sources_checked: FEEDS.length,
     stories_found: stories.length,
+    candidate_sources: [...new Set(stories.map(x => x.source))],
     mode,
     ...result
   }));
 
-  return { sources_checked: FEEDS.length, stories_found: stories.length, mode, ...result };
+  return {
+    sources_checked: FEEDS.length,
+    stories_found: stories.length,
+    candidate_sources: [...new Set(stories.map(x => x.source))],
+    mode,
+    ...result
+  };
 }
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
