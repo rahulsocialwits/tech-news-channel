@@ -11,7 +11,7 @@ function pagePrefix(){return location.pathname.includes("/articles/")?"../":"";}
 
 async function loadArticles(){
   try{
-    const response=await fetch(pagePrefix()+"data/articles.json",{cache:"no-store"});
+    const response=await fetch(pagePrefix()+"data/articles.json",{cache:"default"});
     if(!response.ok)throw new Error("feed unavailable");
     const data=await response.json();
     articles=Array.isArray(data)?data:[];
@@ -49,7 +49,7 @@ async function fetchArticleFeed(){
   const candidates=[pagePrefix()+"data/articles.json","/tech-news-channel/data/articles.json","data/articles.json"];
   for(const path of candidates){
     try{
-      const r=await fetch(path+"?v="+Date.now(),{cache:"no-store"});
+      const r=await fetch(path,{cache:"default"});
       if(!r.ok) continue;
       const data=await r.json();
       if(Array.isArray(data)) return data;
@@ -122,7 +122,8 @@ function ensureSearchModal(){
   input.addEventListener("input",()=>renderSearchResults(input.value));
   input.addEventListener("keydown",e=>{if(e.key==="Escape")closeSearch();});
 }
-function renderSearchResults(query){
+async function renderSearchResults(query){
+  if(!articles.length) articles=await fetchArticleFeed();
   const box=document.getElementById("searchResults"),q=String(query||"").trim().toLowerCase();
   if(!q){box.innerHTML='<div class="search-empty">Type a keyword to search TechPulse stories.</div>';return;}
   const matches=articles.filter(x=>(String(x.title||"")+" "+String(x.category||"")+" "+String(x.excerpt||x.description||"")+" "+(Array.isArray(x.labels)?x.labels.join(" "):"")).toLowerCase().includes(q)).slice(0,12);
@@ -169,15 +170,16 @@ function setupNavigation(){
 document.addEventListener("DOMContentLoaded",()=>{
   ensureSearchModal();
   setupNavigation();
-  loadArticles();
+  const isHome=!!document.getElementById("newsGrid") || !!document.getElementById("heroCard");
+  if(isHome)loadArticles();
+  if(document.getElementById("allNewsGrid"))renderLatestPage();
+  if(document.getElementById("categoryGrid"))renderCategoryPage();
   document.getElementById("subscribeForm")?.addEventListener("submit",subscribe);
-  renderLatestPage();
-  renderCategoryPage();
 });
 
 async function loadMarketData(){
  const strip=document.getElementById("homeMarketStrip");if(!strip)return;
- try{const r=await fetch("https://tech-news-channel.rahulsocialwits.workers.dev/market?t="+Date.now(),{cache:"no-store"}),d=await r.json();if(!r.ok||!d.ok)throw new Error(d.error||"Market data unavailable");
+ try{const r=await fetch("https://tech-news-channel.rahulsocialwits.workers.dev/market",{cache:"default"}),d=await r.json();if(!r.ok||!d.ok)throw new Error(d.error||"Market data unavailable");
  strip.innerHTML=(d.quotes||[]).map(q=>{const p=Number(q.price),c=Number(q.change),pc=Number(q.changePercent),up=c>=0;return '<a class="market-strip-card" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><div><b>'+escapeHtml(q.name)+'</b><span>'+escapeHtml(q.symbol)+'</span></div><strong>'+(Number.isFinite(p)?"$"+p.toFixed(2):"—")+'</strong><small class="'+(up?"up":"down")+'">'+(Number.isFinite(c)?((up?"+":"")+c.toFixed(2)+" · "+(up?"+":"")+pc.toFixed(2)+"%"):"Quote unavailable")+'</small><em>Details →</em></a>';}).join("");
  }catch(e){console.warn(e);strip.innerHTML='<div class="loading-card">Live market data is temporarily unavailable.</div>';}
 }
