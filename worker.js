@@ -775,7 +775,7 @@ export default {
         // Cron runs in UTC. TechPulse publishing window is 07:00-23:00 IST.
         const ist = new Date(new Date(controller.scheduledTime).toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
         const hour = ist.getHours();
-        if (hour < 7 || hour > 22) {
+        if (hour < 7 || hour > 23) {
           console.log("TechPulse scheduled check skipped outside publishing window:", hour);
           return;
         }
