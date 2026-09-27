@@ -113,34 +113,6 @@ function searchArticles(query){
   if(document.getElementById("latest"))document.getElementById("latest").scrollIntoView({behavior:"smooth"});
 }
 
-function ensureSearchModal(){
-  if(document.getElementById("searchModal"))return;
-  document.body.insertAdjacentHTML("beforeend",'<div class="search-modal" id="searchModal" hidden><div class="search-box" role="dialog" aria-modal="true" aria-label="Search TechPulse"><div class="search-top"><input id="globalSearchInput" type="search" placeholder="Search AI, gadgets, startups, software…" autocomplete="off"><button class="search-close" id="searchClose" aria-label="Close search">×</button></div><div class="search-results" id="searchResults"></div></div></div>');
-  const modal=document.getElementById("searchModal"),input=document.getElementById("globalSearchInput");
-  document.getElementById("searchClose").onclick=()=>closeSearch();
-  modal.addEventListener("click",e=>{if(e.target===modal)closeSearch();});
-  input.addEventListener("input",()=>renderSearchResults(input.value));
-  input.addEventListener("keydown",e=>{if(e.key==="Escape")closeSearch();});
-}
-async function renderSearchResults(query){
-  if(!articles.length) articles=await fetchArticleFeed();
-  const box=document.getElementById("searchResults"),q=String(query||"").trim().toLowerCase();
-  if(!q){box.innerHTML='<div class="search-empty">Type a keyword to search TechPulse stories.</div>';return;}
-  const matches=articles.filter(x=>(String(x.title||"")+" "+String(x.category||"")+" "+String(x.excerpt||x.description||"")+" "+(Array.isArray(x.labels)?x.labels.join(" "):"")).toLowerCase().includes(q)).slice(0,12);
-  box.innerHTML=matches.length?matches.map(x=>'<a class="search-result" href="'+escapeHtml(x.page)+'"><small>'+escapeHtml(x.category||"Technology")+'</small><b>'+escapeHtml(x.title)+'</b><span>'+escapeHtml(x.excerpt||x.description||"")+'</span></a>').join(""):'<div class="search-empty">No stories found for “'+escapeHtml(query)+'”.</div>';
-}
-function openSearch(){
-  ensureSearchModal();
-  const modal=document.getElementById("searchModal");
-  modal.hidden=false;
-  const input=document.getElementById("globalSearchInput");
-  input.value="";
-  renderSearchResults("");
-  setTimeout(()=>input.focus(),30);
-  document.body.style.overflow="hidden";
-}
-function closeSearch(){const modal=document.getElementById("searchModal");if(modal)modal.hidden=true;document.body.style.overflow="";}
-
 async function subscribe(e){
   e.preventDefault();
   const form=e.currentTarget,b=document.getElementById("subscribeButton"),s=document.getElementById("subscribeStatus");
@@ -168,7 +140,6 @@ function setupNavigation(){
 }
 
 document.addEventListener("DOMContentLoaded",()=>{
-  ensureSearchModal();
   setupNavigation();
   const isHome=!!document.getElementById("newsGrid") || !!document.getElementById("heroCard");
   if(isHome)loadArticles();
@@ -183,4 +154,4 @@ async function loadMarketData(){
  strip.innerHTML=(d.quotes||[]).map(q=>{const p=Number(q.price),c=Number(q.change),pc=Number(q.changePercent),up=c>=0;return '<a class="market-strip-card" href="market.html?symbol='+encodeURIComponent(q.symbol)+'"><div><b>'+escapeHtml(q.name)+'</b><span>'+escapeHtml(q.symbol)+'</span></div><strong>'+(Number.isFinite(p)?"$"+p.toFixed(2):"—")+'</strong><small class="'+(up?"up":"down")+'">'+(Number.isFinite(c)?((up?"+":"")+c.toFixed(2)+" · "+(up?"+":"")+pc.toFixed(2)+"%"):"Quote unavailable")+'</small><em>Details →</em></a>';}).join("");
  }catch(e){console.warn(e);strip.innerHTML='<div class="loading-card">Live market data is temporarily unavailable.</div>';}
 }
-document.addEventListener("DOMContentLoaded",loadMarketData);
+document.addEventListener("DOMContentLoaded",()=>{setTimeout(loadMarketData,900);});
