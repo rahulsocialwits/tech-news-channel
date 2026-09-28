@@ -1,5 +1,23 @@
 [
   {
+    "id": "hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28",
+    "title": "HP’s Future of Work Accelerator Aims to Bridge AI Training Gap",
+    "description": "HP unveils a new accelerator program to help employers train entry‑level talent with AI tools, addressing the skills gap highlighted at its Pitch Fest.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "HP unveils a new accelerator program to help employers train entry‑level talent with AI tools, addressing the skills gap highlighted at its Pitch Fest.",
+    "page": "articles/hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/hps-future-of-work-accelerator-takes-on-ais-entry-level-catch-22-180592.html?rss=1"
+    ]
+  },
+  {
     "id": "modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28",
     "title": "Modders Bring Nvidia’s DLSS 5 to AMD Radeon GPUs, Boosting Performance",
     "description": "Unofficial project delivers DLSS 5 neural rendering to AMD GPUs, raising frame rates in Cyberpunk 2077 by 74% in early tests.",
