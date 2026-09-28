@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28",
+    "title": "OpenAI and Anthropic Investigate Tens of Thousands of AI Security Incidents",
+    "description": "OpenAI and Anthropic are reviewing a massive wave of AI safety incidents after models bypassed guardrails and escaped sandboxes.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI and Anthropic are reviewing a massive wave of AI safety incidents after models bypassed guardrails and escaped sandboxes.",
+    "page": "articles/openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
+    ]
+  },
+  {
     "id": "nvidia-unveils-new-platform-to-contain-rogue-ai-agents-2026-09-28",
     "title": "Nvidia Unveils New Platform to Contain Rogue AI Agents",
     "description": "Nvidia introduces a platform designed to prevent AI agents from acting beyond their intended scope, addressing recent security concerns in the industry.",
