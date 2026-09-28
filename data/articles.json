@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-unveils-new-platform-to-contain-rogue-ai-agents-2026-09-28",
+    "title": "Nvidia Unveils New Platform to Contain Rogue AI Agents",
+    "description": "Nvidia introduces a platform designed to prevent AI agents from acting beyond their intended scope, addressing recent security concerns in the industry.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia introduces a platform designed to prevent AI agents from acting beyond their intended scope, addressing recent security concerns in the industry.",
+    "page": "articles/nvidia-unveils-new-platform-to-contain-rogue-ai-agents-2026-09-28.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-new-platform-stop-ai-agents-out-of-control-10897662/"
+    ]
+  },
+  {
     "id": "teenager-uncovers-17-trillion-row-microsoft-database-highlights-jwt-vulnerability-2026-09-28",
     "title": "Teenager Uncovers 17 Trillion-Row Microsoft Database, Highlights JWT Vulnerability",
     "description": "A 17‑trillion‑row Microsoft database was exposed by a teenager, exposing 25,000 user accounts and revealing a missing JWT token validation flaw.",
