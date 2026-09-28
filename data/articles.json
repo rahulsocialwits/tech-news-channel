@@ -1,5 +1,24 @@
 [
   {
+    "id": "anthropic-unveils-sonnet-5-5-and-expands-ai-into-molecular-biology-2026-09-28",
+    "title": "Anthropic Unveils Sonnet 5.5 and Expands AI into Molecular Biology",
+    "description": "Anthropic’s new Sonnet 5.5 model promises faster, cheaper performance while the company pushes its Claude agents into scientific discovery.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic’s new Sonnet 5.5 model promises faster, cheaper performance while the company pushes its Claude agents into scientific discovery.",
+    "page": "articles/anthropic-unveils-sonnet-5-5-and-expands-ai-into-molecular-biology-2026-09-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+    ]
+  },
+  {
     "id": "meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28",
     "title": "Meta Unveils Enterprise AI Platform, Names MongoDB CEO as Lead",
     "description": "Meta launches a new enterprise AI platform, bringing its full tech stack to businesses and hiring MongoDB's CEO to head the initiative.",
