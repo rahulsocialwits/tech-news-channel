@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28",
+    "title": "OpenAI’s Jalapeño ASIC: A Quiet Powerhouse for Internal AI Work",
+    "description": "OpenAI has unveiled its custom Jalapeño AI inference ASIC, designed for internal use but hinting at future broader deployment. The chip promises significant performance gains for large‑model inference.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI has unveiled its custom Jalapeño AI inference ASIC, designed for internal use but hinting at future broader deployment. The chip promises significant performance gains for large‑model inference.",
+    "page": "articles/openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time"
+    ]
+  },
+  {
     "id": "hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28",
     "title": "HP’s Future of Work Accelerator Aims to Bridge AI Training Gap",
     "description": "HP unveils a new accelerator program to help employers train entry‑level talent with AI tools, addressing the skills gap highlighted at its Pitch Fest.",
