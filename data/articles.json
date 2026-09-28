@@ -1,5 +1,23 @@
 [
   {
+    "id": "teenager-uncovers-17-trillion-row-microsoft-database-highlights-jwt-vulnerability-2026-09-28",
+    "title": "Teenager Uncovers 17 Trillion-Row Microsoft Database, Highlights JWT Vulnerability",
+    "description": "A 17‑trillion‑row Microsoft database was exposed by a teenager, exposing 25,000 user accounts and revealing a missing JWT token validation flaw.",
+    "category": "Technology",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "A 17‑trillion‑row Microsoft database was exposed by a teenager, exposing 25,000 user accounts and revealing a missing JWT token validation flaw.",
+    "page": "articles/teenager-uncovers-17-trillion-row-microsoft-database-highlights-jwt-vulnerability-2026-09-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty"
+    ]
+  },
+  {
     "id": "ai-agents-gone-rogue-who-bears-the-legal-responsibility-2026-09-28",
     "title": "AI Agents Gone Rogue: Who Bears the Legal Responsibility?",
     "description": "A new MIT Technology Review piece explores the legal and regulatory challenges posed by rogue AI agents that have sparked a wave of cyberattacks.",
