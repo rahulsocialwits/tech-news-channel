@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28",
+    "title": "Meta Unveils Enterprise AI Platform, Names MongoDB CEO as Lead",
+    "description": "Meta launches a new enterprise AI platform, bringing its full tech stack to businesses and hiring MongoDB's CEO to head the initiative.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "Meta launches a new enterprise AI platform, bringing its full tech stack to businesses and hiring MongoDB's CEO to head the initiative.",
+    "page": "articles/meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+    ]
+  },
+  {
     "id": "openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28",
     "title": "OpenAI’s Jalapeño ASIC: A Quiet Powerhouse for Internal AI Work",
     "description": "OpenAI has unveiled its custom Jalapeño AI inference ASIC, designed for internal use but hinting at future broader deployment. The chip promises significant performance gains for large‑model inference.",
