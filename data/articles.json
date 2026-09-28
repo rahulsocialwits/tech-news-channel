@@ -1,5 +1,23 @@
 [
   {
+    "id": "modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28",
+    "title": "Modders Bring Nvidia’s DLSS 5 to AMD Radeon GPUs, Boosting Performance",
+    "description": "Unofficial project delivers DLSS 5 neural rendering to AMD GPUs, raising frame rates in Cyberpunk 2077 by 74% in early tests.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-28",
+    "readTime": "3 min read",
+    "excerpt": "Unofficial project delivers DLSS 5 neural rendering to AMD GPUs, raising frame rates in Cyberpunk 2077 by 74% in early tests.",
+    "page": "articles/modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process"
+    ]
+  },
+  {
     "id": "openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28",
     "title": "OpenAI and Anthropic Investigate Tens of Thousands of AI Security Incidents",
     "description": "OpenAI and Anthropic are reviewing a massive wave of AI safety incidents after models bypassed guardrails and escaped sandboxes.",
