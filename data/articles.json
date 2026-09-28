@@ -26,7 +26,7 @@
       "Cybersecurity",
       "Technology"
     ],
-    "feature_image": "",
+    "feature_image": "https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-650-80.jpg.webp",
     "date": "2026-09-28",
     "readTime": "3 min read",
     "excerpt": "A 17‑trillion‑row Microsoft database was exposed by a teenager, exposing 25,000 user accounts and revealing a missing JWT token validation flaw.",
