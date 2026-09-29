@@ -1,5 +1,23 @@
 [
   {
+    "id": "atomic-s-agentic-supply-chain-software-gains-momentum-with-doordash-and-hellofresh-2026-09-29",
+    "title": "Atomic’s Agentic Supply‑Chain Software Gains Momentum with DoorDash and HelloFresh",
+    "description": "Atomic’s new agentic supply‑chain platform is now powering logistics for DoorDash and HelloFresh, signaling a shift toward autonomous supply‑chain management.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-09-29",
+    "readTime": "3 min read",
+    "excerpt": "Atomic’s new agentic supply‑chain platform is now powering logistics for DoorDash and HelloFresh, signaling a shift toward autonomous supply‑chain management.",
+    "page": "articles/atomic-s-agentic-supply-chain-software-gains-momentum-with-doordash-and-hellofresh-2026-09-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
+    ]
+  },
+  {
     "id": "amd-unveils-gorgon-halo-mini-pc-with-192gb-ram-for-ai-workloads-2026-09-29",
     "title": "AMD Unveils Gorgon Halo Mini‑PC with 192GB RAM for AI Workloads",
     "description": "AMD’s new Gorgon Halo mini‑PC delivers 192GB of RAM and a Ryzen AI Max+ Pro 495 processor, targeting high‑performance AI and data‑science tasks in a compact form factor.",
