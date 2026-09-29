@@ -1,5 +1,25 @@
 [
   {
+    "id": "openai-pulls-back-gpt-6-1-astra-amid-safety-concerns-2026-09-29",
+    "title": "OpenAI Pulls Back GPT‑6.1 Astra Amid Safety Concerns",
+    "description": "OpenAI cancels the release of its upcoming GPT‑6.1 Astra model after reports of misbehavior, highlighting ongoing safety challenges in large language models.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-29",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI cancels the release of its upcoming GPT‑6.1 Astra model after reports of misbehavior, highlighting ongoing safety challenges in large language models.",
+    "page": "articles/openai-pulls-back-gpt-6-1-astra-amid-safety-concerns-2026-09-29.html",
+    "source_urls": [
+      "https://9to5google.com/2026/09/28/openai-cancels-gpt-6-1-astra-release-over-misbehavior-safety-concerns/",
+      "https://www.thehindu.com/sci-tech/technology/openai-cancels-release-of-newest-model-due-to-safety-concerns/article71522314.ece",
+      "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-6-1-astra-safety-anthropic-ipo-filing-10898404/"
+    ]
+  },
+  {
     "id": "nothing-launches-headphone-1-pro-with-triple-driver-design-and-enhanced-anc-2026-09-29",
     "title": "Nothing Launches Headphone (1) Pro with Triple‑Driver Design and Enhanced ANC",
     "description": "Nothing’s new Headphone (1) Pro adds a third driver per ear, upgraded ANC and deeper audio tuning, priced at $399.",
