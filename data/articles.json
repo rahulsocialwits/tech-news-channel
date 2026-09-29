@@ -1,5 +1,23 @@
 [
   {
+    "id": "gemini-app-expands-with-google-wallet-integration-for-personalized-insights-2026-09-29",
+    "title": "Gemini App Expands with Google Wallet Integration for Personalized Insights",
+    "description": "Google’s Gemini Connected App now pulls data from Google Wallet to offer users tailored insights and recommendations.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-29",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Gemini Connected App now pulls data from Google Wallet to offer users tailored insights and recommendations.",
+    "page": "articles/gemini-app-expands-with-google-wallet-integration-for-personalized-insights-2026-09-29.html",
+    "source_urls": [
+      "https://9to5google.com/2026/09/28/google-wallet-gemini-app/"
+    ]
+  },
+  {
     "id": "openai-pulls-back-gpt-6-1-astra-amid-safety-concerns-2026-09-29",
     "title": "OpenAI Pulls Back GPT‑6.1 Astra Amid Safety Concerns",
     "description": "OpenAI cancels the release of its upcoming GPT‑6.1 Astra model after reports of misbehavior, highlighting ongoing safety challenges in large language models.",
