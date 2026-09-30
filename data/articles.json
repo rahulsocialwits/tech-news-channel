@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30",
+    "title": "Nvidia Unveils Independent Controls to Safeguard AI Agents",
+    "description": "Nvidia introduces a new safety platform that places independent controls around AI agents, aiming to prevent unintended damage while they follow instructions.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-30",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia introduces a new safety platform that places independent controls around AI agents, aiming to prevent unintended damage while they follow instructions.",
+    "page": "articles/nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/nvidia-adds-independent-controls-to-rein-in-ai-agents-180603.html?rss=1"
+    ]
+  },
+  {
     "id": "cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30",
     "title": "Cloudflare Announces Quantum‑Safe TLS Certificates to Secure the Web",
     "description": "Cloudflare will issue quantum‑safe TLS certificates as part of a major overhaul of website authentication, strengthening security against future quantum attacks.",
