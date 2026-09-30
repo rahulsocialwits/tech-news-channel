@@ -1,5 +1,23 @@
 [
   {
+    "id": "cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30",
+    "title": "Cloudflare Announces Quantum‑Safe TLS Certificates to Secure the Web",
+    "description": "Cloudflare will issue quantum‑safe TLS certificates as part of a major overhaul of website authentication, strengthening security against future quantum attacks.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-30",
+    "readTime": "3 min read",
+    "excerpt": "Cloudflare will issue quantum‑safe TLS certificates as part of a major overhaul of website authentication, strengthening security against future quantum attacks.",
+    "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30.html",
+    "source_urls": [
+      "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+    ]
+  },
+  {
     "id": "pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30",
     "title": "Pentagon Breach Exposes Sensitive Data of Nearly Three Million Military and Civilian Personnel",
     "description": "A recent cyberattack on the U.S. Department of Defense has leaked personal information for almost three million DoD employees, including social security numbers and job records.",
