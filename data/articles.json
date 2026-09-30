@@ -1,5 +1,23 @@
 [
   {
+    "id": "pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30",
+    "title": "Pentagon Breach Exposes Sensitive Data of Nearly Three Million Military and Civilian Personnel",
+    "description": "A recent cyberattack on the U.S. Department of Defense has leaked personal information for almost three million DoD employees, including social security numbers and job records.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-30",
+    "readTime": "3 min read",
+    "excerpt": "A recent cyberattack on the U.S. Department of Defense has leaked personal information for almost three million DoD employees, including social security numbers and job records.",
+    "page": "articles/pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records"
+    ]
+  },
+  {
     "id": "amd-s-8-2-b-acquisition-of-world-labs-signals-a-new-era-for-generative-ai-2026-09-30",
     "title": "AMD’s $8.2 B Acquisition of World Labs Signals a New Era for Generative AI",
     "description": "AMD has announced a landmark purchase of generative‑AI pioneer World Labs for $8.2 billion, bringing Fei‑Fei Li on board as chief scientist and positioning the chipmaker at the forefront of AI hardware and software integration.",
