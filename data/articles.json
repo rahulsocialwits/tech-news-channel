@@ -1,5 +1,23 @@
 [
   {
+    "id": "cloudflare-announces-quantum-safe-tls-certificates-to-bolster-web-security-2026-09-30",
+    "title": "Cloudflare Announces Quantum‑Safe TLS Certificates to Bolster Web Security",
+    "description": "Cloudflare will issue quantum‑safe TLS certificates, adding a new layer of protection against future quantum computing threats.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-09-30",
+    "readTime": "3 min read",
+    "excerpt": "Cloudflare will issue quantum‑safe TLS certificates, adding a new layer of protection against future quantum computing threats.",
+    "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-bolster-web-security-2026-09-30.html",
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxORnk0a2Nad2oyTmFSTDlVUTVxWmc1N1V3YmhaelVJbG95RUp6NUc4NVJCcEMyMTlJRTBJQ0htWWpfclMwZEVMVmVNZ05yZXc0YkFpWUVab2NQVGlVek43U2JuT2tVUThzb3JBZ3V6b25DUVVaTEhZT2RxY05kMmtSMWNXVUpLb1ktS2U5VHlHUzRuVC1oSmRRZXpJR3VSUQ?oc=5"
+    ]
+  },
+  {
     "id": "nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30",
     "title": "Nvidia Unveils Independent Controls to Safeguard AI Agents",
     "description": "Nvidia introduces a new safety platform that places independent controls around AI agents, aiming to prevent unintended damage while they follow instructions.",
