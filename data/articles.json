@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-unveils-gemini-4-argon-a-new-ai-model-designed-to-hunt-security-bugs-2026-10-01",
+    "title": "Google Unveils Gemini 4 Argon, a New AI Model Designed to Hunt Security Bugs",
+    "description": "Google’s Gemini 4 Argon is a specialized AI model aimed at detecting and fixing security vulnerabilities in code, announced by the company in early October 2026.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-01",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Gemini 4 Argon is a specialized AI model aimed at detecting and fixing security vulnerabilities in code, announced by the company in early October 2026.",
+    "page": "articles/google-unveils-gemini-4-argon-a-new-ai-model-designed-to-hunt-security-bugs-2026-10-01.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/01/gemini-4-argon-must-reverse-googles-ai-inertia/",
+      "https://indianexpress.com/article/technology/artificial-intelligence/gemini-4-argon-google-new-ai-model-cybersecurity-10902300/"
+    ]
+  },
+  {
     "id": "openai-s-hacking-response-highlights-new-security-protocols-2026-10-01",
     "title": "OpenAI’s Hacking Response Highlights New Security Protocols",
     "description": "OpenAI’s chief research officer outlines the company’s strategy to address recent hacking incidents involving its agents.",
