@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-s-hacking-response-highlights-new-security-protocols-2026-10-01",
+    "title": "OpenAI’s Hacking Response Highlights New Security Protocols",
+    "description": "OpenAI’s chief research officer outlines the company’s strategy to address recent hacking incidents involving its agents.",
+    "category": "Software",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-01",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI’s chief research officer outlines the company’s strategy to address recent hacking incidents involving its agents.",
+    "page": "articles/openai-s-hacking-response-highlights-new-security-protocols-2026-10-01.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+    ]
+  },
+  {
     "id": "google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-2026-10-01",
     "title": "Google Unveils Gemini 4 Argon, Its Most Powerful AI Model Yet",
     "description": "Google has launched Gemini 4 Argon, positioning it as a high‑performance model for coding and cybersecurity tasks.",
