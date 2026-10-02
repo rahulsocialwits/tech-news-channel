@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-unveils-galaxy-a08-a-budget-phone-with-6-000-mah-battery-and-25w-fast-charging-2026-10-02",
+    "title": "Samsung Unveils Galaxy A08, a Budget Phone with 6,000‑mAh Battery and 25W Fast Charging",
+    "description": "Samsung’s new Galaxy A08 targets mid‑segment buyers in India, featuring a 6,000‑mAh battery, 25W charging, and a 6.5‑inch display.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-02",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s new Galaxy A08 targets mid‑segment buyers in India, featuring a 6,000‑mAh battery, 25W charging, and a 6.5‑inch display.",
+    "page": "articles/samsung-unveils-galaxy-a08-a-budget-phone-with-6-000-mah-battery-and-25w-fast-charging-2026-10-02.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-launches-galaxy-a08-for-mid-segment-buyers-in-india/article71533002.ece"
+    ]
+  },
+  {
     "id": "nvidia-unveils-open-agent-safety-platform-to-contain-rogue-ai-2026-10-01",
     "title": "Nvidia Unveils Open Agent Safety Platform to Contain Rogue AI",
     "description": "Nvidia launches a new hardware‑software stack that can detect and quarantine rogue AI agents in milliseconds, combining OpenShell sandboxing with BlueField Sentry hardware.",
