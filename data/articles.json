@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-docs-and-drive-add-native-markdown-support-2026-10-06",
+    "title": "Google Docs and Drive Add Native Markdown Support",
+    "description": "Google expands its productivity suite to include full native support for Markdown files, easing workflows for writers and developers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-06",
+    "readTime": "3 min read",
+    "excerpt": "Google expands its productivity suite to include full native support for Markdown files, easing workflows for writers and developers.",
+    "page": "articles/google-docs-and-drive-add-native-markdown-support-2026-10-06.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-docs-drive-markdown-file-support-3719441/",
+      "https://9to5google.com/2026/10/05/google-docs-drive-markdown-support/"
+    ]
+  },
+  {
     "id": "lola-vision-systems-aims-to-simplify-running-ai-models-on-edge-chips-2026-10-05",
     "title": "Lola Vision Systems Aims to Simplify Running AI Models on Edge Chips",
     "description": "Lola Vision Systems is developing tools to make it easier to deploy AI models directly on low‑power chips, promising faster inference and lower latency for edge devices.",
