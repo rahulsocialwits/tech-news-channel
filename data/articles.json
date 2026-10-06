@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-ai-agents-need-context-not-just-data-experts-say-2026-10-06",
+    "title": "Enterprise AI Agents Need Context, Not Just Data, Experts Say",
+    "description": "Enterprise AI agents often lack contextual knowledge, hindering decision‑making, a new MIT Technology Review analysis explains.",
+    "category": "Enterprise",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-06",
+    "readTime": "3 min read",
+    "excerpt": "Enterprise AI agents often lack contextual knowledge, hindering decision‑making, a new MIT Technology Review analysis explains.",
+    "page": "articles/enterprise-ai-agents-need-context-not-just-data-experts-say-2026-10-06.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+    ]
+  },
+  {
     "id": "google-docs-and-drive-add-native-markdown-support-2026-10-06",
     "title": "Google Docs and Drive Add Native Markdown Support",
     "description": "Google expands its productivity suite to include full native support for Markdown files, easing workflows for writers and developers.",
