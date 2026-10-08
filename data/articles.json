@@ -1,5 +1,23 @@
 [
   {
+    "id": "amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08",
+    "title": "AMD Eyes Broader Partnership With Samsung to Secure Memory Supply",
+    "description": "AMD is pursuing a wider partnership with Samsung to tie advanced memory supply to its foundry orders, aiming to strengthen its semiconductor supply chain.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Semiconductors"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "AMD is pursuing a wider partnership with Samsung to tie advanced memory supply to its foundry orders, aiming to strengthen its semiconductor supply chain.",
+    "page": "articles/amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips"
+    ]
+  },
+  {
     "id": "google-cloud-unveils-gemini-agent-as-enterprise-universal-agent-for-work-2026-10-08",
     "title": "Google Cloud Unveils Gemini Agent as Enterprise ‘Universal Agent for Work’",
     "description": "Google Cloud introduces the Gemini Agent, a new AI-powered assistant designed to streamline workflows for enterprise customers.",
@@ -1787,24 +1805,6 @@
     "page": "articles/pnoe-unveils-sleeker-self-serve-breath-analyzing-mask-for-fitness-enthusiasts-2026-09-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
-    ]
-  },
-  {
-    "id": "google-tests-ai-powered-shopping-on-flipkart-in-india-2026-09-27",
-    "title": "Google Tests AI‑Powered Shopping on Flipkart in India",
-    "description": "Google pilots Gemini‑driven purchasing on Walmart‑owned Flipkart, offering a new AI shopping experience for select users and products.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "Google pilots Gemini‑driven purchasing on Walmart‑owned Flipkart, offering a new AI shopping experience for select users and products.",
-    "page": "articles/google-tests-ai-powered-shopping-on-flipkart-in-india-2026-09-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     ]
   }
 ]
