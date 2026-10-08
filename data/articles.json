@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08",
+    "title": "Microsoft Unveils AI‑Friendly Hardware and Windows Updates at Latest Event",
+    "description": "Microsoft announced new AI‑optimized hardware and Windows features, aiming to make AI integration smoother for developers and users.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft announced new AI‑optimized hardware and Windows features, aiming to make AI integration smoother for developers and users.",
+    "page": "articles/microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+    ]
+  },
+  {
     "id": "india-delays-starlink-launch-as-security-clearance-pending-2026-10-08",
     "title": "India Delays Starlink Launch as Security Clearance Pending",
     "description": "India’s telecom regulator has postponed Starlink’s entry into the market while it reviews security clearance requirements.",
@@ -1770,14 +1788,5 @@
     "readTime": "5 min read",
     "excerpt": "Cloud computing lets people and businesses use computing resources over the internet instead of relying only on local hardware.",
     "page": "articles/cloud-computing.html"
-  },
-  {
-    "id": "deepseek",
-    "title": "What Is DeepSeek? Understanding the AI Model and Company",
-    "category": "AI",
-    "date": "2026-09-26",
-    "readTime": "6 min read",
-    "excerpt": "DeepSeek is an AI company and model family that has drawn attention for its research, language models and approach to efficient AI development.",
-    "page": "articles/deepseek.html"
   }
 ]
