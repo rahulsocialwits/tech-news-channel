@@ -1,5 +1,23 @@
 [
   {
+    "id": "teenage-engineering-shifts-focus-away-from-synthesizers-2026-10-08",
+    "title": "Teenage Engineering Shifts Focus Away From Synthesizers",
+    "description": "Teenage Engineering, known for its popular synth line, announced it will stop producing new synthesizers to pursue other creative ventures.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "Teenage Engineering, known for its popular synth line, announced it will stop producing new synthesizers to pursue other creative ventures.",
+    "page": "articles/teenage-engineering-shifts-focus-away-from-synthesizers-2026-10-08.html",
+    "source_urls": [
+      "https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/"
+    ]
+  },
+  {
     "id": "liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08",
     "title": "Liferay and MindCraft Join Forces to Modernise Enterprise Digital Experiences",
     "description": "Liferay and MindCraft partner to combine DXP and consulting expertise, helping Indian enterprises simplify digital environments and accelerate transformation.",
@@ -1788,14 +1806,5 @@
     "source_urls": [
       "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
     ]
-  },
-  {
-    "id": "chatgpt",
-    "title": "What Is ChatGPT? How OpenAI's AI Assistant Works",
-    "category": "AI",
-    "date": "2026-09-26",
-    "readTime": "6 min read",
-    "excerpt": "A practical introduction to ChatGPT, what it can do, how conversational AI works at a high level, and where users should be careful.",
-    "page": "articles/chatgpt.html"
   }
 ]
