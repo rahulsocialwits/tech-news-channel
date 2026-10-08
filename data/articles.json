@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-cloud-unveils-gemini-agent-as-enterprise-universal-agent-for-work-2026-10-08",
+    "title": "Google Cloud Unveils Gemini Agent as Enterprise ‘Universal Agent for Work’",
+    "description": "Google Cloud introduces the Gemini Agent, a new AI-powered assistant designed to streamline workflows for enterprise customers.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "Google Cloud introduces the Gemini Agent, a new AI-powered assistant designed to streamline workflows for enterprise customers.",
+    "page": "articles/google-cloud-unveils-gemini-agent-as-enterprise-universal-agent-for-work-2026-10-08.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/08/gemini-agent-google-cloud/"
+    ]
+  },
+  {
     "id": "teenage-engineering-shifts-focus-away-from-synthesizers-2026-10-08",
     "title": "Teenage Engineering Shifts Focus Away From Synthesizers",
     "description": "Teenage Engineering, known for its popular synth line, announced it will stop producing new synthesizers to pursue other creative ventures.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-tests-ai-powered-shopping-on-flipkart-in-india-2026-09-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-    ]
-  },
-  {
-    "id": "ai-adoption-in-hospitals-drives-nearly-a-billion-dollars-in-extra-healthcare-spending-2026-09-26",
-    "title": "AI Adoption in Hospitals Drives Nearly a Billion Dollars in Extra Healthcare Spending",
-    "description": "Hospital use of AI tools added $942 million to costs over two years, says Blue Cross Blue Shield.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg",
-    "date": "2026-09-26",
-    "readTime": "3 min read",
-    "excerpt": "Hospital use of AI tools added $942 million to costs over two years, says Blue Cross Blue Shield.",
-    "page": "articles/ai-adoption-in-hospitals-drives-nearly-a-billion-dollars-in-extra-healthcare-spending-2026-09-26.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
     ]
   }
 ]
