@@ -1,5 +1,23 @@
 [
   {
+    "id": "liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08",
+    "title": "Liferay and MindCraft Join Forces to Modernise Enterprise Digital Experiences",
+    "description": "Liferay and MindCraft partner to combine DXP and consulting expertise, helping Indian enterprises simplify digital environments and accelerate transformation.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "Liferay and MindCraft partner to combine DXP and consulting expertise, helping Indian enterprises simplify digital environments and accelerate transformation.",
+    "page": "articles/liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/liferay-and-mindcraft-partner-to-modernise-digital-experiences-for-enterprises/"
+    ]
+  },
+  {
     "id": "microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08",
     "title": "Microsoft Unveils AI‑Friendly Hardware and Windows Updates at Latest Event",
     "description": "Microsoft announced new AI‑optimized hardware and Windows features, aiming to make AI integration smoother for developers and users.",
@@ -1779,14 +1797,5 @@
     "readTime": "6 min read",
     "excerpt": "A practical introduction to ChatGPT, what it can do, how conversational AI works at a high level, and where users should be careful.",
     "page": "articles/chatgpt.html"
-  },
-  {
-    "id": "cloud-computing",
-    "title": "What Is Cloud Computing? A Simple Guide to the Cloud",
-    "category": "Cloud",
-    "date": "2026-09-26",
-    "readTime": "5 min read",
-    "excerpt": "Cloud computing lets people and businesses use computing resources over the internet instead of relying only on local hardware.",
-    "page": "articles/cloud-computing.html"
   }
 ]
