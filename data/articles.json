@@ -1,5 +1,23 @@
 [
   {
+    "id": "crowdstrike-uncovers-ai-tool-use-in-south-korean-bank-hack-2026-10-08",
+    "title": "CrowdStrike Uncovers AI Tool Use in South Korean Bank Hack",
+    "description": "Cybersecurity firm CrowdStrike traced a suspected attacker to AI coding tools while investigating a South Korean bank breach.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-08",
+    "readTime": "3 min read",
+    "excerpt": "Cybersecurity firm CrowdStrike traced a suspected attacker to AI coding tools while investigating a South Korean bank breach.",
+    "page": "articles/crowdstrike-uncovers-ai-tool-use-in-south-korean-bank-hack-2026-10-08.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-says-crowdstrike/article71558258.ece"
+    ]
+  },
+  {
     "id": "mecka-ai-secures-60m-to-fuel-humanoid-robot-training-2026-10-08",
     "title": "Mecka AI Secures $60M to Fuel Humanoid Robot Training",
     "description": "Robot data startup Mecka AI raises $60 million from Sequoia to expand its motion‑capture platform for training humanoid robots.",
