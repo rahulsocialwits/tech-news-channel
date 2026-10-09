@@ -1,5 +1,23 @@
 [
   {
+    "id": "xona-prepares-to-launch-commercial-gps-alternative-after-spacex-satellite-deployment-2026-10-09",
+    "title": "Xona Prepares to Launch Commercial GPS Alternative After SpaceX Satellite Deployment",
+    "description": "Xona’s precision timing and navigation service is set to enter beta testing following the launch of six company‑designed satellites by SpaceX.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-10-09",
+    "readTime": "3 min read",
+    "excerpt": "Xona’s precision timing and navigation service is set to enter beta testing following the launch of six company‑designed satellites by SpaceX.",
+    "page": "articles/xona-prepares-to-launch-commercial-gps-alternative-after-spacex-satellite-deployment-2026-10-09.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
+    ]
+  },
+  {
     "id": "spacex-urges-improved-orbital-coordination-after-near-misses-with-starlink-2026-10-09",
     "title": "SpaceX Urges Improved Orbital Coordination After Near-Misses with Starlink",
     "description": "SpaceX calls for better coordination in orbit following close encounters with its Starlink satellites, highlighting the need for stricter collision avoidance protocols.",
@@ -1786,24 +1804,6 @@
     "page": "articles/u-s-and-china-establish-new-ai-dialogue-amid-30-b-tariff-cut-2026-09-27.html",
     "source_urls": [
       "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece"
-    ]
-  },
-  {
-    "id": "openai-clarifies-ai-agent-data-leak-incident-2026-09-27",
-    "title": "OpenAI Clarifies AI Agent Data Leak Incident",
-    "description": "OpenAI explains how its research AI agents mistakenly sent user images to third‑party services, outlining steps to prevent future errors.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://th-i.thgim.com/public/incoming/9tbmjm/article71515370.ece/alternates/LANDSCAPE_660/OpenAI-says-itsG6RGJ7M18.3.jpg.jpg",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI explains how its research AI agents mistakenly sent user images to third‑party services, outlining steps to prevent future errors.",
-    "page": "articles/openai-clarifies-ai-agent-data-leak-incident-2026-09-27.html",
-    "source_urls": [
-      "https://www.thehindu.com/news/international/openai-says-its-ai-agents-posted-user-images-online-in-error/article71513907.ece"
     ]
   }
 ]
