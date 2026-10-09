@@ -1,5 +1,23 @@
 [
   {
+    "id": "globalfoundries-joins-tsmc-s-cowos-supply-chain-with-2-b-silicon-interposer-deal-2026-10-09",
+    "title": "GlobalFoundries Joins TSMC’s CoWoS Supply Chain with $2 B Silicon Interposer Deal",
+    "description": "GlobalFoundries will produce silicon interposers for TSMC’s CoWoS in the U.S., a five‑year, $2 billion agreement that expands the U.S. supply chain for AI and HPC chips.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Semiconductors"
+    ],
+    "feature_image": "",
+    "date": "2026-10-09",
+    "readTime": "3 min read",
+    "excerpt": "GlobalFoundries will produce silicon interposers for TSMC’s CoWoS in the U.S., a five‑year, $2 billion agreement that expands the U.S. supply chain for AI and HPC chips.",
+    "page": "articles/globalfoundries-joins-tsmc-s-cowos-supply-chain-with-2-b-silicon-interposer-deal-2026-10-09.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion"
+    ]
+  },
+  {
     "id": "amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08",
     "title": "AMD Eyes Broader Partnership With Samsung to Secure Memory Supply",
     "description": "AMD is pursuing a wider partnership with Samsung to tie advanced memory supply to its foundry orders, aiming to strengthen its semiconductor supply chain.",
@@ -1787,24 +1805,6 @@
     "page": "articles/openai-and-anthropic-ceos-summoned-to-australian-ai-probe-over-medicare-database-breach-2026-09-27.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/health/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece"
-    ]
-  },
-  {
-    "id": "pnoe-unveils-sleeker-self-serve-breath-analyzing-mask-for-fitness-enthusiasts-2026-09-27",
-    "title": "PNOE Unveils Sleeker Self‑Serve Breath‑Analyzing Mask for Fitness Enthusiasts",
-    "description": "Malden‑based startup PNOE launches a new self‑serve mask that measures VO₂ max and metabolic markers in eight minutes, targeting gym users.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "Malden‑based startup PNOE launches a new self‑serve mask that measures VO₂ max and metabolic markers in eight minutes, targeting gym users.",
-    "page": "articles/pnoe-unveils-sleeker-self-serve-breath-analyzing-mask-for-fitness-enthusiasts-2026-09-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
     ]
   }
 ]
