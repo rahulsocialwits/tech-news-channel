@@ -1,5 +1,23 @@
 [
   {
+    "id": "live-activities-now-available-on-iphone-and-carplay-2026-10-11",
+    "title": "Live Activities Now Available on iPhone and CarPlay",
+    "description": "Apple expands Live Activities to iPhone and CarPlay, letting users view real‑time app data directly on the lock screen and in the CarPlay interface.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-11",
+    "readTime": "3 min read",
+    "excerpt": "Apple expands Live Activities to iPhone and CarPlay, letting users view real‑time app data directly on the lock screen and in the CarPlay interface.",
+    "page": "articles/live-activities-now-available-on-iphone-and-carplay-2026-10-11.html",
+    "source_urls": [
+      "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/"
+    ]
+  },
+  {
     "id": "cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11",
     "title": "Cloudflare’s Deno Acquisition Aims to Supercharge Edge Computing",
     "description": "Cloudflare has announced the purchase of Deno, the JavaScript runtime, to enhance its Workers platform and bring a new programming model to the edge.",
@@ -1785,24 +1803,6 @@
     "page": "articles/hp-omen-transcend-14-a-compact-gaming-laptop-that-packs-a-3k-oled-display-and-rtx-5070-2026-09-27.html",
     "source_urls": [
       "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy"
-    ]
-  },
-  {
-    "id": "quick-router-tweaks-can-fortify-your-home-network-in-just-ten-minutes-2026-09-27",
-    "title": "Quick Router Tweaks Can Fortify Your Home Network in Just Ten Minutes",
-    "description": "A simple 10‑minute guide shows how to harden most home routers against common attacks by adjusting a handful of settings.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "https://www.engadget.com/img/gallery/how-to-improve-your-routers-security-in-10-minutes/intro-1790246428.sm.webp",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "A simple 10‑minute guide shows how to harden most home routers against common attacks by adjusting a handful of settings.",
-    "page": "articles/quick-router-tweaks-can-fortify-your-home-network-in-just-ten-minutes-2026-09-27.html",
-    "source_urls": [
-      "https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/"
     ]
   }
 ]
