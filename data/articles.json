@@ -1,5 +1,22 @@
 [
   {
+    "id": "microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11",
+    "title": "Microsoft’s Satya Nadella Calls for an ‘Emergency Brake’ on AI Models",
+    "description": "Microsoft CEO urges a pause to evaluate AI trust architecture amid growing concerns about model safety and accountability.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-11",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft CEO urges a pause to evaluate AI trust architecture amid growing concerns about model safety and accountability.",
+    "page": "articles/microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+    ]
+  },
+  {
     "id": "google-teases-new-fitbit-edge-wearable-ahead-of-october-12-reveal-2026-10-10",
     "title": "Google Teases New Fitbit Edge Wearable Ahead of October 12 Reveal",
     "description": "Google hints at its upcoming Fitbit Edge smartwatch, set to launch on October 12, with teaser posts and early design details.",
@@ -1786,24 +1803,6 @@
     "page": "articles/tesla-s-500-mile-semi-faces-new-infrastructure-hurdle-as-charging-gaps-persist-2026-09-27.html",
     "source_urls": [
       "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
-    ]
-  },
-  {
-    "id": "enterprise-ai-pilots-shine-but-production-remains-the-real-challenge-2026-09-27",
-    "title": "Enterprise AI Pilots Shine, but Production Remains the Real Challenge",
-    "description": "A new study shows that while AI pilots succeed in controlled environments, scaling them to production exposes data, cost, and reliability hurdles.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/06/technical-controller.jpg",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "A new study shows that while AI pilots succeed in controlled environments, scaling them to production exposes data, cost, and reliability hurdles.",
-    "page": "articles/enterprise-ai-pilots-shine-but-production-remains-the-real-challenge-2026-09-27.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/enterprise-ai-pilots-look-easy-production-is-the-hard-part-180583.html?rss=1"
     ]
   }
 ]
