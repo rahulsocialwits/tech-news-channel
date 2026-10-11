@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11",
+    "title": "Apple Eyes AI‑Generated Podcast Future by Hiring Huxe Team",
+    "description": "Apple announced a deal to hire the team behind personalized podcast startup Huxe and license its technology, signaling a push into AI‑generated audio content.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-11",
+    "readTime": "3 min read",
+    "excerpt": "Apple announced a deal to hire the team behind personalized podcast startup Huxe and license its technology, signaling a push into AI‑generated audio content.",
+    "page": "articles/apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    ]
+  },
+  {
     "id": "microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11",
     "title": "Microsoft’s Satya Nadella Calls for an ‘Emergency Brake’ on AI Models",
     "description": "Microsoft CEO urges a pause to evaluate AI trust architecture amid growing concerns about model safety and accountability.",
@@ -1785,24 +1803,6 @@
     "page": "articles/tiktok-to-pay-over-100-million-in-alabama-settlement-over-safety-claims-2026-09-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
-    ]
-  },
-  {
-    "id": "tesla-s-500-mile-semi-faces-new-infrastructure-hurdle-as-charging-gaps-persist-2026-09-27",
-    "title": "Tesla’s 500‑mile Semi Faces New Infrastructure Hurdle as Charging Gaps Persist",
-    "description": "Tesla’s long‑range electric truck still struggles to find enough charging points, limiting its commercial viability.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "Tesla’s long‑range electric truck still struggles to find enough charging points, limiting its commercial viability.",
-    "page": "articles/tesla-s-500-mile-semi-faces-new-infrastructure-hurdle-as-charging-gaps-persist-2026-09-27.html",
-    "source_urls": [
-      "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
     ]
   }
 ]
