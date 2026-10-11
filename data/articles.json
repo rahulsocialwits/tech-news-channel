@@ -1,5 +1,23 @@
 [
   {
+    "id": "cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11",
+    "title": "Cloudflare’s Deno Acquisition Aims to Supercharge Edge Computing",
+    "description": "Cloudflare has announced the purchase of Deno, the JavaScript runtime, to enhance its Workers platform and bring a new programming model to the edge.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-11",
+    "readTime": "3 min read",
+    "excerpt": "Cloudflare has announced the purchase of Deno, the JavaScript runtime, to enhance its Workers platform and bring a new programming model to the edge.",
+    "page": "articles/cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+    ]
+  },
+  {
     "id": "petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11",
     "title": "Petra Power Unveils Fuel‑Cell Solution Aimed at Powering Data Centers and Defense Vehicles",
     "description": "Startup Petra Power claims its high‑efficiency fuel cells can slash fuel costs for data centers and military vehicles, offering a greener alternative to traditional power sources.",
@@ -1785,24 +1803,6 @@
     "page": "articles/quick-router-tweaks-can-fortify-your-home-network-in-just-ten-minutes-2026-09-27.html",
     "source_urls": [
       "https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/"
-    ]
-  },
-  {
-    "id": "android-phones-get-a-new-power-move-turning-the-ai-button-into-a-shortcut-master-2026-09-27",
-    "title": "Android Phones Get a New Power Move: Turning the AI Button into a Shortcut Master",
-    "description": "Android users can now repurpose the built‑in AI button into a powerful shortcut key, boosting productivity and customization on their devices.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-ai-button-on-a-honor-600-pro-675w-380h.jpg.webp",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "Android users can now repurpose the built‑in AI button into a powerful shortcut key, boosting productivity and customization on their devices.",
-    "page": "articles/android-phones-get-a-new-power-move-turning-the-ai-button-into-a-shortcut-master-2026-09-27.html",
-    "source_urls": [
-      "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/"
     ]
   }
 ]
