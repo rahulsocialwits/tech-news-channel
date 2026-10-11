@@ -1,5 +1,23 @@
 [
   {
+    "id": "petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11",
+    "title": "Petra Power Unveils Fuel‑Cell Solution Aimed at Powering Data Centers and Defense Vehicles",
+    "description": "Startup Petra Power claims its high‑efficiency fuel cells can slash fuel costs for data centers and military vehicles, offering a greener alternative to traditional power sources.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Startups"
+    ],
+    "feature_image": "",
+    "date": "2026-10-11",
+    "readTime": "3 min read",
+    "excerpt": "Startup Petra Power claims its high‑efficiency fuel cells can slash fuel costs for data centers and military vehicles, offering a greener alternative to traditional power sources.",
+    "page": "articles/petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
+    ]
+  },
+  {
     "id": "apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11",
     "title": "Apple Eyes AI‑Generated Podcast Future by Hiring Huxe Team",
     "description": "Apple announced a deal to hire the team behind personalized podcast startup Huxe and license its technology, signaling a push into AI‑generated audio content.",
@@ -1785,24 +1803,6 @@
     "page": "articles/android-phones-get-a-new-power-move-turning-the-ai-button-into-a-shortcut-master-2026-09-27.html",
     "source_urls": [
       "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/"
-    ]
-  },
-  {
-    "id": "tiktok-to-pay-over-100-million-in-alabama-settlement-over-safety-claims-2026-09-27",
-    "title": "TikTok to Pay Over $100 Million in Alabama Settlement Over Safety Claims",
-    "description": "TikTok agreed to a minimum $100 million settlement with Alabama after allegations it misled users about safety and designed its platform to addict children.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=720,477",
-    "date": "2026-09-27",
-    "readTime": "3 min read",
-    "excerpt": "TikTok agreed to a minimum $100 million settlement with Alabama after allegations it misled users about safety and designed its platform to addict children.",
-    "page": "articles/tiktok-to-pay-over-100-million-in-alabama-settlement-over-safety-claims-2026-09-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
     ]
   }
 ]
