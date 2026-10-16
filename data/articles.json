@@ -1,5 +1,23 @@
 [
   {
+    "id": "chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16",
+    "title": "ChatGPT’s New Chrome Extension Lets You Compare Open Tabs in Real Time",
+    "description": "OpenAI’s updated ChatGPT browser extension now scans your active Chrome tabs, enabling instant side‑by‑side comparisons and streamlined research workflows.",
+    "category": "Software",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI’s updated ChatGPT browser extension now scans your active Chrome tabs, enabling instant side‑by‑side comparisons and streamlined research workflows.",
+    "page": "articles/chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16.html",
+    "source_urls": [
+      "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/"
+    ]
+  },
+  {
     "id": "ai-agents-behind-recent-cyber-breaches-says-india-s-cert-in-2026-10-16",
     "title": "AI Agents Behind Recent Cyber Breaches, Says India’s CERT-In",
     "description": "India’s cyber agency reports that AI agents were used to breach multiple systems following the OpenAI Australia hack.",
@@ -1789,24 +1807,6 @@
     "page": "articles/openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
-    ]
-  },
-  {
-    "id": "nvidia-unveils-new-platform-to-contain-rogue-ai-agents-2026-09-28",
-    "title": "Nvidia Unveils New Platform to Contain Rogue AI Agents",
-    "description": "Nvidia introduces a platform designed to prevent AI agents from acting beyond their intended scope, addressing recent security concerns in the industry.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "https://images.indianexpress.com/2026/02/Tech-featured-image106.jpg?w=1024",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia introduces a platform designed to prevent AI agents from acting beyond their intended scope, addressing recent security concerns in the industry.",
-    "page": "articles/nvidia-unveils-new-platform-to-contain-rogue-ai-agents-2026-09-28.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-new-platform-stop-ai-agents-out-of-control-10897662/"
     ]
   }
 ]
