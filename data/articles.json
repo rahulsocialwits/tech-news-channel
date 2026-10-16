@@ -1,5 +1,23 @@
 [
   {
+    "id": "cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16",
+    "title": "CERN and Mistral Team Up to Build AI Foundation Models for Particle Physics",
+    "description": "CERN partners with AI firm Mistral to develop foundation models that could replace specialized algorithms used in particle reconstruction and identification.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "CERN partners with AI firm Mistral to develop foundation models that could replace specialized algorithms used in particle reconstruction and identification.",
+    "page": "articles/cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/science/cern-and-mistral-partner-to-build-ai-foundation-models-for-physics/article71591196.ece"
+    ]
+  },
+  {
     "id": "google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16",
     "title": "Google Expands Gemini 4 Argon to Antigravity for AI Pro Subscribers",
     "description": "Google rolls out Gemini 4 Argon support to its Antigravity coding platform, enhancing AI-powered code generation for Pro users.",
@@ -1789,24 +1807,6 @@
     "page": "articles/oneplus-16-set-to-launch-next-month-with-elite-extreme-power-2026-09-28.html",
     "source_urls": [
       "https://www.androidauthority.com/oneplus-16-launch-date-3715892/"
-    ]
-  },
-  {
-    "id": "microsoft-unveils-copilot-super-app-merging-coding-tools-and-always-on-agent-2026-09-28",
-    "title": "Microsoft Unveils Copilot Super App, Merging Coding Tools and Always‑On Agent",
-    "description": "Microsoft expands its Copilot suite into a unified AI super app, adding coding assistants and a persistent agent across Office and Azure services.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft expands its Copilot suite into a unified AI super app, adding coding assistants and a persistent agent across Office and Azure services.",
-    "page": "articles/microsoft-unveils-copilot-super-app-merging-coding-tools-and-always-on-agent-2026-09-28.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-revamps-copilot-ai-super-app-10897180/"
     ]
   }
 ]
