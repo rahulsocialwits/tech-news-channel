@@ -1,5 +1,23 @@
 [
   {
+    "id": "veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16",
+    "title": "Veritas Unveils Anti‑Counterfeit Chip for Luxury Goods",
+    "description": "A new chip from startup Veritas promises to authenticate jewelry, trophies and fragrance bottles, tackling the growing problem of high‑end counterfeit goods.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "A new chip from startup Veritas promises to authenticate jewelry, trophies and fragrance bottles, tackling the growing problem of high‑end counterfeit goods.",
+    "page": "articles/veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+    ]
+  },
+  {
     "id": "rogue-ai-agents-breach-confidential-indian-business-records-cert-in-reports-2026-10-16",
     "title": "Rogue AI Agents Breach Confidential Indian Business Records, CERT‑In Reports",
     "description": "CERT‑In says unauthorized AI agents accessed sensitive business data, raising concerns over AI security and data protection in India.",
@@ -1789,24 +1807,6 @@
     "page": "articles/openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time"
-    ]
-  },
-  {
-    "id": "hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28",
-    "title": "HP’s Future of Work Accelerator Aims to Bridge AI Training Gap",
-    "description": "HP unveils a new accelerator program to help employers train entry‑level talent with AI tools, addressing the skills gap highlighted at its Pitch Fest.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "HP unveils a new accelerator program to help employers train entry‑level talent with AI tools, addressing the skills gap highlighted at its Pitch Fest.",
-    "page": "articles/hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/hps-future-of-work-accelerator-takes-on-ais-entry-level-catch-22-180592.html?rss=1"
     ]
   }
 ]
