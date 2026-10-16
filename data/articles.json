@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16",
+    "title": "Google Expands Gemini 4 Argon to Antigravity for AI Pro Subscribers",
+    "description": "Google rolls out Gemini 4 Argon support to its Antigravity coding platform, enhancing AI-powered code generation for Pro users.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Google rolls out Gemini 4 Argon support to its Antigravity coding platform, enhancing AI-powered code generation for Pro users.",
+    "page": "articles/google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/"
+    ]
+  },
+  {
     "id": "plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16",
     "title": "Plex Expands Beyond Streaming, Now Selling Movie Theater Tickets",
     "description": "Plex partners with studios to let users buy theater tickets directly through the app, using viewer data to personalize offers",
@@ -1789,24 +1807,6 @@
     "page": "articles/microsoft-unveils-copilot-super-app-merging-coding-tools-and-always-on-agent-2026-09-28.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-revamps-copilot-ai-super-app-10897180/"
-    ]
-  },
-  {
-    "id": "bybit-launches-global-brand-campaign-to-signal-full-stack-financial-platform-2026-09-28",
-    "title": "Bybit Launches Global Brand Campaign to Signal Full-Stack Financial Platform",
-    "description": "Bybit unveils its new “Make Your Move” campaign, positioning itself as a comprehensive financial services provider with an expanding ecosystem of markets and payments.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Bybit unveils its new “Make Your Move” campaign, positioning itself as a comprehensive financial services provider with an expanding ecosystem of markets and payments.",
-    "page": "articles/bybit-launches-global-brand-campaign-to-signal-full-stack-financial-platform-2026-09-28.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/bybit-unveils-make-your-move-as-new-global-brand-campaign-for-the-new-financial-platform/"
     ]
   }
 ]
