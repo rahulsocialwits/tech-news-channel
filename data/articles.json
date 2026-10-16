@@ -1,5 +1,25 @@
 [
   {
+    "id": "tesla-s-new-roadster-takes-to-the-skies-with-spacex-powered-thrusters-2026-10-16",
+    "title": "Tesla’s New Roadster Takes to the Skies with SpaceX‑Powered Thrusters",
+    "description": "Tesla unveiled a next‑generation Roadster that can launch itself into the air using SpaceX‑derived thrusters, sparking excitement among automotive and aerospace enthusiasts.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Tesla unveiled a next‑generation Roadster that can launch itself into the air using SpaceX‑derived thrusters, sparking excitement among automotive and aerospace enthusiasts.",
+    "page": "articles/tesla-s-new-roadster-takes-to-the-skies-with-spacex-powered-thrusters-2026-10-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "https://www.wired.com/story/tesla-roadster-2-launch/",
+      "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
+    ]
+  },
+  {
     "id": "telecom-kyc-rollout-rocket-lab-delays-and-sk-hynix-s-3d-nand-negotiations-highlight-2026-t-2026-10-15",
     "title": "Telecom KYC Rollout, Rocket Lab Delays, and SK Hynix’s 3D NAND Negotiations Highlight 2026 Tech Landscape",
     "description": "India’s new caller ID law, Rocket Lab’s postponed Neutron launch, and SK Hynix’s trade‑tied fab plans illustrate the year’s tech policy and supply‑chain shifts.",
@@ -1786,24 +1806,6 @@
     "page": "articles/apple-faces-5-7-billion-verdict-over-haptic-technology-patent-infringement-2026-09-28.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/apple-owes-record-57-billion-in-haptic-technology-patent-case-us-jury-says/article71518293.ece"
-    ]
-  },
-  {
-    "id": "pentagon-seeks-30-million-to-fund-ai-powered-polygraph-next-2026-09-28",
-    "title": "Pentagon Seeks $30 Million to Fund AI‑Powered Polygraph Next",
-    "description": "The U.S. Department of Defense is requesting $30.3 million to develop an AI‑enhanced lie detector that uses standoff sensing and machine‑learning scoring algorithms.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "The U.S. Department of Defense is requesting $30.3 million to develop an AI‑enhanced lie detector that uses standoff sensing and machine‑learning scoring algorithms.",
-    "page": "articles/pentagon-seeks-30-million-to-fund-ai-powered-polygraph-next-2026-09-28.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
     ]
   }
 ]
