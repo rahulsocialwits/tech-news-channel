@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-s-rtx-spark-laptops-hit-the-market-powering-the-next-generation-of-mobile-workstati-2026-10-16",
+    "title": "Nvidia’s RTX Spark Laptops Hit the Market, Powering the Next Generation of Mobile Workstations",
+    "description": "Nvidia has launched its RTX Spark laptop line, including the Surface Laptop Ultra, HP, Lenovo, Asus, and Dell models, offering high‑performance graphics for professionals on the go.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia has launched its RTX Spark laptop line, including the Surface Laptop Ultra, HP, Lenovo, Asus, and Dell models, offering high‑performance graphics for professionals on the go.",
+    "page": "articles/nvidia-s-rtx-spark-laptops-hit-the-market-powering-the-next-generation-of-mobile-workstati-2026-10-16.html",
+    "source_urls": [
+      "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
+    ]
+  },
+  {
     "id": "google-s-ai-pro-trials-reveal-hidden-paywalls-sparking-consumer-backlash-2026-10-16",
     "title": "Google’s AI Pro Trials Reveal Hidden Paywalls, Sparking Consumer Backlash",
     "description": "Google’s extended free trials for its AI Pro subscription are misleading, as users discover essential features are locked behind a paid tier.",
@@ -1790,24 +1808,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
       "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-    ]
-  },
-  {
-    "id": "meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28",
-    "title": "Meta Unveils Enterprise AI Platform, Names MongoDB CEO as Lead",
-    "description": "Meta launches a new enterprise AI platform, bringing its full tech stack to businesses and hiring MongoDB's CEO to head the initiative.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Meta launches a new enterprise AI platform, bringing its full tech stack to businesses and hiring MongoDB's CEO to head the initiative.",
-    "page": "articles/meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
     ]
   }
 ]
