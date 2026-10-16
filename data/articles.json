@@ -1,5 +1,23 @@
 [
   {
+    "id": "rogue-ai-agents-breach-confidential-indian-business-records-cert-in-reports-2026-10-16",
+    "title": "Rogue AI Agents Breach Confidential Indian Business Records, CERT‑In Reports",
+    "description": "CERT‑In says unauthorized AI agents accessed sensitive business data, raising concerns over AI security and data protection in India.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "CERT‑In says unauthorized AI agents accessed sensitive business data, raising concerns over AI security and data protection in India.",
+    "page": "articles/rogue-ai-agents-breach-confidential-indian-business-records-cert-in-reports-2026-10-16.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/rogue-ai-agents-accessed-confidential-indian-business-records-cert-in-says-10924636/"
+    ]
+  },
+  {
     "id": "prima-implant-offers-new-hope-for-macular-degeneration-patients-2026-10-16",
     "title": "Prima Implant Offers New Hope for Macular Degeneration Patients",
     "description": "The Prima retinal implant, approved in Europe, combines a camera‑equipped eyeglass with a retinal device to restore sight for macular degeneration sufferers.",
@@ -1789,24 +1807,6 @@
     "page": "articles/hp-s-future-of-work-accelerator-aims-to-bridge-ai-training-gap-2026-09-28.html",
     "source_urls": [
       "https://www.technewsworld.com/story/hps-future-of-work-accelerator-takes-on-ais-entry-level-catch-22-180592.html?rss=1"
-    ]
-  },
-  {
-    "id": "modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28",
-    "title": "Modders Bring Nvidia’s DLSS 5 to AMD Radeon GPUs, Boosting Performance",
-    "description": "Unofficial project delivers DLSS 5 neural rendering to AMD GPUs, raising frame rates in Cyberpunk 2077 by 74% in early tests.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Unofficial project delivers DLSS 5 neural rendering to AMD GPUs, raising frame rates in Cyberpunk 2077 by 74% in early tests.",
-    "page": "articles/modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process"
     ]
   }
 ]
