@@ -1,5 +1,23 @@
 [
   {
+    "id": "benchmark-highlights-growing-challenge-of-backing-rival-startups-in-the-ai-era-2026-10-16",
+    "title": "Benchmark Highlights Growing Challenge of Backing Rival Startups in the AI Era",
+    "description": "Benchmark notes that the traditional venture rule against funding competing firms is eroding as AI startups proliferate, raising new partnership and conflict‑of‑interest questions for investors.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Benchmark notes that the traditional venture rule against funding competing firms is eroding as AI startups proliferate, raising new partnership and conflict‑of‑interest questions for investors.",
+    "page": "articles/benchmark-highlights-growing-challenge-of-backing-rival-startups-in-the-ai-era-2026-10-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
+    ]
+  },
+  {
     "id": "cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16",
     "title": "CERN and Mistral Team Up to Build AI Foundation Models for Particle Physics",
     "description": "CERN partners with AI firm Mistral to develop foundation models that could replace specialized algorithms used in particle reconstruction and identification.",
@@ -1789,24 +1807,6 @@
     "page": "articles/samsung-unveils-one-ui-9-stable-rollout-for-galaxy-s26-in-the-u-s-2026-09-28.html",
     "source_urls": [
       "https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/"
-    ]
-  },
-  {
-    "id": "oneplus-16-set-to-launch-next-month-with-elite-extreme-power-2026-09-28",
-    "title": "OnePlus 16 Set to Launch Next Month with Elite Extreme Power",
-    "description": "OnePlus announces the OnePlus 16, slated for release next month, featuring a new Elite Extreme power system and a limited availability outside the US and Europe.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "OnePlus announces the OnePlus 16, slated for release next month, featuring a new Elite Extreme power system and a limited availability outside the US and Europe.",
-    "page": "articles/oneplus-16-set-to-launch-next-month-with-elite-extreme-power-2026-09-28.html",
-    "source_urls": [
-      "https://www.androidauthority.com/oneplus-16-launch-date-3715892/"
     ]
   }
 ]
