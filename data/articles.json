@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-s-ai-pro-trials-reveal-hidden-paywalls-sparking-consumer-backlash-2026-10-16",
+    "title": "Google’s AI Pro Trials Reveal Hidden Paywalls, Sparking Consumer Backlash",
+    "description": "Google’s extended free trials for its AI Pro subscription are misleading, as users discover essential features are locked behind a paid tier.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Google’s extended free trials for its AI Pro subscription are misleading, as users discover essential features are locked behind a paid tier.",
+    "page": "articles/google-s-ai-pro-trials-reveal-hidden-paywalls-sparking-consumer-backlash-2026-10-16.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-ai-pro-trial-paid-features-gap-3724383/",
+      "https://9to5google.com/2026/10/16/google-restricts-every-free-ai-pro-trial-from-pixel-more-compared-to-paid-subscribers/"
+    ]
+  },
+  {
     "id": "veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16",
     "title": "Veritas Unveils Anti‑Counterfeit Chip for Luxury Goods",
     "description": "A new chip from startup Veritas promises to authenticate jewelry, trophies and fragrance bottles, tackling the growing problem of high‑end counterfeit goods.",
@@ -1789,24 +1808,6 @@
     "page": "articles/meta-unveils-enterprise-ai-platform-names-mongodb-ceo-as-lead-2026-09-28.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
-    ]
-  },
-  {
-    "id": "openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28",
-    "title": "OpenAI’s Jalapeño ASIC: A Quiet Powerhouse for Internal AI Work",
-    "description": "OpenAI has unveiled its custom Jalapeño AI inference ASIC, designed for internal use but hinting at future broader deployment. The chip promises significant performance gains for large‑model inference.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI has unveiled its custom Jalapeño AI inference ASIC, designed for internal use but hinting at future broader deployment. The chip promises significant performance gains for large‑model inference.",
-    "page": "articles/openai-s-jalapen-o-asic-a-quiet-powerhouse-for-internal-ai-work-2026-09-28.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time"
     ]
   }
 ]
