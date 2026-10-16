@@ -1,5 +1,23 @@
 [
   {
+    "id": "plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16",
+    "title": "Plex Expands Beyond Streaming, Now Selling Movie Theater Tickets",
+    "description": "Plex partners with studios to let users buy theater tickets directly through the app, using viewer data to personalize offers",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "Plex partners with studios to let users buy theater tickets directly through the app, using viewer data to personalize offers",
+    "page": "articles/plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
+    ]
+  },
+  {
     "id": "kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16",
     "title": "KDE Celebrates 30 Years with Plasma 6.8, X11 Farewell, and a New Movie",
     "description": "KDE marks three decades with a fresh Plasma release, remote upgrades, and a goodbye to X11, while also unveiling a celebratory film.",
@@ -1789,24 +1807,6 @@
     "page": "articles/bybit-launches-global-brand-campaign-to-signal-full-stack-financial-platform-2026-09-28.html",
     "source_urls": [
       "https://indiatechnologynews.in/bybit-unveils-make-your-move-as-new-global-brand-campaign-for-the-new-financial-platform/"
-    ]
-  },
-  {
-    "id": "truecaller-expands-scam-intelligence-to-the-open-web-2026-09-28",
-    "title": "Truecaller Expands Scam Intelligence to the Open Web",
-    "description": "Truecaller rolls out new open‑web scam detection, moving beyond caller ID to protect users worldwide.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=720,480",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "Truecaller rolls out new open‑web scam detection, moving beyond caller ID to protect users worldwide.",
-    "page": "articles/truecaller-expands-scam-intelligence-to-the-open-web-2026-09-28.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
     ]
   }
 ]
