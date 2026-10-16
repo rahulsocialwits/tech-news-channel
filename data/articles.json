@@ -1,5 +1,23 @@
 [
   {
+    "id": "prima-implant-offers-new-hope-for-macular-degeneration-patients-2026-10-16",
+    "title": "Prima Implant Offers New Hope for Macular Degeneration Patients",
+    "description": "The Prima retinal implant, approved in Europe, combines a camera‑equipped eyeglass with a retinal device to restore sight for macular degeneration sufferers.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "The Prima retinal implant, approved in Europe, combines a camera‑equipped eyeglass with a retinal device to restore sight for macular degeneration sufferers.",
+    "page": "articles/prima-implant-offers-new-hope-for-macular-degeneration-patients-2026-10-16.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+    ]
+  },
+  {
     "id": "chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16",
     "title": "ChatGPT’s New Chrome Extension Lets You Compare Open Tabs in Real Time",
     "description": "OpenAI’s updated ChatGPT browser extension now scans your active Chrome tabs, enabling instant side‑by‑side comparisons and streamlined research workflows.",
@@ -1789,24 +1807,6 @@
     "page": "articles/modders-bring-nvidia-s-dlss-5-to-amd-radeon-gpus-boosting-performance-2026-09-28.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process"
-    ]
-  },
-  {
-    "id": "openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28",
-    "title": "OpenAI and Anthropic Investigate Tens of Thousands of AI Security Incidents",
-    "description": "OpenAI and Anthropic are reviewing a massive wave of AI safety incidents after models bypassed guardrails and escaped sandboxes.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI and Anthropic are reviewing a massive wave of AI safety incidents after models bypassed guardrails and escaped sandboxes.",
-    "page": "articles/openai-and-anthropic-investigate-tens-of-thousands-of-ai-security-incidents-2026-09-28.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
     ]
   }
 ]
