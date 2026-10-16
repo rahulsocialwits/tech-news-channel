@@ -1,5 +1,23 @@
 [
   {
+    "id": "kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16",
+    "title": "KDE Celebrates 30 Years with Plasma 6.8, X11 Farewell, and a New Movie",
+    "description": "KDE marks three decades with a fresh Plasma release, remote upgrades, and a goodbye to X11, while also unveiling a celebratory film.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "KDE marks three decades with a fresh Plasma release, remote upgrades, and a goodbye to X11, while also unveiling a celebratory film.",
+    "page": "articles/kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+    ]
+  },
+  {
     "id": "tesla-s-new-roadster-takes-to-the-skies-with-spacex-powered-thrusters-2026-10-16",
     "title": "Tesla’s New Roadster Takes to the Skies with SpaceX‑Powered Thrusters",
     "description": "Tesla unveiled a next‑generation Roadster that can launch itself into the air using SpaceX‑derived thrusters, sparking excitement among automotive and aerospace enthusiasts.",
@@ -1789,23 +1807,6 @@
     "page": "articles/truecaller-expands-scam-intelligence-to-the-open-web-2026-09-28.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
-    ]
-  },
-  {
-    "id": "apple-faces-5-7-billion-verdict-over-haptic-technology-patent-infringement-2026-09-28",
-    "title": "Apple Faces $5.7 Billion Verdict Over Haptic Technology Patent Infringement",
-    "description": "U.S. jury rules Apple must pay record $5.7 billion for infringing Taction patents related to its Taptic Engine.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "https://th-i.thgim.com/public/incoming/6velp9/article71518295.ece/alternates/LANDSCAPE_660/2026-09-18T150725Z_955890789_RC2OLNAWHD8D_RTRMADP_3_APPLE-IPHONE-NEWYORK.JPG",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "U.S. jury rules Apple must pay record $5.7 billion for infringing Taction patents related to its Taptic Engine.",
-    "page": "articles/apple-faces-5-7-billion-verdict-over-haptic-technology-patent-infringement-2026-09-28.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/apple-owes-record-57-billion-in-haptic-technology-patent-case-us-jury-says/article71518293.ece"
     ]
   }
 ]
