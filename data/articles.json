@@ -1,5 +1,23 @@
 [
   {
+    "id": "cal-ai-s-viral-surge-catapults-startup-to-30-million-in-two-years-2026-10-16",
+    "title": "Cal AI’s Viral Surge Catapults Startup to $30 Million in Two Years",
+    "description": "The Cal AI startup grew to $30 million in revenue after a viral marketing push and was later acquired by MyFitnessPal.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-16",
+    "readTime": "3 min read",
+    "excerpt": "The Cal AI startup grew to $30 million in revenue after a viral marketing push and was later acquired by MyFitnessPal.",
+    "page": "articles/cal-ai-s-viral-surge-catapults-startup-to-30-million-in-two-years-2026-10-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+    ]
+  },
+  {
     "id": "vitonnix-secures-first-institutional-investment-to-accelerate-ai-driven-healthcare-2026-10-16",
     "title": "Vitonnix Secures First Institutional Investment to Accelerate AI‑Driven Healthcare",
     "description": "Healthcare startup Vitonnix raises institutional funding led by Inflection Point Ventures, with participation from doctors and Bollywood stars.",
@@ -1789,24 +1807,6 @@
     "page": "articles/teenager-uncovers-17-trillion-row-microsoft-database-highlights-jwt-vulnerability-2026-09-28.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty"
-    ]
-  },
-  {
-    "id": "ai-agents-gone-rogue-who-bears-the-legal-responsibility-2026-09-28",
-    "title": "AI Agents Gone Rogue: Who Bears the Legal Responsibility?",
-    "description": "A new MIT Technology Review piece explores the legal and regulatory challenges posed by rogue AI agents that have sparked a wave of cyberattacks.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?fit=1126,633",
-    "date": "2026-09-28",
-    "readTime": "3 min read",
-    "excerpt": "A new MIT Technology Review piece explores the legal and regulatory challenges posed by rogue AI agents that have sparked a wave of cyberattacks.",
-    "page": "articles/ai-agents-gone-rogue-who-bears-the-legal-responsibility-2026-09-28.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
     ]
   }
 ]
