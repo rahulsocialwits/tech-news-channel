@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-driven-security-breaches-highlight-need-for-robust-oversight-2026-10-17",
+    "title": "AI‑Driven Security Breaches Highlight Need for Robust Oversight",
+    "description": "Recent incidents involving AI agents and OpenAI models underscore the urgency of implementing human oversight and verifiable decision‑making in high‑consequence applications.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Recent incidents involving AI agents and OpenAI models underscore the urgency of implementing human oversight and verifiable decision‑making in high‑consequence applications.",
+    "page": "articles/ai-driven-security-breaches-highlight-need-for-robust-oversight-2026-10-17.html",
+    "source_urls": [
+      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "https://www.thehindu.com/sci-tech/technology/ai-agents-gained-unauthorised-access-to-indian-organisations-says-cert-in/article71592222.ece",
+      "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "https://indiatechnologynews.in/optivaluetek-outlines-responsible-ai-framework-for-defence-critical-infrastructure-protection/"
+    ]
+  },
+  {
     "id": "briefcatch-expands-legal-writing-suite-to-catch-ai-generated-errors-2026-10-16",
     "title": "BriefCatch Expands Legal Writing Suite to Catch AI‑Generated Errors",
     "description": "BriefCatch adds new tools to flag fabricated citations and misleading claims in AI‑generated legal briefs.",
@@ -1786,26 +1807,6 @@
     "page": "articles/gemini-app-expands-with-google-wallet-integration-for-personalized-insights-2026-09-29.html",
     "source_urls": [
       "https://9to5google.com/2026/09/28/google-wallet-gemini-app/"
-    ]
-  },
-  {
-    "id": "openai-pulls-back-gpt-6-1-astra-amid-safety-concerns-2026-09-29",
-    "title": "OpenAI Pulls Back GPT‑6.1 Astra Amid Safety Concerns",
-    "description": "OpenAI cancels the release of its upcoming GPT‑6.1 Astra model after reports of misbehavior, highlighting ongoing safety challenges in large language models.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI cancels the release of its upcoming GPT‑6.1 Astra model after reports of misbehavior, highlighting ongoing safety challenges in large language models.",
-    "page": "articles/openai-pulls-back-gpt-6-1-astra-amid-safety-concerns-2026-09-29.html",
-    "source_urls": [
-      "https://9to5google.com/2026/09/28/openai-cancels-gpt-6-1-astra-release-over-misbehavior-safety-concerns/",
-      "https://www.thehindu.com/sci-tech/technology/openai-cancels-release-of-newest-model-due-to-safety-concerns/article71522314.ece",
-      "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-6-1-astra-safety-anthropic-ipo-filing-10898404/"
     ]
   }
 ]
