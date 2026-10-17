@@ -1,5 +1,23 @@
 [
   {
+    "id": "critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17",
+    "title": "Critical Infrastructure Security Blind Spots Persist, New Report Warns",
+    "description": "A Palo Alto Networks report highlights ongoing gaps in security visibility for factories, hospitals and utilities, urging stronger defenses as attackers accelerate.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "A Palo Alto Networks report highlights ongoing gaps in security visibility for factories, hospitals and utilities, urging stronger defenses as attackers accelerate.",
+    "page": "articles/critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/palo-alto-report-critical-infrastructure-security-blind-spots-persist-180666.html?rss=1"
+    ]
+  },
+  {
     "id": "amazon-unveils-alexa-tablet-a-new-contender-in-the-everyday-android-market-2026-10-17",
     "title": "Amazon Unveils Alexa Tablet, A New Contender in the Everyday Android Market",
     "description": "Amazon’s new Alexa Tablet offers a full Android experience with built‑in Alexa, positioning it as a serious rival to Google’s tablet strategy.",
@@ -1790,24 +1808,6 @@
     "page": "articles/anker-unveils-limited-edition-wukong-power-bank-at-149-99-2026-09-29.html",
     "source_urls": [
       "https://www.androidauthority.com/anker-prime-power-bank-black-myth-wukong-deal-3716915/"
-    ]
-  },
-  {
-    "id": "zotac-denies-warranty-for-rtx-3060-owners-in-india-after-one-year-2026-09-29",
-    "title": "Zotac Denies Warranty for RTX 3060 Owners in India After One Year",
-    "description": "Zotac claims warranty starts from import date, sparking backlash among Indian RTX 3060 users.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Zotac claims warranty starts from import date, sparking backlash among Indian RTX 3060 users.",
-    "page": "articles/zotac-denies-warranty-for-rtx-3060-owners-in-india-after-one-year-2026-09-29.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date"
     ]
   }
 ]
