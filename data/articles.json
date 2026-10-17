@@ -1,5 +1,23 @@
 [
   {
+    "id": "htc-unveils-vive-eagle-smart-glasses-focused-on-privacy-not-social-media-2026-10-17",
+    "title": "HTC Unveils Vive Eagle Smart Glasses Focused on Privacy, Not Social Media",
+    "description": "HTC’s new Vive Eagle smart glasses offer full AR functionality while keeping user data off Meta’s platforms, aiming to give consumers a private alternative to mainstream smart glasses.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "HTC’s new Vive Eagle smart glasses offer full AR functionality while keeping user data off Meta’s platforms, aiming to give consumers a private alternative to mainstream smart glasses.",
+    "page": "articles/htc-unveils-vive-eagle-smart-glasses-focused-on-privacy-not-social-media-2026-10-17.html",
+    "source_urls": [
+      "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
+    ]
+  },
+  {
     "id": "apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17",
     "title": "Apple Unveils HomeView Hub, Expanding Its Smart‑Home Ecosystem",
     "description": "Apple’s new HomeView Hub promises integrated entertainment, personalized data and smart‑home control, leveraging Siri’s voice assistant to compete in the home automation market.",
@@ -1790,24 +1808,6 @@
     "page": "articles/wi-fi-extenders-are-becoming-obsolete-in-2026-2026-09-29.html",
     "source_urls": [
       "https://www.engadget.com/2270517/why-wifi-extenders-not-worth-buying/"
-    ]
-  },
-  {
-    "id": "lava-unveils-spark-2-pro-5g-android-16-ready-for-india-2026-09-29",
-    "title": "Lava Unveils Spark 2 Pro 5G, Android 16 Ready for India",
-    "description": "Lava launches its new Spark 2 Pro 5G smartphone, shipping with Android 16 and two years of security updates.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Lava launches its new Spark 2 Pro 5G smartphone, shipping with Android 16 and two years of security updates.",
-    "page": "articles/lava-unveils-spark-2-pro-5g-android-16-ready-for-india-2026-09-29.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-spark-2-pro-5g-in-india/article71523011.ece"
     ]
   }
 ]
