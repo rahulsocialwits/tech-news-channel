@@ -1,5 +1,23 @@
 [
   {
+    "id": "china-startup-langdao-silex-demonstrates-15-w-euv-light-source-prototype-2026-10-17",
+    "title": "China Startup Langdao Silex Demonstrates 15‑W EUV Light Source Prototype",
+    "description": "Langdao Silex showcased a 15‑W laser‑produced plasma EUV source at a trade show, a step toward future EUV lithography tools.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Hardware"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Langdao Silex showcased a 15‑W laser‑produced plasma EUV source at a trade show, a step toward future EUV lithography tools.",
+    "page": "articles/china-startup-langdao-silex-demonstrates-15-w-euv-light-source-prototype-2026-10-17.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
+    ]
+  },
+  {
     "id": "last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17",
     "title": "Last Chance to Grab Nvidia’s RTX 5090 Before 2028 Discontinuation",
     "description": "Nvidia’s top‑tier RTX 5090 may be gone by 2028, making current stock the final opportunity for gamers and creators.",
@@ -1789,24 +1807,6 @@
     "page": "articles/amd-unveils-gorgon-halo-mini-pc-with-192gb-ram-for-ai-workloads-2026-09-29.html",
     "source_urls": [
       "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425"
-    ]
-  },
-  {
-    "id": "peak-xv-expands-surge-cohort-raising-seed-investment-ceiling-to-5m-2026-09-29",
-    "title": "Peak XV Expands Surge Cohort, Raising Seed Investment Ceiling to $5M",
-    "description": "Peak XV boosts its Surge program, adding 18 startups and a $5M seed cap, with a focus on global markets and a strong Indian presence.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Peak XV boosts its Surge program, adding 18 startups and a $5M seed cap, with a focus on global markets and a strong Indian presence.",
-    "page": "articles/peak-xv-expands-surge-cohort-raising-seed-investment-ceiling-to-5m-2026-09-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
     ]
   }
 ]
