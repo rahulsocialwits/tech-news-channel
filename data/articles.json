@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17",
+    "title": "Apple Unveils HomeView Hub, Expanding Its Smart‑Home Ecosystem",
+    "description": "Apple’s new HomeView Hub promises integrated entertainment, personalized data and smart‑home control, leveraging Siri’s voice assistant to compete in the home automation market.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s new HomeView Hub promises integrated entertainment, personalized data and smart‑home control, leveraging Siri’s voice assistant to compete in the home automation market.",
+    "page": "articles/apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/apple-expands-smart-home-strategy-with-new-homeview-hub-180671.html?rss=1"
+    ]
+  },
+  {
     "id": "mit-bengaluru-launches-quantum-hub-to-propel-india-s-quantum-tech-ecosystem-2026-10-17",
     "title": "MIT Bengaluru Launches Quantum‑Hub to Propel India’s Quantum Tech Ecosystem",
     "description": "The Manipal Institute of Technology opens a new quantum‑engineering hub at its MAHE campus, aiming to boost research, innovation and workforce development in India.",
@@ -1790,24 +1808,6 @@
     "page": "articles/lava-unveils-spark-2-pro-5g-android-16-ready-for-india-2026-09-29.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-spark-2-pro-5g-in-india/article71523011.ece"
-    ]
-  },
-  {
-    "id": "intel-s-new-patent-puts-microleds-inside-cpus-for-diagnostics-and-aesthetics-2026-09-29",
-    "title": "Intel’s New Patent Puts MicroLEDs Inside CPUs for Diagnostics and Aesthetics",
-    "description": "Intel has filed a patent to embed MicroLEDs directly into CPU packages, offering new diagnostic and visual features for future processors.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Intel has filed a patent to embed MicroLEDs directly into CPU packages, offering new diagnostic and visual features for future processors.",
-    "page": "articles/intel-s-new-patent-puts-microleds-inside-cpus-for-diagnostics-and-aesthetics-2026-09-29.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate"
     ]
   }
 ]
