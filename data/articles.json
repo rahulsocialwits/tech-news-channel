@@ -1,5 +1,23 @@
 [
   {
+    "id": "encryption-under-pressure-global-laws-threaten-digital-privacy-2026-10-17",
+    "title": "Encryption Under Pressure: Global Laws Threaten Digital Privacy",
+    "description": "New surveillance proposals in Canada and other countries are tightening restrictions on encryption, raising concerns for privacy advocates and tech companies.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "New surveillance proposals in Canada and other countries are tightening restrictions on encryption, raising concerns for privacy advocates and tech companies.",
+    "page": "articles/encryption-under-pressure-global-laws-threaten-digital-privacy-2026-10-17.html",
+    "source_urls": [
+      "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/"
+    ]
+  },
+  {
     "id": "fitbit-edge-lacks-nfc-leaving-users-without-key-feature-2026-10-17",
     "title": "Fitbit Edge Lacks NFC, Leaving Users Without Key Feature",
     "description": "The new Fitbit Edge smartwatch misses NFC, a crucial feature for contactless payments and device pairing, according to Android Authority.",
@@ -1790,24 +1808,6 @@
     "page": "articles/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-state-actors-2026-09-29.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks"
-    ]
-  },
-  {
-    "id": "oppo-unveils-k14-plus-with-8-000-mah-battery-and-45w-supervooc-charging-2026-09-29",
-    "title": "Oppo Unveils K14 Plus with 8,000‑mAh Battery and 45W SUPERVOOC Charging",
-    "description": "Oppo’s new K14 Plus smartphone debuts in India with a massive 8,000‑mAh battery, 45W SUPERVOOC fast charging, and 10W reverse wired charging support.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Oppo’s new K14 Plus smartphone debuts in India with a massive 8,000‑mAh battery, 45W SUPERVOOC fast charging, and 10W reverse wired charging support.",
-    "page": "articles/oppo-unveils-k14-plus-with-8-000-mah-battery-and-45w-supervooc-charging-2026-09-29.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-launches-k14-plus-with-dimensity-processor-in-india/article71522887.ece"
     ]
   }
 ]
