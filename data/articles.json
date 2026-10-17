@@ -1,5 +1,23 @@
 [
   {
+    "id": "last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17",
+    "title": "Last Chance to Grab Nvidia’s RTX 5090 Before 2028 Discontinuation",
+    "description": "Nvidia’s top‑tier RTX 5090 may be gone by 2028, making current stock the final opportunity for gamers and creators.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s top‑tier RTX 5090 may be gone by 2028, making current stock the final opportunity for gamers and creators.",
+    "page": "articles/last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17.html",
+    "source_urls": [
+      "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
+    ]
+  },
+  {
     "id": "netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17",
     "title": "NetApp Launches Cohort 15 to Accelerate AI‑Powered Deep‑Tech Innovation",
     "description": "NetApp’s new Excellerator cohort brings together AI, security, automation and data infrastructure innovators to push the next wave of deep‑tech solutions.",
@@ -1789,24 +1807,6 @@
     "page": "articles/peak-xv-expands-surge-cohort-raising-seed-investment-ceiling-to-5m-2026-09-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
-    ]
-  },
-  {
-    "id": "anthropic-s-ipo-prospectus-highlights-massive-losses-rapid-growth-and-existential-risk-war-2026-09-29",
-    "title": "Anthropic’s IPO Prospectus Highlights Massive Losses, Rapid Growth and Existential Risk Warning",
-    "description": "Anthropic’s latest prospectus reveals tens of billions in annual losses, explosive growth, and a stark warning that its AI could pose an existential threat to humanity.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic’s latest prospectus reveals tens of billions in annual losses, explosive growth, and a stark warning that its AI could pose an existential threat to humanity.",
-    "page": "articles/anthropic-s-ipo-prospectus-highlights-massive-losses-rapid-growth-and-existential-risk-war-2026-09-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
     ]
   }
 ]
