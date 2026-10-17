@@ -1,5 +1,23 @@
 [
   {
+    "id": "netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17",
+    "title": "NetApp Launches Cohort 15 to Accelerate AI‑Powered Deep‑Tech Innovation",
+    "description": "NetApp’s new Excellerator cohort brings together AI, security, automation and data infrastructure innovators to push the next wave of deep‑tech solutions.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "NetApp’s new Excellerator cohort brings together AI, security, automation and data infrastructure innovators to push the next wave of deep‑tech solutions.",
+    "page": "articles/netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/netapp-excellerator-accelerates-deep-tech-innovation-for-the-ai-era-with-cohort-15/"
+    ]
+  },
+  {
     "id": "finstackk-unveils-salestaxx-to-automate-u-s-sales-tax-compliance-2026-10-17",
     "title": "FinStackk Unveils SalesTaxx to Automate U.S. Sales Tax Compliance",
     "description": "FinStackk’s new platform tracks state sales tax obligations and pinpoints exact collection dates for U.S. businesses.",
@@ -1789,24 +1807,6 @@
     "page": "articles/anthropic-s-ipo-prospectus-highlights-massive-losses-rapid-growth-and-existential-risk-war-2026-09-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
-    ]
-  },
-  {
-    "id": "qualcomm-eyes-broader-enterprise-role-beyond-snapdragon-summit-2026-09-29",
-    "title": "Qualcomm Eyes Broader Enterprise Role Beyond Snapdragon Summit",
-    "description": "Qualcomm is positioning itself to influence enterprise computing by integrating Windows, Google, Linux, and AI into PCs, according to a recent TechNewsWorld interview.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Qualcomm is positioning itself to influence enterprise computing by integrating Windows, Google, Linux, and AI into PCs, according to a recent TechNewsWorld interview.",
-    "page": "articles/qualcomm-eyes-broader-enterprise-role-beyond-snapdragon-summit-2026-09-29.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/qualcomm-wants-a-seat-at-its-table-180596.html?rss=1"
     ]
   }
 ]
