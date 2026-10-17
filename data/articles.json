@@ -1,5 +1,23 @@
 [
   {
+    "id": "mark-wahlberg-launches-affordable-gym-concept-to-challenge-longevity-startups-2026-10-17",
+    "title": "Mark Wahlberg Launches Affordable Gym Concept to Challenge Longevity Startups",
+    "description": "Actor Mark Wahlberg is opening a new gym chain that promises cold plunges, blood panels and protein muffins at a low price, aiming to compete with high‑end longevity brands.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Actor Mark Wahlberg is opening a new gym chain that promises cold plunges, blood panels and protein muffins at a low price, aiming to compete with high‑end longevity brands.",
+    "page": "articles/mark-wahlberg-launches-affordable-gym-concept-to-challenge-longevity-startups-2026-10-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+    ]
+  },
+  {
     "id": "nuvonix-teams-with-condor-ai-to-accelerate-edge-ai-deployment-2026-10-17",
     "title": "Nuvonix Teams with Condor AI to Accelerate Edge AI Deployment",
     "description": "Nuvonix has partnered with Condor AI to bring advanced edge AI solutions to enterprise customers, expanding its portfolio of emerging technology services.",
@@ -1790,24 +1808,6 @@
     "page": "articles/israel-s-first-dedicated-defense-tech-vc-closes-125-million-fund-2026-09-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
-    ]
-  },
-  {
-    "id": "atomic-s-agentic-supply-chain-software-gains-momentum-with-doordash-and-hellofresh-2026-09-29",
-    "title": "Atomic’s Agentic Supply‑Chain Software Gains Momentum with DoorDash and HelloFresh",
-    "description": "Atomic’s new agentic supply‑chain platform is now powering logistics for DoorDash and HelloFresh, signaling a shift toward autonomous supply‑chain management.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Atomic’s new agentic supply‑chain platform is now powering logistics for DoorDash and HelloFresh, signaling a shift toward autonomous supply‑chain management.",
-    "page": "articles/atomic-s-agentic-supply-chain-software-gains-momentum-with-doordash-and-hellofresh-2026-09-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
     ]
   }
 ]
