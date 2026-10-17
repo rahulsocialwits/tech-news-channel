@@ -1,5 +1,23 @@
 [
   {
+    "id": "mit-bengaluru-launches-quantum-hub-to-propel-india-s-quantum-tech-ecosystem-2026-10-17",
+    "title": "MIT Bengaluru Launches Quantum‑Hub to Propel India’s Quantum Tech Ecosystem",
+    "description": "The Manipal Institute of Technology opens a new quantum‑engineering hub at its MAHE campus, aiming to boost research, innovation and workforce development in India.",
+    "category": "Technology",
+    "labels": [
+      "Science",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "The Manipal Institute of Technology opens a new quantum‑engineering hub at its MAHE campus, aiming to boost research, innovation and workforce development in India.",
+    "page": "articles/mit-bengaluru-launches-quantum-hub-to-propel-india-s-quantum-tech-ecosystem-2026-10-17.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/mit-bengaluru-inaugurates-quantum-hub-mahe-to-advance-indias-quantum-technology-ecosystem/"
+    ]
+  },
+  {
     "id": "mark-wahlberg-launches-affordable-gym-concept-to-challenge-longevity-startups-2026-10-17",
     "title": "Mark Wahlberg Launches Affordable Gym Concept to Challenge Longevity Startups",
     "description": "Actor Mark Wahlberg is opening a new gym chain that promises cold plunges, blood panels and protein muffins at a low price, aiming to compete with high‑end longevity brands.",
@@ -1790,24 +1808,6 @@
     "page": "articles/intel-s-new-patent-puts-microleds-inside-cpus-for-diagnostics-and-aesthetics-2026-09-29.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate"
-    ]
-  },
-  {
-    "id": "israel-s-first-dedicated-defense-tech-vc-closes-125-million-fund-2026-09-29",
-    "title": "Israel’s First Dedicated Defense Tech VC Closes $125 Million Fund",
-    "description": "Protego Ventures, the country’s inaugural defense‑tech focused venture fund, has finished its debut $125 million closing, marking a milestone for Israeli security startups.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Startups"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Protego Ventures, the country’s inaugural defense‑tech focused venture fund, has finished its debut $125 million closing, marking a milestone for Israeli security startups.",
-    "page": "articles/israel-s-first-dedicated-defense-tech-vc-closes-125-million-fund-2026-09-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
     ]
   }
 ]
