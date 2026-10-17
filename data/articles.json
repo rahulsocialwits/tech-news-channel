@@ -1,5 +1,23 @@
 [
   {
+    "id": "ember-unveils-temperature-controlled-mug-that-keeps-tea-at-the-perfect-heat-2026-10-17",
+    "title": "Ember Unveils Temperature‑Controlled Mug That Keeps Tea at the Perfect Heat",
+    "description": "Ember’s latest smart mug lets users lock in their drink’s temperature without opening an app, making nightly tea rituals smoother and more convenient.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-17",
+    "readTime": "3 min read",
+    "excerpt": "Ember’s latest smart mug lets users lock in their drink’s temperature without opening an app, making nightly tea rituals smoother and more convenient.",
+    "page": "articles/ember-unveils-temperature-controlled-mug-that-keeps-tea-at-the-perfect-heat-2026-10-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
+    ]
+  },
+  {
     "id": "critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17",
     "title": "Critical Infrastructure Security Blind Spots Persist, New Report Warns",
     "description": "A Palo Alto Networks report highlights ongoing gaps in security visibility for factories, hospitals and utilities, urging stronger defenses as attackers accelerate.",
@@ -1790,24 +1808,6 @@
     "page": "articles/nintendo-switch-2-hits-record-low-price-on-amazon-uk-2026-09-29.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers"
-    ]
-  },
-  {
-    "id": "anker-unveils-limited-edition-wukong-power-bank-at-149-99-2026-09-29",
-    "title": "Anker Unveils Limited‑Edition Wukong Power Bank at $149.99",
-    "description": "Anker’s Black Myth: Wukong Prime 20K power bank drops to $149.99, offering 220W charging and app support.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-29",
-    "readTime": "3 min read",
-    "excerpt": "Anker’s Black Myth: Wukong Prime 20K power bank drops to $149.99, offering 220W charging and app support.",
-    "page": "articles/anker-unveils-limited-edition-wukong-power-bank-at-149-99-2026-09-29.html",
-    "source_urls": [
-      "https://www.androidauthority.com/anker-prime-power-bank-black-myth-wukong-deal-3716915/"
     ]
   }
 ]
