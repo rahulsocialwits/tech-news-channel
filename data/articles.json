@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-proposes-new-ai-regulation-bill-to-u-s-lawmakers-2026-10-18",
+    "title": "Anthropic Proposes New AI Regulation Bill to U.S. Lawmakers",
+    "description": "Anthropic has drafted a bill that would let Washington block an AI model if it poses a severe risk, requiring judicial approval before release.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic has drafted a bill that would let Washington block an AI model if it poses a severe risk, requiring judicial approval before release.",
+    "page": "articles/anthropic-proposes-new-ai-regulation-bill-to-u-s-lawmakers-2026-10-18.html",
+    "source_urls": [
+      "https://www.thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece"
+    ]
+  },
+  {
     "id": "qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18",
     "title": "Qualcomm Refutes Overheating Rumors About Snapdragon 8 Elite Extreme Gen 6",
     "description": "Qualcomm dismisses reports that its latest Snapdragon 8 Elite Extreme Gen 6 chipset would overheat, stating the claims are inaccurate.",
@@ -1787,24 +1805,6 @@
     "page": "articles/sony-introduces-lottery-system-to-tackle-ps5-pro-shortage-in-japan-2026-09-30.html",
     "source_urls": [
       "https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/"
-    ]
-  },
-  {
-    "id": "openai-unveils-features-that-challenge-the-app-store-model-2026-09-30",
-    "title": "OpenAI Unveils Features That Challenge the App Store Model",
-    "description": "OpenAI introduces new tools aimed at reducing reliance on traditional app stores, sparking debate over distribution and monetization.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI introduces new tools aimed at reducing reliance on traditional app stores, sparking debate over distribution and monetization.",
-    "page": "articles/openai-unveils-features-that-challenge-the-app-store-model-2026-09-30.html",
-    "source_urls": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXVCRFpYRW5WRFdrZkFuTXUzbklEY1kzRFBhT2U5Skc0U1M2ZG9NdlBTaXd2Q0tfVnB2VC1wQjlSZVltVHNsam83eGd5SGhVMlNGUlpxR1lFS3k1T3JRYVkyOUtnXzFhUzNlZUJfSGFRZWhHeXoxdnFpU0lWTU54YW1KTGxiNXpsdXQweGJhUzJaTHF3ZTctN0h4bEM4UQ?oc=5"
     ]
   }
 ]
