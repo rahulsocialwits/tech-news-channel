@@ -1,5 +1,23 @@
 [
   {
+    "id": "googlebook-marks-a-new-era-for-android-laptops-2026-10-18",
+    "title": "Googlebook Marks a New Era for Android Laptops",
+    "description": "Google’s first post‑smartphone PC, the Googlebook, offers a fresh take on Android desktop experience with a lightweight design and integrated Google services.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Google’s first post‑smartphone PC, the Googlebook, offers a fresh take on Android desktop experience with a lightweight design and integrated Google services.",
+    "page": "articles/googlebook-marks-a-new-era-for-android-laptops-2026-10-18.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/16/pixelated-121-is-googlebook-the-first-real-post-smartphone-pc/"
+    ]
+  },
+  {
     "id": "hp-googlebook-14-a-solid-laptop-but-the-os-leaves-much-to-be-desired-2026-10-18",
     "title": "HP Googlebook 14: A Solid Laptop, But the OS Leaves Much to Be Desired",
     "description": "HP’s first Googlebook laptop delivers on hardware but falls short on its Googlebook operating system, according to a recent review.",
@@ -1787,24 +1805,6 @@
     "page": "articles/amd-s-8-2-b-acquisition-of-world-labs-signals-a-new-era-for-generative-ai-2026-09-30.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house"
-    ]
-  },
-  {
-    "id": "nuvonix-teams-with-prolab-design-to-deliver-professional-power-supply-solutions-2026-09-30",
-    "title": "Nuvonix Teams with ProLab Design to Deliver Professional Power Supply Solutions",
-    "description": "Nuvonix partners with ProLab Design to provide advanced power supply solutions for enterprise and professional computing customers.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Nuvonix partners with ProLab Design to provide advanced power supply solutions for enterprise and professional computing customers.",
-    "page": "articles/nuvonix-teams-with-prolab-design-to-deliver-professional-power-supply-solutions-2026-09-30.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/nuvonix-partners-with-prolab-design-to-deliver-professional-power-supply-solutions-to-customers/"
     ]
   }
 ]
