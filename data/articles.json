@@ -1,5 +1,22 @@
 [
   {
+    "id": "qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18",
+    "title": "Qualcomm Refutes Overheating Rumors About Snapdragon 8 Elite Extreme Gen 6",
+    "description": "Qualcomm dismisses reports that its latest Snapdragon 8 Elite Extreme Gen 6 chipset would overheat, stating the claims are inaccurate.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Qualcomm dismisses reports that its latest Snapdragon 8 Elite Extreme Gen 6 chipset would overheat, stating the claims are inaccurate.",
+    "page": "articles/qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"
+    ]
+  },
+  {
     "id": "hyperx-unveils-first-open-back-gaming-headset-the-cloud-alpha-air-2026-10-18",
     "title": "HyperX Unveils First Open‑Back Gaming Headset: The Cloud Alpha Air",
     "description": "HyperX’s new Cloud Alpha Air headset offers an open‑back design, lightweight comfort and solid audio, but falls short on mic pickup and software support.",
@@ -1788,24 +1805,6 @@
     "page": "articles/openai-unveils-features-that-challenge-the-app-store-model-2026-09-30.html",
     "source_urls": [
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXVCRFpYRW5WRFdrZkFuTXUzbklEY1kzRFBhT2U5Skc0U1M2ZG9NdlBTaXd2Q0tfVnB2VC1wQjlSZVltVHNsam83eGd5SGhVMlNGUlpxR1lFS3k1T3JRYVkyOUtnXzFhUzNlZUJfSGFRZWhHeXoxdnFpU0lWTU54YW1KTGxiNXpsdXQweGJhUzJaTHF3ZTctN0h4bEM4UQ?oc=5"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-s24-series-gets-first-major-update-but-one-ui-9-still-missing-2026-09-30",
-    "title": "Samsung Galaxy S24 Series Gets First Major Update, But One UI 9 Still Missing",
-    "description": "Samsung’s Galaxy S24 phones receive a new software update that improves security and performance, yet the long‑awaited One UI 9 hasn’t arrived.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s Galaxy S24 phones receive a new software update that improves security and performance, yet the long‑awaited One UI 9 hasn’t arrived.",
-    "page": "articles/samsung-galaxy-s24-series-gets-first-major-update-but-one-ui-9-still-missing-2026-09-30.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-s24-series-september-2026-update-3717189/"
     ]
   }
 ]
