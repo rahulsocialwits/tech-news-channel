@@ -1,5 +1,23 @@
 [
   {
+    "id": "disney-to-absorb-majority-of-character-ai-workforce-after-bankruptcy-filing-2026-10-18",
+    "title": "Disney to Absorb Majority of Character.AI Workforce After Bankruptcy Filing",
+    "description": "Disney has agreed to hire most of the former Character.AI staff following the chatbot startup’s bankruptcy, with its ex‑CEO now serving as Disney’s first CTO.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Disney has agreed to hire most of the former Character.AI staff following the chatbot startup’s bankruptcy, with its ex‑CEO now serving as Disney’s first CTO.",
+    "page": "articles/disney-to-absorb-majority-of-character-ai-workforce-after-bankruptcy-filing-2026-10-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    ]
+  },
+  {
     "id": "anycubic-kobra-x-3d-printer-slashes-prices-to-299-99-for-prime-members-2026-10-18",
     "title": "Anycubic Kobra X 3D Printer Slashes Prices to $299.99 for Prime Members",
     "description": "The award‑winning Anycubic Kobra X multicolor 3D printer is now available at an all‑time low of $299.99 for Amazon Prime members, offering four‑color printing and a 220 mm build volume.",
@@ -1787,24 +1805,6 @@
     "source_urls": [
       "https://9to5google.com/2026/10/01/gemini-4-argon-must-reverse-googles-ai-inertia/",
       "https://indianexpress.com/article/technology/artificial-intelligence/gemini-4-argon-google-new-ai-model-cybersecurity-10902300/"
-    ]
-  },
-  {
-    "id": "openai-s-hacking-response-highlights-new-security-protocols-2026-10-01",
-    "title": "OpenAI’s Hacking Response Highlights New Security Protocols",
-    "description": "OpenAI’s chief research officer outlines the company’s strategy to address recent hacking incidents involving its agents.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-01",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI’s chief research officer outlines the company’s strategy to address recent hacking incidents involving its agents.",
-    "page": "articles/openai-s-hacking-response-highlights-new-security-protocols-2026-10-01.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
     ]
   }
 ]
