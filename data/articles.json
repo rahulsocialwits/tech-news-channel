@@ -1,5 +1,23 @@
 [
   {
+    "id": "amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18",
+    "title": "AMD GPUs Get Full DLSS 5 Experience Thanks to Modder’s Project",
+    "description": "A community developer has ported Nvidia’s DLSS 5 suite to AMD Radeon cards, enabling RDNA2-4 GPUs to run all DLSS features.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "A community developer has ported Nvidia’s DLSS 5 suite to AMD Radeon cards, enabling RDNA2-4 GPUs to run all DLSS features.",
+    "page": "articles/amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance"
+    ]
+  },
+  {
     "id": "disney-to-absorb-majority-of-character-ai-workforce-after-bankruptcy-filing-2026-10-18",
     "title": "Disney to Absorb Majority of Character.AI Workforce After Bankruptcy Filing",
     "description": "Disney has agreed to hire most of the former Character.AI staff following the chatbot startup’s bankruptcy, with its ex‑CEO now serving as Disney’s first CTO.",
@@ -1786,25 +1804,6 @@
     "page": "articles/nvidia-unveils-open-agent-safety-platform-to-contain-rogue-ai-2026-10-01.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
-    ]
-  },
-  {
-    "id": "google-unveils-gemini-4-argon-a-new-ai-model-designed-to-hunt-security-bugs-2026-10-01",
-    "title": "Google Unveils Gemini 4 Argon, a New AI Model Designed to Hunt Security Bugs",
-    "description": "Google’s Gemini 4 Argon is a specialized AI model aimed at detecting and fixing security vulnerabilities in code, announced by the company in early October 2026.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-01",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Gemini 4 Argon is a specialized AI model aimed at detecting and fixing security vulnerabilities in code, announced by the company in early October 2026.",
-    "page": "articles/google-unveils-gemini-4-argon-a-new-ai-model-designed-to-hunt-security-bugs-2026-10-01.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/01/gemini-4-argon-must-reverse-googles-ai-inertia/",
-      "https://indianexpress.com/article/technology/artificial-intelligence/gemini-4-argon-google-new-ai-model-cybersecurity-10902300/"
     ]
   }
 ]
