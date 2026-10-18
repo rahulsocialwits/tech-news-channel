@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-rolls-out-android-17-qpr2-beta-7-1-for-pixel-devices-2026-10-18",
+    "title": "Google Rolls Out Android 17 QPR2 Beta 7.1 for Pixel Devices",
+    "description": "Google has released the Android 17 QPR2 Beta 7.1 update for Pixel phones, adding new features and bug fixes without major UI changes.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Google has released the Android 17 QPR2 Beta 7.1 update for Pixel phones, adding new features and bug fixes without major UI changes.",
+    "page": "articles/google-rolls-out-android-17-qpr2-beta-7-1-for-pixel-devices-2026-10-18.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/"
+    ]
+  },
+  {
     "id": "googlebook-marks-a-new-era-for-android-laptops-2026-10-18",
     "title": "Googlebook Marks a New Era for Android Laptops",
     "description": "Google’s first post‑smartphone PC, the Googlebook, offers a fresh take on Android desktop experience with a lightweight design and integrated Google services.",
@@ -1788,23 +1806,6 @@
     "page": "articles/pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records"
-    ]
-  },
-  {
-    "id": "amd-s-8-2-b-acquisition-of-world-labs-signals-a-new-era-for-generative-ai-2026-09-30",
-    "title": "AMD’s $8.2 B Acquisition of World Labs Signals a New Era for Generative AI",
-    "description": "AMD has announced a landmark purchase of generative‑AI pioneer World Labs for $8.2 billion, bringing Fei‑Fei Li on board as chief scientist and positioning the chipmaker at the forefront of AI hardware and software integration.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "AMD has announced a landmark purchase of generative‑AI pioneer World Labs for $8.2 billion, bringing Fei‑Fei Li on board as chief scientist and positioning the chipmaker at the forefront of AI hardware and software integration.",
-    "page": "articles/amd-s-8-2-b-acquisition-of-world-labs-signals-a-new-era-for-generative-ai-2026-09-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house"
     ]
   }
 ]
