@@ -1,5 +1,23 @@
 [
   {
+    "id": "hp-googlebook-14-a-solid-laptop-but-the-os-leaves-much-to-be-desired-2026-10-18",
+    "title": "HP Googlebook 14: A Solid Laptop, But the OS Leaves Much to Be Desired",
+    "description": "HP’s first Googlebook laptop delivers on hardware but falls short on its Googlebook operating system, according to a recent review.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "HP’s first Googlebook laptop delivers on hardware but falls short on its Googlebook operating system, according to a recent review.",
+    "page": "articles/hp-googlebook-14-a-solid-laptop-but-the-os-leaves-much-to-be-desired-2026-10-18.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/16/hp-googlebook-14-review/"
+    ]
+  },
+  {
     "id": "anthropic-proposes-new-ai-regulation-bill-to-u-s-lawmakers-2026-10-18",
     "title": "Anthropic Proposes New AI Regulation Bill to U.S. Lawmakers",
     "description": "Anthropic has drafted a bill that would let Washington block an AI model if it poses a severe risk, requiring judicial approval before release.",
@@ -1787,24 +1805,6 @@
     "page": "articles/nuvonix-teams-with-prolab-design-to-deliver-professional-power-supply-solutions-2026-09-30.html",
     "source_urls": [
       "https://indiatechnologynews.in/nuvonix-partners-with-prolab-design-to-deliver-professional-power-supply-solutions-to-customers/"
-    ]
-  },
-  {
-    "id": "sony-introduces-lottery-system-to-tackle-ps5-pro-shortage-in-japan-2026-09-30",
-    "title": "Sony Introduces Lottery System to Tackle PS5 Pro Shortage in Japan",
-    "description": "Sony’s new lottery system aims to give Japanese gamers a fair chance to buy the highly sought‑after PS5 Pro amid ongoing supply constraints.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Sony’s new lottery system aims to give Japanese gamers a fair chance to buy the highly sought‑after PS5 Pro amid ongoing supply constraints.",
-    "page": "articles/sony-introduces-lottery-system-to-tackle-ps5-pro-shortage-in-japan-2026-09-30.html",
-    "source_urls": [
-      "https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/"
     ]
   }
 ]
