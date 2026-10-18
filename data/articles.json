@@ -1,5 +1,23 @@
 [
   {
+    "id": "docker-enabled-spotter-turns-3d-printers-into-filament-saving-machines-2026-10-18",
+    "title": "Docker-Enabled Spotter Turns 3D Printers Into Filament‑Saving Machines",
+    "description": "A DIY Docker solution now lets 3D printers pause automatically when a print fails, cutting filament waste and saving users time.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "A DIY Docker solution now lets 3D printers pause automatically when a print fails, cutting filament waste and saving users time.",
+    "page": "articles/docker-enabled-spotter-turns-3d-printers-into-filament-saving-machines-2026-10-18.html",
+    "source_urls": [
+      "https://www.xda-developers.com/gave-3d-printer-docker-based-spotter-stopped-wasting-filament-failures/"
+    ]
+  },
+  {
     "id": "smart-tvs-are-tracking-your-viewing-habits-here-s-how-to-protect-your-privacy-2026-10-18",
     "title": "Smart TVs Are Tracking Your Viewing Habits—Here’s How to Protect Your Privacy",
     "description": "A new study shows that many smart TVs collect detailed viewing data, raising privacy concerns. Learn what manufacturers are tracking and how users can limit data collection.",
@@ -1788,24 +1806,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "https://www.androidauthority.com/gemini-4-argon-3717601/"
-    ]
-  },
-  {
-    "id": "samsung-s-odyssey-g9-gaming-monitor-slashes-35-off-now-650-2026-09-30",
-    "title": "Samsung’s Odyssey G9 Gaming Monitor Slashes 35% Off, Now $650",
-    "description": "Samsung’s 49‑inch Odyssey G9 ultra‑wide gaming monitor drops 35% from its original price, hitting $650 for a limited time.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s 49‑inch Odyssey G9 ultra‑wide gaming monitor drops 35% from its original price, hitting $650 for a limited time.",
-    "page": "articles/samsung-s-odyssey-g9-gaming-monitor-slashes-35-off-now-650-2026-09-30.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-odyssey-g9-deal-3717513/"
     ]
   }
 ]
