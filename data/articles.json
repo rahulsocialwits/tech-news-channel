@@ -1,5 +1,23 @@
 [
   {
+    "id": "hyperx-unveils-first-open-back-gaming-headset-the-cloud-alpha-air-2026-10-18",
+    "title": "HyperX Unveils First Open‑Back Gaming Headset: The Cloud Alpha Air",
+    "description": "HyperX’s new Cloud Alpha Air headset offers an open‑back design, lightweight comfort and solid audio, but falls short on mic pickup and software support.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "HyperX’s new Cloud Alpha Air headset offers an open‑back design, lightweight comfort and solid audio, but falls short on mic pickup and software support.",
+    "page": "articles/hyperx-unveils-first-open-back-gaming-headset-the-cloud-alpha-air-2026-10-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review"
+    ]
+  },
+  {
     "id": "meta-removes-controversial-language-about-web-scraping-and-ai-training-2026-10-18",
     "title": "Meta Removes Controversial Language About Web Scraping and AI Training",
     "description": "Meta has updated its terms of service to clarify that its web crawling practices remain unchanged, addressing concerns over data scraping and AI model training.",
@@ -1788,25 +1806,6 @@
     "page": "articles/samsung-galaxy-s24-series-gets-first-major-update-but-one-ui-9-still-missing-2026-09-30.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-s24-series-september-2026-update-3717189/"
-    ]
-  },
-  {
-    "id": "apple-pay-finally-arrives-in-india-partnering-with-axis-bank-2026-09-30",
-    "title": "Apple Pay Finally Arrives in India, Partnering with Axis Bank",
-    "description": "Apple Pay launches in India today after years of delay, with Axis Bank as the first partner bank.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Payments"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Apple Pay launches in India today after years of delay, with Axis Bank as the first partner bank.",
-    "page": "articles/apple-pay-finally-arrives-in-india-partnering-with-axis-bank-2026-09-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "https://indianexpress.com/article/technology/tech-news-technology/apple-pay-india-launch-how-it-works-10900057/"
     ]
   }
 ]
