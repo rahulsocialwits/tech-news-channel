@@ -1,5 +1,22 @@
 [
   {
+    "id": "meta-removes-controversial-language-about-web-scraping-and-ai-training-2026-10-18",
+    "title": "Meta Removes Controversial Language About Web Scraping and AI Training",
+    "description": "Meta has updated its terms of service to clarify that its web crawling practices remain unchanged, addressing concerns over data scraping and AI model training.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Meta has updated its terms of service to clarify that its web crawling practices remain unchanged, addressing concerns over data scraping and AI model training.",
+    "page": "articles/meta-removes-controversial-language-about-web-scraping-and-ai-training-2026-10-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    ]
+  },
+  {
     "id": "msi-unveils-infinite-zs-prebuilt-gaming-pc-featuring-rtx-5090-at-5-300-2026-10-18",
     "title": "MSI Unveils Infinite ZS Prebuilt Gaming PC Featuring RTX 5090 at $5,300",
     "description": "MSI’s new Infinite ZS prebuilt PC bundles an RTX 5090 GPU and premium components for a discounted price of $5,300, offering gamers a high‑end build without the DIY hassle.",
@@ -1790,24 +1807,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
       "https://indianexpress.com/article/technology/tech-news-technology/apple-pay-india-launch-how-it-works-10900057/"
-    ]
-  },
-  {
-    "id": "android-17-qpr2-beta-6-brings-fresh-features-ahead-of-december-launch-2026-09-30",
-    "title": "Android 17 QPR2 Beta 6 Brings Fresh Features Ahead of December Launch",
-    "description": "Google rolls out Android 17 QPR2 Beta 6, adding new gallery tools and performance tweaks as part of its preview cycle.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Google rolls out Android 17 QPR2 Beta 6, adding new gallery tools and performance tweaks as part of its preview cycle.",
-    "page": "articles/android-17-qpr2-beta-6-brings-fresh-features-ahead-of-december-launch-2026-09-30.html",
-    "source_urls": [
-      "https://9to5google.com/2026/09/29/android-17-qpr2-beta-6-everything-new/"
     ]
   }
 ]
