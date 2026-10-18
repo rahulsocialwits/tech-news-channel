@@ -1,5 +1,23 @@
 [
   {
+    "id": "local-data-center-moratoriums-delay-only-three-u-s-projects-study-finds-2026-10-18",
+    "title": "Local Data Center Moratoriums Delay Only Three U.S. Projects, Study Finds",
+    "description": "A new analysis shows that over 300 local data center bans have stalled just three U.S. projects, highlighting the limited impact of community opposition on the industry.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "A new analysis shows that over 300 local data center bans have stalled just three U.S. projects, highlighting the limited impact of community opposition on the industry.",
+    "page": "articles/local-data-center-moratoriums-delay-only-three-u-s-projects-study-finds-2026-10-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027"
+    ]
+  },
+  {
     "id": "dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18",
     "title": "DJI’s New Battery‑Swapping Dock Lets Matrice 5TD Return to Flight in 25 Seconds",
     "description": "DJI’s Dock 4 can swap a Matrice 5TD drone’s battery in just 25 seconds, but the system lacks FCC clearance for U.S. sales.",
@@ -1788,24 +1806,6 @@
     "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-bolster-web-security-2026-09-30.html",
     "source_urls": [
       "https://news.google.com/rss/articles/CBMingFBVV95cUxORnk0a2Nad2oyTmFSTDlVUTVxWmc1N1V3YmhaelVJbG95RUp6NUc4NVJCcEMyMTlJRTBJQ0htWWpfclMwZEVMVmVNZ05yZXc0YkFpWUVab2NQVGlVek43U2JuT2tVUThzb3JBZ3V6b25DUVVaTEhZT2RxY05kMmtSMWNXVUpLb1ktS2U5VHlHUzRuVC1oSmRRZXpJR3VSUQ?oc=5"
-    ]
-  },
-  {
-    "id": "nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30",
-    "title": "Nvidia Unveils Independent Controls to Safeguard AI Agents",
-    "description": "Nvidia introduces a new safety platform that places independent controls around AI agents, aiming to prevent unintended damage while they follow instructions.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia introduces a new safety platform that places independent controls around AI agents, aiming to prevent unintended damage while they follow instructions.",
-    "page": "articles/nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/nvidia-adds-independent-controls-to-rein-in-ai-agents-180603.html?rss=1"
     ]
   }
 ]
