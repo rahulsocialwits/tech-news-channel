@@ -1,5 +1,23 @@
 [
   {
+    "id": "dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18",
+    "title": "DJI’s New Battery‑Swapping Dock Lets Matrice 5TD Return to Flight in 25 Seconds",
+    "description": "DJI’s Dock 4 can swap a Matrice 5TD drone’s battery in just 25 seconds, but the system lacks FCC clearance for U.S. sales.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "DJI’s Dock 4 can swap a Matrice 5TD drone’s battery in just 25 seconds, but the system lacks FCC clearance for U.S. sales.",
+    "page": "articles/dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale"
+    ]
+  },
+  {
     "id": "big-tech-s-open-weight-ai-models-a-new-ecosystem-strategy-2026-10-18",
     "title": "Big Tech’s Open‑Weight AI Models: A New Ecosystem Strategy",
     "description": "Major technology firms are releasing open‑weight AI models to attract developers and challenge rivals, reshaping the AI landscape.",
@@ -1788,24 +1806,6 @@
     "page": "articles/nvidia-unveils-independent-controls-to-safeguard-ai-agents-2026-09-30.html",
     "source_urls": [
       "https://www.technewsworld.com/story/nvidia-adds-independent-controls-to-rein-in-ai-agents-180603.html?rss=1"
-    ]
-  },
-  {
-    "id": "cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30",
-    "title": "Cloudflare Announces Quantum‑Safe TLS Certificates to Secure the Web",
-    "description": "Cloudflare will issue quantum‑safe TLS certificates as part of a major overhaul of website authentication, strengthening security against future quantum attacks.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Cloudflare will issue quantum‑safe TLS certificates as part of a major overhaul of website authentication, strengthening security against future quantum attacks.",
-    "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30.html",
-    "source_urls": [
-      "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
     ]
   }
 ]
