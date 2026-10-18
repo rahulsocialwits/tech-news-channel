@@ -1,5 +1,23 @@
 [
   {
+    "id": "big-tech-s-open-weight-ai-models-a-new-ecosystem-strategy-2026-10-18",
+    "title": "Big Tech’s Open‑Weight AI Models: A New Ecosystem Strategy",
+    "description": "Major technology firms are releasing open‑weight AI models to attract developers and challenge rivals, reshaping the AI landscape.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Major technology firms are releasing open‑weight AI models to attract developers and challenge rivals, reshaping the AI landscape.",
+    "page": "articles/big-tech-s-open-weight-ai-models-a-new-ecosystem-strategy-2026-10-18.html",
+    "source_urls": [
+      "https://www.thehindu.com/business/Industry/why-big-tech-is-giving-away-open-weight-ai-models-and-what-it-wants-in-return-explained/article71596411.ece"
+    ]
+  },
+  {
     "id": "google-rolls-out-android-17-qpr2-beta-7-1-for-pixel-devices-2026-10-18",
     "title": "Google Rolls Out Android 17 QPR2 Beta 7.1 for Pixel Devices",
     "description": "Google has released the Android 17 QPR2 Beta 7.1 update for Pixel phones, adding new features and bug fixes without major UI changes.",
@@ -1788,24 +1806,6 @@
     "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-secure-the-web-2026-09-30.html",
     "source_urls": [
       "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
-    ]
-  },
-  {
-    "id": "pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30",
-    "title": "Pentagon Breach Exposes Sensitive Data of Nearly Three Million Military and Civilian Personnel",
-    "description": "A recent cyberattack on the U.S. Department of Defense has leaked personal information for almost three million DoD employees, including social security numbers and job records.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "A recent cyberattack on the U.S. Department of Defense has leaked personal information for almost three million DoD employees, including social security numbers and job records.",
-    "page": "articles/pentagon-breach-exposes-sensitive-data-of-nearly-three-million-military-and-civilian-perso-2026-09-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records"
     ]
   }
 ]
