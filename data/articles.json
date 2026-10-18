@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-shifts-focus-as-workforce-grows-older-and-meetings-expand-2026-10-18",
+    "title": "Anthropic Shifts Focus as Workforce Grows Older and Meetings Expand",
+    "description": "Anthropic reports a maturing team and increased meeting time, reflecting a shift in its research and product development priorities.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-18",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic reports a maturing team and increased meeting time, reflecting a shift in its research and product development priorities.",
+    "page": "articles/anthropic-shifts-focus-as-workforce-grows-older-and-meetings-expand-2026-10-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    ]
+  },
+  {
     "id": "local-data-center-moratoriums-delay-only-three-u-s-projects-study-finds-2026-10-18",
     "title": "Local Data Center Moratoriums Delay Only Three U.S. Projects, Study Finds",
     "description": "A new analysis shows that over 300 local data center bans have stalled just three U.S. projects, highlighting the limited impact of community opposition on the industry.",
@@ -1788,24 +1806,6 @@
     "page": "articles/meta-launches-ai-powered-edits-assistant-to-help-instagram-creators-optimize-content-2026-09-30.html",
     "source_urls": [
       "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/"
-    ]
-  },
-  {
-    "id": "cloudflare-announces-quantum-safe-tls-certificates-to-bolster-web-security-2026-09-30",
-    "title": "Cloudflare Announces Quantum‑Safe TLS Certificates to Bolster Web Security",
-    "description": "Cloudflare will issue quantum‑safe TLS certificates, adding a new layer of protection against future quantum computing threats.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-09-30",
-    "readTime": "3 min read",
-    "excerpt": "Cloudflare will issue quantum‑safe TLS certificates, adding a new layer of protection against future quantum computing threats.",
-    "page": "articles/cloudflare-announces-quantum-safe-tls-certificates-to-bolster-web-security-2026-09-30.html",
-    "source_urls": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxORnk0a2Nad2oyTmFSTDlVUTVxWmc1N1V3YmhaelVJbG95RUp6NUc4NVJCcEMyMTlJRTBJQ0htWWpfclMwZEVMVmVNZ05yZXc0YkFpWUVab2NQVGlVek43U2JuT2tVUThzb3JBZ3V6b25DUVVaTEhZT2RxY05kMmtSMWNXVUpLb1ktS2U5VHlHUzRuVC1oSmRRZXpJR3VSUQ?oc=5"
     ]
   }
 ]
