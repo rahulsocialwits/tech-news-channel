@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-galaxy-watch-s-new-orange-dot-what-it-means-for-users-2026-10-19",
+    "title": "Samsung Galaxy Watch’s New Orange Dot: What It Means for Users",
+    "description": "Samsung Galaxy Watch users may notice a new orange dot on the watch face. The dot signals a specific notification type and helps users quickly identify important alerts.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Samsung Galaxy Watch users may notice a new orange dot on the watch face. The dot signals a specific notification type and helps users quickly identify important alerts.",
+    "page": "articles/samsung-galaxy-watch-s-new-orange-dot-what-it-means-for-users-2026-10-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/"
+    ]
+  },
+  {
     "id": "decoding-netgear-router-leds-what-each-light-really-means-2026-10-19",
     "title": "Decoding Netgear Router LEDs: What Each Light Really Means",
     "description": "A guide to understanding the LED indicators on Netgear routers and how to troubleshoot common issues.",
@@ -1786,24 +1804,6 @@
     "page": "articles/amazon-ends-ndas-for-county-data-center-deals-acknowledges-community-pushback-2026-10-02.html",
     "source_urls": [
       "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/"
-    ]
-  },
-  {
-    "id": "google-launches-fitbit-air-the-smallest-and-lightest-screenless-fitness-tracker-2026-10-02",
-    "title": "Google Launches Fitbit Air, the Smallest and Lightest Screenless Fitness Tracker",
-    "description": "Google’s new Fitbit Air is set to hit Indian markets on October 2, offering a lightweight, screenless design that tracks activity and sleep without a display.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-02",
-    "readTime": "3 min read",
-    "excerpt": "Google’s new Fitbit Air is set to hit Indian markets on October 2, offering a lightweight, screenless design that tracks activity and sleep without a display.",
-    "page": "articles/google-launches-fitbit-air-the-smallest-and-lightest-screenless-fitness-tracker-2026-10-02.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/google-fitbit-air-to-be-available-in-india-from-october-2/article71532210.ece"
     ]
   }
 ]
