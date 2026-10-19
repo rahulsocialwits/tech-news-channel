@@ -1,5 +1,23 @@
 [
   {
+    "id": "qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19",
+    "title": "Qualcomm Defends Snapdragon 8‑Elite Gen 6 Against Heating Claims",
+    "description": "Qualcomm’s executive says the new Snapdragon 8‑Elite Gen 6 chip has no system thermal issues, countering reports of overheating on the S27 Ultra.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Qualcomm’s executive says the new Snapdragon 8‑Elite Gen 6 chip has no system thermal issues, countering reports of overheating on the S27 Ultra.",
+    "page": "articles/qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19.html",
+    "source_urls": [
+      "https://www.androidauthority.com/qualcomm-deny-snapdragon-8-elite-gen-6-heating-issues-3724807/"
+    ]
+  },
+  {
     "id": "xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19",
     "title": "Xbox Series X Now Plays PlayStation 5 Games—With a Caveat",
     "description": "Xbox Series X users can run PS5 titles thanks to hardware similarities, but emulator glitches limit the experience.",
@@ -1785,24 +1803,6 @@
     "page": "articles/iranian-hacker-extradited-to-u-s-in-landmark-cyber-security-case-2026-10-04.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities"
-    ]
-  },
-  {
-    "id": "google-gemini-faces-new-model-limits-for-free-and-ai-plus-users-2026-10-04",
-    "title": "Google Gemini Faces New Model Limits for Free and AI Plus Users",
-    "description": "Google is tightening access to its Gemini AI models, limiting free and AI Plus users while adding Deep Think to AI Pro subscribers.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-04",
-    "readTime": "3 min read",
-    "excerpt": "Google is tightening access to its Gemini AI models, limiting free and AI Plus users while adding Deep Think to AI Pro subscribers.",
-    "page": "articles/google-gemini-faces-new-model-limits-for-free-and-ai-plus-users-2026-10-04.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
     ]
   }
 ]
