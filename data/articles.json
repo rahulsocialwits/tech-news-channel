@@ -1,5 +1,23 @@
 [
   {
+    "id": "norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19",
+    "title": "Norway Eyes 2,800‑mile Transatlantic Cable to Bypass U.S. Routes",
+    "description": "Bulk Infrastructure Group seeks partner for new undersea fiber link between Canada and Europe, aiming to reduce reliance on U.S. cables.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Bulk Infrastructure Group seeks partner for new undersea fiber link between Canada and Europe, aiming to reduce reliance on U.S. cables.",
+    "page": "articles/norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes"
+    ]
+  },
+  {
     "id": "ayn-odin-3-portal-unveiled-elite-power-and-massive-battery-for-handheld-gaming-2026-10-19",
     "title": "AYN Odin 3 Portal Unveiled: Elite Power and Massive Battery for Handheld Gaming",
     "description": "AYN reveals the Odin 3 Portal, a handheld with top-tier specs and a gigantic battery, poised to become the most powerful Android device on the market.",
@@ -1785,24 +1803,6 @@
     "page": "articles/google-halts-open-source-bug-bounty-as-ai-generated-submissions-surge-2026-10-05.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-    ]
-  },
-  {
-    "id": "credgenics-unveils-prix-ai-a-voice-powered-platform-focused-on-outcomes-2026-10-05",
-    "title": "Credgenics Unveils Prix AI, a Voice‑Powered Platform Focused on Outcomes",
-    "description": "Credgenics launches Prix AI, an enterprise voice platform that measures outcomes instead of call volume, aiming to automate collections, sales, support and reservations.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-05",
-    "readTime": "3 min read",
-    "excerpt": "Credgenics launches Prix AI, an enterprise voice platform that measures outcomes instead of call volume, aiming to automate collections, sales, support and reservations.",
-    "page": "articles/credgenics-unveils-prix-ai-a-voice-powered-platform-focused-on-outcomes-2026-10-05.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/credgenics-launches-prix-ai-an-enterprise-voice-ai-platform-built-for-outcomes/"
     ]
   }
 ]
