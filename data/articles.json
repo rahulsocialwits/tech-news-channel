@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-s-galaxy-tab-s10-fe-plus-drops-220-as-amazon-deal-drives-tablet-sales-2026-10-19",
+    "title": "Samsung’s Galaxy Tab S10 FE Plus Drops $220 as Amazon Deal Drives Tablet Sales",
+    "description": "Samsung’s Galaxy Tab S10 FE Plus is now available for $599.99 on Amazon, a $220 discount from its original price, featuring a 13.1‑inch display, S Pen support and 256GB storage.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s Galaxy Tab S10 FE Plus is now available for $599.99 on Amazon, a $220 discount from its original price, featuring a 13.1‑inch display, S Pen support and 256GB storage.",
+    "page": "articles/samsung-s-galaxy-tab-s10-fe-plus-drops-220-as-amazon-deal-drives-tablet-sales-2026-10-19.html",
+    "source_urls": [
+      "https://www.androidauthority.com/galaxy-tab-s10-fe-plus-deal-amazon-3725169/"
+    ]
+  },
+  {
     "id": "nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19",
     "title": "Nvidia Unveils Open Models for Enterprise and Personal PCs",
     "description": "Nvidia launches new open models designed to run AI agents in corporate data centers and on consumer PCs, expanding on-device private AI capabilities.",
@@ -1786,24 +1804,6 @@
     "page": "articles/lola-vision-systems-aims-to-simplify-running-ai-models-on-edge-chips-2026-10-05.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/"
-    ]
-  },
-  {
-    "id": "payoneer-extends-etsy-partnership-through-2029-expanding-global-payouts-2026-10-05",
-    "title": "Payoneer Extends Etsy Partnership Through 2029, Expanding Global Payouts",
-    "description": "Payoneer renews its partnership with Etsy, extending payouts across 16 markets in India and beyond until 2029.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Fintech"
-    ],
-    "feature_image": "",
-    "date": "2026-10-05",
-    "readTime": "3 min read",
-    "excerpt": "Payoneer renews its partnership with Etsy, extending payouts across 16 markets in India and beyond until 2029.",
-    "page": "articles/payoneer-extends-etsy-partnership-through-2029-expanding-global-payouts-2026-10-05.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/payoneer-renews-partnership-with-etsy-through-2029/"
     ]
   }
 ]
