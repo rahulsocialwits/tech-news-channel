@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-galaxy-s27-may-launch-earlier-than-expected-leak-reveals-2026-10-19",
+    "title": "Samsung Galaxy S27 May Launch Earlier Than Expected, Leak Reveals",
+    "description": "A leaked schedule suggests Samsung could unveil the Galaxy S27 before its usual window, though last‑minute upgrades could shift plans.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "A leaked schedule suggests Samsung could unveil the Galaxy S27 before its usual window, though last‑minute upgrades could shift plans.",
+    "page": "articles/samsung-galaxy-s27-may-launch-earlier-than-expected-leak-reveals-2026-10-19.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-s27-launch-window-leak-3724822/"
+    ]
+  },
+  {
     "id": "qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19",
     "title": "Qualcomm Defends Snapdragon 8‑Elite Gen 6 Against Heating Claims",
     "description": "Qualcomm’s executive says the new Snapdragon 8‑Elite Gen 6 chip has no system thermal issues, countering reports of overheating on the S27 Ultra.",
@@ -1785,24 +1803,6 @@
     "page": "articles/enterprise-ai-goes-operational-autonomous-models-take-the-helm-2026-10-04.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
-    ]
-  },
-  {
-    "id": "iranian-hacker-extradited-to-u-s-in-landmark-cyber-security-case-2026-10-04",
-    "title": "Iranian Hacker Extradited to U.S. in Landmark Cyber‑Security Case",
-    "description": "A rare extradition sees an Iranian‑Turkish national handed over to U.S. authorities for a $3.4 billion hacking scheme that stole 31 TB of data from universities and companies.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-04",
-    "readTime": "3 min read",
-    "excerpt": "A rare extradition sees an Iranian‑Turkish national handed over to U.S. authorities for a $3.4 billion hacking scheme that stole 31 TB of data from universities and companies.",
-    "page": "articles/iranian-hacker-extradited-to-u-s-in-landmark-cyber-security-case-2026-10-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities"
     ]
   }
 ]
