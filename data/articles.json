@@ -1,5 +1,23 @@
 [
   {
+    "id": "usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19",
+    "title": "USAF Demonstrates F‑22 Raptor’s Ability to Control Uncrewed Wingman in Simulated Combat",
+    "description": "In a recent test, an F‑22 pilot successfully commanded a YFQ‑44A Fury drone, marking a step toward integrated manned‑unmanned fighter squadrons.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "In a recent test, an F‑22 pilot successfully commanded a YFQ‑44A Fury drone, marking a step toward integrated manned‑unmanned fighter squadrons.",
+    "page": "articles/usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons"
+    ]
+  },
+  {
     "id": "amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18",
     "title": "AMD GPUs Get Full DLSS 5 Experience Thanks to Modder’s Project",
     "description": "A community developer has ported Nvidia’s DLSS 5 suite to AMD Radeon cards, enabling RDNA2-4 GPUs to run all DLSS features.",
@@ -1786,24 +1804,6 @@
     "page": "articles/samsung-unveils-galaxy-a08-a-budget-phone-with-6-000-mah-battery-and-25w-fast-charging-2026-10-02.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-launches-galaxy-a08-for-mid-segment-buyers-in-india/article71533002.ece"
-    ]
-  },
-  {
-    "id": "nvidia-unveils-open-agent-safety-platform-to-contain-rogue-ai-2026-10-01",
-    "title": "Nvidia Unveils Open Agent Safety Platform to Contain Rogue AI",
-    "description": "Nvidia launches a new hardware‑software stack that can detect and quarantine rogue AI agents in milliseconds, combining OpenShell sandboxing with BlueField Sentry hardware.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-01",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia launches a new hardware‑software stack that can detect and quarantine rogue AI agents in milliseconds, combining OpenShell sandboxing with BlueField Sentry hardware.",
-    "page": "articles/nvidia-unveils-open-agent-safety-platform-to-contain-rogue-ai-2026-10-01.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
     ]
   }
 ]
