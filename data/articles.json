@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19",
+    "title": "Nvidia Unveils Open Models for Enterprise and Personal PCs",
+    "description": "Nvidia launches new open models designed to run AI agents in corporate data centers and on consumer PCs, expanding on-device private AI capabilities.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia launches new open models designed to run AI agents in corporate data centers and on consumer PCs, expanding on-device private AI capabilities.",
+    "page": "articles/nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+    ]
+  },
+  {
     "id": "pixel-watch-gets-bedtime-snooze-samsung-eyes-february-launch-and-rare-gamecube-console-hit-2026-10-19",
     "title": "Pixel Watch Gets Bedtime Snooze, Samsung Eyes February Launch, and Rare GameCube Console Hits Auction Prices",
     "description": "Google’s Pixel Watch may soon let users snooze auto‑bedtime, Samsung is weighing a February launch for the Galaxy S27, and a rare GameCube console sold for thousands at auction.",
@@ -1786,24 +1804,6 @@
     "page": "articles/payoneer-extends-etsy-partnership-through-2029-expanding-global-payouts-2026-10-05.html",
     "source_urls": [
       "https://indiatechnologynews.in/payoneer-renews-partnership-with-etsy-through-2029/"
-    ]
-  },
-  {
-    "id": "ai-users-admit-they-often-skip-fact-checking-their-chatbot-answers-2026-10-05",
-    "title": "AI Users Admit They Often Skip Fact‑Checking Their Chatbot Answers",
-    "description": "A recent study shows that while most AI users recognize the need to verify chatbot responses, a majority do so only sporadically or not at all.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-05",
-    "readTime": "3 min read",
-    "excerpt": "A recent study shows that while most AI users recognize the need to verify chatbot responses, a majority do so only sporadically or not at all.",
-    "page": "articles/ai-users-admit-they-often-skip-fact-checking-their-chatbot-answers-2026-10-05.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/ai-users-know-they-should-check-answers-many-dont-180598.html?rss=1"
     ]
   }
 ]
