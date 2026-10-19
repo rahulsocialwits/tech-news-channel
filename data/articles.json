@@ -1,5 +1,23 @@
 [
   {
+    "id": "what-the-orange-light-on-your-playstation-5-really-means-2026-10-19",
+    "title": "What the Orange Light on Your PlayStation 5 Really Means",
+    "description": "A guide to understanding the PlayStation 5’s orange light status indicator and what it signals about your console’s health.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "A guide to understanding the PlayStation 5’s orange light status indicator and what it signals about your console’s health.",
+    "page": "articles/what-the-orange-light-on-your-playstation-5-really-means-2026-10-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2287587/what-playstation-5-orange-light-means/"
+    ]
+  },
+  {
     "id": "norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19",
     "title": "Norway Eyes 2,800‑mile Transatlantic Cable to Bypass U.S. Routes",
     "description": "Bulk Infrastructure Group seeks partner for new undersea fiber link between Canada and Europe, aiming to reduce reliance on U.S. cables.",
@@ -1785,24 +1803,6 @@
     "source_urls": [
       "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/",
       "https://9to5google.com/2026/10/04/google-fitbit-edge-leak/"
-    ]
-  },
-  {
-    "id": "google-halts-open-source-bug-bounty-as-ai-generated-submissions-surge-2026-10-05",
-    "title": "Google Halts Open Source Bug Bounty as AI‑Generated Submissions Surge",
-    "description": "Google pauses its open source bug bounty program after a spike in AI‑generated vulnerability reports, citing quality concerns and the need to refine its review process.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-05",
-    "readTime": "3 min read",
-    "excerpt": "Google pauses its open source bug bounty program after a spike in AI‑generated vulnerability reports, citing quality concerns and the need to refine its review process.",
-    "page": "articles/google-halts-open-source-bug-bounty-as-ai-generated-submissions-surge-2026-10-05.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
     ]
   }
 ]
