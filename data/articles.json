@@ -1,5 +1,23 @@
 [
   {
+    "id": "decoding-netgear-router-leds-what-each-light-really-means-2026-10-19",
+    "title": "Decoding Netgear Router LEDs: What Each Light Really Means",
+    "description": "A guide to understanding the LED indicators on Netgear routers and how to troubleshoot common issues.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "A guide to understanding the LED indicators on Netgear routers and how to troubleshoot common issues.",
+    "page": "articles/decoding-netgear-router-leds-what-each-light-really-means-2026-10-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/"
+    ]
+  },
+  {
     "id": "usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19",
     "title": "USAF Demonstrates F‑22 Raptor’s Ability to Control Uncrewed Wingman in Simulated Combat",
     "description": "In a recent test, an F‑22 pilot successfully commanded a YFQ‑44A Fury drone, marking a step toward integrated manned‑unmanned fighter squadrons.",
@@ -1786,24 +1804,6 @@
     "page": "articles/google-launches-fitbit-air-the-smallest-and-lightest-screenless-fitness-tracker-2026-10-02.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/google-fitbit-air-to-be-available-in-india-from-october-2/article71532210.ece"
-    ]
-  },
-  {
-    "id": "samsung-unveils-galaxy-a08-a-budget-phone-with-6-000-mah-battery-and-25w-fast-charging-2026-10-02",
-    "title": "Samsung Unveils Galaxy A08, a Budget Phone with 6,000‑mAh Battery and 25W Fast Charging",
-    "description": "Samsung’s new Galaxy A08 targets mid‑segment buyers in India, featuring a 6,000‑mAh battery, 25W charging, and a 6.5‑inch display.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-02",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s new Galaxy A08 targets mid‑segment buyers in India, featuring a 6,000‑mAh battery, 25W charging, and a 6.5‑inch display.",
-    "page": "articles/samsung-unveils-galaxy-a08-a-budget-phone-with-6-000-mah-battery-and-25w-fast-charging-2026-10-02.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-launches-galaxy-a08-for-mid-segment-buyers-in-india/article71533002.ece"
     ]
   }
 ]
