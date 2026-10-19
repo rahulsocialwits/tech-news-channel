@@ -1,5 +1,23 @@
 [
   {
+    "id": "xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19",
+    "title": "Xbox Series X Now Plays PlayStation 5 Games—With a Caveat",
+    "description": "Xbox Series X users can run PS5 titles thanks to hardware similarities, but emulator glitches limit the experience.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Xbox Series X users can run PS5 titles thanks to hardware similarities, but emulator glitches limit the experience.",
+    "page": "articles/xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/"
+    ]
+  },
+  {
     "id": "google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19",
     "title": "Google Launches SynthID: A New Tool to Spot AI‑Generated Images",
     "description": "Google’s SynthID lets users upload photos to check if they were created or altered by AI, offering a quick web‑based verification method.",
@@ -1785,25 +1803,6 @@
     "page": "articles/google-gemini-faces-new-model-limits-for-free-and-ai-plus-users-2026-10-04.html",
     "source_urls": [
       "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
-    ]
-  },
-  {
-    "id": "nvidia-shield-tv-pro-s-price-soars-50-as-ai-memory-shortage-hits-streaming-box-2026-10-04",
-    "title": "Nvidia Shield TV Pro’s Price Soars 50% as AI Memory Shortage Hits Streaming Box",
-    "description": "The long‑running Nvidia Shield TV Pro has seen its price jump from $149.99 to $299.99 amid rising memory costs driven by AI demand.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-04",
-    "readTime": "3 min read",
-    "excerpt": "The long‑running Nvidia Shield TV Pro has seen its price jump from $149.99 to $299.99 amid rising memory costs driven by AI demand.",
-    "page": "articles/nvidia-shield-tv-pro-s-price-soars-50-as-ai-memory-shortage-hits-streaming-box-2026-10-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
-      "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
     ]
   }
 ]
