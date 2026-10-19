@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19",
+    "title": "Google Launches SynthID: A New Tool to Spot AI‑Generated Images",
+    "description": "Google’s SynthID lets users upload photos to check if they were created or altered by AI, offering a quick web‑based verification method.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-19",
+    "readTime": "3 min read",
+    "excerpt": "Google’s SynthID lets users upload photos to check if they were created or altered by AI, offering a quick web‑based verification method.",
+    "page": "articles/google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/"
+    ]
+  },
+  {
     "id": "laser-pointers-can-damage-security-cameras-new-study-shows-2026-10-19",
     "title": "Laser Pointers Can Damage Security Cameras, New Study Shows",
     "description": "A recent analysis confirms that pointing laser pointers at security cameras can cause permanent damage, urging users to avoid the practice.",
@@ -1786,24 +1804,6 @@
     "source_urls": [
       "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
       "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
-    ]
-  },
-  {
-    "id": "eloelo-launches-ai-powered-script-to-video-tool-for-indian-creators-2026-10-03",
-    "title": "Eloelo Launches AI‑Powered Script‑to‑Video Tool for Indian Creators",
-    "description": "Indian startup Eloelo unveils an AI platform that converts written scripts into polished videos, offering a new workflow for content creators.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-03",
-    "readTime": "3 min read",
-    "excerpt": "Indian startup Eloelo unveils an AI platform that converts written scripts into polished videos, offering a new workflow for content creators.",
-    "page": "articles/eloelo-launches-ai-powered-script-to-video-tool-for-indian-creators-2026-10-03.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/indian-startup-eloelo-unveils-ai-tool-that-turns-scripts-into-videos-10905190/"
     ]
   }
 ]
