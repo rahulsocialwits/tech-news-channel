@@ -1,5 +1,22 @@
 [
   {
+    "id": "google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20",
+    "title": "Google Home Speakers Found Downloading Hundreds of Gigabytes in Background",
+    "description": "Some Google Home speakers are silently downloading massive amounts of data, raising privacy and bandwidth concerns.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Some Google Home speakers are silently downloading massive amounts of data, raising privacy and bandwidth concerns.",
+    "page": "articles/google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/19/google-home-speaker-downloads/"
+    ]
+  },
+  {
     "id": "flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20",
     "title": "Flipkart Expands Food‑Delivery Service to Thousands of Employees Ahead of Public Launch",
     "description": "Flipkart is quietly scaling its food‑delivery platform for internal use before rolling it out to the public in India.",
@@ -1785,24 +1802,6 @@
     "page": "articles/google-wallet-unveils-stacked-card-list-redesign-for-android-2026-10-07.html",
     "source_urls": [
       "https://9to5google.com/2026/10/06/google-wallet-stacked-redesign/"
-    ]
-  },
-  {
-    "id": "type-one-energy-secures-200-million-to-accelerate-fusion-power-plant-development-2026-10-06",
-    "title": "Type One Energy Secures $200 Million to Accelerate Fusion Power Plant Development",
-    "description": "The startup has raised a new round to build a fusion power plant by 2034, aiming to bring commercial fusion energy to the grid faster than traditional projects.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Energy"
-    ],
-    "feature_image": "",
-    "date": "2026-10-06",
-    "readTime": "3 min read",
-    "excerpt": "The startup has raised a new round to build a fusion power plant by 2034, aiming to bring commercial fusion energy to the grid faster than traditional projects.",
-    "page": "articles/type-one-energy-secures-200-million-to-accelerate-fusion-power-plant-development-2026-10-06.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/"
     ]
   }
 ]
