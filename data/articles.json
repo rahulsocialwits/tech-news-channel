@@ -1,5 +1,23 @@
 [
   {
+    "id": "impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20",
+    "title": "Impinj Turns RFID Into Real‑Time AI‑Powered Tracking",
+    "description": "Impinj’s new RFID strategy links digital records to physical events, enabling AI‑driven delivery forecasting in real time.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Impinj’s new RFID strategy links digital records to physical events, enabling AI‑driven delivery forecasting in real time.",
+    "page": "articles/impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
+    ]
+  },
+  {
     "id": "microsoft-expands-project-perception-to-guard-enterprises-from-rogue-ai-agents-2026-10-20",
     "title": "Microsoft Expands Project Perception to Guard Enterprises from Rogue AI Agents",
     "description": "Microsoft rolls out new cloud‑based AI monitoring tool to detect and contain malicious autonomous agents within corporate networks.",
@@ -1785,24 +1803,6 @@
     "page": "articles/used-ps5-pros-surge-to-1-399-as-new-units-remain-out-of-stock-2026-10-06.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/playstation/used-ps5-pros-now-cost-usd1-399-at-gamestop-50-percent-more-than-new-ones-retailer-bumps-price-of-refurbished-consoles-as-brand-new-units-remain-out-of-stock"
-    ]
-  },
-  {
-    "id": "predictive-analytics-evolves-into-autonomous-decision-making-in-enterprise-ai-2026-10-06",
-    "title": "Predictive Analytics Evolves Into Autonomous Decision‑Making in Enterprise AI",
-    "description": "Enterprise AI moves beyond forecasting to autonomous action, raising new challenges for business intent and governance.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-06",
-    "readTime": "3 min read",
-    "excerpt": "Enterprise AI moves beyond forecasting to autonomous action, raising new challenges for business intent and governance.",
-    "page": "articles/predictive-analytics-evolves-into-autonomous-decision-making-in-enterprise-ai-2026-10-06.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
     ]
   }
 ]
