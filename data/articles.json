@@ -1,5 +1,23 @@
 [
   {
+    "id": "us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20",
+    "title": "US Bans Chinese AI DeepSeek from Federal Agency IT Systems",
+    "description": "The Department of Homeland Security has prohibited the use of the Chinese AI platform DeepSeek on all federal agency websites to mitigate potential security risks.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "The Department of Homeland Security has prohibited the use of the Chinese AI platform DeepSeek on all federal agency websites to mitigate potential security risks.",
+    "page": "articles/us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article71603294.ece"
+    ]
+  },
+  {
     "id": "blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20",
     "title": "Blackwall Raises $100 Million to Strengthen Bot and AI Traffic Filtering",
     "description": "Blackwall secures a $100 million round, valuing the company at $2.2 billion as it expands its security and filtering tools for websites facing rising bot and AI traffic.",
@@ -1784,24 +1802,6 @@
     "page": "articles/spotify-expands-audiobook-library-to-180-markets-2026-10-07.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
-    ]
-  },
-  {
-    "id": "weight-loss-drugs-may-slow-biological-aging-study-finds-2026-10-07",
-    "title": "Weight‑Loss Drugs May Slow Biological Aging, Study Finds",
-    "description": "Eli Lilly and Novo Nordisk report that GLP‑1 drugs reduce biological age in patients, according to new aging‑clock data.",
-    "category": "Science",
-    "labels": [
-      "Science",
-      "Health"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Eli Lilly and Novo Nordisk report that GLP‑1 drugs reduce biological age in patients, according to new aging‑clock data.",
-    "page": "articles/weight-loss-drugs-may-slow-biological-aging-study-finds-2026-10-07.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
     ]
   }
 ]
