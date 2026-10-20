@@ -1,5 +1,23 @@
 [
   {
+    "id": "spacex-alum-s-reliable-robotics-secures-115m-series-d-valuation-surpasses-1b-2026-10-20",
+    "title": "SpaceX Alum’s Reliable Robotics Secures $115M Series D, Valuation Surpasses $1B",
+    "description": "Reliable Robotics raises $115 million in equity and $25 million in debt, pushing its valuation past $1 billion as it expands its autonomous aviation platform.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Reliable Robotics raises $115 million in equity and $25 million in debt, pushing its valuation past $1 billion as it expands its autonomous aviation platform.",
+    "page": "articles/spacex-alum-s-reliable-robotics-secures-115m-series-d-valuation-surpasses-1b-2026-10-20.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
+    ]
+  },
+  {
     "id": "u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20",
     "title": "U.S. Brings Nuclear Reactors Back Online to Power Growing AI Data Centers",
     "description": "The U.S. government is funding the recommissioning of three nuclear plants to meet the soaring energy demands of AI data centers.",
@@ -1783,24 +1801,6 @@
     "page": "articles/mecka-ai-secures-60m-to-fuel-humanoid-robot-training-2026-10-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
-    ]
-  },
-  {
-    "id": "healthleap-secures-38m-to-expand-ai-driven-patient-risk-alerts-2026-10-07",
-    "title": "Healthleap Secures $38M to Expand AI‑Driven Patient Risk Alerts",
-    "description": "Healthleap raises $38 million to fund its AI system that flags hospital patients needing closer monitoring.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Healthleap raises $38 million to fund its AI system that flags hospital patients needing closer monitoring.",
-    "page": "articles/healthleap-secures-38m-to-expand-ai-driven-patient-risk-alerts-2026-10-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
     ]
   }
 ]
