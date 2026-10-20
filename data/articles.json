@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20",
+    "title": "Enterprise AI’s New Economics: From Utility to Efficiency",
+    "description": "How companies are shifting from simply adopting AI to optimizing its use for maximum value.",
+    "category": "Enterprise",
+    "labels": [
+      "Enterprise",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "How companies are shifting from simply adopting AI to optimizing its use for maximum value.",
+    "page": "articles/enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+    ]
+  },
+  {
     "id": "chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20",
     "title": "Chrome’s New Safe Browsing Mode Promises Ten‑Fold Protection Against Online Threats",
     "description": "Google has unveiled an enhanced Safe Browsing mode for Chrome that claims to make users ten times safer from phishing, social engineering and other scams.",
@@ -1784,23 +1802,6 @@
     "page": "articles/microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
-    ]
-  },
-  {
-    "id": "india-delays-starlink-launch-as-security-clearance-pending-2026-10-08",
-    "title": "India Delays Starlink Launch as Security Clearance Pending",
-    "description": "India’s telecom regulator has postponed Starlink’s entry into the market while it reviews security clearance requirements.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "India’s telecom regulator has postponed Starlink’s entry into the market while it reviews security clearance requirements.",
-    "page": "articles/india-delays-starlink-launch-as-security-clearance-pending-2026-10-08.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
     ]
   }
 ]
