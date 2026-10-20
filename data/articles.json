@@ -1,5 +1,23 @@
 [
   {
+    "id": "flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20",
+    "title": "Flipkart Expands Food‑Delivery Service to Thousands of Employees Ahead of Public Launch",
+    "description": "Flipkart is quietly scaling its food‑delivery platform for internal use before rolling it out to the public in India.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Flipkart is quietly scaling its food‑delivery platform for internal use before rolling it out to the public in India.",
+    "page": "articles/flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+    ]
+  },
+  {
     "id": "impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20",
     "title": "Impinj Turns RFID Into Real‑Time AI‑Powered Tracking",
     "description": "Impinj’s new RFID strategy links digital records to physical events, enabling AI‑driven delivery forecasting in real time.",
@@ -1785,24 +1803,6 @@
     "page": "articles/type-one-energy-secures-200-million-to-accelerate-fusion-power-plant-development-2026-10-06.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/"
-    ]
-  },
-  {
-    "id": "used-ps5-pros-surge-to-1-399-as-new-units-remain-out-of-stock-2026-10-06",
-    "title": "Used PS5 Pros Surge to $1,399 as New Units Remain Out of Stock",
-    "description": "GameStop hikes refurbished PS5 Pro price to $1,399, 50% above new model, amid ongoing supply shortages.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-06",
-    "readTime": "3 min read",
-    "excerpt": "GameStop hikes refurbished PS5 Pro price to $1,399, 50% above new model, amid ongoing supply shortages.",
-    "page": "articles/used-ps5-pros-surge-to-1-399-as-new-units-remain-out-of-stock-2026-10-06.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/playstation/used-ps5-pros-now-cost-usd1-399-at-gamestop-50-percent-more-than-new-ones-retailer-bumps-price-of-refurbished-consoles-as-brand-new-units-remain-out-of-stock"
     ]
   }
 ]
