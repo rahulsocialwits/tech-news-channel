@@ -1,5 +1,23 @@
 [
   {
+    "id": "chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20",
+    "title": "Chrome’s New Safe Browsing Mode Promises Ten‑Fold Protection Against Online Threats",
+    "description": "Google has unveiled an enhanced Safe Browsing mode for Chrome that claims to make users ten times safer from phishing, social engineering and other scams.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Google has unveiled an enhanced Safe Browsing mode for Chrome that claims to make users ten times safer from phishing, social engineering and other scams.",
+    "page": "articles/chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/20/safe-browsing-enhanced-protection-updates/"
+    ]
+  },
+  {
     "id": "electric-plant-decodes-plant-language-with-ai-translator-2026-10-20",
     "title": "Electric Plant Decodes Plant Language with AI Translator",
     "description": "A startup has built an AI-powered translator that lets humans hear what plants are saying through electrical signals.",
@@ -1783,24 +1801,6 @@
     "page": "articles/india-delays-starlink-launch-as-security-clearance-pending-2026-10-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
-    ]
-  },
-  {
-    "id": "meta-deploys-ai-to-flag-child-sexual-abuse-content-on-instagram-and-facebook-2026-10-08",
-    "title": "Meta Deploys AI to Flag Child Sexual Abuse Content on Instagram and Facebook",
-    "description": "Meta announced it used AI to identify and remove millions of child sexual exploitation posts in India during the first half of 2026.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "Meta announced it used AI to identify and remove millions of child sexual exploitation posts in India during the first half of 2026.",
-    "page": "articles/meta-deploys-ai-to-flag-child-sexual-abuse-content-on-instagram-and-facebook-2026-10-08.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece"
     ]
   }
 ]
