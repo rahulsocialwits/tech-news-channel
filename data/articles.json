@@ -1,5 +1,23 @@
 [
   {
+    "id": "chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20",
+    "title": "Chinese Hacker Deploys AI Agents to Breach Over 100 Company Websites",
+    "description": "A Chinese hacker used a fleet of AI agents to infiltrate more than 100 corporate sites, including major brands like Deere and SharkNinja.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "A Chinese hacker used a fleet of AI agents to infiltrate more than 100 corporate sites, including major brands like Deere and SharkNinja.",
+    "page": "articles/chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
+    ]
+  },
+  {
     "id": "us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20",
     "title": "US Bans Chinese AI DeepSeek from Federal Agency IT Systems",
     "description": "The Department of Homeland Security has prohibited the use of the Chinese AI platform DeepSeek on all federal agency websites to mitigate potential security risks.",
@@ -1784,24 +1802,6 @@
     "page": "articles/mistral-unveils-le-chonk-a-new-open-weight-ai-model-set-to-compete-with-chinese-offerings-2026-10-07.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
-    ]
-  },
-  {
-    "id": "spotify-expands-audiobook-library-to-180-markets-2026-10-07",
-    "title": "Spotify Expands Audiobook Library to 180+ Markets",
-    "description": "Spotify will offer 350,000 audiobooks in over 120 languages across more than 180 markets, broadening its audio content worldwide.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Spotify will offer 350,000 audiobooks in over 120 languages across more than 180 markets, broadening its audio content worldwide.",
-    "page": "articles/spotify-expands-audiobook-library-to-180-markets-2026-10-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
     ]
   }
 ]
