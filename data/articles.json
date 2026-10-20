@@ -1,5 +1,23 @@
 [
   {
+    "id": "blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20",
+    "title": "Blackwall Raises $100 Million to Strengthen Bot and AI Traffic Filtering",
+    "description": "Blackwall secures a $100 million round, valuing the company at $2.2 billion as it expands its security and filtering tools for websites facing rising bot and AI traffic.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "Blackwall secures a $100 million round, valuing the company at $2.2 billion as it expands its security and filtering tools for websites facing rising bot and AI traffic.",
+    "page": "articles/blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+    ]
+  },
+  {
     "id": "google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20",
     "title": "Google Home Speakers Found Downloading Hundreds of Gigabytes in Background",
     "description": "Some Google Home speakers are silently downloading massive amounts of data, raising privacy and bandwidth concerns.",
@@ -1784,24 +1802,6 @@
     "page": "articles/weight-loss-drugs-may-slow-biological-aging-study-finds-2026-10-07.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
-    ]
-  },
-  {
-    "id": "google-wallet-unveils-stacked-card-list-redesign-for-android-2026-10-07",
-    "title": "Google Wallet Unveils Stacked Card List Redesign for Android",
-    "description": "Google Wallet introduces a new stacked card list layout on Android, simplifying card access and improving user experience.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Google Wallet introduces a new stacked card list layout on Android, simplifying card access and improving user experience.",
-    "page": "articles/google-wallet-unveils-stacked-card-list-redesign-for-android-2026-10-07.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/06/google-wallet-stacked-redesign/"
     ]
   }
 ]
