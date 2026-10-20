@@ -1,5 +1,23 @@
 [
   {
+    "id": "amd-unveils-zen-6-apu-with-24-gb-lpddr5-hinting-at-next-gen-steam-deck-2026-10-20",
+    "title": "AMD Unveils Zen 6 APU with 24 GB LPDDR5, Hinting at Next‑Gen Steam Deck",
+    "description": "An engineering sample of AMD’s Zen 6 APU features 24 GB of LPDDR5 memory and a 2.4 GHz GPU, pointing to future handheld gaming devices.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Hardware"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "An engineering sample of AMD’s Zen 6 APU features 24 GB of LPDDR5 memory and a 2.4 GHz GPU, pointing to future handheld gaming devices.",
+    "page": "articles/amd-unveils-zen-6-apu-with-24-gb-lpddr5-hinting-at-next-gen-steam-deck-2026-10-20.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds"
+    ]
+  },
+  {
     "id": "spacex-alum-s-reliable-robotics-secures-115m-series-d-valuation-surpasses-1b-2026-10-20",
     "title": "SpaceX Alum’s Reliable Robotics Secures $115M Series D, Valuation Surpasses $1B",
     "description": "Reliable Robotics raises $115 million in equity and $25 million in debt, pushing its valuation past $1 billion as it expands its autonomous aviation platform.",
@@ -1783,24 +1801,6 @@
     "page": "articles/crowdstrike-uncovers-ai-tool-use-in-south-korean-bank-hack-2026-10-08.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-says-crowdstrike/article71558258.ece"
-    ]
-  },
-  {
-    "id": "mecka-ai-secures-60m-to-fuel-humanoid-robot-training-2026-10-08",
-    "title": "Mecka AI Secures $60M to Fuel Humanoid Robot Training",
-    "description": "Robot data startup Mecka AI raises $60 million from Sequoia to expand its motion‑capture platform for training humanoid robots.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "Robot data startup Mecka AI raises $60 million from Sequoia to expand its motion‑capture platform for training humanoid robots.",
-    "page": "articles/mecka-ai-secures-60m-to-fuel-humanoid-robot-training-2026-10-08.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
     ]
   }
 ]
