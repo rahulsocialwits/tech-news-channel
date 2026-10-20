@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-home-speakers-reported-to-download-massive-data-in-background-2026-10-20",
+    "title": "Google Home Speakers Reported to Download Massive Data in Background",
+    "description": "New report reveals Google Home devices may be pulling large amounts of data without user knowledge, raising privacy concerns.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "New report reveals Google Home devices may be pulling large amounts of data without user knowledge, raising privacy concerns.",
+    "page": "articles/google-home-speakers-reported-to-download-massive-data-in-background-2026-10-20.html",
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE82RjVzY1FORTlFdDF6ZlVQcWRIaE1VNlBUeUQtdHVhWWctbVF0aWcwMW5XN0NleS1HX3dieXRqUzhqbmZvUW53YU1LVHpVNExPbWNmSzhzdVAyamFsTXpaM3A4Mi1ETlJyekUtOTZTVFRTdw?oc=5"
+    ]
+  },
+  {
     "id": "chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20",
     "title": "Chinese Hacker Deploys AI Agents to Breach Over 100 Company Websites",
     "description": "A Chinese hacker used a fleet of AI agents to infiltrate more than 100 corporate sites, including major brands like Deere and SharkNinja.",
@@ -1784,24 +1802,6 @@
     "source_urls": [
       "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
       "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/"
-    ]
-  },
-  {
-    "id": "mistral-unveils-le-chonk-a-new-open-weight-ai-model-set-to-compete-with-chinese-offerings-2026-10-07",
-    "title": "Mistral Unveils Le Chonk, a New Open‑Weight AI Model Set to Compete with Chinese Offerings",
-    "description": "Mistral announced the upcoming release of Le Chonk, an open‑weight AI model that aims to rival Chinese competitors, with public weights scheduled for end‑October.",
-    "category": "Startups",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Mistral announced the upcoming release of Le Chonk, an open‑weight AI model that aims to rival Chinese competitors, with public weights scheduled for end‑October.",
-    "page": "articles/mistral-unveils-le-chonk-a-new-open-weight-ai-model-set-to-compete-with-chinese-offerings-2026-10-07.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
     ]
   }
 ]
