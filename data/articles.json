@@ -1,5 +1,23 @@
 [
   {
+    "id": "u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20",
+    "title": "U.S. Brings Nuclear Reactors Back Online to Power Growing AI Data Centers",
+    "description": "The U.S. government is funding the recommissioning of three nuclear plants to meet the soaring energy demands of AI data centers.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-20",
+    "readTime": "3 min read",
+    "excerpt": "The U.S. government is funding the recommissioning of three nuclear plants to meet the soaring energy demands of AI data centers.",
+    "page": "articles/u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors"
+    ]
+  },
+  {
     "id": "google-cloud-outage-disrupts-uk-banking-and-web-services-2026-10-20",
     "title": "Google Cloud Outage Disrupts UK Banking and Web Services",
     "description": "A widespread Google Cloud outage on October 20th caused service interruptions for UK banks and popular websites, highlighting the sector’s reliance on cloud infrastructure.",
@@ -1783,24 +1801,6 @@
     "page": "articles/healthleap-secures-38m-to-expand-ai-driven-patient-risk-alerts-2026-10-07.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-    ]
-  },
-  {
-    "id": "ring-launches-hand-crankable-smart-lock-to-tackle-battery-dead-lockouts-2026-10-07",
-    "title": "Ring Launches Hand‑Crankable Smart Lock to Tackle Battery‑Dead Lockouts",
-    "description": "Amazon‑owned Ring introduces a smart lock that can be manually turned when its battery dies, addressing a common homeowner frustration.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-07",
-    "readTime": "3 min read",
-    "excerpt": "Amazon‑owned Ring introduces a smart lock that can be manually turned when its battery dies, addressing a common homeowner frustration.",
-    "page": "articles/ring-launches-hand-crankable-smart-lock-to-tackle-battery-dead-lockouts-2026-10-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/"
     ]
   }
 ]
