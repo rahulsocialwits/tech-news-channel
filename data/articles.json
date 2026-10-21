@@ -1,5 +1,23 @@
 [
   {
+    "id": "android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21",
+    "title": "Android 17 Beta 3 Locks Quick‑Settings Toggles to Strengthen Lock‑Screen Security",
+    "description": "Google’s latest Android 17 beta patch now lets users lock Wi‑Fi, Bluetooth, Mobile Data and Airplane Mode toggles on the lock screen, addressing a major security flaw.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Android 17 beta patch now lets users lock Wi‑Fi, Bluetooth, Mobile Data and Airplane Mode toggles on the lock screen, addressing a major security flaw.",
+    "page": "articles/android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21.html",
+    "source_urls": [
+      "https://www.androidauthority.com/android-17-qpr-3-beta-2-lock-quick-settings-tiles-3725896/"
+    ]
+  },
+  {
     "id": "xgimi-and-lava-unveil-next-gen-projectors-and-5g-smart-tvs-for-the-home-2026-10-21",
     "title": "XGIMI and Lava Unveil Next‑Gen Projectors and 5G Smart TVs for the Home",
     "description": "XGIMI launches its Aura 3 Pro and Max 4K projectors on Kickstarter, while Lava introduces the Aura Curve 5G TV with a 6,000‑mAh battery and 45W charging support.",
@@ -1786,23 +1804,6 @@
     "page": "articles/xona-prepares-to-launch-commercial-gps-alternative-after-spacex-satellite-deployment-2026-10-09.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
-    ]
-  },
-  {
-    "id": "spacex-urges-improved-orbital-coordination-after-near-misses-with-starlink-2026-10-09",
-    "title": "SpaceX Urges Improved Orbital Coordination After Near-Misses with Starlink",
-    "description": "SpaceX calls for better coordination in orbit following close encounters with its Starlink satellites, highlighting the need for stricter collision avoidance protocols.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-09",
-    "readTime": "3 min read",
-    "excerpt": "SpaceX calls for better coordination in orbit following close encounters with its Starlink satellites, highlighting the need for stricter collision avoidance protocols.",
-    "page": "articles/spacex-urges-improved-orbital-coordination-after-near-misses-with-starlink-2026-10-09.html",
-    "source_urls": [
-      "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
     ]
   }
 ]
