@@ -1,5 +1,24 @@
 [
   {
+    "id": "xgimi-and-lava-unveil-next-gen-projectors-and-5g-smart-tvs-for-the-home-2026-10-21",
+    "title": "XGIMI and Lava Unveil Next‑Gen Projectors and 5G Smart TVs for the Home",
+    "description": "XGIMI launches its Aura 3 Pro and Max 4K projectors on Kickstarter, while Lava introduces the Aura Curve 5G TV with a 6,000‑mAh battery and 45W charging support.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "4 min read",
+    "excerpt": "XGIMI launches its Aura 3 Pro and Max 4K projectors on Kickstarter, while Lava introduces the Aura Curve 5G TV with a 6,000‑mAh battery and 45W charging support.",
+    "page": "articles/xgimi-and-lava-unveil-next-gen-projectors-and-5g-smart-tvs-for-the-home-2026-10-21.html",
+    "source_urls": [
+      "https://www.androidauthority.com/xgimi-aura-3-pro-max-projector-kickstarter-orders-live-3725842/",
+      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-aura-curve-5g-for-mid-segment-buyers-in-india/article71606589.ece"
+    ]
+  },
+  {
     "id": "anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21",
     "title": "Anthropic Proposes AI Safety Bill That Could Block Models If 50 Lives at Risk",
     "description": "Anthropic’s new policy would require a judge’s approval before federal agencies can block an AI model that could kill 50 or more people.",
@@ -1784,24 +1803,6 @@
     "page": "articles/spacex-urges-improved-orbital-coordination-after-near-misses-with-starlink-2026-10-09.html",
     "source_urls": [
       "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
-    ]
-  },
-  {
-    "id": "globalfoundries-joins-tsmc-s-cowos-supply-chain-with-2-b-silicon-interposer-deal-2026-10-09",
-    "title": "GlobalFoundries Joins TSMC’s CoWoS Supply Chain with $2 B Silicon Interposer Deal",
-    "description": "GlobalFoundries will produce silicon interposers for TSMC’s CoWoS in the U.S., a five‑year, $2 billion agreement that expands the U.S. supply chain for AI and HPC chips.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Semiconductors"
-    ],
-    "feature_image": "",
-    "date": "2026-10-09",
-    "readTime": "3 min read",
-    "excerpt": "GlobalFoundries will produce silicon interposers for TSMC’s CoWoS in the U.S., a five‑year, $2 billion agreement that expands the U.S. supply chain for AI and HPC chips.",
-    "page": "articles/globalfoundries-joins-tsmc-s-cowos-supply-chain-with-2-b-silicon-interposer-deal-2026-10-09.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion"
     ]
   }
 ]
