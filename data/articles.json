@@ -1,5 +1,23 @@
 [
   {
+    "id": "mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21",
+    "title": "Mach9 Secures $34 Million to Power AI‑Driven CAD Platform",
+    "description": "Startup Mach9 raises $34 million after pivoting from surveying hardware to AI‑enabled computer‑aided design software.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Startup Mach9 raises $34 million after pivoting from surveying hardware to AI‑enabled computer‑aided design software.",
+    "page": "articles/mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
+    ]
+  },
+  {
     "id": "two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21",
     "title": "Two Internet Security Vulnerabilities Threaten Site Administrators",
     "description": "Recent discoveries of severe web vulnerabilities are forcing administrators to act fast to protect their sites.",
@@ -1786,24 +1804,6 @@
     "page": "articles/petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
-    ]
-  },
-  {
-    "id": "apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11",
-    "title": "Apple Eyes AI‑Generated Podcast Future by Hiring Huxe Team",
-    "description": "Apple announced a deal to hire the team behind personalized podcast startup Huxe and license its technology, signaling a push into AI‑generated audio content.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Apple announced a deal to hire the team behind personalized podcast startup Huxe and license its technology, signaling a push into AI‑generated audio content.",
-    "page": "articles/apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
     ]
   }
 ]
