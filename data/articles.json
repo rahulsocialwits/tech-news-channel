@@ -1,5 +1,23 @@
 [
   {
+    "id": "critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21",
+    "title": "Critical PHP Vulnerabilities Threaten Millions of Websites",
+    "description": "Two severe PHP flaws could expose millions of sites to remote code execution and data theft if not patched promptly.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Two severe PHP flaws could expose millions of sites to remote code execution and data theft if not patched promptly.",
+    "page": "articles/critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21.html",
+    "source_urls": [
+      "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+    ]
+  },
+  {
     "id": "spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21",
     "title": "SpaceX’s Starlink Clears Regulatory Hurdle to Become Mobile Carrier",
     "description": "SpaceX’s Starlink has received regulatory approval to operate as a mobile carrier, opening a new frontier for satellite‑based wireless service.",
@@ -1786,24 +1804,6 @@
     "page": "articles/live-activities-now-available-on-iphone-and-carplay-2026-10-11.html",
     "source_urls": [
       "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/"
-    ]
-  },
-  {
-    "id": "cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11",
-    "title": "Cloudflare’s Deno Acquisition Aims to Supercharge Edge Computing",
-    "description": "Cloudflare has announced the purchase of Deno, the JavaScript runtime, to enhance its Workers platform and bring a new programming model to the edge.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Cloudflare has announced the purchase of Deno, the JavaScript runtime, to enhance its Workers platform and bring a new programming model to the edge.",
-    "page": "articles/cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
     ]
   }
 ]
