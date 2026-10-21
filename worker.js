@@ -461,10 +461,58 @@ ${sourceLinks}
 </html>`;
 }
 
+function escapeXml(value) {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+// Rebuild the document instead of string-appending tags to an existing XML file.
+// Keep historical URLs already present, validate site ownership, and deduplicate.
 function buildSitemap(existingXml, pagePath) {
-  const loc = SITE_URL + "/" + pagePath;
-  if (existingXml.includes("<loc>" + loc + "</loc>")) return existingXml;
-  return existingXml.replace("</urlset>", `<url><loc>${loc}</loc></url></urlset>`);
+  if (typeof existingXml !== "string" || !/<urlset\b[^>]*>/i.test(existingXml) || !/<\/urlset>/i.test(existingXml)) {
+    throw new Error("Existing sitemap.xml is not a valid urlset document.");
+  }
+
+  const locs = [...existingXml.matchAll(/<loc>\s*([^<]*?)\s*<\/loc>/gi)]
+    .map(match => match[1].trim())
+    .filter(Boolean);
+
+  if (!locs.length) {
+    throw new Error("Existing sitemap.xml contains no URL entries.");
+  }
+
+  const expectedPrefix = SITE_URL + "/";
+  const validLocs = [];
+  for (const candidate of locs) {
+    let parsed;
+    try {
+      parsed = new URL(candidate);
+    } catch (_) {
+      continue;
+    }
+    if (parsed.protocol !== "https:" || parsed.hostname !== "rahulsocialwits.github.io") continue;
+    if (!(parsed.href === SITE_URL + "/" || parsed.href.startsWith(expectedPrefix))) continue;
+    validLocs.push(parsed.href);
+  }
+
+  const relativePath = String(pagePath || "").replace(/^\/+/, "");
+  const articleUrl = new URL(relativePath, SITE_URL + "/").href;
+  if (!articleUrl.startsWith(expectedPrefix)) {
+    throw new Error("Refusing to add a sitemap URL outside the TechPulse project path.");
+  }
+
+  const urls = [...new Set([...validLocs, articleUrl])];
+  return [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...urls.flatMap(url => ["  <url>", `    <loc>${escapeXml(url)}</loc>`, "  </url>"]),
+    "</urlset>",
+    ""
+  ].join("\n");
 }
 
 async function updateArticle(env, articleId, updates) {
