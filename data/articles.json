@@ -1,5 +1,23 @@
 [
   {
+    "id": "tp-link-eyes-1-billion-u-s-wi-fi-router-manufacturing-deal-to-secure-wi-fi-8-availability-2026-10-21",
+    "title": "TP‑Link Eyes $1 Billion U.S. Wi‑Fi Router Manufacturing Deal to Secure Wi‑Fi 8 Availability",
+    "description": "TP‑Link proposes a $1 billion partnership with Key Tronic to streamline U.S. Wi‑Fi 8 router production and meet FCC approval.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "TP‑Link proposes a $1 billion partnership with Key Tronic to streamline U.S. Wi‑Fi 8 router production and meet FCC approval.",
+    "page": "articles/tp-link-eyes-1-billion-u-s-wi-fi-router-manufacturing-deal-to-secure-wi-fi-8-availability-2026-10-21.html",
+    "source_urls": [
+      "https://www.tomshardware.com/networking/routers/tp-link-proposes-usd1-billion-us-wi-fi-router-manufacturing-alliance-with-key-tronic-potential-deal-seeks-to-end-ongoing-saga-blocking-its-wi-fi-8-products-from-american-homes"
+    ]
+  },
+  {
     "id": "amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21",
     "title": "AMD Unveils FSR 4.1 Upscaler for Older GPUs and Consoles",
     "description": "AMD’s latest FSR 4.1 upscaling technology now supports Radeon RX 6000 series, Xbox Series X/S, and Ryzen AI chips, boosting performance with minimal cost.",
@@ -1784,24 +1802,6 @@
     "page": "articles/teenage-engineering-shifts-focus-away-from-synthesizers-2026-10-08.html",
     "source_urls": [
       "https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/"
-    ]
-  },
-  {
-    "id": "liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08",
-    "title": "Liferay and MindCraft Join Forces to Modernise Enterprise Digital Experiences",
-    "description": "Liferay and MindCraft partner to combine DXP and consulting expertise, helping Indian enterprises simplify digital environments and accelerate transformation.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "Liferay and MindCraft partner to combine DXP and consulting expertise, helping Indian enterprises simplify digital environments and accelerate transformation.",
-    "page": "articles/liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/liferay-and-mindcraft-partner-to-modernise-digital-experiences-for-enterprises/"
     ]
   }
 ]
