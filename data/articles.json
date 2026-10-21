@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21",
+    "title": "Nvidia Unveils Plug‑In DSX Pod to Accelerate Europe’s AI Infrastructure",
+    "description": "Nvidia’s new DSX Pod plug‑in data center aims to close Europe’s AI compute gap, announced at GTC Berlin.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s new DSX Pod plug‑in data center aims to close Europe’s AI compute gap, announced at GTC Berlin.",
+    "page": "articles/nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21.html",
+    "source_urls": [
+      "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
+    ]
+  },
+  {
     "id": "critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21",
     "title": "Critical PHP Vulnerabilities Threaten Millions of Websites",
     "description": "Two severe PHP flaws could expose millions of sites to remote code execution and data theft if not patched promptly.",
@@ -1786,24 +1804,6 @@
     "page": "articles/googlebook-expands-android-sync-adds-samsung-support-2026-10-11.html",
     "source_urls": [
       "https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/"
-    ]
-  },
-  {
-    "id": "live-activities-now-available-on-iphone-and-carplay-2026-10-11",
-    "title": "Live Activities Now Available on iPhone and CarPlay",
-    "description": "Apple expands Live Activities to iPhone and CarPlay, letting users view real‑time app data directly on the lock screen and in the CarPlay interface.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Apple expands Live Activities to iPhone and CarPlay, letting users view real‑time app data directly on the lock screen and in the CarPlay interface.",
-    "page": "articles/live-activities-now-available-on-iphone-and-carplay-2026-10-11.html",
-    "source_urls": [
-      "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/"
     ]
   }
 ]
