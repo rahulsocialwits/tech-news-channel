@@ -1,0 +1,56 @@
+name: Validate TechPulse sitemap
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "sitemap.xml"
+      - "worker.js"
+      - ".github/workflows/validate-sitemap.yml"
+  pull_request:
+    paths:
+      - "sitemap.xml"
+      - "worker.js"
+      - ".github/workflows/validate-sitemap.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate sitemap XML and URLs
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from urllib.parse import urlparse
+
+          sitemap_path = "sitemap.xml"
+          namespace = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+          root = ET.parse(sitemap_path).getroot()
+          if root.tag != namespace + "urlset":
+              raise SystemExit("FAIL: sitemap root must be the standard <urlset> element")
+
+          entries = root.findall(namespace + "url")
+          if not entries:
+              raise SystemExit("FAIL: sitemap contains no <url> entries")
+          if len(entries) > 50000:
+              raise SystemExit("FAIL: sitemap exceeds the 50,000 URL limit")
+
+          seen = set()
+          prefix = "https://rahulsocialwits.github.io/tech-news-channel/"
+          for entry in entries:
+              loc = entry.findtext(namespace + "loc")
+              if not loc:
+                  raise SystemExit("FAIL: every <url> needs a <loc>")
+              parsed = urlparse(loc.strip())
+              if parsed.scheme != "https" or parsed.netloc != "rahulsocialwits.github.io":
+                  raise SystemExit(f"FAIL: unexpected URL host/protocol: {loc}")
+              if not (loc.strip() == prefix or loc.strip().startswith(prefix)):
+                  raise SystemExit(f"FAIL: URL is outside the TechPulse project path: {loc}")
+              if loc in seen:
+                  raise SystemExit(f"FAIL: duplicate URL: {loc}")
+              seen.add(loc)
+
+          print(f"PASS: valid sitemap XML with {len(entries)} unique TechPulse URLs")
+          PY
