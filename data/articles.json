@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21",
+    "title": "Google’s TorchTPU Brings PyTorch to Its AI Chips with Minimal Code Changes",
+    "description": "Google introduces TorchTPU, a tool that lets developers run PyTorch workloads on its AI chips without extensive code rewrites, easing cloud provider integration.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Google introduces TorchTPU, a tool that lets developers run PyTorch workloads on its AI chips without extensive code rewrites, easing cloud provider integration.",
+    "page": "articles/google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/after-amazon-google-targets-nvidias-software-lock-in-with-torchtpu/article71606450.ece"
+    ]
+  },
+  {
     "id": "ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21",
     "title": "AI Customer Service: When to Fix Automatically and When to Escalate",
     "description": "A new study shows customers prefer AI fixes when simple, but want human help for complex issues, highlighting the need for hybrid support models.",
@@ -1786,24 +1804,6 @@
     "page": "articles/microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-    ]
-  },
-  {
-    "id": "google-teases-new-fitbit-edge-wearable-ahead-of-october-12-reveal-2026-10-10",
-    "title": "Google Teases New Fitbit Edge Wearable Ahead of October 12 Reveal",
-    "description": "Google hints at its upcoming Fitbit Edge smartwatch, set to launch on October 12, with teaser posts and early design details.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-10",
-    "readTime": "3 min read",
-    "excerpt": "Google hints at its upcoming Fitbit Edge smartwatch, set to launch on October 12, with teaser posts and early design details.",
-    "page": "articles/google-teases-new-fitbit-edge-wearable-ahead-of-october-12-reveal-2026-10-10.html",
-    "source_urls": [
-      "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/"
     ]
   }
 ]
