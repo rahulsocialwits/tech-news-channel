@@ -1,5 +1,23 @@
 [
   {
+    "id": "php-maintainers-urge-developers-to-brace-for-critical-security-patches-2026-10-21",
+    "title": "PHP Maintainers Urge Developers to Brace for Critical Security Patches",
+    "description": "PHP core team warns of imminent critical security updates, urging web developers to prepare for upcoming patches that could affect millions of sites.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "PHP core team warns of imminent critical security updates, urging web developers to prepare for upcoming patches that could affect millions of sites.",
+    "page": "articles/php-maintainers-urge-developers-to-brace-for-critical-security-patches-2026-10-21.html",
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5"
+    ]
+  },
+  {
     "id": "php-maintainers-warn-of-two-imminent-emergency-security-patches-2026-10-21",
     "title": "PHP Maintainers Warn of Two Imminent Emergency Security Patches",
     "description": "PHP developers are preparing to release critical security updates to address a serious remote code execution vulnerability.",
@@ -1784,24 +1802,6 @@
     "page": "articles/amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips"
-    ]
-  },
-  {
-    "id": "google-cloud-unveils-gemini-agent-as-enterprise-universal-agent-for-work-2026-10-08",
-    "title": "Google Cloud Unveils Gemini Agent as Enterprise ‘Universal Agent for Work’",
-    "description": "Google Cloud introduces the Gemini Agent, a new AI-powered assistant designed to streamline workflows for enterprise customers.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "Google Cloud introduces the Gemini Agent, a new AI-powered assistant designed to streamline workflows for enterprise customers.",
-    "page": "articles/google-cloud-unveils-gemini-agent-as-enterprise-universal-agent-for-work-2026-10-08.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/08/gemini-agent-google-cloud/"
     ]
   }
 ]
