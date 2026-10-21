@@ -1,5 +1,23 @@
 [
   {
+    "id": "waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21",
+    "title": "Waymo Launches Autonomous Airport Rides at Las Vegas International",
+    "description": "Waymo begins offering self‑driving pickups and drop‑offs at Las Vegas airport terminals, expanding its autonomous mobility services.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Waymo begins offering self‑driving pickups and drop‑offs at Las Vegas airport terminals, expanding its autonomous mobility services.",
+    "page": "articles/waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/"
+    ]
+  },
+  {
     "id": "nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21",
     "title": "Nvidia Unveils Plug‑In DSX Pod to Accelerate Europe’s AI Infrastructure",
     "description": "Nvidia’s new DSX Pod plug‑in data center aims to close Europe’s AI compute gap, announced at GTC Berlin.",
@@ -1786,24 +1804,6 @@
     "page": "articles/apple-unveils-new-4k-tv-and-homepod-mini-shipping-oct-30-2026-10-11.html",
     "source_urls": [
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDFpVHlLdXpPdzZDUi1DaThFc29MNVg0VTNvNHhaYjFWSFpuZU9kUmZGUnlEeURTRFQ4LVZONlZGM0pMMkRJLVZnaE5QbG8wRWR1MTl5RG0yOUxNRThLemM2VExuUXNOU0prQkY2WE9rb2tNU2VGTy02Zl9IeE5XSVZna2k?oc=5"
-    ]
-  },
-  {
-    "id": "googlebook-expands-android-sync-adds-samsung-support-2026-10-11",
-    "title": "Googlebook Expands Android Sync, Adds Samsung Support",
-    "description": "Googlebook rolls out new sync features for Android and adds support for Samsung devices, improving cross‑platform integration.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Googlebook rolls out new sync features for Android and adds support for Samsung devices, improving cross‑platform integration.",
-    "page": "articles/googlebook-expands-android-sync-adds-samsung-support-2026-10-11.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/"
     ]
   }
 ]
