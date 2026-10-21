@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21",
+    "title": "OpenAI GPT Models to Power Google Cloud and Antigravity Services",
+    "description": "OpenAI’s GPT models will soon be available on Google Cloud, expanding AI capabilities for developers and enterprises.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI’s GPT models will soon be available on Google Cloud, expanding AI capabilities for developers and enterprises.",
+    "page": "articles/openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/"
+    ]
+  },
+  {
     "id": "waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21",
     "title": "Waymo Launches Autonomous Airport Rides at Las Vegas International",
     "description": "Waymo begins offering self‑driving pickups and drop‑offs at Las Vegas airport terminals, expanding its autonomous mobility services.",
@@ -1786,24 +1804,6 @@
       "https://www.thehindu.com/business/Industry/telecom-operators-to-show-kyc-name-of-incoming-callers-from-november-1/article71587959.ece",
       "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
       "https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab"
-    ]
-  },
-  {
-    "id": "apple-unveils-new-4k-tv-and-homepod-mini-shipping-oct-30-2026-10-11",
-    "title": "Apple Unveils New 4K TV and HomePod Mini, Shipping Oct. 30",
-    "description": "Apple announces the launch of its new Apple TV 4K and HomePod Mini, set to ship on October 30, expanding its streaming and smart‑home lineup.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Apple announces the launch of its new Apple TV 4K and HomePod Mini, set to ship on October 30, expanding its streaming and smart‑home lineup.",
-    "page": "articles/apple-unveils-new-4k-tv-and-homepod-mini-shipping-oct-30-2026-10-11.html",
-    "source_urls": [
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDFpVHlLdXpPdzZDUi1DaThFc29MNVg0VTNvNHhaYjFWSFpuZU9kUmZGUnlEeURTRFQ4LVZONlZGM0pMMkRJLVZnaE5QbG8wRWR1MTl5RG0yOUxNRThLemM2VExuUXNOU0prQkY2WE9rb2tNU2VGTy02Zl9IeE5XSVZna2k?oc=5"
     ]
   }
 ]
