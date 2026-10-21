@@ -1,5 +1,23 @@
 [
   {
+    "id": "spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21",
+    "title": "SpaceX’s Starlink Clears Regulatory Hurdle to Become Mobile Carrier",
+    "description": "SpaceX’s Starlink has received regulatory approval to operate as a mobile carrier, opening a new frontier for satellite‑based wireless service.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "SpaceX’s Starlink has received regulatory approval to operate as a mobile carrier, opening a new frontier for satellite‑based wireless service.",
+    "page": "articles/spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/spacexs-starlink-clears-hurdle-to-becoming-mobile-carrier-180687.html?rss=1"
+    ]
+  },
+  {
     "id": "mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21",
     "title": "Mach9 Secures $34 Million to Power AI‑Driven CAD Platform",
     "description": "Startup Mach9 raises $34 million after pivoting from surveying hardware to AI‑enabled computer‑aided design software.",
@@ -1786,24 +1804,6 @@
     "page": "articles/cloudflare-s-deno-acquisition-aims-to-supercharge-edge-computing-2026-10-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
-    ]
-  },
-  {
-    "id": "petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11",
-    "title": "Petra Power Unveils Fuel‑Cell Solution Aimed at Powering Data Centers and Defense Vehicles",
-    "description": "Startup Petra Power claims its high‑efficiency fuel cells can slash fuel costs for data centers and military vehicles, offering a greener alternative to traditional power sources.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Startups"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Startup Petra Power claims its high‑efficiency fuel cells can slash fuel costs for data centers and military vehicles, offering a greener alternative to traditional power sources.",
-    "page": "articles/petra-power-unveils-fuel-cell-solution-aimed-at-powering-data-centers-and-defense-vehicles-2026-10-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
     ]
   }
 ]
