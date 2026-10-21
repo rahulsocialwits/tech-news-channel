@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21",
+    "title": "Anthropic Proposes AI Safety Bill That Could Block Models If 50 Lives at Risk",
+    "description": "Anthropic’s new policy would require a judge’s approval before federal agencies can block an AI model that could kill 50 or more people.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic’s new policy would require a judge’s approval before federal agencies can block an AI model that could kill 50 or more people.",
+    "page": "articles/anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+    ]
+  },
+  {
     "id": "php-maintainers-urge-developers-to-brace-for-critical-security-patches-2026-10-21",
     "title": "PHP Maintainers Urge Developers to Brace for Critical Security Patches",
     "description": "PHP core team warns of imminent critical security updates, urging web developers to prepare for upcoming patches that could affect millions of sites.",
@@ -1784,24 +1802,6 @@
     "page": "articles/globalfoundries-joins-tsmc-s-cowos-supply-chain-with-2-b-silicon-interposer-deal-2026-10-09.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion"
-    ]
-  },
-  {
-    "id": "amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08",
-    "title": "AMD Eyes Broader Partnership With Samsung to Secure Memory Supply",
-    "description": "AMD is pursuing a wider partnership with Samsung to tie advanced memory supply to its foundry orders, aiming to strengthen its semiconductor supply chain.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Semiconductors"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "AMD is pursuing a wider partnership with Samsung to tie advanced memory supply to its foundry orders, aiming to strengthen its semiconductor supply chain.",
-    "page": "articles/amd-eyes-broader-partnership-with-samsung-to-secure-memory-supply-2026-10-08.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips"
     ]
   }
 ]
