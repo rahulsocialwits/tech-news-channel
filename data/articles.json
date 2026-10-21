@@ -1,5 +1,23 @@
 [
   {
+    "id": "amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21",
+    "title": "AMD Unveils FSR 4.1 Upscaler for Older GPUs and Consoles",
+    "description": "AMD’s latest FSR 4.1 upscaling technology now supports Radeon RX 6000 series, Xbox Series X/S, and Ryzen AI chips, boosting performance with minimal cost.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "AMD’s latest FSR 4.1 upscaling technology now supports Radeon RX 6000 series, Xbox Series X/S, and Ryzen AI chips, boosting performance with minimal cost.",
+    "page": "articles/amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost"
+    ]
+  },
+  {
     "id": "enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20",
     "title": "Enterprise AI’s New Economics: From Utility to Efficiency",
     "description": "How companies are shifting from simply adopting AI to optimizing its use for maximum value.",
@@ -1784,24 +1802,6 @@
     "page": "articles/liferay-and-mindcraft-join-forces-to-modernise-enterprise-digital-experiences-2026-10-08.html",
     "source_urls": [
       "https://indiatechnologynews.in/liferay-and-mindcraft-partner-to-modernise-digital-experiences-for-enterprises/"
-    ]
-  },
-  {
-    "id": "microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08",
-    "title": "Microsoft Unveils AI‑Friendly Hardware and Windows Updates at Latest Event",
-    "description": "Microsoft announced new AI‑optimized hardware and Windows features, aiming to make AI integration smoother for developers and users.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-08",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft announced new AI‑optimized hardware and Windows features, aiming to make AI integration smoother for developers and users.",
-    "page": "articles/microsoft-unveils-ai-friendly-hardware-and-windows-updates-at-latest-event-2026-10-08.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
     ]
   }
 ]
