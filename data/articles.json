@@ -1,5 +1,22 @@
 [
   {
+    "id": "two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21",
+    "title": "Two Internet Security Vulnerabilities Threaten Site Administrators",
+    "description": "Recent discoveries of severe web vulnerabilities are forcing administrators to act fast to protect their sites.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "Recent discoveries of severe web vulnerabilities are forcing administrators to act fast to protect their sites.",
+    "page": "articles/two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21.html",
+    "source_urls": [
+      "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
+    ]
+  },
+  {
     "id": "google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21",
     "title": "Google’s TorchTPU Brings PyTorch to Its AI Chips with Minimal Code Changes",
     "description": "Google introduces TorchTPU, a tool that lets developers run PyTorch workloads on its AI chips without extensive code rewrites, easing cloud provider integration.",
@@ -1787,23 +1804,6 @@
     "page": "articles/apple-eyes-ai-generated-podcast-future-by-hiring-huxe-team-2026-10-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
-    ]
-  },
-  {
-    "id": "microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11",
-    "title": "Microsoft’s Satya Nadella Calls for an ‘Emergency Brake’ on AI Models",
-    "description": "Microsoft CEO urges a pause to evaluate AI trust architecture amid growing concerns about model safety and accountability.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-11",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft CEO urges a pause to evaluate AI trust architecture amid growing concerns about model safety and accountability.",
-    "page": "articles/microsoft-s-satya-nadella-calls-for-an-emergency-brake-on-ai-models-2026-10-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
     ]
   }
 ]
