@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21",
+    "title": "AI Customer Service: When to Fix Automatically and When to Escalate",
+    "description": "A new study shows customers prefer AI fixes when simple, but want human help for complex issues, highlighting the need for hybrid support models.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-21",
+    "readTime": "3 min read",
+    "excerpt": "A new study shows customers prefer AI fixes when simple, but want human help for complex issues, highlighting the need for hybrid support models.",
+    "page": "articles/ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/ai-customer-service-should-fix-the-problem-or-hand-it-to-a-human-180684.html?rss=1"
+    ]
+  },
+  {
     "id": "android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21",
     "title": "Android 17 Beta 3 Locks Quick‑Settings Toggles to Strengthen Lock‑Screen Security",
     "description": "Google’s latest Android 17 beta patch now lets users lock Wi‑Fi, Bluetooth, Mobile Data and Airplane Mode toggles on the lock screen, addressing a major security flaw.",
@@ -1786,24 +1804,6 @@
     "page": "articles/google-teases-new-fitbit-edge-wearable-ahead-of-october-12-reveal-2026-10-10.html",
     "source_urls": [
       "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/"
-    ]
-  },
-  {
-    "id": "xona-prepares-to-launch-commercial-gps-alternative-after-spacex-satellite-deployment-2026-10-09",
-    "title": "Xona Prepares to Launch Commercial GPS Alternative After SpaceX Satellite Deployment",
-    "description": "Xona’s precision timing and navigation service is set to enter beta testing following the launch of six company‑designed satellites by SpaceX.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-10-09",
-    "readTime": "3 min read",
-    "excerpt": "Xona’s precision timing and navigation service is set to enter beta testing following the launch of six company‑designed satellites by SpaceX.",
-    "page": "articles/xona-prepares-to-launch-commercial-gps-alternative-after-spacex-satellite-deployment-2026-10-09.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
     ]
   }
 ]
