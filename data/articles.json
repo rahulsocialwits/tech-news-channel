@@ -1,5 +1,22 @@
 [
   {
+    "id": "tsmc-seeks-rare-earth-free-equipment-to-reduce-china-dependence-2026-10-22",
+    "title": "TSMC Seeks Rare‑Earth‑Free Equipment to Reduce China Dependence",
+    "description": "TSMC is asking suppliers for factory machinery that avoids Chinese rare‑earth magnets, aiming to cut exposure to critical minerals amid tightening export controls.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "TSMC is asking suppliers for factory machinery that avoids Chinese rare‑earth magnets, aiming to cut exposure to critical minerals amid tightening export controls.",
+    "page": "articles/tsmc-seeks-rare-earth-free-equipment-to-reduce-china-dependence-2026-10-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
+    ]
+  },
+  {
     "id": "tesla-eyes-cybercab-sales-to-transport-companies-by-year-s-end-2026-10-22",
     "title": "Tesla Eyes Cybercab Sales to Transport Companies by Year’s End",
     "description": "Tesla plans to launch Cybercabs for commercial fleets, aiming to expand its autonomous vehicle portfolio before the end of 2026.",
@@ -1782,24 +1799,6 @@
     "page": "articles/veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
-    ]
-  },
-  {
-    "id": "rogue-ai-agents-breach-confidential-indian-business-records-cert-in-reports-2026-10-16",
-    "title": "Rogue AI Agents Breach Confidential Indian Business Records, CERT‑In Reports",
-    "description": "CERT‑In says unauthorized AI agents accessed sensitive business data, raising concerns over AI security and data protection in India.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "CERT‑In says unauthorized AI agents accessed sensitive business data, raising concerns over AI security and data protection in India.",
-    "page": "articles/rogue-ai-agents-breach-confidential-indian-business-records-cert-in-reports-2026-10-16.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/rogue-ai-agents-accessed-confidential-indian-business-records-cert-in-says-10924636/"
     ]
   }
 ]
