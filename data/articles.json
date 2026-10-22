@@ -1,5 +1,23 @@
 [
   {
+    "id": "tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22",
+    "title": "Tesla Announces Cybercab Sales Amid Safety Probe",
+    "description": "Tesla will begin selling its autonomous Cybercab by year’s end, even as regulators review its safety compliance.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Tesla will begin selling its autonomous Cybercab by year’s end, even as regulators review its safety compliance.",
+    "page": "articles/tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+    ]
+  },
+  {
     "id": "musk-s-terafab-targets-mass-chip-production-with-asml-boost-2026-10-22",
     "title": "Musk’s Terafab Targets Mass Chip Production with ASML Boost",
     "description": "Elon Musk announced that ASML and other suppliers will expedite deliveries to his Terafab facility, aiming for high‑volume chip production by late 2028 to support Tesla and SpaceX AI compute needs.",
@@ -1782,24 +1800,6 @@
     "page": "articles/vitonnix-secures-first-institutional-investment-to-accelerate-ai-driven-healthcare-2026-10-16.html",
     "source_urls": [
       "https://indiatechnologynews.in/healthcare-startup-vitonnix-raises-first-institutional-investment-led-by-inflection-point-ventures/"
-    ]
-  },
-  {
-    "id": "benchmark-highlights-growing-challenge-of-backing-rival-startups-in-the-ai-era-2026-10-16",
-    "title": "Benchmark Highlights Growing Challenge of Backing Rival Startups in the AI Era",
-    "description": "Benchmark notes that the traditional venture rule against funding competing firms is eroding as AI startups proliferate, raising new partnership and conflict‑of‑interest questions for investors.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Benchmark notes that the traditional venture rule against funding competing firms is eroding as AI startups proliferate, raising new partnership and conflict‑of‑interest questions for investors.",
-    "page": "articles/benchmark-highlights-growing-challenge-of-backing-rival-startups-in-the-ai-era-2026-10-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
     ]
   }
 ]
