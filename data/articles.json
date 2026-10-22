@@ -1,5 +1,23 @@
 [
   {
+    "id": "inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22",
+    "title": "INMO GO3 Smart Glasses Bring Gemini AI and Privacy‑Focused Display to the Market",
+    "description": "The new INMO GO3 smart glasses combine a high‑resolution display with Google Gemini integration and a camera‑privacy feature, addressing two common smart‑glasses pain points.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "The new INMO GO3 smart glasses combine a high‑resolution display with Google Gemini integration and a camera‑privacy feature, addressing two common smart‑glasses pain points.",
+    "page": "articles/inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/"
+    ]
+  },
+  {
     "id": "amazon-web-services-logs-widespread-php-exploit-attempts-ahead-of-patch-2026-10-22",
     "title": "Amazon Web Services Logs Widespread PHP Exploit Attempts Ahead of Patch",
     "description": "AWS detected attempts to exploit the PHP2Shell vulnerability days before the fix was released, prompting a security alert for sites running PHP.",
@@ -1783,24 +1801,6 @@
     "page": "articles/plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
-    ]
-  },
-  {
-    "id": "kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16",
-    "title": "KDE Celebrates 30 Years with Plasma 6.8, X11 Farewell, and a New Movie",
-    "description": "KDE marks three decades with a fresh Plasma release, remote upgrades, and a goodbye to X11, while also unveiling a celebratory film.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "KDE marks three decades with a fresh Plasma release, remote upgrades, and a goodbye to X11, while also unveiling a celebratory film.",
-    "page": "articles/kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
     ]
   }
 ]
