@@ -1,5 +1,24 @@
 [
   {
+    "id": "amazon-web-services-logs-widespread-php-exploit-attempts-ahead-of-patch-2026-10-22",
+    "title": "Amazon Web Services Logs Widespread PHP Exploit Attempts Ahead of Patch",
+    "description": "AWS detected attempts to exploit the PHP2Shell vulnerability days before the fix was released, prompting a security alert for sites running PHP.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "AWS detected attempts to exploit the PHP2Shell vulnerability days before the fix was released, prompting a security alert for sites running PHP.",
+    "page": "articles/amazon-web-services-logs-widespread-php-exploit-attempts-ahead-of-patch-2026-10-22.html",
+    "source_urls": [
+      "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "https://www.technewsworld.com/story/internet-wide-threat-has-security-teams-scrambling-to-patch-php-180689.html?rss=1"
+    ]
+  },
+  {
     "id": "intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22",
     "title": "Intel Advances U.S. Chip Production with New Fab 62 Tools",
     "description": "Intel has installed advanced production equipment at its Arizona Fab 62, marking a key step toward expanding U.S. semiconductor manufacturing capacity.",
@@ -1782,26 +1801,6 @@
     "page": "articles/kde-celebrates-30-years-with-plasma-6-8-x11-farewell-and-a-new-movie-2026-10-16.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
-    ]
-  },
-  {
-    "id": "tesla-s-new-roadster-takes-to-the-skies-with-spacex-powered-thrusters-2026-10-16",
-    "title": "Tesla’s New Roadster Takes to the Skies with SpaceX‑Powered Thrusters",
-    "description": "Tesla unveiled a next‑generation Roadster that can launch itself into the air using SpaceX‑derived thrusters, sparking excitement among automotive and aerospace enthusiasts.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Tesla unveiled a next‑generation Roadster that can launch itself into the air using SpaceX‑derived thrusters, sparking excitement among automotive and aerospace enthusiasts.",
-    "page": "articles/tesla-s-new-roadster-takes-to-the-skies-with-spacex-powered-thrusters-2026-10-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "https://www.wired.com/story/tesla-roadster-2-launch/",
-      "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
     ]
   }
 ]
