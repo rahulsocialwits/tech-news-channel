@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22",
+    "title": "Google Docs on Android Gets Docs Live Upgrade for Workspace Users",
+    "description": "Google Workspace users can now access Docs Live in the Android app, adding real‑time collaboration features to mobile documents.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Google Workspace users can now access Docs Live in the Android app, adding real‑time collaboration features to mobile documents.",
+    "page": "articles/google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-docs-android-docs-live-rollout-workspace-3726478/"
+    ]
+  },
+  {
     "id": "inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22",
     "title": "INMO GO3 Smart Glasses Bring Gemini AI and Privacy‑Focused Display to the Market",
     "description": "The new INMO GO3 smart glasses combine a high‑resolution display with Google Gemini integration and a camera‑privacy feature, addressing two common smart‑glasses pain points.",
@@ -1783,24 +1801,6 @@
     "page": "articles/google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16.html",
     "source_urls": [
       "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/"
-    ]
-  },
-  {
-    "id": "plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16",
-    "title": "Plex Expands Beyond Streaming, Now Selling Movie Theater Tickets",
-    "description": "Plex partners with studios to let users buy theater tickets directly through the app, using viewer data to personalize offers",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Plex partners with studios to let users buy theater tickets directly through the app, using viewer data to personalize offers",
-    "page": "articles/plex-expands-beyond-streaming-now-selling-movie-theater-tickets-2026-10-16.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
     ]
   }
 ]
