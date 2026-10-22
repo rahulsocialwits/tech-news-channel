@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-tpus-now-power-meta-s-ai-workloads-in-production-2026-10-22",
+    "title": "Google’s TPUs Now Power Meta’s AI Workloads in Production",
+    "description": "Google’s Tensor Processing Units are being deployed in Meta’s data centers, enabling native PyTorch inference and expanding open‑source AI infrastructure.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Tensor Processing Units are being deployed in Meta’s data centers, enabling native PyTorch inference and expanding open‑source AI infrastructure.",
+    "page": "articles/google-s-tpus-now-power-meta-s-ai-workloads-in-production-2026-10-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance"
+    ]
+  },
+  {
     "id": "government-websites-face-security-key-leak-as-emudhra-certificates-compromised-2026-10-22",
     "title": "Government Websites Face Security Key Leak as eMudhra Certificates Compromised",
     "description": "A widespread leak of eMudhra web security keys threatens the integrity of numerous Indian government sites, exposing users to potential fraud and data breaches.",
@@ -1782,24 +1800,6 @@
     "page": "articles/ai-agents-behind-recent-cyber-breaches-says-india-s-cert-in-2026-10-16.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/after-openais-australia-hack-indias-cyber-agency-says-ai-agents-breachedsystems/article71591537.ece"
-    ]
-  },
-  {
-    "id": "cal-ai-s-viral-surge-catapults-startup-to-30-million-in-two-years-2026-10-16",
-    "title": "Cal AI’s Viral Surge Catapults Startup to $30 Million in Two Years",
-    "description": "The Cal AI startup grew to $30 million in revenue after a viral marketing push and was later acquired by MyFitnessPal.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "The Cal AI startup grew to $30 million in revenue after a viral marketing push and was later acquired by MyFitnessPal.",
-    "page": "articles/cal-ai-s-viral-surge-catapults-startup-to-30-million-in-two-years-2026-10-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
     ]
   }
 ]
