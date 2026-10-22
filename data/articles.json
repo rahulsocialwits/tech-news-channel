@@ -1,5 +1,23 @@
 [
   {
+    "id": "helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22",
+    "title": "Helion Secures $225 Million to Accelerate Fusion Power Plant Development",
+    "description": "Fusion startup Helion raises fresh capital to speed construction of its first commercial fusion power plant slated to supply Microsoft with electricity by 2028.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Fusion startup Helion raises fresh capital to speed construction of its first commercial fusion power plant slated to supply Microsoft with electricity by 2028.",
+    "page": "articles/helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/"
+    ]
+  },
+  {
     "id": "tsmc-seeks-rare-earth-free-equipment-to-reduce-china-dependence-2026-10-22",
     "title": "TSMC Seeks Rare‑Earth‑Free Equipment to Reduce China Dependence",
     "description": "TSMC is asking suppliers for factory machinery that avoids Chinese rare‑earth magnets, aiming to cut exposure to critical minerals amid tightening export controls.",
@@ -1781,24 +1799,6 @@
     "source_urls": [
       "https://www.androidauthority.com/google-ai-pro-trial-paid-features-gap-3724383/",
       "https://9to5google.com/2026/10/16/google-restricts-every-free-ai-pro-trial-from-pixel-more-compared-to-paid-subscribers/"
-    ]
-  },
-  {
-    "id": "veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16",
-    "title": "Veritas Unveils Anti‑Counterfeit Chip for Luxury Goods",
-    "description": "A new chip from startup Veritas promises to authenticate jewelry, trophies and fragrance bottles, tackling the growing problem of high‑end counterfeit goods.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "A new chip from startup Veritas promises to authenticate jewelry, trophies and fragrance bottles, tackling the growing problem of high‑end counterfeit goods.",
-    "page": "articles/veritas-unveils-anti-counterfeit-chip-for-luxury-goods-2026-10-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
     ]
   }
 ]
