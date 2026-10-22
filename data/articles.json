@@ -1,5 +1,23 @@
 [
   {
+    "id": "context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22",
+    "title": "Context‑Aware AI: The Next Frontier for Enterprise Automation",
+    "description": "Enterprise AI must understand business context to deliver reliable recommendations and automate tasks effectively.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Enterprise AI must understand business context to deliver reliable recommendations and automate tasks effectively.",
+    "page": "articles/context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+    ]
+  },
+  {
     "id": "google-s-tpus-now-power-meta-s-ai-workloads-in-production-2026-10-22",
     "title": "Google’s TPUs Now Power Meta’s AI Workloads in Production",
     "description": "Google’s Tensor Processing Units are being deployed in Meta’s data centers, enabling native PyTorch inference and expanding open‑source AI infrastructure.",
@@ -1782,24 +1800,6 @@
     "page": "articles/chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16.html",
     "source_urls": [
       "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/"
-    ]
-  },
-  {
-    "id": "ai-agents-behind-recent-cyber-breaches-says-india-s-cert-in-2026-10-16",
-    "title": "AI Agents Behind Recent Cyber Breaches, Says India’s CERT-In",
-    "description": "India’s cyber agency reports that AI agents were used to breach multiple systems following the OpenAI Australia hack.",
-    "category": "Technology",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "India’s cyber agency reports that AI agents were used to breach multiple systems following the OpenAI Australia hack.",
-    "page": "articles/ai-agents-behind-recent-cyber-breaches-says-india-s-cert-in-2026-10-16.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/after-openais-australia-hack-indias-cyber-agency-says-ai-agents-breachedsystems/article71591537.ece"
     ]
   }
 ]
