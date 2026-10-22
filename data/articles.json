@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-mac-mini-m4-now-150-off-but-with-a-price-point-catch-2026-10-22",
+    "title": "Apple Mac Mini M4 Now $150 Off, but with a Price‑Point Catch",
+    "description": "Apple’s latest Mac Mini M4 is discounted by $150, yet its price remains higher than the original launch cost.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest Mac Mini M4 is discounted by $150, yet its price remains higher than the original launch cost.",
+    "page": "articles/apple-mac-mini-m4-now-150-off-but-with-a-price-point-catch-2026-10-22.html",
+    "source_urls": [
+      "https://www.wired.com/story/mac-mini-m4-deal-october-2026/"
+    ]
+  },
+  {
     "id": "helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22",
     "title": "Helion Secures $225 Million to Accelerate Fusion Power Plant Development",
     "description": "Fusion startup Helion raises fresh capital to speed construction of its first commercial fusion power plant slated to supply Microsoft with electricity by 2028.",
@@ -1780,25 +1798,6 @@
     "page": "articles/nvidia-s-rtx-spark-laptops-hit-the-market-powering-the-next-generation-of-mobile-workstati-2026-10-16.html",
     "source_urls": [
       "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
-    ]
-  },
-  {
-    "id": "google-s-ai-pro-trials-reveal-hidden-paywalls-sparking-consumer-backlash-2026-10-16",
-    "title": "Google’s AI Pro Trials Reveal Hidden Paywalls, Sparking Consumer Backlash",
-    "description": "Google’s extended free trials for its AI Pro subscription are misleading, as users discover essential features are locked behind a paid tier.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Google’s extended free trials for its AI Pro subscription are misleading, as users discover essential features are locked behind a paid tier.",
-    "page": "articles/google-s-ai-pro-trials-reveal-hidden-paywalls-sparking-consumer-backlash-2026-10-16.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-ai-pro-trial-paid-features-gap-3724383/",
-      "https://9to5google.com/2026/10/16/google-restricts-every-free-ai-pro-trial-from-pixel-more-compared-to-paid-subscribers/"
     ]
   }
 ]
