@@ -1,5 +1,22 @@
 [
   {
+    "id": "musk-s-terafab-targets-mass-chip-production-with-asml-boost-2026-10-22",
+    "title": "Musk’s Terafab Targets Mass Chip Production with ASML Boost",
+    "description": "Elon Musk announced that ASML and other suppliers will expedite deliveries to his Terafab facility, aiming for high‑volume chip production by late 2028 to support Tesla and SpaceX AI compute needs.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Elon Musk announced that ASML and other suppliers will expedite deliveries to his Terafab facility, aiming for high‑volume chip production by late 2028 to support Tesla and SpaceX AI compute needs.",
+    "page": "articles/musk-s-terafab-targets-mass-chip-production-with-asml-boost-2026-10-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline"
+    ]
+  },
+  {
     "id": "samsung-990-pro-4tb-ssd-slashes-price-making-high-capacity-storage-more-accessible-2026-10-22",
     "title": "Samsung 990 Pro 4TB SSD Slashes Price, Making High‑Capacity Storage More Accessible",
     "description": "The 4TB Samsung 990 Pro M.2 SSD drops 27%, hitting 20 cents per gigabyte, easing the cost of high‑capacity PCIe Gen 4 storage for gamers and professionals.",
@@ -1783,24 +1800,6 @@
     "page": "articles/benchmark-highlights-growing-challenge-of-backing-rival-startups-in-the-ai-era-2026-10-16.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
-    ]
-  },
-  {
-    "id": "cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16",
-    "title": "CERN and Mistral Team Up to Build AI Foundation Models for Particle Physics",
-    "description": "CERN partners with AI firm Mistral to develop foundation models that could replace specialized algorithms used in particle reconstruction and identification.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "CERN partners with AI firm Mistral to develop foundation models that could replace specialized algorithms used in particle reconstruction and identification.",
-    "page": "articles/cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/science/cern-and-mistral-partner-to-build-ai-foundation-models-for-physics/article71591196.ece"
     ]
   }
 ]
