@@ -1,5 +1,23 @@
 [
   {
+    "id": "intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22",
+    "title": "Intel Advances U.S. Chip Production with New Fab 62 Tools",
+    "description": "Intel has installed advanced production equipment at its Arizona Fab 62, marking a key step toward expanding U.S. semiconductor manufacturing capacity.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Semiconductors"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "Intel has installed advanced production equipment at its Arizona Fab 62, marking a key step toward expanding U.S. semiconductor manufacturing capacity.",
+    "page": "articles/intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028"
+    ]
+  },
+  {
     "id": "openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21",
     "title": "OpenAI GPT Models to Power Google Cloud and Antigravity Services",
     "description": "OpenAI’s GPT models will soon be available on Google Cloud, expanding AI capabilities for developers and enterprises.",
@@ -1784,26 +1802,6 @@
       "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "https://www.wired.com/story/tesla-roadster-2-launch/",
       "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
-    ]
-  },
-  {
-    "id": "telecom-kyc-rollout-rocket-lab-delays-and-sk-hynix-s-3d-nand-negotiations-highlight-2026-t-2026-10-15",
-    "title": "Telecom KYC Rollout, Rocket Lab Delays, and SK Hynix’s 3D NAND Negotiations Highlight 2026 Tech Landscape",
-    "description": "India’s new caller ID law, Rocket Lab’s postponed Neutron launch, and SK Hynix’s trade‑tied fab plans illustrate the year’s tech policy and supply‑chain shifts.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-10-15",
-    "readTime": "3 min read",
-    "excerpt": "India’s new caller ID law, Rocket Lab’s postponed Neutron launch, and SK Hynix’s trade‑tied fab plans illustrate the year’s tech policy and supply‑chain shifts.",
-    "page": "articles/telecom-kyc-rollout-rocket-lab-delays-and-sk-hynix-s-3d-nand-negotiations-highlight-2026-t-2026-10-15.html",
-    "source_urls": [
-      "https://www.thehindu.com/business/Industry/telecom-operators-to-show-kyc-name-of-incoming-callers-from-november-1/article71587959.ece",
-      "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-      "https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab"
     ]
   }
 ]
