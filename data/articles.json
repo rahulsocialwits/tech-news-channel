@@ -1,5 +1,23 @@
 [
   {
+    "id": "government-websites-face-security-key-leak-as-emudhra-certificates-compromised-2026-10-22",
+    "title": "Government Websites Face Security Key Leak as eMudhra Certificates Compromised",
+    "description": "A widespread leak of eMudhra web security keys threatens the integrity of numerous Indian government sites, exposing users to potential fraud and data breaches.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "A widespread leak of eMudhra web security keys threatens the integrity of numerous Indian government sites, exposing users to potential fraud and data breaches.",
+    "page": "articles/government-websites-face-security-key-leak-as-emudhra-certificates-compromised-2026-10-22.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/what-is-emudhra-web-security-key-leak/article71610041.ece"
+    ]
+  },
+  {
     "id": "tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22",
     "title": "Tesla Announces Cybercab Sales Amid Safety Probe",
     "description": "Tesla will begin selling its autonomous Cybercab by year’s end, even as regulators review its safety compliance.",
@@ -1782,24 +1800,6 @@
     "page": "articles/cal-ai-s-viral-surge-catapults-startup-to-30-million-in-two-years-2026-10-16.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-    ]
-  },
-  {
-    "id": "vitonnix-secures-first-institutional-investment-to-accelerate-ai-driven-healthcare-2026-10-16",
-    "title": "Vitonnix Secures First Institutional Investment to Accelerate AI‑Driven Healthcare",
-    "description": "Healthcare startup Vitonnix raises institutional funding led by Inflection Point Ventures, with participation from doctors and Bollywood stars.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Healthcare startup Vitonnix raises institutional funding led by Inflection Point Ventures, with participation from doctors and Bollywood stars.",
-    "page": "articles/vitonnix-secures-first-institutional-investment-to-accelerate-ai-driven-healthcare-2026-10-16.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/healthcare-startup-vitonnix-raises-first-institutional-investment-led-by-inflection-point-ventures/"
     ]
   }
 ]
