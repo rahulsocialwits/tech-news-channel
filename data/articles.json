@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-990-pro-4tb-ssd-slashes-price-making-high-capacity-storage-more-accessible-2026-10-22",
+    "title": "Samsung 990 Pro 4TB SSD Slashes Price, Making High‑Capacity Storage More Accessible",
+    "description": "The 4TB Samsung 990 Pro M.2 SSD drops 27%, hitting 20 cents per gigabyte, easing the cost of high‑capacity PCIe Gen 4 storage for gamers and professionals.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "The 4TB Samsung 990 Pro M.2 SSD drops 27%, hitting 20 cents per gigabyte, easing the cost of high‑capacity PCIe Gen 4 storage for gamers and professionals.",
+    "page": "articles/samsung-990-pro-4tb-ssd-slashes-price-making-high-capacity-storage-more-accessible-2026-10-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library"
+    ]
+  },
+  {
     "id": "google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22",
     "title": "Google Docs on Android Gets Docs Live Upgrade for Workspace Users",
     "description": "Google Workspace users can now access Docs Live in the Android app, adding real‑time collaboration features to mobile documents.",
@@ -1783,24 +1801,6 @@
     "page": "articles/cern-and-mistral-team-up-to-build-ai-foundation-models-for-particle-physics-2026-10-16.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/science/cern-and-mistral-partner-to-build-ai-foundation-models-for-physics/article71591196.ece"
-    ]
-  },
-  {
-    "id": "google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16",
-    "title": "Google Expands Gemini 4 Argon to Antigravity for AI Pro Subscribers",
-    "description": "Google rolls out Gemini 4 Argon support to its Antigravity coding platform, enhancing AI-powered code generation for Pro users.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "Google rolls out Gemini 4 Argon support to its Antigravity coding platform, enhancing AI-powered code generation for Pro users.",
-    "page": "articles/google-expands-gemini-4-argon-to-antigravity-for-ai-pro-subscribers-2026-10-16.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/"
     ]
   }
 ]
