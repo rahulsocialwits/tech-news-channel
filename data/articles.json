@@ -1,5 +1,23 @@
 [
   {
+    "id": "tor-exit-node-hijack-campaign-reveals-widespread-ssh-and-email-vulnerabilities-2026-10-22",
+    "title": "Tor Exit Node Hijack Campaign Reveals Widespread SSH and Email Vulnerabilities",
+    "description": "A month‑long attack on 333 Tor exit nodes exposed SSH traffic and plaintext emails, highlighting the need for stronger exit node security.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-22",
+    "readTime": "3 min read",
+    "excerpt": "A month‑long attack on 333 Tor exit nodes exposed SSH traffic and plaintext emails, highlighting the need for stronger exit node security.",
+    "page": "articles/tor-exit-node-hijack-campaign-reveals-widespread-ssh-and-email-vulnerabilities-2026-10-22.html",
+    "source_urls": [
+      "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+    ]
+  },
+  {
     "id": "context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22",
     "title": "Context‑Aware AI: The Next Frontier for Enterprise Automation",
     "description": "Enterprise AI must understand business context to deliver reliable recommendations and automate tasks effectively.",
@@ -1782,24 +1800,6 @@
     "page": "articles/prima-implant-offers-new-hope-for-macular-degeneration-patients-2026-10-16.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
-    ]
-  },
-  {
-    "id": "chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16",
-    "title": "ChatGPT’s New Chrome Extension Lets You Compare Open Tabs in Real Time",
-    "description": "OpenAI’s updated ChatGPT browser extension now scans your active Chrome tabs, enabling instant side‑by‑side comparisons and streamlined research workflows.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI’s updated ChatGPT browser extension now scans your active Chrome tabs, enabling instant side‑by‑side comparisons and streamlined research workflows.",
-    "page": "articles/chatgpt-s-new-chrome-extension-lets-you-compare-open-tabs-in-real-time-2026-10-16.html",
-    "source_urls": [
-      "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/"
     ]
   }
 ]
