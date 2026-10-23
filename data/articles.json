@@ -1,5 +1,23 @@
 [
   {
+    "id": "stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23",
+    "title": "Stolen Nvidia RTX 5090 GPUs Surface Online After Brazil Airport Heist",
+    "description": "Three airport employees stole a high‑value Nvidia RTX 5090 shipment, and one card has appeared for sale online, police say.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Three airport employees stole a high‑value Nvidia RTX 5090 shipment, and one card has appeared for sale online, police say.",
+    "page": "articles/stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment"
+    ]
+  },
+  {
     "id": "enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23",
     "title": "Enterprise AI Gains Edge with Robust Serving Infrastructure",
     "description": "New research shows that building durable AI serving systems can outperform model size alone in real‑world deployments.",
@@ -1778,24 +1796,6 @@
     "page": "articles/last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17.html",
     "source_urls": [
       "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
-    ]
-  },
-  {
-    "id": "netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17",
-    "title": "NetApp Launches Cohort 15 to Accelerate AI‑Powered Deep‑Tech Innovation",
-    "description": "NetApp’s new Excellerator cohort brings together AI, security, automation and data infrastructure innovators to push the next wave of deep‑tech solutions.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "NetApp’s new Excellerator cohort brings together AI, security, automation and data infrastructure innovators to push the next wave of deep‑tech solutions.",
-    "page": "articles/netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/netapp-excellerator-accelerates-deep-tech-innovation-for-the-ai-era-with-cohort-15/"
     ]
   }
 ]
