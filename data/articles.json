@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23",
+    "title": "AI‑Discovered Bugs Could Spark New Cybersecurity Threats, Experts Warn",
+    "description": "Cybersecurity specialists highlight risks of AI‑identified software bugs that may lead to future attacks.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Cybersecurity specialists highlight risks of AI‑identified software bugs that may lead to future attacks.",
+    "page": "articles/ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-10933862/"
+    ]
+  },
+  {
     "id": "china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23",
     "title": "China‑Aligned Hackers Deploy AI Agents in Massive ConnectWise Supply‑Chain Attack",
     "description": "Microsoft reports China‑aligned Storm‑0940 used the ARTEX AI agent framework to breach over 2,250 Microsoft 365 tenants via ConnectWise Cloud Backup.",
@@ -1777,24 +1795,6 @@
     "page": "articles/fitbit-edge-lacks-nfc-leaving-users-without-key-feature-2026-10-17.html",
     "source_urls": [
       "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/"
-    ]
-  },
-  {
-    "id": "htc-unveils-vive-eagle-smart-glasses-focused-on-privacy-not-social-media-2026-10-17",
-    "title": "HTC Unveils Vive Eagle Smart Glasses Focused on Privacy, Not Social Media",
-    "description": "HTC’s new Vive Eagle smart glasses offer full AR functionality while keeping user data off Meta’s platforms, aiming to give consumers a private alternative to mainstream smart glasses.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "HTC’s new Vive Eagle smart glasses offer full AR functionality while keeping user data off Meta’s platforms, aiming to give consumers a private alternative to mainstream smart glasses.",
-    "page": "articles/htc-unveils-vive-eagle-smart-glasses-focused-on-privacy-not-social-media-2026-10-17.html",
-    "source_urls": [
-      "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
     ]
   }
 ]
