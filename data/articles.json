@@ -1,5 +1,23 @@
 [
   {
+    "id": "free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23",
+    "title": "Free Self‑Hosted PDF Tool Gives Users Full Acrobat‑Like Functionality",
+    "description": "A new open‑source PDF solution lets users edit, sign and secure documents without monthly fees, according to XDA Developers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "A new open‑source PDF solution lets users edit, sign and secure documents without monthly fees, according to XDA Developers.",
+    "page": "articles/free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23.html",
+    "source_urls": [
+      "https://www.xda-developers.com/stopped-uploading-sensitive-pdf-to-adobe-after-finding-free-self-hosted-tool/"
+    ]
+  },
+  {
     "id": "daytona-raises-1-b-pledges-agent-centric-cloud-for-the-future-2026-10-23",
     "title": "Daytona Raises $1 B, Pledges Agent‑Centric Cloud for the Future",
     "description": "Daytona, a cloud startup backed by FirstMark and a roster of tech founders, has hit a $1 billion valuation, promising a new platform that gives every agent its own virtual computer.",
@@ -1779,24 +1797,6 @@
     "page": "articles/walmart-s-60-onn-4k-pro-google-tv-streamer-could-be-the-last-affordable-streaming-option-2026-10-17.html",
     "source_urls": [
       "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/"
-    ]
-  },
-  {
-    "id": "ember-unveils-temperature-controlled-mug-that-keeps-tea-at-the-perfect-heat-2026-10-17",
-    "title": "Ember Unveils Temperature‑Controlled Mug That Keeps Tea at the Perfect Heat",
-    "description": "Ember’s latest smart mug lets users lock in their drink’s temperature without opening an app, making nightly tea rituals smoother and more convenient.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Ember’s latest smart mug lets users lock in their drink’s temperature without opening an app, making nightly tea rituals smoother and more convenient.",
-    "page": "articles/ember-unveils-temperature-controlled-mug-that-keeps-tea-at-the-perfect-heat-2026-10-17.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
     ]
   }
 ]
