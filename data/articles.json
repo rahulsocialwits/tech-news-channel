@@ -1,5 +1,23 @@
 [
   {
+    "id": "daytona-raises-1-b-pledges-agent-centric-cloud-for-the-future-2026-10-23",
+    "title": "Daytona Raises $1 B, Pledges Agent‑Centric Cloud for the Future",
+    "description": "Daytona, a cloud startup backed by FirstMark and a roster of tech founders, has hit a $1 billion valuation, promising a new platform that gives every agent its own virtual computer.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Daytona, a cloud startup backed by FirstMark and a roster of tech founders, has hit a $1 billion valuation, promising a new platform that gives every agent its own virtual computer.",
+    "page": "articles/daytona-raises-1-b-pledges-agent-centric-cloud-for-the-future-2026-10-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+    ]
+  },
+  {
     "id": "quest-diagnostics-confirms-patient-data-breach-amid-growing-healthcare-cyber-threats-2026-10-23",
     "title": "Quest Diagnostics Confirms Patient Data Breach Amid Growing Healthcare Cyber Threats",
     "description": "Lab testing giant Quest Diagnostics admits personal and health data of patients were compromised in a recent breach, adding to a string of healthcare technology hacks.",
@@ -1779,24 +1797,6 @@
     "page": "articles/ember-unveils-temperature-controlled-mug-that-keeps-tea-at-the-perfect-heat-2026-10-17.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
-    ]
-  },
-  {
-    "id": "critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17",
-    "title": "Critical Infrastructure Security Blind Spots Persist, New Report Warns",
-    "description": "A Palo Alto Networks report highlights ongoing gaps in security visibility for factories, hospitals and utilities, urging stronger defenses as attackers accelerate.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "A Palo Alto Networks report highlights ongoing gaps in security visibility for factories, hospitals and utilities, urging stronger defenses as attackers accelerate.",
-    "page": "articles/critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/palo-alto-report-critical-infrastructure-security-blind-spots-persist-180666.html?rss=1"
     ]
   }
 ]
