@@ -1,5 +1,23 @@
 [
   {
+    "id": "warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23",
+    "title": "Warhound’s Genetic Engineering of Dogs Sparks Debate Over Military Applications",
+    "description": "A startup is using CRISPR to modify dogs for military, law‑enforcement and first‑responder roles, raising ethical and operational questions.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "A startup is using CRISPR to modify dogs for military, law‑enforcement and first‑responder roles, raising ethical and operational questions.",
+    "page": "articles/warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23.html",
+    "source_urls": [
+      "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/"
+    ]
+  },
+  {
     "id": "dyson-s-2026-week-deals-offer-up-to-300-off-popular-vacuums-and-hair-tools-2026-10-23",
     "title": "Dyson’s 2026 Week Deals Offer Up to $300 Off Popular Vacuums and Hair Tools",
     "description": "Dyson is offering steep discounts on its V15 Detect vacuum and Airwrap hair tool during its October 2026 sales event, saving customers up to $300 on high‑end home and beauty tech.",
@@ -1778,24 +1796,6 @@
     "page": "articles/apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17.html",
     "source_urls": [
       "https://www.technewsworld.com/story/apple-expands-smart-home-strategy-with-new-homeview-hub-180671.html?rss=1"
-    ]
-  },
-  {
-    "id": "mit-bengaluru-launches-quantum-hub-to-propel-india-s-quantum-tech-ecosystem-2026-10-17",
-    "title": "MIT Bengaluru Launches Quantum‑Hub to Propel India’s Quantum Tech Ecosystem",
-    "description": "The Manipal Institute of Technology opens a new quantum‑engineering hub at its MAHE campus, aiming to boost research, innovation and workforce development in India.",
-    "category": "Technology",
-    "labels": [
-      "Science",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "The Manipal Institute of Technology opens a new quantum‑engineering hub at its MAHE campus, aiming to boost research, innovation and workforce development in India.",
-    "page": "articles/mit-bengaluru-launches-quantum-hub-to-propel-india-s-quantum-tech-ecosystem-2026-10-17.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/mit-bengaluru-inaugurates-quantum-hub-mahe-to-advance-indias-quantum-technology-ecosystem/"
     ]
   }
 ]
