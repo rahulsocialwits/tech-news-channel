@@ -1,5 +1,23 @@
 [
   {
+    "id": "custom-resolutions-turn-microsoft-surface-laptop-ultra-into-a-strong-gaming-companion-2026-10-23",
+    "title": "Custom Resolutions Turn Microsoft Surface Laptop Ultra into a Strong Gaming Companion",
+    "description": "Microsoft’s Surface Laptop Ultra with RTX Spark becomes a better gaming machine when users set a custom 1920x1080‑equivalent resolution.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s Surface Laptop Ultra with RTX Spark becomes a better gaming machine when users set a custom 1920x1080‑equivalent resolution.",
+    "page": "articles/custom-resolutions-turn-microsoft-surface-laptop-ultra-into-a-strong-gaming-companion-2026-10-23.html",
+    "source_urls": [
+      "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device"
+    ]
+  },
+  {
     "id": "samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23",
     "title": "Samsung Unveils Next Foldable Phone Ahead of Market Release",
     "description": "Samsung is set to launch its next foldable smartphone, slated for release on October 29, 2026, though availability may be limited in some regions.",
@@ -1778,24 +1796,6 @@
     "page": "articles/mark-wahlberg-launches-affordable-gym-concept-to-challenge-longevity-startups-2026-10-17.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
-    ]
-  },
-  {
-    "id": "nuvonix-teams-with-condor-ai-to-accelerate-edge-ai-deployment-2026-10-17",
-    "title": "Nuvonix Teams with Condor AI to Accelerate Edge AI Deployment",
-    "description": "Nuvonix has partnered with Condor AI to bring advanced edge AI solutions to enterprise customers, expanding its portfolio of emerging technology services.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Nuvonix has partnered with Condor AI to bring advanced edge AI solutions to enterprise customers, expanding its portfolio of emerging technology services.",
-    "page": "articles/nuvonix-teams-with-condor-ai-to-accelerate-edge-ai-deployment-2026-10-17.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/nuvonix-partners-with-condor-ai-to-accelerate-edge-ai-solutions-for-customers/"
     ]
   }
 ]
