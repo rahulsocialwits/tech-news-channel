@@ -1,5 +1,24 @@
 [
   {
+    "id": "ai-generated-code-spurs-a-shift-toward-pre-execution-security-in-cyber-defense-2026-10-23",
+    "title": "AI‑Generated Code Spurs a Shift Toward Pre‑Execution Security in Cyber Defense",
+    "description": "Security teams are turning to pre‑execution analysis of AI‑generated code to reduce attack surface and cut investigation time.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Security teams are turning to pre‑execution analysis of AI‑generated code to reduce attack surface and cut investigation time.",
+    "page": "articles/ai-generated-code-spurs-a-shift-toward-pre-execution-security-in-cyber-defense-2026-10-23.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/ai-generated-code-strengthens-the-case-for-pre-execution-security-180686.html?rss=1",
+      "https://indiatechnologynews.in/81-of-security-teams-in-india-have-ai-related-skills-gaps-and-66-report-reduced-security-head-count-linked-to-ai-new-barracuda-research-study-reveals/"
+    ]
+  },
+  {
     "id": "ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23",
     "title": "AI‑Discovered Bugs Could Spark New Cybersecurity Threats, Experts Warn",
     "description": "Cybersecurity specialists highlight risks of AI‑identified software bugs that may lead to future attacks.",
@@ -1777,24 +1796,6 @@
     "page": "articles/encryption-under-pressure-global-laws-threaten-digital-privacy-2026-10-17.html",
     "source_urls": [
       "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/"
-    ]
-  },
-  {
-    "id": "fitbit-edge-lacks-nfc-leaving-users-without-key-feature-2026-10-17",
-    "title": "Fitbit Edge Lacks NFC, Leaving Users Without Key Feature",
-    "description": "The new Fitbit Edge smartwatch misses NFC, a crucial feature for contactless payments and device pairing, according to Android Authority.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "The new Fitbit Edge smartwatch misses NFC, a crucial feature for contactless payments and device pairing, according to Android Authority.",
-    "page": "articles/fitbit-edge-lacks-nfc-leaving-users-without-key-feature-2026-10-17.html",
-    "source_urls": [
-      "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/"
     ]
   }
 ]
