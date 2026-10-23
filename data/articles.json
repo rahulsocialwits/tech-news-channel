@@ -1,5 +1,22 @@
 [
   {
+    "id": "china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23",
+    "title": "China‑Aligned Hackers Deploy AI Agents in Massive ConnectWise Supply‑Chain Attack",
+    "description": "Microsoft reports China‑aligned Storm‑0940 used the ARTEX AI agent framework to breach over 2,250 Microsoft 365 tenants via ConnectWise Cloud Backup.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft reports China‑aligned Storm‑0940 used the ARTEX AI agent framework to breach over 2,250 Microsoft 365 tenants via ConnectWise Cloud Backup.",
+    "page": "articles/china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours"
+    ]
+  },
+  {
     "id": "warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23",
     "title": "Warhound’s Genetic Engineering of Dogs Sparks Debate Over Military Applications",
     "description": "A startup is using CRISPR to modify dogs for military, law‑enforcement and first‑responder roles, raising ethical and operational questions.",
@@ -1778,24 +1795,6 @@
     "page": "articles/htc-unveils-vive-eagle-smart-glasses-focused-on-privacy-not-social-media-2026-10-17.html",
     "source_urls": [
       "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
-    ]
-  },
-  {
-    "id": "apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17",
-    "title": "Apple Unveils HomeView Hub, Expanding Its Smart‑Home Ecosystem",
-    "description": "Apple’s new HomeView Hub promises integrated entertainment, personalized data and smart‑home control, leveraging Siri’s voice assistant to compete in the home automation market.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s new HomeView Hub promises integrated entertainment, personalized data and smart‑home control, leveraging Siri’s voice assistant to compete in the home automation market.",
-    "page": "articles/apple-unveils-homeview-hub-expanding-its-smart-home-ecosystem-2026-10-17.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/apple-expands-smart-home-strategy-with-new-homeview-hub-180671.html?rss=1"
     ]
   }
 ]
