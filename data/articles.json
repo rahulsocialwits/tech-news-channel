@@ -1,5 +1,24 @@
 [
   {
+    "id": "nintendo-switch-2-jailbreak-opens-door-to-homebrew-and-modding-community-2026-10-23",
+    "title": "Nintendo Switch 2 Jailbreak Opens Door to Homebrew and Modding Community",
+    "description": "A newly discovered jailbreak for the Nintendo Switch 2 exposes a vulnerability that could let users run homebrew software and modify games, raising security concerns for the console’s ecosystem.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "A newly discovered jailbreak for the Nintendo Switch 2 exposes a vulnerability that could let users run homebrew software and modify games, raising security concerns for the console’s ecosystem.",
+    "page": "articles/nintendo-switch-2-jailbreak-opens-door-to-homebrew-and-modding-community-2026-10-23.html",
+    "source_urls": [
+      "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "https://www.androidauthority.com/nintendo-switch-2-software-jailbreak-3727013/"
+    ]
+  },
+  {
     "id": "oppo-unveils-find-x10-series-and-new-coloros-17-skin-in-india-2026-10-22",
     "title": "Oppo Unveils Find X10 Series and New ColorOS 17 Skin in India",
     "description": "Oppo launches the Find X10 Pro Max, Find X10, Pad Mini and Enco X4, introducing ColorOS 17 based on Android 17 in India.",
@@ -1780,24 +1799,6 @@
       "https://www.thehindu.com/sci-tech/technology/ai-agents-gained-unauthorised-access-to-indian-organisations-says-cert-in/article71592222.ece",
       "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "https://indiatechnologynews.in/optivaluetek-outlines-responsible-ai-framework-for-defence-critical-infrastructure-protection/"
-    ]
-  },
-  {
-    "id": "briefcatch-expands-legal-writing-suite-to-catch-ai-generated-errors-2026-10-16",
-    "title": "BriefCatch Expands Legal Writing Suite to Catch AI‑Generated Errors",
-    "description": "BriefCatch adds new tools to flag fabricated citations and misleading claims in AI‑generated legal briefs.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-16",
-    "readTime": "3 min read",
-    "excerpt": "BriefCatch adds new tools to flag fabricated citations and misleading claims in AI‑generated legal briefs.",
-    "page": "articles/briefcatch-expands-legal-writing-suite-to-catch-ai-generated-errors-2026-10-16.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/briefcatch-targets-ai-errors-with-expanded-legal-writing-suite-180661.html?rss=1"
     ]
   }
 ]
