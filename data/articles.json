@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23",
+    "title": "Enterprise AI Gains Edge with Robust Serving Infrastructure",
+    "description": "New research shows that building durable AI serving systems can outperform model size alone in real‑world deployments.",
+    "category": "Software",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "New research shows that building durable AI serving systems can outperform model size alone in real‑world deployments.",
+    "page": "articles/enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    ]
+  },
+  {
     "id": "samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23",
     "title": "Samsung’s One UI 9.5 Beta Reveals Bold New Design Ahead of Full Release",
     "description": "Samsung’s latest One UI 9.5 beta showcases a redesigned banner and hints at upcoming UI overhaul, signaling the company’s push to refresh its Android experience.",
@@ -1778,24 +1796,6 @@
     "page": "articles/netapp-launches-cohort-15-to-accelerate-ai-powered-deep-tech-innovation-2026-10-17.html",
     "source_urls": [
       "https://indiatechnologynews.in/netapp-excellerator-accelerates-deep-tech-innovation-for-the-ai-era-with-cohort-15/"
-    ]
-  },
-  {
-    "id": "finstackk-unveils-salestaxx-to-automate-u-s-sales-tax-compliance-2026-10-17",
-    "title": "FinStackk Unveils SalesTaxx to Automate U.S. Sales Tax Compliance",
-    "description": "FinStackk’s new platform tracks state sales tax obligations and pinpoints exact collection dates for U.S. businesses.",
-    "category": "Fintech",
-    "labels": [
-      "Fintech",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "FinStackk’s new platform tracks state sales tax obligations and pinpoints exact collection dates for U.S. businesses.",
-    "page": "articles/finstackk-unveils-salestaxx-to-automate-u-s-sales-tax-compliance-2026-10-17.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/finstackk-launches-salestaxx-to-simplify-us-sales-tax-compliance/"
     ]
   }
 ]
