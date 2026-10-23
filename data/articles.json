@@ -1,5 +1,23 @@
 [
   {
+    "id": "sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23",
+    "title": "Sony Japan Declares Last Stand for 4K Blu‑Ray Players",
+    "description": "Sony Japan officially marks its final standalone 4K Blu‑Ray player as discontinued, ending a long line of home‑theater discs.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Sony Japan officially marks its final standalone 4K Blu‑Ray player as discontinued, ending a long line of home‑theater discs.",
+    "page": "articles/sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup"
+    ]
+  },
+  {
     "id": "stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23",
     "title": "Stolen Nvidia RTX 5090 GPUs Surface Online After Brazil Airport Heist",
     "description": "Three airport employees stole a high‑value Nvidia RTX 5090 shipment, and one card has appeared for sale online, police say.",
@@ -1778,24 +1796,6 @@
     "page": "articles/china-startup-langdao-silex-demonstrates-15-w-euv-light-source-prototype-2026-10-17.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
-    ]
-  },
-  {
-    "id": "last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17",
-    "title": "Last Chance to Grab Nvidia’s RTX 5090 Before 2028 Discontinuation",
-    "description": "Nvidia’s top‑tier RTX 5090 may be gone by 2028, making current stock the final opportunity for gamers and creators.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s top‑tier RTX 5090 may be gone by 2028, making current stock the final opportunity for gamers and creators.",
-    "page": "articles/last-chance-to-grab-nvidia-s-rtx-5090-before-2028-discontinuation-2026-10-17.html",
-    "source_urls": [
-      "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl"
     ]
   }
 ]
