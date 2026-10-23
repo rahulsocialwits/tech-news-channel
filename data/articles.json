@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23",
+    "title": "Samsung Unveils Next Foldable Phone Ahead of Market Release",
+    "description": "Samsung is set to launch its next foldable smartphone, slated for release on October 29, 2026, though availability may be limited in some regions.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Samsung is set to launch its next foldable smartphone, slated for release on October 29, 2026, though availability may be limited in some regions.",
+    "page": "articles/samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
+    ]
+  },
+  {
     "id": "sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23",
     "title": "Sony Japan Declares Last Stand for 4K Blu‑Ray Players",
     "description": "Sony Japan officially marks its final standalone 4K Blu‑Ray player as discontinued, ending a long line of home‑theater discs.",
@@ -1778,24 +1796,6 @@
     "page": "articles/nuvonix-teams-with-condor-ai-to-accelerate-edge-ai-deployment-2026-10-17.html",
     "source_urls": [
       "https://indiatechnologynews.in/nuvonix-partners-with-condor-ai-to-accelerate-edge-ai-solutions-for-customers/"
-    ]
-  },
-  {
-    "id": "china-startup-langdao-silex-demonstrates-15-w-euv-light-source-prototype-2026-10-17",
-    "title": "China Startup Langdao Silex Demonstrates 15‑W EUV Light Source Prototype",
-    "description": "Langdao Silex showcased a 15‑W laser‑produced plasma EUV source at a trade show, a step toward future EUV lithography tools.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Hardware"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Langdao Silex showcased a 15‑W laser‑produced plasma EUV source at a trade show, a step toward future EUV lithography tools.",
-    "page": "articles/china-startup-langdao-silex-demonstrates-15-w-euv-light-source-prototype-2026-10-17.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
     ]
   }
 ]
