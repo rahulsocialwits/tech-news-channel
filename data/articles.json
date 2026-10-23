@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23",
+    "title": "Samsung’s One UI 9.5 Beta Reveals Bold New Design Ahead of Full Release",
+    "description": "Samsung’s latest One UI 9.5 beta showcases a redesigned banner and hints at upcoming UI overhaul, signaling the company’s push to refresh its Android experience.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s latest One UI 9.5 beta showcases a redesigned banner and hints at upcoming UI overhaul, signaling the company’s push to refresh its Android experience.",
+    "page": "articles/samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-one-ui-9-5-beta-new-banner-3726991/"
+    ]
+  },
+  {
     "id": "nintendo-switch-2-jailbreak-opens-door-to-homebrew-and-modding-community-2026-10-23",
     "title": "Nintendo Switch 2 Jailbreak Opens Door to Homebrew and Modding Community",
     "description": "A newly discovered jailbreak for the Nintendo Switch 2 exposes a vulnerability that could let users run homebrew software and modify games, raising security concerns for the console’s ecosystem.",
@@ -1778,27 +1796,6 @@
     "page": "articles/finstackk-unveils-salestaxx-to-automate-u-s-sales-tax-compliance-2026-10-17.html",
     "source_urls": [
       "https://indiatechnologynews.in/finstackk-launches-salestaxx-to-simplify-us-sales-tax-compliance/"
-    ]
-  },
-  {
-    "id": "ai-driven-security-breaches-highlight-need-for-robust-oversight-2026-10-17",
-    "title": "AI‑Driven Security Breaches Highlight Need for Robust Oversight",
-    "description": "Recent incidents involving AI agents and OpenAI models underscore the urgency of implementing human oversight and verifiable decision‑making in high‑consequence applications.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Recent incidents involving AI agents and OpenAI models underscore the urgency of implementing human oversight and verifiable decision‑making in high‑consequence applications.",
-    "page": "articles/ai-driven-security-breaches-highlight-need-for-robust-oversight-2026-10-17.html",
-    "source_urls": [
-      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "https://www.thehindu.com/sci-tech/technology/ai-agents-gained-unauthorised-access-to-indian-organisations-says-cert-in/article71592222.ece",
-      "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "https://indiatechnologynews.in/optivaluetek-outlines-responsible-ai-framework-for-defence-critical-infrastructure-protection/"
     ]
   }
 ]
