@@ -1,5 +1,23 @@
 [
   {
+    "id": "quest-diagnostics-confirms-patient-data-breach-amid-growing-healthcare-cyber-threats-2026-10-23",
+    "title": "Quest Diagnostics Confirms Patient Data Breach Amid Growing Healthcare Cyber Threats",
+    "description": "Lab testing giant Quest Diagnostics admits personal and health data of patients were compromised in a recent breach, adding to a string of healthcare technology hacks.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-23",
+    "readTime": "3 min read",
+    "excerpt": "Lab testing giant Quest Diagnostics admits personal and health data of patients were compromised in a recent breach, adding to a string of healthcare technology hacks.",
+    "page": "articles/quest-diagnostics-confirms-patient-data-breach-amid-growing-healthcare-cyber-threats-2026-10-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
+    ]
+  },
+  {
     "id": "bybit-unveils-ai-powered-personal-finance-tools-as-indian-enterprises-gear-up-for-a-surge--2026-10-23",
     "title": "Bybit Unveils AI‑Powered Personal Finance Tools as Indian Enterprises Gear Up for a Surge in AI Talent",
     "description": "Bybit introduces AI personalization and memory features for its 80‑million‑user platform, while Indian firms predict a 88% rise in demand for AI engineers by 2030.",
@@ -1779,24 +1797,6 @@
     "page": "articles/critical-infrastructure-security-blind-spots-persist-new-report-warns-2026-10-17.html",
     "source_urls": [
       "https://www.technewsworld.com/story/palo-alto-report-critical-infrastructure-security-blind-spots-persist-180666.html?rss=1"
-    ]
-  },
-  {
-    "id": "amazon-unveils-alexa-tablet-a-new-contender-in-the-everyday-android-market-2026-10-17",
-    "title": "Amazon Unveils Alexa Tablet, A New Contender in the Everyday Android Market",
-    "description": "Amazon’s new Alexa Tablet offers a full Android experience with built‑in Alexa, positioning it as a serious rival to Google’s tablet strategy.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Amazon’s new Alexa Tablet offers a full Android experience with built‑in Alexa, positioning it as a serious rival to Google’s tablet strategy.",
-    "page": "articles/amazon-unveils-alexa-tablet-a-new-contender-in-the-everyday-android-market-2026-10-17.html",
-    "source_urls": [
-      "https://www.androidauthority.com/amazon-android-tablet-google-tablet-strategy-3722924/"
     ]
   }
 ]
