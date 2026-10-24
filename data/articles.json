@@ -1,5 +1,23 @@
 [
   {
+    "id": "razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24",
+    "title": "Razer’s Basilisk V4 Pro: A Gaming Mouse That Keeps Up With the Latest Tech",
+    "description": "Razer’s Basilisk V4 Pro gaming mouse blends ergonomic design, a lightweight build and a high‑precision Focus Pro 50K sensor, offering gamers a refined experience for competitive play.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Razer’s Basilisk V4 Pro gaming mouse blends ergonomic design, a lightweight build and a high‑precision Focus Pro 50K sensor, offering gamers a refined experience for competitive play.",
+    "page": "articles/razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review"
+    ]
+  },
+  {
     "id": "google-messages-launches-enhanced-protection-mode-to-fight-spam-and-scams-2026-10-24",
     "title": "Google Messages Launches Enhanced Protection Mode to Fight Spam and Scams",
     "description": "Google rolls out a new spam‑blocking feature in its Messages app, adding a protective layer for Android users.",
@@ -1780,24 +1798,6 @@
     "page": "articles/qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18.html",
     "source_urls": [
       "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"
-    ]
-  },
-  {
-    "id": "hyperx-unveils-first-open-back-gaming-headset-the-cloud-alpha-air-2026-10-18",
-    "title": "HyperX Unveils First Open‑Back Gaming Headset: The Cloud Alpha Air",
-    "description": "HyperX’s new Cloud Alpha Air headset offers an open‑back design, lightweight comfort and solid audio, but falls short on mic pickup and software support.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "HyperX’s new Cloud Alpha Air headset offers an open‑back design, lightweight comfort and solid audio, but falls short on mic pickup and software support.",
-    "page": "articles/hyperx-unveils-first-open-back-gaming-headset-the-cloud-alpha-air-2026-10-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review"
     ]
   }
 ]
