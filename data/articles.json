@@ -1,5 +1,23 @@
 [
   {
+    "id": "acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24",
+    "title": "Acer Predator Helios Neo 16S: The Ultra‑Slim Gaming Laptop That’s Slashing Prices",
+    "description": "Acer’s new Predator Helios Neo 16S offers a 240 Hz QHD+ OLED display, Intel Core Ultra 9 and RTX 5070 Ti, with Best Buy discounts up to $800.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Acer’s new Predator Helios Neo 16S offers a 240 Hz QHD+ OLED display, Intel Core Ultra 9 and RTX 5070 Ti, with Best Buy discounts up to $800.",
+    "page": "articles/acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400"
+    ]
+  },
+  {
     "id": "ltm-launches-blueverse-industrial-ai-lab-to-accelerate-enterprise-ai-adoption-2026-10-24",
     "title": "LTM Launches BlueVerse Industrial AI Lab to Accelerate Enterprise AI Adoption",
     "description": "LTM opens a new industrial AI lab in Chennai that integrates vision AI, robotics, and digital twins to help enterprises scale AI across physical operations.",
@@ -1781,24 +1799,6 @@
     "page": "articles/smart-tvs-are-tracking-your-viewing-habits-here-s-how-to-protect-your-privacy-2026-10-18.html",
     "source_urls": [
       "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/"
-    ]
-  },
-  {
-    "id": "anthropic-shifts-focus-as-workforce-grows-older-and-meetings-expand-2026-10-18",
-    "title": "Anthropic Shifts Focus as Workforce Grows Older and Meetings Expand",
-    "description": "Anthropic reports a maturing team and increased meeting time, reflecting a shift in its research and product development priorities.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic reports a maturing team and increased meeting time, reflecting a shift in its research and product development priorities.",
-    "page": "articles/anthropic-shifts-focus-as-workforce-grows-older-and-meetings-expand-2026-10-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
     ]
   }
 ]
