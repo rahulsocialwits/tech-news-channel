@@ -1,5 +1,23 @@
 [
   {
+    "id": "micron-unveils-g11-3d-nand-42-gb-mm2-density-and-5-400-mt-s-interface-speed-2026-10-24",
+    "title": "Micron Unveils G11 3D NAND: 42 Gb/mm² Density and 5,400 MT/s Interface Speed",
+    "description": "Micron’s new G11 3D NAND promises double the bit density of current chips and ultra‑fast data rates, paving the way for high‑capacity SSDs.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Micron’s new G11 3D NAND promises double the bit density of current chips and ultra‑fast data rates, paving the way for high‑capacity SSDs.",
+    "page": "articles/micron-unveils-g11-3d-nand-42-gb-mm2-density-and-5-400-mt-s-interface-speed-2026-10-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed"
+    ]
+  },
+  {
     "id": "razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24",
     "title": "Razer’s Basilisk V4 Pro: A Gaming Mouse That Keeps Up With the Latest Tech",
     "description": "Razer’s Basilisk V4 Pro gaming mouse blends ergonomic design, a lightweight build and a high‑precision Focus Pro 50K sensor, offering gamers a refined experience for competitive play.",
@@ -1781,23 +1799,6 @@
     "page": "articles/anthropic-proposes-new-ai-regulation-bill-to-u-s-lawmakers-2026-10-18.html",
     "source_urls": [
       "https://www.thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece"
-    ]
-  },
-  {
-    "id": "qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18",
-    "title": "Qualcomm Refutes Overheating Rumors About Snapdragon 8 Elite Extreme Gen 6",
-    "description": "Qualcomm dismisses reports that its latest Snapdragon 8 Elite Extreme Gen 6 chipset would overheat, stating the claims are inaccurate.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "Qualcomm dismisses reports that its latest Snapdragon 8 Elite Extreme Gen 6 chipset would overheat, stating the claims are inaccurate.",
-    "page": "articles/qualcomm-refutes-overheating-rumors-about-snapdragon-8-elite-extreme-gen-6-2026-10-18.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"
     ]
   }
 ]
