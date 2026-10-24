@@ -1,5 +1,23 @@
 [
   {
+    "id": "mars-1-000-mile-cloud-could-unlock-new-ice-formation-physics-2026-10-24",
+    "title": "Mars’ 1,000‑mile Cloud Could Unlock New Ice‑Formation Physics",
+    "description": "A new model suggests Mars may host ice‑forming physics never directly observed before, offering fresh insights into planetary science.",
+    "category": "Science",
+    "labels": [
+      "Science",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "A new model suggests Mars may host ice‑forming physics never directly observed before, offering fresh insights into planetary science.",
+    "page": "articles/mars-1-000-mile-cloud-could-unlock-new-ice-formation-physics-2026-10-24.html",
+    "source_urls": [
+      "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+    ]
+  },
+  {
     "id": "texas-halts-data-center-approvals-shuts-automated-permit-portal-2026-10-24",
     "title": "Texas Halts Data‑Center Approvals, Shuts Automated Permit Portal",
     "description": "Texas suspends 17 data‑center construction permits and disables the automated portal that had approved projects, citing oversight concerns.",
@@ -1781,24 +1799,6 @@
     "page": "articles/local-data-center-moratoriums-delay-only-three-u-s-projects-study-finds-2026-10-18.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027"
-    ]
-  },
-  {
-    "id": "dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18",
-    "title": "DJI’s New Battery‑Swapping Dock Lets Matrice 5TD Return to Flight in 25 Seconds",
-    "description": "DJI’s Dock 4 can swap a Matrice 5TD drone’s battery in just 25 seconds, but the system lacks FCC clearance for U.S. sales.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "DJI’s Dock 4 can swap a Matrice 5TD drone’s battery in just 25 seconds, but the system lacks FCC clearance for U.S. sales.",
-    "page": "articles/dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale"
     ]
   }
 ]
