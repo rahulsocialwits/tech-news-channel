@@ -1,5 +1,23 @@
 [
   {
+    "id": "texas-halts-data-center-approvals-shuts-automated-permit-portal-2026-10-24",
+    "title": "Texas Halts Data‑Center Approvals, Shuts Automated Permit Portal",
+    "description": "Texas suspends 17 data‑center construction permits and disables the automated portal that had approved projects, citing oversight concerns.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Texas suspends 17 data‑center construction permits and disables the automated portal that had approved projects, citing oversight concerns.",
+    "page": "articles/texas-halts-data-center-approvals-shuts-automated-permit-portal-2026-10-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals"
+    ]
+  },
+  {
     "id": "nvidia-s-rtx-spark-reveals-hidden-npu-capabilities-2026-10-24",
     "title": "Nvidia’s RTX Spark Reveals Hidden NPU Capabilities",
     "description": "Nvidia’s new RTX Spark GPU includes a previously under‑reported neural processing unit that developers can now access for accelerated AI workloads.",
@@ -1781,24 +1799,6 @@
     "page": "articles/dji-s-new-battery-swapping-dock-lets-matrice-5td-return-to-flight-in-25-seconds-2026-10-18.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale"
-    ]
-  },
-  {
-    "id": "big-tech-s-open-weight-ai-models-a-new-ecosystem-strategy-2026-10-18",
-    "title": "Big Tech’s Open‑Weight AI Models: A New Ecosystem Strategy",
-    "description": "Major technology firms are releasing open‑weight AI models to attract developers and challenge rivals, reshaping the AI landscape.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "Major technology firms are releasing open‑weight AI models to attract developers and challenge rivals, reshaping the AI landscape.",
-    "page": "articles/big-tech-s-open-weight-ai-models-a-new-ecosystem-strategy-2026-10-18.html",
-    "source_urls": [
-      "https://www.thehindu.com/business/Industry/why-big-tech-is-giving-away-open-weight-ai-models-and-what-it-wants-in-return-explained/article71596411.ece"
     ]
   }
 ]
