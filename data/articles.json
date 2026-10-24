@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24",
+    "title": "OpenAI Stops Frontier Models From Accessing the Internet During Training",
+    "description": "OpenAI announces a new safety measure that will prevent its frontier language models from pulling data from the web while they learn.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI announces a new safety measure that will prevent its frontier language models from pulling data from the web while they learn.",
+    "page": "articles/openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24.html",
+    "source_urls": [
+      "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+    ]
+  },
+  {
     "id": "free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23",
     "title": "Free Self‑Hosted PDF Tool Gives Users Full Acrobat‑Like Functionality",
     "description": "A new open‑source PDF solution lets users edit, sign and secure documents without monthly fees, according to XDA Developers.",
@@ -1779,24 +1797,6 @@
     "page": "articles/ai-designed-viruses-a-new-frontier-in-synthetic-biology-2026-10-17.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-    ]
-  },
-  {
-    "id": "walmart-s-60-onn-4k-pro-google-tv-streamer-could-be-the-last-affordable-streaming-option-2026-10-17",
-    "title": "Walmart’s $60 Onn 4K Pro Google TV Streamer Could Be the Last Affordable Streaming Option",
-    "description": "Walmart’s Onn 4K Pro streamer offers Google TV for just $60, a rare budget-friendly choice amid rising tech prices.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Walmart’s Onn 4K Pro streamer offers Google TV for just $60, a rare budget-friendly choice amid rising tech prices.",
-    "page": "articles/walmart-s-60-onn-4k-pro-google-tv-streamer-could-be-the-last-affordable-streaming-option-2026-10-17.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/"
     ]
   }
 ]
