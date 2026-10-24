@@ -1,5 +1,23 @@
 [
   {
+    "id": "gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24",
+    "title": "Gemini for Android Gets Side‑Panel and Settings Overhaul",
+    "description": "Meta’s Gemini AI app on Android receives a refreshed side‑panel layout and redesigned settings interface as part of its latest update.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Meta’s Gemini AI app on Android receives a refreshed side‑panel layout and redesigned settings interface as part of its latest update.",
+    "page": "articles/gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/"
+    ]
+  },
+  {
     "id": "openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24",
     "title": "OpenAI Stops Frontier Models From Accessing the Internet During Training",
     "description": "OpenAI announces a new safety measure that will prevent its frontier language models from pulling data from the web while they learn.",
@@ -1779,24 +1797,6 @@
     "page": "articles/msi-unveils-infinite-zs-prebuilt-gaming-pc-featuring-rtx-5090-at-5-300-2026-10-18.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own"
-    ]
-  },
-  {
-    "id": "ai-designed-viruses-a-new-frontier-in-synthetic-biology-2026-10-17",
-    "title": "AI‑Designed Viruses: A New Frontier in Synthetic Biology",
-    "description": "Stanford PhD student Samuel King uses generative AI to draft genetic blueprints for microscopic viruses, sparking debate on the future of synthetic biology.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-17",
-    "readTime": "3 min read",
-    "excerpt": "Stanford PhD student Samuel King uses generative AI to draft genetic blueprints for microscopic viruses, sparking debate on the future of synthetic biology.",
-    "page": "articles/ai-designed-viruses-a-new-frontier-in-synthetic-biology-2026-10-17.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
     ]
   }
 ]
