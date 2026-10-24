@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-health-5-11-brings-major-fitbit-and-pixel-watch-enhancements-2026-10-24",
+    "title": "Google Health 5.11 Brings Major Fitbit and Pixel Watch Enhancements",
+    "description": "Google Health’s 5.11 update adds new Fitbit Air Health Guardian features, improved sleep tracking, and expanded Pixel Watch functionality.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Google Health’s 5.11 update adds new Fitbit Air Health Guardian features, improved sleep tracking, and expanded Pixel Watch functionality.",
+    "page": "articles/google-health-5-11-brings-major-fitbit-and-pixel-watch-enhancements-2026-10-24.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/"
+    ]
+  },
+  {
     "id": "gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24",
     "title": "Gemini for Android Gets Side‑Panel and Settings Overhaul",
     "description": "Meta’s Gemini AI app on Android receives a refreshed side‑panel layout and redesigned settings interface as part of its latest update.",
@@ -1779,24 +1797,6 @@
     "page": "articles/meta-removes-controversial-language-about-web-scraping-and-ai-training-2026-10-18.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-    ]
-  },
-  {
-    "id": "msi-unveils-infinite-zs-prebuilt-gaming-pc-featuring-rtx-5090-at-5-300-2026-10-18",
-    "title": "MSI Unveils Infinite ZS Prebuilt Gaming PC Featuring RTX 5090 at $5,300",
-    "description": "MSI’s new Infinite ZS prebuilt PC bundles an RTX 5090 GPU and premium components for a discounted price of $5,300, offering gamers a high‑end build without the DIY hassle.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "MSI’s new Infinite ZS prebuilt PC bundles an RTX 5090 GPU and premium components for a discounted price of $5,300, offering gamers a high‑end build without the DIY hassle.",
-    "page": "articles/msi-unveils-infinite-zs-prebuilt-gaming-pc-featuring-rtx-5090-at-5-300-2026-10-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own"
     ]
   }
 ]
