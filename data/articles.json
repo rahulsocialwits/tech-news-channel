@@ -1,5 +1,23 @@
 [
   {
+    "id": "block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24",
+    "title": "Block Unveils Local Voice Model for MacBook M4 Max",
+    "description": "Block’s new voice model can run entirely on a MacBook M4 Max, offering privacy‑first speech synthesis without cloud dependency.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Block’s new voice model can run entirely on a MacBook M4 Max, offering privacy‑first speech synthesis without cloud dependency.",
+    "page": "articles/block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    ]
+  },
+  {
     "id": "acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24",
     "title": "Acer Predator Helios Neo 16S: The Ultra‑Slim Gaming Laptop That’s Slashing Prices",
     "description": "Acer’s new Predator Helios Neo 16S offers a 240 Hz QHD+ OLED display, Intel Core Ultra 9 and RTX 5070 Ti, with Best Buy discounts up to $800.",
@@ -1781,24 +1799,6 @@
     "page": "articles/docker-enabled-spotter-turns-3d-printers-into-filament-saving-machines-2026-10-18.html",
     "source_urls": [
       "https://www.xda-developers.com/gave-3d-printer-docker-based-spotter-stopped-wasting-filament-failures/"
-    ]
-  },
-  {
-    "id": "smart-tvs-are-tracking-your-viewing-habits-here-s-how-to-protect-your-privacy-2026-10-18",
-    "title": "Smart TVs Are Tracking Your Viewing Habits—Here’s How to Protect Your Privacy",
-    "description": "A new study shows that many smart TVs collect detailed viewing data, raising privacy concerns. Learn what manufacturers are tracking and how users can limit data collection.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "A new study shows that many smart TVs collect detailed viewing data, raising privacy concerns. Learn what manufacturers are tracking and how users can limit data collection.",
-    "page": "articles/smart-tvs-are-tracking-your-viewing-habits-here-s-how-to-protect-your-privacy-2026-10-18.html",
-    "source_urls": [
-      "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/"
     ]
   }
 ]
