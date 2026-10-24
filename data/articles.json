@@ -1,5 +1,23 @@
 [
   {
+    "id": "proton-ag-defies-cease-and-desist-to-host-flock-s-300-000-camera-map-2026-10-24",
+    "title": "Proton AG Defies Cease‑and‑Desist to Host Flock’s 300,000‑Camera Map",
+    "description": "Privacy‑focused Proton AG has agreed to host the Flock camera map, exposing over 300,000 cameras worldwide after legal threats from the creator’s former employer.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-24",
+    "readTime": "3 min read",
+    "excerpt": "Privacy‑focused Proton AG has agreed to host the Flock camera map, exposing over 300,000 cameras worldwide after legal threats from the creator’s former employer.",
+    "page": "articles/proton-ag-defies-cease-and-desist-to-host-flock-s-300-000-camera-map-2026-10-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them"
+    ]
+  },
+  {
     "id": "block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24",
     "title": "Block Unveils Local Voice Model for MacBook M4 Max",
     "description": "Block’s new voice model can run entirely on a MacBook M4 Max, offering privacy‑first speech synthesis without cloud dependency.",
@@ -1781,24 +1799,6 @@
     "page": "articles/anycubic-kobra-x-3d-printer-slashes-prices-to-299-99-for-prime-members-2026-10-18.html",
     "source_urls": [
       "https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members"
-    ]
-  },
-  {
-    "id": "docker-enabled-spotter-turns-3d-printers-into-filament-saving-machines-2026-10-18",
-    "title": "Docker-Enabled Spotter Turns 3D Printers Into Filament‑Saving Machines",
-    "description": "A DIY Docker solution now lets 3D printers pause automatically when a print fails, cutting filament waste and saving users time.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "A DIY Docker solution now lets 3D printers pause automatically when a print fails, cutting filament waste and saving users time.",
-    "page": "articles/docker-enabled-spotter-turns-3d-printers-into-filament-saving-machines-2026-10-18.html",
-    "source_urls": [
-      "https://www.xda-developers.com/gave-3d-printer-docker-based-spotter-stopped-wasting-filament-failures/"
     ]
   }
 ]
