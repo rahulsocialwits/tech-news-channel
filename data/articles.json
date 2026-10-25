@@ -1,5 +1,23 @@
 [
   {
+    "id": "gemini-notebook-integration-lets-you-control-your-docs-directly-from-gemini-chat-2026-10-25",
+    "title": "Gemini Notebook Integration Lets You Control Your Docs Directly From Gemini Chat",
+    "description": "Gemini chat now offers a built‑in notebook manager, letting users open, edit, and search documents without leaving the conversation.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Gemini chat now offers a built‑in notebook manager, letting users open, edit, and search documents without leaving the conversation.",
+    "page": "articles/gemini-notebook-integration-lets-you-control-your-docs-directly-from-gemini-chat-2026-10-25.html",
+    "source_urls": [
+      "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/"
+    ]
+  },
+  {
     "id": "top-pet-cameras-of-2026-keeping-an-eye-on-your-furry-friends-2026-10-25",
     "title": "Top Pet Cameras of 2026: Keeping an Eye on Your Furry Friends",
     "description": "Explore the best pet cameras of 2026, from Furbo to Petcube and Enabot, and see how they help owners stay connected with their pets from anywhere.",
@@ -1782,24 +1800,6 @@
     "page": "articles/laser-pointers-can-damage-security-cameras-new-study-shows-2026-10-19.html",
     "source_urls": [
       "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-watch-s-new-orange-dot-what-it-means-for-users-2026-10-19",
-    "title": "Samsung Galaxy Watch’s New Orange Dot: What It Means for Users",
-    "description": "Samsung Galaxy Watch users may notice a new orange dot on the watch face. The dot signals a specific notification type and helps users quickly identify important alerts.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Samsung Galaxy Watch users may notice a new orange dot on the watch face. The dot signals a specific notification type and helps users quickly identify important alerts.",
-    "page": "articles/samsung-galaxy-watch-s-new-orange-dot-what-it-means-for-users-2026-10-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/"
     ]
   }
 ]
