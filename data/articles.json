@@ -1,5 +1,23 @@
 [
   {
+    "id": "atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25",
+    "title": "Atuin Lets Developers Sync Terminal History Across PCs",
+    "description": "A free tool called Atuin syncs command‑line history between computers, helping developers keep track of commands they use on multiple machines.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A free tool called Atuin syncs command‑line history between computers, helping developers keep track of commands they use on multiple machines.",
+    "page": "articles/atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25.html",
+    "source_urls": [
+      "https://www.xda-developers.com/this-free-tool-syncs-terminal-history-between-pcs-belongs-every-developers-machine/"
+    ]
+  },
+  {
     "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25",
     "title": "AI Delivers Zero Financial Payoff to Most Companies, Apollo Economist Says",
     "description": "Apollo economist reports that AI investments have yielded no financial returns for non‑tech firms, highlighting a stark divide in corporate earnings.",
@@ -1780,24 +1798,6 @@
     "page": "articles/nvidia-gpu-vbios-now-configurable-without-flashing-thanks-to-solo-developer-2026-10-20.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration"
-    ]
-  },
-  {
-    "id": "samsung-s-galaxy-tab-s10-fe-plus-drops-220-as-amazon-deal-drives-tablet-sales-2026-10-19",
-    "title": "Samsung’s Galaxy Tab S10 FE Plus Drops $220 as Amazon Deal Drives Tablet Sales",
-    "description": "Samsung’s Galaxy Tab S10 FE Plus is now available for $599.99 on Amazon, a $220 discount from its original price, featuring a 13.1‑inch display, S Pen support and 256GB storage.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s Galaxy Tab S10 FE Plus is now available for $599.99 on Amazon, a $220 discount from its original price, featuring a 13.1‑inch display, S Pen support and 256GB storage.",
-    "page": "articles/samsung-s-galaxy-tab-s10-fe-plus-drops-220-as-amazon-deal-drives-tablet-sales-2026-10-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/galaxy-tab-s10-fe-plus-deal-amazon-3725169/"
     ]
   }
 ]
