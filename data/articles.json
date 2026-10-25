@@ -1,5 +1,23 @@
 [
   {
+    "id": "affordable-gaming-consoles-return-to-the-market-in-2026-2026-10-25",
+    "title": "Affordable Gaming Consoles Return to the Market in 2026",
+    "description": "A new budget-friendly console has emerged, offering gamers a cost‑effective entry point without compromising core features.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A new budget-friendly console has emerged, offering gamers a cost‑effective entry point without compromising core features.",
+    "page": "articles/affordable-gaming-consoles-return-to-the-market-in-2026-2026-10-25.html",
+    "source_urls": [
+      "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/"
+    ]
+  },
+  {
     "id": "gemini-notebook-integration-lets-you-control-your-docs-directly-from-gemini-chat-2026-10-25",
     "title": "Gemini Notebook Integration Lets You Control Your Docs Directly From Gemini Chat",
     "description": "Gemini chat now offers a built‑in notebook manager, letting users open, edit, and search documents without leaving the conversation.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19.html",
     "source_urls": [
       "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/"
-    ]
-  },
-  {
-    "id": "laser-pointers-can-damage-security-cameras-new-study-shows-2026-10-19",
-    "title": "Laser Pointers Can Damage Security Cameras, New Study Shows",
-    "description": "A recent analysis confirms that pointing laser pointers at security cameras can cause permanent damage, urging users to avoid the practice.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "A recent analysis confirms that pointing laser pointers at security cameras can cause permanent damage, urging users to avoid the practice.",
-    "page": "articles/laser-pointers-can-damage-security-cameras-new-study-shows-2026-10-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/"
     ]
   }
 ]
