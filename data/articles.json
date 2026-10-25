@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25",
+    "title": "Microsoft’s New AI Diagnostic Tool Outperforms General Physicians",
+    "description": "Microsoft researchers unveil an AI system that diagnoses patients step‑by‑step, achieving double the accuracy of general doctors.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft researchers unveil an AI system that diagnoses patients step‑by‑step, achieving double the accuracy of general doctors.",
+    "page": "articles/microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece"
+    ]
+  },
+  {
     "id": "censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25",
     "title": "Censor Board Data Breach Exposes Hundreds of Filmmaker Applications",
     "description": "A recent breach of the Indian Censor Board’s online portal exposed sensitive documents from hundreds of film submissions, raising concerns over data security and privacy.",
@@ -1782,24 +1800,6 @@
     "page": "articles/norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes"
-    ]
-  },
-  {
-    "id": "ayn-odin-3-portal-unveiled-elite-power-and-massive-battery-for-handheld-gaming-2026-10-19",
-    "title": "AYN Odin 3 Portal Unveiled: Elite Power and Massive Battery for Handheld Gaming",
-    "description": "AYN reveals the Odin 3 Portal, a handheld with top-tier specs and a gigantic battery, poised to become the most powerful Android device on the market.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "AYN reveals the Odin 3 Portal, a handheld with top-tier specs and a gigantic battery, poised to become the most powerful Android device on the market.",
-    "page": "articles/ayn-odin-3-portal-unveiled-elite-power-and-massive-battery-for-handheld-gaming-2026-10-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/"
     ]
   }
 ]
