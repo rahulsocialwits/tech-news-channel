@@ -1,5 +1,23 @@
 [
   {
+    "id": "censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25",
+    "title": "Censor Board Data Breach Exposes Hundreds of Filmmaker Applications",
+    "description": "A recent breach of the Indian Censor Board’s online portal exposed sensitive documents from hundreds of film submissions, raising concerns over data security and privacy.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A recent breach of the Indian Censor Board’s online portal exposed sensitive documents from hundreds of film submissions, raising concerns over data security and privacy.",
+    "page": "articles/censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/hundreds-of-applications-exposed-in-censor-board-data-breach/article71619870.ece"
+    ]
+  },
+  {
     "id": "nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25",
     "title": "Nvidia Explores Repurposing Decommissioned German Nuclear Sites as AI Data Centers",
     "description": "Nvidia and PreussenElektra are studying whether old German nuclear power plant sites can be converted into AI data centers, potentially cutting build time and cost by reusing existing grid connections and infrastructure.",
@@ -1782,24 +1800,6 @@
     "page": "articles/ayn-odin-3-portal-unveiled-elite-power-and-massive-battery-for-handheld-gaming-2026-10-19.html",
     "source_urls": [
       "https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/"
-    ]
-  },
-  {
-    "id": "oral-b-io2-electric-toothbrush-delivers-bright-smile-without-premium-price-2026-10-19",
-    "title": "Oral‑B iO2 Electric Toothbrush Delivers Bright Smile Without Premium Price",
-    "description": "The new Oral‑B iO2 electric toothbrush offers advanced cleaning features and smart connectivity at a budget‑friendly price.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "The new Oral‑B iO2 electric toothbrush offers advanced cleaning features and smart connectivity at a budget‑friendly price.",
-    "page": "articles/oral-b-io2-electric-toothbrush-delivers-bright-smile-without-premium-price-2026-10-19.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-reviews/oral-b-io2-electric-toothbrush-review-10928049/"
     ]
   }
 ]
