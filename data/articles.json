@@ -1,5 +1,23 @@
 [
   {
+    "id": "ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25",
+    "title": "IKEA’s $10 Bluetooth Speakers Build a Sonic Monolith",
+    "description": "WIRED documents how 150 IKEA speakers were wired together to create a massive wall of sound, proving that cheap hardware can deliver impressive audio when scaled.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "WIRED documents how 150 IKEA speakers were wired together to create a massive wall of sound, proving that cheap hardware can deliver impressive audio when scaled.",
+    "page": "articles/ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25.html",
+    "source_urls": [
+      "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/"
+    ]
+  },
+  {
     "id": "starlink-resumes-normal-operations-in-ukraine-after-temporary-throttle-2026-10-25",
     "title": "Starlink Resumes Normal Operations in Ukraine After Temporary Throttle",
     "description": "SpaceX’s Starlink satellite internet service has returned to full functionality in Ukraine following a brief throttling order by Elon Musk.",
@@ -1782,24 +1800,6 @@
     "page": "articles/samsung-galaxy-s27-may-launch-earlier-than-expected-leak-reveals-2026-10-19.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-s27-launch-window-leak-3724822/"
-    ]
-  },
-  {
-    "id": "qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19",
-    "title": "Qualcomm Defends Snapdragon 8‑Elite Gen 6 Against Heating Claims",
-    "description": "Qualcomm’s executive says the new Snapdragon 8‑Elite Gen 6 chip has no system thermal issues, countering reports of overheating on the S27 Ultra.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Qualcomm’s executive says the new Snapdragon 8‑Elite Gen 6 chip has no system thermal issues, countering reports of overheating on the S27 Ultra.",
-    "page": "articles/qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/qualcomm-deny-snapdragon-8-elite-gen-6-heating-issues-3724807/"
     ]
   }
 ]
