@@ -1,5 +1,23 @@
 [
   {
+    "id": "esp32-powered-motorized-faders-turn-light-switches-into-smart-home-artifacts-2026-10-25",
+    "title": "ESP32‑Powered Motorized Faders Turn Light Switches into Smart Home Artifacts",
+    "description": "A new line of ESP32‑based motorized faders offers sleek, programmable light switches that blend style with smart‑home functionality.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A new line of ESP32‑based motorized faders offers sleek, programmable light switches that blend style with smart‑home functionality.",
+    "page": "articles/esp32-powered-motorized-faders-turn-light-switches-into-smart-home-artifacts-2026-10-25.html",
+    "source_urls": [
+      "https://www.xda-developers.com/these-esp32-motorized-faders-are-the-coolest-smart-home-light-switches-ive-ever-seen/"
+    ]
+  },
+  {
     "id": "affordable-gaming-consoles-return-to-the-market-in-2026-2026-10-25",
     "title": "Affordable Gaming Consoles Return to the Market in 2026",
     "description": "A new budget-friendly console has emerged, offering gamers a cost‑effective entry point without compromising core features.",
@@ -1782,24 +1800,6 @@
     "page": "articles/xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19.html",
     "source_urls": [
       "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/"
-    ]
-  },
-  {
-    "id": "google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19",
-    "title": "Google Launches SynthID: A New Tool to Spot AI‑Generated Images",
-    "description": "Google’s SynthID lets users upload photos to check if they were created or altered by AI, offering a quick web‑based verification method.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Google’s SynthID lets users upload photos to check if they were created or altered by AI, offering a quick web‑based verification method.",
-    "page": "articles/google-launches-synthid-a-new-tool-to-spot-ai-generated-images-2026-10-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/"
     ]
   }
 ]
