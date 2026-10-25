@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25",
+    "title": "AI Delivers Zero Financial Payoff to Most Companies, Apollo Economist Says",
+    "description": "Apollo economist reports that AI investments have yielded no financial returns for non‑tech firms, highlighting a stark divide in corporate earnings.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Apollo economist reports that AI investments have yielded no financial returns for non‑tech firms, highlighting a stark divide in corporate earnings.",
+    "page": "articles/ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    ]
+  },
+  {
     "id": "wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25",
     "title": "Wallhack M-001: A Gaming Mouse That Prioritizes Fun Over Specs",
     "description": "The Wallhack M-001 gaming mouse offers a playful design and customizable dongle, redefining what gamers value in a peripheral.",
@@ -1780,24 +1798,6 @@
     "page": "articles/samsung-s-galaxy-tab-s10-fe-plus-drops-220-as-amazon-deal-drives-tablet-sales-2026-10-19.html",
     "source_urls": [
       "https://www.androidauthority.com/galaxy-tab-s10-fe-plus-deal-amazon-3725169/"
-    ]
-  },
-  {
-    "id": "nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19",
-    "title": "Nvidia Unveils Open Models for Enterprise and Personal PCs",
-    "description": "Nvidia launches new open models designed to run AI agents in corporate data centers and on consumer PCs, expanding on-device private AI capabilities.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia launches new open models designed to run AI agents in corporate data centers and on consumer PCs, expanding on-device private AI capabilities.",
-    "page": "articles/nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
     ]
   }
 ]
