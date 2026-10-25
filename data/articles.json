@@ -1,5 +1,24 @@
 [
   {
+    "id": "usb-c-cable-with-built-in-phone-stand-a-compact-solution-for-travelers-2026-10-25",
+    "title": "USB‑C Cable with Built‑in Phone Stand: A Compact Solution for Travelers",
+    "description": "A new USB‑C cable doubles as a phone stand, offering a lightweight, no‑bulk option for keeping devices upright while charging.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A new USB‑C cable doubles as a phone stand, offering a lightweight, no‑bulk option for keeping devices upright while charging.",
+    "page": "articles/usb-c-cable-with-built-in-phone-stand-a-compact-solution-for-travelers-2026-10-25.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
+      "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/"
+    ]
+  },
+  {
     "id": "youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25",
     "title": "YouTube’s AV2 Video Codec Rollout Promises Smoother Streaming",
     "description": "YouTube is preparing to launch its new AV2 codec, aiming to improve video quality and reduce buffering for users worldwide.",
@@ -1781,24 +1800,6 @@
     "page": "articles/usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons"
-    ]
-  },
-  {
-    "id": "amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18",
-    "title": "AMD GPUs Get Full DLSS 5 Experience Thanks to Modder’s Project",
-    "description": "A community developer has ported Nvidia’s DLSS 5 suite to AMD Radeon cards, enabling RDNA2-4 GPUs to run all DLSS features.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "A community developer has ported Nvidia’s DLSS 5 suite to AMD Radeon cards, enabling RDNA2-4 GPUs to run all DLSS features.",
-    "page": "articles/amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance"
     ]
   }
 ]
