@@ -1,5 +1,23 @@
 [
   {
+    "id": "youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25",
+    "title": "YouTube’s AV2 Video Codec Rollout Promises Smoother Streaming",
+    "description": "YouTube is preparing to launch its new AV2 codec, aiming to improve video quality and reduce buffering for users worldwide.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "YouTube is preparing to launch its new AV2 codec, aiming to improve video quality and reduce buffering for users worldwide.",
+    "page": "articles/youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25.html",
+    "source_urls": [
+      "https://www.androidauthority.com/youtube-av2-rollout-update-3727638/"
+    ]
+  },
+  {
     "id": "ai-assisted-exploits-uncover-hidden-php-vulnerabilities-2026-10-24",
     "title": "AI‑Assisted Exploits Uncover Hidden PHP Vulnerabilities",
     "description": "Security researchers used AI tools to uncover long‑hidden bugs in PHP, turning them into exploitable attacks.",
@@ -1781,24 +1799,6 @@
     "page": "articles/amd-gpus-get-full-dlss-5-experience-thanks-to-modder-s-project-2026-10-18.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance"
-    ]
-  },
-  {
-    "id": "disney-to-absorb-majority-of-character-ai-workforce-after-bankruptcy-filing-2026-10-18",
-    "title": "Disney to Absorb Majority of Character.AI Workforce After Bankruptcy Filing",
-    "description": "Disney has agreed to hire most of the former Character.AI staff following the chatbot startup’s bankruptcy, with its ex‑CEO now serving as Disney’s first CTO.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-18",
-    "readTime": "3 min read",
-    "excerpt": "Disney has agreed to hire most of the former Character.AI staff following the chatbot startup’s bankruptcy, with its ex‑CEO now serving as Disney’s first CTO.",
-    "page": "articles/disney-to-absorb-majority-of-character-ai-workforce-after-bankruptcy-filing-2026-10-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
     ]
   }
 ]
