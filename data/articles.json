@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25",
+    "title": "AI‑Powered Wearables Set to Redefine Personal Tech",
+    "description": "A roundup of the latest AI‑enabled wearables, from Muse Charm to Bee, shows how the industry is blending health, productivity and style.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "A roundup of the latest AI‑enabled wearables, from Muse Charm to Bee, shows how the industry is blending health, productivity and style.",
+    "page": "articles/ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+    ]
+  },
+  {
     "id": "samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25",
     "title": "Samsung Unveils 2TB 990 SSD at 38% Off, Boosting PCIe 4.0 Performance",
     "description": "Samsung’s new 2TB 990 SSD offers PCIe 4.0 speeds and a 38% discount on Amazon, delivering a cost‑effective upgrade for gamers and creators.",
@@ -1782,24 +1800,6 @@
       "https://www.androidauthority.com/pixel-watch-bedtime-snooze-3725055/",
       "https://9to5google.com/2026/10/19/galaxy-s27-pro-ultra-launch-timing/",
       "https://www.engadget.com/2287670/rarest-gamecube-console-sells-for-thousands-dollars-today/"
-    ]
-  },
-  {
-    "id": "what-the-orange-light-on-your-playstation-5-really-means-2026-10-19",
-    "title": "What the Orange Light on Your PlayStation 5 Really Means",
-    "description": "A guide to understanding the PlayStation 5’s orange light status indicator and what it signals about your console’s health.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "A guide to understanding the PlayStation 5’s orange light status indicator and what it signals about your console’s health.",
-    "page": "articles/what-the-orange-light-on-your-playstation-5-really-means-2026-10-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2287587/what-playstation-5-orange-light-means/"
     ]
   }
 ]
