@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25",
+    "title": "Samsung Unveils 2TB 990 SSD at 38% Off, Boosting PCIe 4.0 Performance",
+    "description": "Samsung’s new 2TB 990 SSD offers PCIe 4.0 speeds and a 38% discount on Amazon, delivering a cost‑effective upgrade for gamers and creators.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s new 2TB 990 SSD offers PCIe 4.0 speeds and a 38% discount on Amazon, delivering a cost‑effective upgrade for gamers and creators.",
+    "page": "articles/samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time"
+    ]
+  },
+  {
     "id": "microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25",
     "title": "Microsoft’s New AI Diagnostic Tool Outperforms General Physicians",
     "description": "Microsoft researchers unveil an AI system that diagnoses patients step‑by‑step, achieving double the accuracy of general doctors.",
@@ -1782,24 +1800,6 @@
     "page": "articles/what-the-orange-light-on-your-playstation-5-really-means-2026-10-19.html",
     "source_urls": [
       "https://www.engadget.com/2287587/what-playstation-5-orange-light-means/"
-    ]
-  },
-  {
-    "id": "norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19",
-    "title": "Norway Eyes 2,800‑mile Transatlantic Cable to Bypass U.S. Routes",
-    "description": "Bulk Infrastructure Group seeks partner for new undersea fiber link between Canada and Europe, aiming to reduce reliance on U.S. cables.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Bulk Infrastructure Group seeks partner for new undersea fiber link between Canada and Europe, aiming to reduce reliance on U.S. cables.",
-    "page": "articles/norway-eyes-2-800-mile-transatlantic-cable-to-bypass-u-s-routes-2026-10-19.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes"
     ]
   }
 ]
