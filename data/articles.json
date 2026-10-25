@@ -1,5 +1,23 @@
 [
   {
+    "id": "wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25",
+    "title": "Wallhack M-001: A Gaming Mouse That Prioritizes Fun Over Specs",
+    "description": "The Wallhack M-001 gaming mouse offers a playful design and customizable dongle, redefining what gamers value in a peripheral.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "The Wallhack M-001 gaming mouse offers a playful design and customizable dongle, redefining what gamers value in a peripheral.",
+    "page": "articles/wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25.html",
+    "source_urls": [
+      "https://www.wired.com/review/wallhack-m-001/"
+    ]
+  },
+  {
     "id": "ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25",
     "title": "AI‑Powered Wearables Set to Redefine Personal Tech",
     "description": "A roundup of the latest AI‑enabled wearables, from Muse Charm to Bee, shows how the industry is blending health, productivity and style.",
@@ -1780,26 +1798,6 @@
     "page": "articles/nvidia-unveils-open-models-for-enterprise-and-personal-pcs-2026-10-19.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
-    ]
-  },
-  {
-    "id": "pixel-watch-gets-bedtime-snooze-samsung-eyes-february-launch-and-rare-gamecube-console-hit-2026-10-19",
-    "title": "Pixel Watch Gets Bedtime Snooze, Samsung Eyes February Launch, and Rare GameCube Console Hits Auction Prices",
-    "description": "Google’s Pixel Watch may soon let users snooze auto‑bedtime, Samsung is weighing a February launch for the Galaxy S27, and a rare GameCube console sold for thousands at auction.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Pixel Watch may soon let users snooze auto‑bedtime, Samsung is weighing a February launch for the Galaxy S27, and a rare GameCube console sold for thousands at auction.",
-    "page": "articles/pixel-watch-gets-bedtime-snooze-samsung-eyes-february-launch-and-rare-gamecube-console-hit-2026-10-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/pixel-watch-bedtime-snooze-3725055/",
-      "https://9to5google.com/2026/10/19/galaxy-s27-pro-ultra-launch-timing/",
-      "https://www.engadget.com/2287670/rarest-gamecube-console-sells-for-thousands-dollars-today/"
     ]
   }
 ]
