@@ -1,5 +1,23 @@
 [
   {
+    "id": "starlink-resumes-normal-operations-in-ukraine-after-temporary-throttle-2026-10-25",
+    "title": "Starlink Resumes Normal Operations in Ukraine After Temporary Throttle",
+    "description": "SpaceX’s Starlink satellite internet service has returned to full functionality in Ukraine following a brief throttling order by Elon Musk.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Space"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "SpaceX’s Starlink satellite internet service has returned to full functionality in Ukraine following a brief throttling order by Elon Musk.",
+    "page": "articles/starlink-resumes-normal-operations-in-ukraine-after-temporary-throttle-2026-10-25.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+    ]
+  },
+  {
     "id": "esp32-powered-motorized-faders-turn-light-switches-into-smart-home-artifacts-2026-10-25",
     "title": "ESP32‑Powered Motorized Faders Turn Light Switches into Smart Home Artifacts",
     "description": "A new line of ESP32‑based motorized faders offers sleek, programmable light switches that blend style with smart‑home functionality.",
@@ -1782,24 +1800,6 @@
     "page": "articles/qualcomm-defends-snapdragon-8-elite-gen-6-against-heating-claims-2026-10-19.html",
     "source_urls": [
       "https://www.androidauthority.com/qualcomm-deny-snapdragon-8-elite-gen-6-heating-issues-3724807/"
-    ]
-  },
-  {
-    "id": "xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19",
-    "title": "Xbox Series X Now Plays PlayStation 5 Games—With a Caveat",
-    "description": "Xbox Series X users can run PS5 titles thanks to hardware similarities, but emulator glitches limit the experience.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "Xbox Series X users can run PS5 titles thanks to hardware similarities, but emulator glitches limit the experience.",
-    "page": "articles/xbox-series-x-now-plays-playstation-5-games-with-a-caveat-2026-10-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/"
     ]
   }
 ]
