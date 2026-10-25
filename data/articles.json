@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25",
+    "title": "Nvidia Explores Repurposing Decommissioned German Nuclear Sites as AI Data Centers",
+    "description": "Nvidia and PreussenElektra are studying whether old German nuclear power plant sites can be converted into AI data centers, potentially cutting build time and cost by reusing existing grid connections and infrastructure.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia and PreussenElektra are studying whether old German nuclear power plant sites can be converted into AI data centers, potentially cutting build time and cost by reusing existing grid connections and infrastructure.",
+    "page": "articles/nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch"
+    ]
+  },
+  {
     "id": "ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25",
     "title": "IKEA’s $10 Bluetooth Speakers Build a Sonic Monolith",
     "description": "WIRED documents how 150 IKEA speakers were wired together to create a massive wall of sound, proving that cheap hardware can deliver impressive audio when scaled.",
@@ -1782,24 +1800,6 @@
     "page": "articles/oral-b-io2-electric-toothbrush-delivers-bright-smile-without-premium-price-2026-10-19.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-reviews/oral-b-io2-electric-toothbrush-review-10928049/"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-s27-may-launch-earlier-than-expected-leak-reveals-2026-10-19",
-    "title": "Samsung Galaxy S27 May Launch Earlier Than Expected, Leak Reveals",
-    "description": "A leaked schedule suggests Samsung could unveil the Galaxy S27 before its usual window, though last‑minute upgrades could shift plans.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "A leaked schedule suggests Samsung could unveil the Galaxy S27 before its usual window, though last‑minute upgrades could shift plans.",
-    "page": "articles/samsung-galaxy-s27-may-launch-earlier-than-expected-leak-reveals-2026-10-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-s27-launch-window-leak-3724822/"
     ]
   }
 ]
