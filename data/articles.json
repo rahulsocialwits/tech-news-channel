@@ -1,5 +1,23 @@
 [
   {
+    "id": "personalized-mrna-vaccine-cuts-melanoma-recurrence-by-over-40-2026-10-25",
+    "title": "Personalized mRNA Vaccine Cuts Melanoma Recurrence by Over 40%",
+    "description": "Phase‑3 trial shows new mRNA vaccine tailored to individual tumors significantly reduces melanoma relapse.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Health"
+    ],
+    "feature_image": "",
+    "date": "2026-10-25",
+    "readTime": "3 min read",
+    "excerpt": "Phase‑3 trial shows new mRNA vaccine tailored to individual tumors significantly reduces melanoma relapse.",
+    "page": "articles/personalized-mrna-vaccine-cuts-melanoma-recurrence-by-over-40-2026-10-25.html",
+    "source_urls": [
+      "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
+    ]
+  },
+  {
     "id": "usb-c-cable-with-built-in-phone-stand-a-compact-solution-for-travelers-2026-10-25",
     "title": "USB‑C Cable with Built‑in Phone Stand: A Compact Solution for Travelers",
     "description": "A new USB‑C cable doubles as a phone stand, offering a lightweight, no‑bulk option for keeping devices upright while charging.",
@@ -1782,24 +1800,6 @@
     "page": "articles/decoding-netgear-router-leds-what-each-light-really-means-2026-10-19.html",
     "source_urls": [
       "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/"
-    ]
-  },
-  {
-    "id": "usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19",
-    "title": "USAF Demonstrates F‑22 Raptor’s Ability to Control Uncrewed Wingman in Simulated Combat",
-    "description": "In a recent test, an F‑22 pilot successfully commanded a YFQ‑44A Fury drone, marking a step toward integrated manned‑unmanned fighter squadrons.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-19",
-    "readTime": "3 min read",
-    "excerpt": "In a recent test, an F‑22 pilot successfully commanded a YFQ‑44A Fury drone, marking a step toward integrated manned‑unmanned fighter squadrons.",
-    "page": "articles/usaf-demonstrates-f-22-raptor-s-ability-to-control-uncrewed-wingman-in-simulated-combat-2026-10-19.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons"
     ]
   }
 ]
