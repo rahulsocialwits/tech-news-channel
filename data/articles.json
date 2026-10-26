@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-ai-driven-personalisation-could-shift-targeted-advertising-2026-10-26",
+    "title": "Google’s AI‑Driven Personalisation Could Shift Targeted Advertising",
+    "description": "Google is testing AI‑powered personalisation that may enable more precise ad targeting based on user data, raising questions about privacy and ad effectiveness.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Google is testing AI‑powered personalisation that may enable more precise ad targeting based on user data, raising questions about privacy and ad effectiveness.",
+    "page": "articles/google-s-ai-driven-personalisation-could-shift-targeted-advertising-2026-10-26.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/googles-ai-personalisation-targeted-ads-user-data-10936203/"
+    ]
+  },
+  {
     "id": "nvidia-s-rtx-spark-laptops-offer-a-new-powerhouse-for-local-ai-workloads-2026-10-26",
     "title": "Nvidia’s RTX Spark Laptops Offer a New Powerhouse for Local AI Workloads",
     "description": "Nvidia’s latest RTX Spark laptops bring high‑end GPU performance to portable machines, enabling developers to run AI models locally without cloud dependence.",
@@ -1780,24 +1798,6 @@
     "page": "articles/impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20.html",
     "source_urls": [
       "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
-    ]
-  },
-  {
-    "id": "microsoft-expands-project-perception-to-guard-enterprises-from-rogue-ai-agents-2026-10-20",
-    "title": "Microsoft Expands Project Perception to Guard Enterprises from Rogue AI Agents",
-    "description": "Microsoft rolls out new cloud‑based AI monitoring tool to detect and contain malicious autonomous agents within corporate networks.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft rolls out new cloud‑based AI monitoring tool to detect and contain malicious autonomous agents within corporate networks.",
-    "page": "articles/microsoft-expands-project-perception-to-guard-enterprises-from-rogue-ai-agents-2026-10-20.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-expands-project-perception-to-monitor-contain-rogue-ai-agents-inside-enterprises-10928884/"
     ]
   }
 ]
