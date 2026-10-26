@@ -1,5 +1,23 @@
 [
   {
+    "id": "asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26",
+    "title": "Asus ROG Xbox Ally X20 Delivers OLED Brilliance and Comfort for Handheld Gamers",
+    "description": "The new Asus ROG Xbox Ally X20 handheld offers an OLED display, improved ergonomics and AMD-powered performance, making it a top choice for on‑the‑go gamers.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "The new Asus ROG Xbox Ally X20 handheld offers an OLED display, improved ergonomics and AMD-powered performance, making it a top choice for on‑the‑go gamers.",
+    "page": "articles/asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26.html",
+    "source_urls": [
+      "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen"
+    ]
+  },
+  {
     "id": "anthropic-files-for-ipo-revealing-financials-and-governance-structure-2026-10-26",
     "title": "Anthropic Files for IPO, Revealing Financials and Governance Structure",
     "description": "Anthropic has filed for a public debut, detailing revenue growth, losses, enterprise adoption, and a unique governance model aimed at preserving founder control and AI safety.",
@@ -1784,24 +1802,6 @@
     "page": "articles/chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20.html",
     "source_urls": [
       "https://9to5google.com/2026/10/20/safe-browsing-enhanced-protection-updates/"
-    ]
-  },
-  {
-    "id": "electric-plant-decodes-plant-language-with-ai-translator-2026-10-20",
-    "title": "Electric Plant Decodes Plant Language with AI Translator",
-    "description": "A startup has built an AI-powered translator that lets humans hear what plants are saying through electrical signals.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "A startup has built an AI-powered translator that lets humans hear what plants are saying through electrical signals.",
-    "page": "articles/electric-plant-decodes-plant-language-with-ai-translator-2026-10-20.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
     ]
   }
 ]
