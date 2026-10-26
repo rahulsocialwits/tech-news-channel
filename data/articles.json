@@ -1,5 +1,23 @@
 [
   {
+    "id": "tesla-partners-with-turo-to-accelerate-full-self-driving-adoption-2026-10-26",
+    "title": "Tesla Partners with Turo to Accelerate Full Self‑Driving Adoption",
+    "description": "Tesla is offering Turo hosts a free month of its Full Self‑Driving software to boost real‑world testing and adoption.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Tesla is offering Turo hosts a free month of its Full Self‑Driving software to boost real‑world testing and adoption.",
+    "page": "articles/tesla-partners-with-turo-to-accelerate-full-self-driving-adoption-2026-10-26.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
+    ]
+  },
+  {
     "id": "original-xbox-emulator-hakux-receives-major-performance-boost-on-android-2026-10-26",
     "title": "Original Xbox Emulator Hakux Receives Major Performance Boost on Android",
     "description": "Hakux, the popular Xbox emulator for Android, has been upgraded with significant performance improvements, enabling smoother gameplay on a wider range of devices.",
@@ -1782,24 +1800,6 @@
     "page": "articles/spacex-alum-s-reliable-robotics-secures-115m-series-d-valuation-surpasses-1b-2026-10-20.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
-    ]
-  },
-  {
-    "id": "u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20",
-    "title": "U.S. Brings Nuclear Reactors Back Online to Power Growing AI Data Centers",
-    "description": "The U.S. government is funding the recommissioning of three nuclear plants to meet the soaring energy demands of AI data centers.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "The U.S. government is funding the recommissioning of three nuclear plants to meet the soaring energy demands of AI data centers.",
-    "page": "articles/u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors"
     ]
   }
 ]
