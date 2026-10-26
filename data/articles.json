@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26",
+    "title": "AI Data Centers Drive Surge in Fuel‑Cell Demand",
+    "description": "The rapid expansion of AI data centers is boosting the market for fuel cells, as power and cooling needs grow.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "The rapid expansion of AI data centers is boosting the market for fuel cells, as power and cooling needs grow.",
+    "page": "articles/ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand-10936893/"
+    ]
+  },
+  {
     "id": "google-s-ai-driven-personalisation-could-shift-targeted-advertising-2026-10-26",
     "title": "Google’s AI‑Driven Personalisation Could Shift Targeted Advertising",
     "description": "Google is testing AI‑powered personalisation that may enable more precise ad targeting based on user data, raising questions about privacy and ad effectiveness.",
@@ -1780,24 +1798,6 @@
     "page": "articles/flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
-    ]
-  },
-  {
-    "id": "impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20",
-    "title": "Impinj Turns RFID Into Real‑Time AI‑Powered Tracking",
-    "description": "Impinj’s new RFID strategy links digital records to physical events, enabling AI‑driven delivery forecasting in real time.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Impinj’s new RFID strategy links digital records to physical events, enabling AI‑driven delivery forecasting in real time.",
-    "page": "articles/impinj-turns-rfid-into-real-time-ai-powered-tracking-2026-10-20.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
     ]
   }
 ]
