@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26",
+    "title": "Samsung Unveils First Clip‑On Galaxy Buds, Expanding Wireless Audio Lineup",
+    "description": "Samsung launches clip‑on Galaxy Buds, adding a new form factor to its wireless earbud family.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Samsung launches clip‑on Galaxy Buds, adding a new form factor to its wireless earbud family.",
+    "page": "articles/samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/"
+    ]
+  },
+  {
     "id": "impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26",
     "title": "Impinj Turns RFID Into Real‑Time AI Tracking",
     "description": "Impinj’s new RFID strategy bridges the gap between digital records and physical events, delivering real‑time tracking data for supply chains.",
@@ -1781,23 +1799,6 @@
     "page": "articles/blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
-    ]
-  },
-  {
-    "id": "google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20",
-    "title": "Google Home Speakers Found Downloading Hundreds of Gigabytes in Background",
-    "description": "Some Google Home speakers are silently downloading massive amounts of data, raising privacy and bandwidth concerns.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Some Google Home speakers are silently downloading massive amounts of data, raising privacy and bandwidth concerns.",
-    "page": "articles/google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/19/google-home-speaker-downloads/"
     ]
   }
 ]
