@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-s-ipo-filing-reveals-enterprise-focused-strategy-2026-10-26",
+    "title": "Anthropic’s IPO Filing Reveals Enterprise‑Focused Strategy",
+    "description": "Anthropic’s S‑1 shows a cross‑selling playbook that keeps enterprise customers engaged, with more than half of its $100,000‑plus clients using both the Claude Platform and a first‑party app.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic’s S‑1 shows a cross‑selling playbook that keeps enterprise customers engaged, with more than half of its $100,000‑plus clients using both the Claude Platform and a first‑party app.",
+    "page": "articles/anthropic-s-ipo-filing-reveals-enterprise-focused-strategy-2026-10-26.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    ]
+  },
+  {
     "id": "asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26",
     "title": "Asus ROG Xbox Ally X20 Delivers OLED Brilliance and Comfort for Handheld Gamers",
     "description": "The new Asus ROG Xbox Ally X20 handheld offers an OLED display, improved ergonomics and AMD-powered performance, making it a top choice for on‑the‑go gamers.",
@@ -1784,24 +1802,6 @@
     "page": "articles/enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
-    ]
-  },
-  {
-    "id": "chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20",
-    "title": "Chrome’s New Safe Browsing Mode Promises Ten‑Fold Protection Against Online Threats",
-    "description": "Google has unveiled an enhanced Safe Browsing mode for Chrome that claims to make users ten times safer from phishing, social engineering and other scams.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Google has unveiled an enhanced Safe Browsing mode for Chrome that claims to make users ten times safer from phishing, social engineering and other scams.",
-    "page": "articles/chrome-s-new-safe-browsing-mode-promises-ten-fold-protection-against-online-threats-2026-10-20.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/20/safe-browsing-enhanced-protection-updates/"
     ]
   }
 ]
