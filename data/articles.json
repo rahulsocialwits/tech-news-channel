@@ -1,5 +1,23 @@
 [
   {
+    "id": "impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26",
+    "title": "Impinj Turns RFID Into Real‑Time AI Tracking",
+    "description": "Impinj’s new RFID strategy bridges the gap between digital records and physical events, delivering real‑time tracking data for supply chains.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Impinj’s new RFID strategy bridges the gap between digital records and physical events, delivering real‑time tracking data for supply chains.",
+    "page": "articles/impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
+    ]
+  },
+  {
     "id": "ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26",
     "title": "AI Data Centers Drive Surge in Fuel‑Cell Demand",
     "description": "The rapid expansion of AI data centers is boosting the market for fuel cells, as power and cooling needs grow.",
@@ -1780,24 +1798,6 @@
     "page": "articles/google-home-speakers-found-downloading-hundreds-of-gigabytes-in-background-2026-10-20.html",
     "source_urls": [
       "https://9to5google.com/2026/10/19/google-home-speaker-downloads/"
-    ]
-  },
-  {
-    "id": "flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20",
-    "title": "Flipkart Expands Food‑Delivery Service to Thousands of Employees Ahead of Public Launch",
-    "description": "Flipkart is quietly scaling its food‑delivery platform for internal use before rolling it out to the public in India.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Flipkart is quietly scaling its food‑delivery platform for internal use before rolling it out to the public in India.",
-    "page": "articles/flipkart-expands-food-delivery-service-to-thousands-of-employees-ahead-of-public-launch-2026-10-20.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
     ]
   }
 ]
