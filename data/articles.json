@@ -1,5 +1,23 @@
 [
   {
+    "id": "bedrock-robotics-secures-600-million-to-accelerate-autonomous-excavator-deployment-2026-10-26",
+    "title": "Bedrock Robotics Secures $600 Million to Accelerate Autonomous Excavator Deployment",
+    "description": "Bedrock Robotics raises $600 million in a Series C round, valuing the autonomous construction startup at $4.1 billion as it tackles operator shortages in the heavy‑equipment sector.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Bedrock Robotics raises $600 million in a Series C round, valuing the autonomous construction startup at $4.1 billion as it tackles operator shortages in the heavy‑equipment sector.",
+    "page": "articles/bedrock-robotics-secures-600-million-to-accelerate-autonomous-excavator-deployment-2026-10-26.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+    ]
+  },
+  {
     "id": "anthropic-s-ipo-filing-reveals-enterprise-focused-strategy-2026-10-26",
     "title": "Anthropic’s IPO Filing Reveals Enterprise‑Focused Strategy",
     "description": "Anthropic’s S‑1 shows a cross‑selling playbook that keeps enterprise customers engaged, with more than half of its $100,000‑plus clients using both the Claude Platform and a first‑party app.",
@@ -1784,24 +1802,6 @@
     "page": "articles/amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost"
-    ]
-  },
-  {
-    "id": "enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20",
-    "title": "Enterprise AI’s New Economics: From Utility to Efficiency",
-    "description": "How companies are shifting from simply adopting AI to optimizing its use for maximum value.",
-    "category": "Enterprise",
-    "labels": [
-      "Enterprise",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "How companies are shifting from simply adopting AI to optimizing its use for maximum value.",
-    "page": "articles/enterprise-ai-s-new-economics-from-utility-to-efficiency-2026-10-20.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
     ]
   }
 ]
