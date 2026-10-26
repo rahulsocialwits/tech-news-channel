@@ -1,5 +1,24 @@
 [
   {
+    "id": "anthropic-files-for-ipo-revealing-financials-and-governance-structure-2026-10-26",
+    "title": "Anthropic Files for IPO, Revealing Financials and Governance Structure",
+    "description": "Anthropic has filed for a public debut, detailing revenue growth, losses, enterprise adoption, and a unique governance model aimed at preserving founder control and AI safety.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic has filed for a public debut, detailing revenue growth, losses, enterprise adoption, and a unique governance model aimed at preserving founder control and AI safety.",
+    "page": "articles/anthropic-files-for-ipo-revealing-financials-and-governance-structure-2026-10-26.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/"
+    ]
+  },
+  {
     "id": "foldable-iphone-duo-faces-cracked-screens-and-hinge-failures-repairability-ratings-raise-c-2026-10-26",
     "title": "Foldable iPhone Duo Faces Cracked Screens and Hinge Failures, Repairability Ratings Raise Concerns",
     "description": "Apple’s first foldable iPhone Duo is experiencing widespread cracked-screen and hinge issues, prompting iFixit to release a low repairability score and users to report durability problems.",
@@ -1783,24 +1802,6 @@
     "page": "articles/electric-plant-decodes-plant-language-with-ai-translator-2026-10-20.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
-    ]
-  },
-  {
-    "id": "amd-unveils-zen-6-apu-with-24-gb-lpddr5-hinting-at-next-gen-steam-deck-2026-10-20",
-    "title": "AMD Unveils Zen 6 APU with 24 GB LPDDR5, Hinting at Next‑Gen Steam Deck",
-    "description": "An engineering sample of AMD’s Zen 6 APU features 24 GB of LPDDR5 memory and a 2.4 GHz GPU, pointing to future handheld gaming devices.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Hardware"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "An engineering sample of AMD’s Zen 6 APU features 24 GB of LPDDR5 memory and a 2.4 GHz GPU, pointing to future handheld gaming devices.",
-    "page": "articles/amd-unveils-zen-6-apu-with-24-gb-lpddr5-hinting-at-next-gen-steam-deck-2026-10-20.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds"
     ]
   }
 ]
