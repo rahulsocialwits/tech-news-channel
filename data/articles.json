@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26",
+    "title": "Anthropic Blocks Claude from Reverse‑Engineering Smart TVs",
+    "description": "Anthropic has halted attempts by its Claude model to reverse‑engineer smart TV firmware, citing policy concerns.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic has halted attempts by its Claude model to reverse‑engineer smart TV firmware, citing policy concerns.",
+    "page": "articles/anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26.html",
+    "source_urls": [
+      "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/"
+    ]
+  },
+  {
     "id": "samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26",
     "title": "Samsung Unveils First Clip‑On Galaxy Buds, Expanding Wireless Audio Lineup",
     "description": "Samsung launches clip‑on Galaxy Buds, adding a new form factor to its wireless earbud family.",
@@ -1781,24 +1799,6 @@
     "page": "articles/us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article71603294.ece"
-    ]
-  },
-  {
-    "id": "blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20",
-    "title": "Blackwall Raises $100 Million to Strengthen Bot and AI Traffic Filtering",
-    "description": "Blackwall secures a $100 million round, valuing the company at $2.2 billion as it expands its security and filtering tools for websites facing rising bot and AI traffic.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "Blackwall secures a $100 million round, valuing the company at $2.2 billion as it expands its security and filtering tools for websites facing rising bot and AI traffic.",
-    "page": "articles/blackwall-raises-100-million-to-strengthen-bot-and-ai-traffic-filtering-2026-10-20.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
     ]
   }
 ]
