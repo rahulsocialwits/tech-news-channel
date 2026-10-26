@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-s-rtx-spark-laptops-offer-a-new-powerhouse-for-local-ai-workloads-2026-10-26",
+    "title": "Nvidia’s RTX Spark Laptops Offer a New Powerhouse for Local AI Workloads",
+    "description": "Nvidia’s latest RTX Spark laptops bring high‑end GPU performance to portable machines, enabling developers to run AI models locally without cloud dependence.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s latest RTX Spark laptops bring high‑end GPU performance to portable machines, enabling developers to run AI models locally without cloud dependence.",
+    "page": "articles/nvidia-s-rtx-spark-laptops-offer-a-new-powerhouse-for-local-ai-workloads-2026-10-26.html",
+    "source_urls": [
+      "https://www.xda-developers.com/things-nobody-tells-you-before-buying-an-rtx-spark-laptop/"
+    ]
+  },
+  {
     "id": "scientists-trap-antimatter-particle-for-months-to-unlock-its-secrets-2026-10-26",
     "title": "Scientists Trap Antimatter Particle for Months to Unlock Its Secrets",
     "description": "A new method lets researchers hold an antimatter particle in a trap for months, opening the door to precision tests of matter–antimatter differences.",
@@ -1780,24 +1798,6 @@
     "page": "articles/microsoft-expands-project-perception-to-guard-enterprises-from-rogue-ai-agents-2026-10-20.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-expands-project-perception-to-monitor-contain-rogue-ai-agents-inside-enterprises-10928884/"
-    ]
-  },
-  {
-    "id": "power-bank-bargains-october-2026-s-best-deals-for-laptops-magsafe-and-more-2026-10-20",
-    "title": "Power‑Bank Bargains: October 2026’s Best Deals for Laptops, MagSafe, and More",
-    "description": "October 2026 sees a surge in discounted portable chargers, with top picks for laptops, MagSafe, and other devices highlighted by Wired.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "October 2026 sees a surge in discounted portable chargers, with top picks for laptops, MagSafe, and other devices highlighted by Wired.",
-    "page": "articles/power-bank-bargains-october-2026-s-best-deals-for-laptops-magsafe-and-more-2026-10-20.html",
-    "source_urls": [
-      "https://www.wired.com/story/power-bank-deals-october-2026/"
     ]
   }
 ]
