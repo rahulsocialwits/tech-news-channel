@@ -1,5 +1,23 @@
 [
   {
+    "id": "akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26",
+    "title": "Akamai’s 515‑Million‑Attack Block Boosts Scalefusion’s Global SaaS Growth",
+    "description": "Akamai’s security platform stopped over 515 million attacks in 90 days, helping Scalefusion protect millions of devices and maintain 99.95% uptime.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Akamai’s security platform stopped over 515 million attacks in 90 days, helping Scalefusion protect millions of devices and maintain 99.95% uptime.",
+    "page": "articles/akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/scalefusion-secures-global-saas-growth-with-akamai-as-cyberattacks-surge/"
+    ]
+  },
+  {
     "id": "home-server-ebook-sync-one-user-s-diy-library-solution-2026-10-26",
     "title": "Home‑Server Ebook Sync: One User’s DIY Library Solution",
     "description": "A tech enthusiast demonstrates how to sync an entire ebook collection across five devices using a home server, offering a practical alternative to commercial cloud services.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-home-speakers-reported-to-download-massive-data-in-background-2026-10-20.html",
     "source_urls": [
       "https://news.google.com/rss/articles/CBMickFVX3lxTE82RjVzY1FORTlFdDF6ZlVQcWRIaE1VNlBUeUQtdHVhWWctbVF0aWcwMW5XN0NleS1HX3dieXRqUzhqbmZvUW53YU1LVHpVNExPbWNmSzhzdVAyamFsTXpaM3A4Mi1ETlJyekUtOTZTVFRTdw?oc=5"
-    ]
-  },
-  {
-    "id": "chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20",
-    "title": "Chinese Hacker Deploys AI Agents to Breach Over 100 Company Websites",
-    "description": "A Chinese hacker used a fleet of AI agents to infiltrate more than 100 corporate sites, including major brands like Deere and SharkNinja.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "A Chinese hacker used a fleet of AI agents to infiltrate more than 100 corporate sites, including major brands like Deere and SharkNinja.",
-    "page": "articles/chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
     ]
   }
 ]
