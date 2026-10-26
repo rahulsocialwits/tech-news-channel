@@ -1,5 +1,23 @@
 [
   {
+    "id": "original-xbox-emulator-hakux-receives-major-performance-boost-on-android-2026-10-26",
+    "title": "Original Xbox Emulator Hakux Receives Major Performance Boost on Android",
+    "description": "Hakux, the popular Xbox emulator for Android, has been upgraded with significant performance improvements, enabling smoother gameplay on a wider range of devices.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "Hakux, the popular Xbox emulator for Android, has been upgraded with significant performance improvements, enabling smoother gameplay on a wider range of devices.",
+    "page": "articles/original-xbox-emulator-hakux-receives-major-performance-boost-on-android-2026-10-26.html",
+    "source_urls": [
+      "https://www.androidauthority.com/hakux-original-xbox-emulator-android-3727845/"
+    ]
+  },
+  {
     "id": "ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26",
     "title": "iFixit Teardown Reveals Why iPhone Duo Screens Crack",
     "description": "iFixit’s detailed teardown of Apple’s foldable iPhone Duo shows how the complex hinge and display design can lead to cracked screens.",
@@ -1782,24 +1800,6 @@
     "page": "articles/u-s-brings-nuclear-reactors-back-online-to-power-growing-ai-data-centers-2026-10-20.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors"
-    ]
-  },
-  {
-    "id": "google-cloud-outage-disrupts-uk-banking-and-web-services-2026-10-20",
-    "title": "Google Cloud Outage Disrupts UK Banking and Web Services",
-    "description": "A widespread Google Cloud outage on October 20th caused service interruptions for UK banks and popular websites, highlighting the sector’s reliance on cloud infrastructure.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "A widespread Google Cloud outage on October 20th caused service interruptions for UK banks and popular websites, highlighting the sector’s reliance on cloud infrastructure.",
-    "page": "articles/google-cloud-outage-disrupts-uk-banking-and-web-services-2026-10-20.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/google-cloud-outage-uk-banks-revolut-10929524/"
     ]
   }
 ]
