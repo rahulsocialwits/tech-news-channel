@@ -1,5 +1,24 @@
 [
   {
+    "id": "home-server-ebook-sync-one-user-s-diy-library-solution-2026-10-26",
+    "title": "Home‑Server Ebook Sync: One User’s DIY Library Solution",
+    "description": "A tech enthusiast demonstrates how to sync an entire ebook collection across five devices using a home server, offering a practical alternative to commercial cloud services.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "A tech enthusiast demonstrates how to sync an entire ebook collection across five devices using a home server, offering a practical alternative to commercial cloud services.",
+    "page": "articles/home-server-ebook-sync-one-user-s-diy-library-solution-2026-10-26.html",
+    "source_urls": [
+      "https://www.xda-developers.com/someone-got-their-whole-ebook-library-synced-across-five-devices-and-im-jealous/",
+      "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+    ]
+  },
+  {
     "id": "anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26",
     "title": "Anthropic Blocks Claude from Reverse‑Engineering Smart TVs",
     "description": "Anthropic has halted attempts by its Claude model to reverse‑engineer smart TV firmware, citing policy concerns.",
@@ -1781,24 +1800,6 @@
     "page": "articles/chinese-hacker-deploys-ai-agents-to-breach-over-100-company-websites-2026-10-20.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
-    ]
-  },
-  {
-    "id": "us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20",
-    "title": "US Bans Chinese AI DeepSeek from Federal Agency IT Systems",
-    "description": "The Department of Homeland Security has prohibited the use of the Chinese AI platform DeepSeek on all federal agency websites to mitigate potential security risks.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "The Department of Homeland Security has prohibited the use of the Chinese AI platform DeepSeek on all federal agency websites to mitigate potential security risks.",
-    "page": "articles/us-bans-chinese-ai-deepseek-from-federal-agency-it-systems-2026-10-20.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article71603294.ece"
     ]
   }
 ]
