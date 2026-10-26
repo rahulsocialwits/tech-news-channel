@@ -1,5 +1,23 @@
 [
   {
+    "id": "scientists-trap-antimatter-particle-for-months-to-unlock-its-secrets-2026-10-26",
+    "title": "Scientists Trap Antimatter Particle for Months to Unlock Its Secrets",
+    "description": "A new method lets researchers hold an antimatter particle in a trap for months, opening the door to precision tests of matter–antimatter differences.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "A new method lets researchers hold an antimatter particle in a trap for months, opening the door to precision tests of matter–antimatter differences.",
+    "page": "articles/scientists-trap-antimatter-particle-for-months-to-unlock-its-secrets-2026-10-26.html",
+    "source_urls": [
+      "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
+    ]
+  },
+  {
     "id": "atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25",
     "title": "Atuin Lets Developers Sync Terminal History Across PCs",
     "description": "A free tool called Atuin syncs command‑line history between computers, helping developers keep track of commands they use on multiple machines.",
@@ -1780,24 +1798,6 @@
     "page": "articles/power-bank-bargains-october-2026-s-best-deals-for-laptops-magsafe-and-more-2026-10-20.html",
     "source_urls": [
       "https://www.wired.com/story/power-bank-deals-october-2026/"
-    ]
-  },
-  {
-    "id": "nvidia-gpu-vbios-now-configurable-without-flashing-thanks-to-solo-developer-2026-10-20",
-    "title": "Nvidia GPU vBIOS Now Configurable Without Flashing, Thanks to Solo Developer",
-    "description": "A new tool lets users tweak Nvidia RTX GPU settings on the fly, eliminating the risk of bricking the card.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "A new tool lets users tweak Nvidia RTX GPU settings on the fly, eliminating the risk of bricking the card.",
-    "page": "articles/nvidia-gpu-vbios-now-configurable-without-flashing-thanks-to-solo-developer-2026-10-20.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration"
     ]
   }
 ]
