@@ -1,5 +1,23 @@
 [
   {
+    "id": "ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26",
+    "title": "iFixit Teardown Reveals Why iPhone Duo Screens Crack",
+    "description": "iFixit’s detailed teardown of Apple’s foldable iPhone Duo shows how the complex hinge and display design can lead to cracked screens.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-26",
+    "readTime": "3 min read",
+    "excerpt": "iFixit’s detailed teardown of Apple’s foldable iPhone Duo shows how the complex hinge and display design can lead to cracked screens.",
+    "page": "articles/ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/"
+    ]
+  },
+  {
     "id": "akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26",
     "title": "Akamai’s 515‑Million‑Attack Block Boosts Scalefusion’s Global SaaS Growth",
     "description": "Akamai’s security platform stopped over 515 million attacks in 90 days, helping Scalefusion protect millions of devices and maintain 99.95% uptime.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-cloud-outage-disrupts-uk-banking-and-web-services-2026-10-20.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/google-cloud-outage-uk-banks-revolut-10929524/"
-    ]
-  },
-  {
-    "id": "google-home-speakers-reported-to-download-massive-data-in-background-2026-10-20",
-    "title": "Google Home Speakers Reported to Download Massive Data in Background",
-    "description": "New report reveals Google Home devices may be pulling large amounts of data without user knowledge, raising privacy concerns.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-20",
-    "readTime": "3 min read",
-    "excerpt": "New report reveals Google Home devices may be pulling large amounts of data without user knowledge, raising privacy concerns.",
-    "page": "articles/google-home-speakers-reported-to-download-massive-data-in-background-2026-10-20.html",
-    "source_urls": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE82RjVzY1FORTlFdDF6ZlVQcWRIaE1VNlBUeUQtdHVhWWctbVF0aWcwMW5XN0NleS1HX3dieXRqUzhqbmZvUW53YU1LVHpVNExPbWNmSzhzdVAyamFsTXpaM3A4Mi1ETlJyekUtOTZTVFRTdw?oc=5"
     ]
   }
 ]
