@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27",
+    "title": "Google Docs Finally Resolves Markdown Compatibility Issues",
+    "description": "Google Docs has fixed a long‑standing problem that prevented Markdown files from opening correctly, improving workflow for users who rely on the format.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Google Docs has fixed a long‑standing problem that prevented Markdown files from opening correctly, improving workflow for users who rely on the format.",
+    "page": "articles/google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-docs-markdown-support-3728330/"
+    ]
+  },
+  {
     "id": "hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27",
     "title": "HP’s Latex Wraps Open the Door to More Car Color Choices",
     "description": "HP partners with Ferrari to create customizable car wraps that expand color options and dealer services.",
@@ -1783,24 +1801,6 @@
     "source_urls": [
       "https://www.androidauthority.com/xgimi-aura-3-pro-max-projector-kickstarter-orders-live-3725842/",
       "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-aura-curve-5g-for-mid-segment-buyers-in-india/article71606589.ece"
-    ]
-  },
-  {
-    "id": "anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21",
-    "title": "Anthropic Proposes AI Safety Bill That Could Block Models If 50 Lives at Risk",
-    "description": "Anthropic’s new policy would require a judge’s approval before federal agencies can block an AI model that could kill 50 or more people.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic’s new policy would require a judge’s approval before federal agencies can block an AI model that could kill 50 or more people.",
-    "page": "articles/anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
     ]
   }
 ]
