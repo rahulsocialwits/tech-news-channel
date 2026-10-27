@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27",
+    "title": "Apple Unveils Slimmer iPad Mini with 8.5‑inch OLED Display",
+    "description": "Apple’s new iPad Mini is thinner, lighter and sports a larger OLED screen, marking a significant design shift for the popular tablet.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s new iPad Mini is thinner, lighter and sports a larger OLED screen, marking a significant design shift for the popular tablet.",
+    "page": "articles/apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/apple-unveils-new-ipad-mini-with-thinner-design/article71630115.ece"
+    ]
+  },
+  {
     "id": "grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27",
     "title": "Grok’s AI-Generated ‘The Odyssey’ Admits Historical Inaccuracy",
     "description": "The AI model Grok acknowledges its rendition of Homer’s epic falls short of historical accuracy, following Elon Musk’s earlier claims of superiority.",
@@ -1782,24 +1800,6 @@
     "page": "articles/ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21.html",
     "source_urls": [
       "https://www.technewsworld.com/story/ai-customer-service-should-fix-the-problem-or-hand-it-to-a-human-180684.html?rss=1"
-    ]
-  },
-  {
-    "id": "android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21",
-    "title": "Android 17 Beta 3 Locks Quick‑Settings Toggles to Strengthen Lock‑Screen Security",
-    "description": "Google’s latest Android 17 beta patch now lets users lock Wi‑Fi, Bluetooth, Mobile Data and Airplane Mode toggles on the lock screen, addressing a major security flaw.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Google’s latest Android 17 beta patch now lets users lock Wi‑Fi, Bluetooth, Mobile Data and Airplane Mode toggles on the lock screen, addressing a major security flaw.",
-    "page": "articles/android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21.html",
-    "source_urls": [
-      "https://www.androidauthority.com/android-17-qpr-3-beta-2-lock-quick-settings-tiles-3725896/"
     ]
   }
 ]
