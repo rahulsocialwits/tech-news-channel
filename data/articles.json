@@ -1,5 +1,23 @@
 [
   {
+    "id": "grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27",
+    "title": "Grok’s AI-Generated ‘The Odyssey’ Admits Historical Inaccuracy",
+    "description": "The AI model Grok acknowledges its rendition of Homer’s epic falls short of historical accuracy, following Elon Musk’s earlier claims of superiority.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "The AI model Grok acknowledges its rendition of Homer’s epic falls short of historical accuracy, following Elon Musk’s earlier claims of superiority.",
+    "page": "articles/grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27.html",
+    "source_urls": [
+      "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"
+    ]
+  },
+  {
     "id": "google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27",
     "title": "Google Docs Finally Resolves Markdown Compatibility Issues",
     "description": "Google Docs has fixed a long‑standing problem that prevented Markdown files from opening correctly, improving workflow for users who rely on the format.",
@@ -1782,25 +1800,6 @@
     "page": "articles/android-17-beta-3-locks-quick-settings-toggles-to-strengthen-lock-screen-security-2026-10-21.html",
     "source_urls": [
       "https://www.androidauthority.com/android-17-qpr-3-beta-2-lock-quick-settings-tiles-3725896/"
-    ]
-  },
-  {
-    "id": "xgimi-and-lava-unveil-next-gen-projectors-and-5g-smart-tvs-for-the-home-2026-10-21",
-    "title": "XGIMI and Lava Unveil Next‑Gen Projectors and 5G Smart TVs for the Home",
-    "description": "XGIMI launches its Aura 3 Pro and Max 4K projectors on Kickstarter, while Lava introduces the Aura Curve 5G TV with a 6,000‑mAh battery and 45W charging support.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "4 min read",
-    "excerpt": "XGIMI launches its Aura 3 Pro and Max 4K projectors on Kickstarter, while Lava introduces the Aura Curve 5G TV with a 6,000‑mAh battery and 45W charging support.",
-    "page": "articles/xgimi-and-lava-unveil-next-gen-projectors-and-5g-smart-tvs-for-the-home-2026-10-21.html",
-    "source_urls": [
-      "https://www.androidauthority.com/xgimi-aura-3-pro-max-projector-kickstarter-orders-live-3725842/",
-      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-aura-curve-5g-for-mid-segment-buyers-in-india/article71606589.ece"
     ]
   }
 ]
