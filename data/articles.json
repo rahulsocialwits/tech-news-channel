@@ -1,5 +1,22 @@
 [
   {
+    "id": "tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27",
+    "title": "TSMC Considers Up to 20% CoWoS Price Hike Amid Nvidia Demand Surge",
+    "description": "TSMC may raise CoWoS advanced packaging costs by 20% as Nvidia’s Blackwell and Rubin chips strain capacity, with equipment lead times stretching to eight months.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "TSMC may raise CoWoS advanced packaging costs by 20% as Nvidia’s Blackwell and Rubin chips strain capacity, with equipment lead times stretching to eight months.",
+    "page": "articles/tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months"
+    ]
+  },
+  {
     "id": "ford-unveils-fathom-the-cheapest-american-ev-that-can-power-your-home-2026-10-27",
     "title": "Ford Unveils Fathom, the Cheapest American EV That Can Power Your Home",
     "description": "Ford’s new Fathom electric vehicle offers V2X capability, allowing it to supply power to homes and the grid at an unprecedented low price.",
@@ -1783,24 +1800,6 @@
     "page": "articles/intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028"
-    ]
-  },
-  {
-    "id": "openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21",
-    "title": "OpenAI GPT Models to Power Google Cloud and Antigravity Services",
-    "description": "OpenAI’s GPT models will soon be available on Google Cloud, expanding AI capabilities for developers and enterprises.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI’s GPT models will soon be available on Google Cloud, expanding AI capabilities for developers and enterprises.",
-    "page": "articles/openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/"
     ]
   }
 ]
