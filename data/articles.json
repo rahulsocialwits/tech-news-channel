@@ -1,5 +1,23 @@
 [
   {
+    "id": "ford-unveils-fathom-the-cheapest-american-ev-that-can-power-your-home-2026-10-27",
+    "title": "Ford Unveils Fathom, the Cheapest American EV That Can Power Your Home",
+    "description": "Ford’s new Fathom electric vehicle offers V2X capability, allowing it to supply power to homes and the grid at an unprecedented low price.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Ford’s new Fathom electric vehicle offers V2X capability, allowing it to supply power to homes and the grid at an unprecedented low price.",
+    "page": "articles/ford-unveils-fathom-the-cheapest-american-ev-that-can-power-your-home-2026-10-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
+    ]
+  },
+  {
     "id": "meta-ai-director-rohit-patel-leaves-to-launch-ndoc-a-new-office-suite-challenger-2026-10-27",
     "title": "Meta AI Director Rohit Patel Leaves to Launch Ndoc, a New Office Suite Challenger",
     "description": "Former Meta AI lead Rohit Patel exits to build Ndoc, a startup aiming to compete with Microsoft Office and Google Workspace.",
@@ -1783,24 +1801,6 @@
     "page": "articles/openai-gpt-models-to-power-google-cloud-and-antigravity-services-2026-10-21.html",
     "source_urls": [
       "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/"
-    ]
-  },
-  {
-    "id": "waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21",
-    "title": "Waymo Launches Autonomous Airport Rides at Las Vegas International",
-    "description": "Waymo begins offering self‑driving pickups and drop‑offs at Las Vegas airport terminals, expanding its autonomous mobility services.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Waymo begins offering self‑driving pickups and drop‑offs at Las Vegas airport terminals, expanding its autonomous mobility services.",
-    "page": "articles/waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/"
     ]
   }
 ]
