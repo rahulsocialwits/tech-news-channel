@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-photos-unveils-customizable-collections-tab-in-major-redesign-2026-10-27",
+    "title": "Google Photos Unveils Customizable Collections Tab in Major Redesign",
+    "description": "Google Photos rolls out a redesigned Collections tab that lets users personalize their photo organization on Android.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Google Photos rolls out a redesigned Collections tab that lets users personalize their photo organization on Android.",
+    "page": "articles/google-photos-unveils-customizable-collections-tab-in-major-redesign-2026-10-27.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/26/google-photos-collections-redesign/"
+    ]
+  },
+  {
     "id": "bedrock-robotics-secures-600-million-to-accelerate-autonomous-excavator-deployment-2026-10-26",
     "title": "Bedrock Robotics Secures $600 Million to Accelerate Autonomous Excavator Deployment",
     "description": "Bedrock Robotics raises $600 million in a Series C round, valuing the autonomous construction startup at $4.1 billion as it tackles operator shortages in the heavy‑equipment sector.",
@@ -1784,24 +1802,6 @@
     "page": "articles/tp-link-eyes-1-billion-u-s-wi-fi-router-manufacturing-deal-to-secure-wi-fi-8-availability-2026-10-21.html",
     "source_urls": [
       "https://www.tomshardware.com/networking/routers/tp-link-proposes-usd1-billion-us-wi-fi-router-manufacturing-alliance-with-key-tronic-potential-deal-seeks-to-end-ongoing-saga-blocking-its-wi-fi-8-products-from-american-homes"
-    ]
-  },
-  {
-    "id": "amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21",
-    "title": "AMD Unveils FSR 4.1 Upscaler for Older GPUs and Consoles",
-    "description": "AMD’s latest FSR 4.1 upscaling technology now supports Radeon RX 6000 series, Xbox Series X/S, and Ryzen AI chips, boosting performance with minimal cost.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "AMD’s latest FSR 4.1 upscaling technology now supports Radeon RX 6000 series, Xbox Series X/S, and Ryzen AI chips, boosting performance with minimal cost.",
-    "page": "articles/amd-unveils-fsr-4-1-upscaler-for-older-gpus-and-consoles-2026-10-21.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost"
     ]
   }
 ]
