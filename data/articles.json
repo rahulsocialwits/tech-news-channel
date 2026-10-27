@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-claims-breakthrough-exponential-time-hypothesis-proven-false-by-new-model-2026-10-27",
+    "title": "OpenAI Claims Breakthrough: Exponential Time Hypothesis Proven False by New Model",
+    "description": "OpenAI announced that its latest models generated a proof that the Exponential Time Hypothesis is false, marking a milestone in theoretical computer science.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI announced that its latest models generated a proof that the Exponential Time Hypothesis is false, marking a milestone in theoretical computer science.",
+    "page": "articles/openai-claims-breakthrough-exponential-time-hypothesis-proven-false-by-new-model-2026-10-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+    ]
+  },
+  {
     "id": "jsaux-flipgo-dual-screen-portable-monitor-delivers-touch-enabled-displays-and-built-in-hub-2026-10-27",
     "title": "JSAUX FlipGo Dual‑Screen Portable Monitor Delivers Touch‑Enabled Displays and Built‑In Hub",
     "description": "The FlipGo offers two 16‑inch touch screens, a USB hub, and a sleek design for mobile productivity.",
@@ -1782,24 +1800,6 @@
     "page": "articles/two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21.html",
     "source_urls": [
       "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
-    ]
-  },
-  {
-    "id": "google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21",
-    "title": "Google’s TorchTPU Brings PyTorch to Its AI Chips with Minimal Code Changes",
-    "description": "Google introduces TorchTPU, a tool that lets developers run PyTorch workloads on its AI chips without extensive code rewrites, easing cloud provider integration.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Google introduces TorchTPU, a tool that lets developers run PyTorch workloads on its AI chips without extensive code rewrites, easing cloud provider integration.",
-    "page": "articles/google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/after-amazon-google-targets-nvidias-software-lock-in-with-torchtpu/article71606450.ece"
     ]
   }
 ]
