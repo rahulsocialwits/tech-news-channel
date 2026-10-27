@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27",
+    "title": "Apple Unveils iOS 27.2, Adding New Siri Languages and Security Fixes",
+    "description": "Apple’s latest iOS 27.2 update expands Siri’s language support and patches critical security issues for iPhones and iPads.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest iOS 27.2 update expands Siri’s language support and patches critical security issues for iPhones and iPads.",
+    "page": "articles/apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+    ]
+  },
+  {
     "id": "banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27",
     "title": "Banks Tighten Controls on AI Agents Amid Account‑Security Concerns",
     "description": "Major banks are limiting AI agent access to customer accounts as they weigh security risks and regulatory scrutiny.",
@@ -1783,24 +1801,6 @@
     "page": "articles/nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21.html",
     "source_urls": [
       "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
-    ]
-  },
-  {
-    "id": "critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21",
-    "title": "Critical PHP Vulnerabilities Threaten Millions of Websites",
-    "description": "Two severe PHP flaws could expose millions of sites to remote code execution and data theft if not patched promptly.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Two severe PHP flaws could expose millions of sites to remote code execution and data theft if not patched promptly.",
-    "page": "articles/critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21.html",
-    "source_urls": [
-      "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
     ]
   }
 ]
