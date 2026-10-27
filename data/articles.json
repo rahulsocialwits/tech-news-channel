@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-s-new-dots-assistant-turns-coding-tools-into-always-on-personal-helpers-2026-10-27",
+    "title": "OpenAI’s New ‘Dots’ Assistant Turns Coding Tools Into Always‑On Personal Helpers",
+    "description": "OpenAI has rebranded its coding tools as ‘dots’, creating an always‑on personal assistant that integrates with developers’ workflows.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI has rebranded its coding tools as ‘dots’, creating an always‑on personal assistant that integrates with developers’ workflows.",
+    "page": "articles/openai-s-new-dots-assistant-turns-coding-tools-into-always-on-personal-helpers-2026-10-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    ]
+  },
+  {
     "id": "google-photos-unveils-customizable-collections-tab-in-major-redesign-2026-10-27",
     "title": "Google Photos Unveils Customizable Collections Tab in Major Redesign",
     "description": "Google Photos rolls out a redesigned Collections tab that lets users personalize their photo organization on Android.",
@@ -1784,24 +1802,6 @@
     "page": "articles/php-maintainers-warn-of-two-imminent-emergency-security-patches-2026-10-21.html",
     "source_urls": [
       "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
-    ]
-  },
-  {
-    "id": "tp-link-eyes-1-billion-u-s-wi-fi-router-manufacturing-deal-to-secure-wi-fi-8-availability-2026-10-21",
-    "title": "TP‑Link Eyes $1 Billion U.S. Wi‑Fi Router Manufacturing Deal to Secure Wi‑Fi 8 Availability",
-    "description": "TP‑Link proposes a $1 billion partnership with Key Tronic to streamline U.S. Wi‑Fi 8 router production and meet FCC approval.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "TP‑Link proposes a $1 billion partnership with Key Tronic to streamline U.S. Wi‑Fi 8 router production and meet FCC approval.",
-    "page": "articles/tp-link-eyes-1-billion-u-s-wi-fi-router-manufacturing-deal-to-secure-wi-fi-8-availability-2026-10-21.html",
-    "source_urls": [
-      "https://www.tomshardware.com/networking/routers/tp-link-proposes-usd1-billion-us-wi-fi-router-manufacturing-alliance-with-key-tronic-potential-deal-seeks-to-end-ongoing-saga-blocking-its-wi-fi-8-products-from-american-homes"
     ]
   }
 ]
