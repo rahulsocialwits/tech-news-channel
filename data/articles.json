@@ -1,5 +1,23 @@
 [
   {
+    "id": "banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27",
+    "title": "Banks Tighten Controls on AI Agents Amid Account‑Security Concerns",
+    "description": "Major banks are limiting AI agent access to customer accounts as they weigh security risks and regulatory scrutiny.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Major banks are limiting AI agent access to customer accounts as they weigh security risks and regulatory scrutiny.",
+    "page": "articles/banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
+    ]
+  },
+  {
     "id": "intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27",
     "title": "Intel’s APX Extension Promises Windows 11 Performance Boost",
     "description": "Intel’s Advanced Performance Extensions (APX) could give Windows 11 users a noticeable speed lift, according to Microsoft’s early testing.",
@@ -1783,24 +1801,6 @@
     "page": "articles/critical-php-vulnerabilities-threaten-millions-of-websites-2026-10-21.html",
     "source_urls": [
       "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
-    ]
-  },
-  {
-    "id": "spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21",
-    "title": "SpaceX’s Starlink Clears Regulatory Hurdle to Become Mobile Carrier",
-    "description": "SpaceX’s Starlink has received regulatory approval to operate as a mobile carrier, opening a new frontier for satellite‑based wireless service.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "SpaceX’s Starlink has received regulatory approval to operate as a mobile carrier, opening a new frontier for satellite‑based wireless service.",
-    "page": "articles/spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/spacexs-starlink-clears-hurdle-to-becoming-mobile-carrier-180687.html?rss=1"
     ]
   }
 ]
