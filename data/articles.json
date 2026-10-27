@@ -1,5 +1,23 @@
 [
   {
+    "id": "jsaux-flipgo-dual-screen-portable-monitor-delivers-touch-enabled-displays-and-built-in-hub-2026-10-27",
+    "title": "JSAUX FlipGo Dual‑Screen Portable Monitor Delivers Touch‑Enabled Displays and Built‑In Hub",
+    "description": "The FlipGo offers two 16‑inch touch screens, a USB hub, and a sleek design for mobile productivity.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "The FlipGo offers two 16‑inch touch screens, a USB hub, and a sleek design for mobile productivity.",
+    "page": "articles/jsaux-flipgo-dual-screen-portable-monitor-delivers-touch-enabled-displays-and-built-in-hub-2026-10-27.html",
+    "source_urls": [
+      "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review"
+    ]
+  },
+  {
     "id": "apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27",
     "title": "Apple Unveils Slimmer iPad Mini with 8.5‑inch OLED Display",
     "description": "Apple’s new iPad Mini is thinner, lighter and sports a larger OLED screen, marking a significant design shift for the popular tablet.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-s-torchtpu-brings-pytorch-to-its-ai-chips-with-minimal-code-changes-2026-10-21.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/after-amazon-google-targets-nvidias-software-lock-in-with-torchtpu/article71606450.ece"
-    ]
-  },
-  {
-    "id": "ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21",
-    "title": "AI Customer Service: When to Fix Automatically and When to Escalate",
-    "description": "A new study shows customers prefer AI fixes when simple, but want human help for complex issues, highlighting the need for hybrid support models.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "A new study shows customers prefer AI fixes when simple, but want human help for complex issues, highlighting the need for hybrid support models.",
-    "page": "articles/ai-customer-service-when-to-fix-automatically-and-when-to-escalate-2026-10-21.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/ai-customer-service-should-fix-the-problem-or-hand-it-to-a-human-180684.html?rss=1"
     ]
   }
 ]
