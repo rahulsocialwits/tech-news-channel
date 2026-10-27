@@ -1,5 +1,23 @@
 [
   {
+    "id": "intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27",
+    "title": "Intel’s APX Extension Promises Windows 11 Performance Boost",
+    "description": "Intel’s Advanced Performance Extensions (APX) could give Windows 11 users a noticeable speed lift, according to Microsoft’s early testing.",
+    "category": "Software",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Intel’s Advanced Performance Extensions (APX) could give Windows 11 users a noticeable speed lift, according to Microsoft’s early testing.",
+    "page": "articles/intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27.html",
+    "source_urls": [
+      "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus"
+    ]
+  },
+  {
     "id": "nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27",
     "title": "Nvidia Invests in Indian Startup Simplismart to Cut GPU Demand for AI Workloads",
     "description": "Nvidia’s latest funding round backs Simplismart, a Bengaluru‑based company that claims to reduce the GPU count needed for running AI models, boosting efficiency for enterprises worldwide.",
@@ -1783,24 +1801,6 @@
     "page": "articles/spacex-s-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-21.html",
     "source_urls": [
       "https://www.technewsworld.com/story/spacexs-starlink-clears-hurdle-to-becoming-mobile-carrier-180687.html?rss=1"
-    ]
-  },
-  {
-    "id": "mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21",
-    "title": "Mach9 Secures $34 Million to Power AI‑Driven CAD Platform",
-    "description": "Startup Mach9 raises $34 million after pivoting from surveying hardware to AI‑enabled computer‑aided design software.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Startup Mach9 raises $34 million after pivoting from surveying hardware to AI‑enabled computer‑aided design software.",
-    "page": "articles/mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
     ]
   }
 ]
