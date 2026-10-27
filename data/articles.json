@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-ai-director-rohit-patel-leaves-to-launch-ndoc-a-new-office-suite-challenger-2026-10-27",
+    "title": "Meta AI Director Rohit Patel Leaves to Launch Ndoc, a New Office Suite Challenger",
+    "description": "Former Meta AI lead Rohit Patel exits to build Ndoc, a startup aiming to compete with Microsoft Office and Google Workspace.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Former Meta AI lead Rohit Patel exits to build Ndoc, a startup aiming to compete with Microsoft Office and Google Workspace.",
+    "page": "articles/meta-ai-director-rohit-patel-leaves-to-launch-ndoc-a-new-office-suite-challenger-2026-10-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    ]
+  },
+  {
     "id": "apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27",
     "title": "Apple Unveils iOS 27.2, Adding New Siri Languages and Security Fixes",
     "description": "Apple’s latest iOS 27.2 update expands Siri’s language support and patches critical security issues for iPhones and iPads.",
@@ -1783,24 +1801,6 @@
     "page": "articles/waymo-launches-autonomous-airport-rides-at-las-vegas-international-2026-10-21.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/"
-    ]
-  },
-  {
-    "id": "nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21",
-    "title": "Nvidia Unveils Plug‑In DSX Pod to Accelerate Europe’s AI Infrastructure",
-    "description": "Nvidia’s new DSX Pod plug‑in data center aims to close Europe’s AI compute gap, announced at GTC Berlin.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s new DSX Pod plug‑in data center aims to close Europe’s AI compute gap, announced at GTC Berlin.",
-    "page": "articles/nvidia-unveils-plug-in-dsx-pod-to-accelerate-europe-s-ai-infrastructure-2026-10-21.html",
-    "source_urls": [
-      "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
     ]
   }
 ]
