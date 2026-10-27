@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27",
+    "title": "Nvidia Invests in Indian Startup Simplismart to Cut GPU Demand for AI Workloads",
+    "description": "Nvidia’s latest funding round backs Simplismart, a Bengaluru‑based company that claims to reduce the GPU count needed for running AI models, boosting efficiency for enterprises worldwide.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s latest funding round backs Simplismart, a Bengaluru‑based company that claims to reduce the GPU count needed for running AI models, boosting efficiency for enterprises worldwide.",
+    "page": "articles/nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    ]
+  },
+  {
     "id": "openai-claims-breakthrough-exponential-time-hypothesis-proven-false-by-new-model-2026-10-27",
     "title": "OpenAI Claims Breakthrough: Exponential Time Hypothesis Proven False by New Model",
     "description": "OpenAI announced that its latest models generated a proof that the Exponential Time Hypothesis is false, marking a milestone in theoretical computer science.",
@@ -1783,23 +1801,6 @@
     "page": "articles/mach9-secures-34-million-to-power-ai-driven-cad-platform-2026-10-21.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
-    ]
-  },
-  {
-    "id": "two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21",
-    "title": "Two Internet Security Vulnerabilities Threaten Site Administrators",
-    "description": "Recent discoveries of severe web vulnerabilities are forcing administrators to act fast to protect their sites.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "Recent discoveries of severe web vulnerabilities are forcing administrators to act fast to protect their sites.",
-    "page": "articles/two-internet-security-vulnerabilities-threaten-site-administrators-2026-10-21.html",
-    "source_urls": [
-      "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
     ]
   }
 ]
