@@ -1,5 +1,22 @@
 [
   {
+    "id": "hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27",
+    "title": "HP’s Latex Wraps Open the Door to More Car Color Choices",
+    "description": "HP partners with Ferrari to create customizable car wraps that expand color options and dealer services.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-27",
+    "readTime": "3 min read",
+    "excerpt": "HP partners with Ferrari to create customizable car wraps that expand color options and dealer services.",
+    "page": "articles/hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/hps-latex-wraps-open-the-door-to-more-car-color-choices-180692.html?rss=1"
+    ]
+  },
+  {
     "id": "intel-s-raptor-lake-next-cpus-early-confirmation-from-internal-driver-and-shipping-manifes-2026-10-27",
     "title": "Intel’s Raptor Lake Next CPUs: Early Confirmation from Internal Driver and Shipping Manifest",
     "description": "Intel quietly confirms the next generation of Raptor Lake CPUs with internal driver data and early shipping manifests, hinting at imminent availability for LGA‑1700 users.",
@@ -1784,24 +1801,6 @@
     "page": "articles/anthropic-proposes-ai-safety-bill-that-could-block-models-if-50-lives-at-risk-2026-10-21.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-    ]
-  },
-  {
-    "id": "php-maintainers-urge-developers-to-brace-for-critical-security-patches-2026-10-21",
-    "title": "PHP Maintainers Urge Developers to Brace for Critical Security Patches",
-    "description": "PHP core team warns of imminent critical security updates, urging web developers to prepare for upcoming patches that could affect millions of sites.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-21",
-    "readTime": "3 min read",
-    "excerpt": "PHP core team warns of imminent critical security updates, urging web developers to prepare for upcoming patches that could affect millions of sites.",
-    "page": "articles/php-maintainers-urge-developers-to-brace-for-critical-security-patches-2026-10-21.html",
-    "source_urls": [
-      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5"
     ]
   }
 ]
