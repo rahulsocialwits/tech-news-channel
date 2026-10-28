@@ -1,5 +1,23 @@
 [
   {
+    "id": "xreal-aura-the-first-android-powered-wired-xr-headset-to-hit-the-market-2026-10-28",
+    "title": "Xreal Aura: The First Android‑Powered Wired XR Headset to Hit the Market",
+    "description": "Xreal Aura launches as a wired headset powered by Android XR, offering a new entry point for immersive experiences at $1,279.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Xreal Aura launches as a wired headset powered by Android XR, offering a new entry point for immersive experiences at $1,279.",
+    "page": "articles/xreal-aura-the-first-android-powered-wired-xr-headset-to-hit-the-market-2026-10-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
+    ]
+  },
+  {
     "id": "sony-unveils-transparent-playstation-5-controllers-that-let-you-peek-inside-2026-10-28",
     "title": "Sony Unveils Transparent PlayStation 5 Controllers That Let You Peek Inside",
     "description": "Sony’s new see‑through PS5 controllers showcase the console’s internal hardware, offering a fresh aesthetic and a glimpse into gaming tech.",
@@ -1784,24 +1802,6 @@
     "page": "articles/samsung-galaxy-tab-s10-fe-hits-record-low-price-on-amazon-2026-10-22.html",
     "source_urls": [
       "https://www.androidauthority.com/galaxy-tab-s10-fe-deal-3726877/"
-    ]
-  },
-  {
-    "id": "apple-mac-mini-m4-now-150-off-but-with-a-price-point-catch-2026-10-22",
-    "title": "Apple Mac Mini M4 Now $150 Off, but with a Price‑Point Catch",
-    "description": "Apple’s latest Mac Mini M4 is discounted by $150, yet its price remains higher than the original launch cost.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest Mac Mini M4 is discounted by $150, yet its price remains higher than the original launch cost.",
-    "page": "articles/apple-mac-mini-m4-now-150-off-but-with-a-price-point-catch-2026-10-22.html",
-    "source_urls": [
-      "https://www.wired.com/story/mac-mini-m4-deal-october-2026/"
     ]
   }
 ]
