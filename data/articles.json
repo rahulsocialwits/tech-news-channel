@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28",
+    "title": "Apple CarPlay Gets Two New Features in iOS 27.2",
+    "description": "Apple’s latest iOS update adds new CarPlay capabilities, enhancing navigation and media control for drivers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest iOS update adds new CarPlay capabilities, enhancing navigation and media control for drivers.",
+    "page": "articles/apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28.html",
+    "source_urls": [
+      "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/"
+    ]
+  },
+  {
     "id": "spacex-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-28",
     "title": "SpaceX Starlink Clears Regulatory Hurdle to Become Mobile Carrier",
     "description": "SpaceX’s Starlink has received regulatory clearance to operate as a mobile carrier, opening a new path for satellite‑based wireless competition in the U.S. market.",
@@ -1783,23 +1801,6 @@
     "page": "articles/tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
-    ]
-  },
-  {
-    "id": "musk-s-terafab-targets-mass-chip-production-with-asml-boost-2026-10-22",
-    "title": "Musk’s Terafab Targets Mass Chip Production with ASML Boost",
-    "description": "Elon Musk announced that ASML and other suppliers will expedite deliveries to his Terafab facility, aiming for high‑volume chip production by late 2028 to support Tesla and SpaceX AI compute needs.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Elon Musk announced that ASML and other suppliers will expedite deliveries to his Terafab facility, aiming for high‑volume chip production by late 2028 to support Tesla and SpaceX AI compute needs.",
-    "page": "articles/musk-s-terafab-targets-mass-chip-production-with-asml-boost-2026-10-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline"
     ]
   }
 ]
