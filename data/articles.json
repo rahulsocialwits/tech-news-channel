@@ -1,5 +1,24 @@
 [
   {
+    "id": "amazon-s-hidden-stake-in-anthropic-could-outpace-vcs-in-ipo-profits-2026-10-28",
+    "title": "Amazon’s Hidden Stake in Anthropic Could Outpace VCs in IPO Profits",
+    "description": "Amazon’s ownership in Anthropic, revealed by recent note conversions, may generate more IPO upside than venture capitalists, according to new filings and market analysis.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s ownership in Anthropic, revealed by recent note conversions, may generate more IPO upside than venture capitalists, according to new filings and market analysis.",
+    "page": "articles/amazon-s-hidden-stake-in-anthropic-could-outpace-vcs-in-ipo-profits-2026-10-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+    ]
+  },
+  {
     "id": "nationwide-php-vulnerability-forces-immediate-patching-nsa-urges-offline-measures-2026-10-28",
     "title": "Nationwide PHP Vulnerability Forces Immediate Patching, NSA Urges Offline Measures",
     "description": "The NSA warns that a widespread PHP flaw could let attackers hijack sites, urging organizations to patch or take systems offline.",
@@ -1782,24 +1801,6 @@
     "page": "articles/samsung-990-pro-4tb-ssd-slashes-price-making-high-capacity-storage-more-accessible-2026-10-22.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library"
-    ]
-  },
-  {
-    "id": "google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22",
-    "title": "Google Docs on Android Gets Docs Live Upgrade for Workspace Users",
-    "description": "Google Workspace users can now access Docs Live in the Android app, adding real‑time collaboration features to mobile documents.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Google Workspace users can now access Docs Live in the Android app, adding real‑time collaboration features to mobile documents.",
-    "page": "articles/google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-docs-android-docs-live-rollout-workspace-3726478/"
     ]
   }
 ]
