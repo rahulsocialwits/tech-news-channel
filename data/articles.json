@@ -1,5 +1,22 @@
 [
   {
+    "id": "jio-debuts-as-india-s-second-most-valuable-company-after-blockbuster-ipo-2026-10-28",
+    "title": "Jio Debuts as India’s Second‑Most Valuable Company After Blockbuster IPO",
+    "description": "Jio’s market debut sees shares surge 21%, positioning it as India’s second‑most valuable listed company behind Reliance Industries.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Jio’s market debut sees shares surge 21%, positioning it as India’s second‑most valuable listed company behind Reliance Industries.",
+    "page": "articles/jio-debuts-as-india-s-second-most-valuable-company-after-blockbuster-ipo-2026-10-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
+    ]
+  },
+  {
     "id": "manufacturing-s-next-frontier-industrial-intelligence-drives-smart-factories-2026-10-28",
     "title": "Manufacturing’s Next Frontier: Industrial Intelligence Drives Smart Factories",
     "description": "Manufacturers are turning to industrial intelligence to capture tacit knowledge, improve efficiency, and stay competitive in a rapidly evolving market.",
@@ -1784,24 +1801,6 @@
     "page": "articles/tor-exit-node-hijack-campaign-reveals-widespread-ssh-and-email-vulnerabilities-2026-10-22.html",
     "source_urls": [
       "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
-    ]
-  },
-  {
-    "id": "context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22",
-    "title": "Context‑Aware AI: The Next Frontier for Enterprise Automation",
-    "description": "Enterprise AI must understand business context to deliver reliable recommendations and automate tasks effectively.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Enterprise AI must understand business context to deliver reliable recommendations and automate tasks effectively.",
-    "page": "articles/context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
     ]
   }
 ]
