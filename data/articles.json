@@ -1,5 +1,23 @@
 [
   {
+    "id": "nationwide-php-vulnerability-forces-immediate-patching-nsa-urges-offline-measures-2026-10-28",
+    "title": "Nationwide PHP Vulnerability Forces Immediate Patching, NSA Urges Offline Measures",
+    "description": "The NSA warns that a widespread PHP flaw could let attackers hijack sites, urging organizations to patch or take systems offline.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "The NSA warns that a widespread PHP flaw could let attackers hijack sites, urging organizations to patch or take systems offline.",
+    "page": "articles/nationwide-php-vulnerability-forces-immediate-patching-nsa-urges-offline-measures-2026-10-28.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/internet-wide-threat-has-security-teams-scrambling-to-patch-php-180689.html?rss=1"
+    ]
+  },
+  {
     "id": "turn-your-old-kindle-into-a-smart-display-with-a-few-tweaks-2026-10-28",
     "title": "Turn Your Old Kindle Into a Smart Display With a Few Tweaks",
     "description": "A guide shows how to repurpose a discarded Kindle into a useful display for home automation and media control.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-docs-on-android-gets-docs-live-upgrade-for-workspace-users-2026-10-22.html",
     "source_urls": [
       "https://www.androidauthority.com/google-docs-android-docs-live-rollout-workspace-3726478/"
-    ]
-  },
-  {
-    "id": "inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22",
-    "title": "INMO GO3 Smart Glasses Bring Gemini AI and Privacy‑Focused Display to the Market",
-    "description": "The new INMO GO3 smart glasses combine a high‑resolution display with Google Gemini integration and a camera‑privacy feature, addressing two common smart‑glasses pain points.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "The new INMO GO3 smart glasses combine a high‑resolution display with Google Gemini integration and a camera‑privacy feature, addressing two common smart‑glasses pain points.",
-    "page": "articles/inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/"
     ]
   }
 ]
