@@ -1,5 +1,23 @@
 [
   {
+    "id": "slate-truck-s-missing-4wd-option-could-cost-enthusiasts-a-deal-2026-10-28",
+    "title": "Slate Truck’s Missing 4WD Option Could Cost Enthusiasts a Deal",
+    "description": "The Slate Truck’s lack of a 4WD option may turn off buyers who want off‑road capability, according to Engadget.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "The Slate Truck’s lack of a 4WD option may turn off buyers who want off‑road capability, according to Engadget.",
+    "page": "articles/slate-truck-s-missing-4wd-option-could-cost-enthusiasts-a-deal-2026-10-28.html",
+    "source_urls": [
+      "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/"
+    ]
+  },
+  {
     "id": "apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28",
     "title": "Apple CarPlay Gets Two New Features in iOS 27.2",
     "description": "Apple’s latest iOS update adds new CarPlay capabilities, enhancing navigation and media control for drivers.",
@@ -1783,24 +1801,6 @@
     "page": "articles/government-websites-face-security-key-leak-as-emudhra-certificates-compromised-2026-10-22.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/what-is-emudhra-web-security-key-leak/article71610041.ece"
-    ]
-  },
-  {
-    "id": "tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22",
-    "title": "Tesla Announces Cybercab Sales Amid Safety Probe",
-    "description": "Tesla will begin selling its autonomous Cybercab by year’s end, even as regulators review its safety compliance.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Tesla will begin selling its autonomous Cybercab by year’s end, even as regulators review its safety compliance.",
-    "page": "articles/tesla-announces-cybercab-sales-amid-safety-probe-2026-10-22.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
     ]
   }
 ]
