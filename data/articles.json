@@ -1,5 +1,23 @@
 [
   {
+    "id": "turn-your-old-kindle-into-a-smart-display-with-a-few-tweaks-2026-10-28",
+    "title": "Turn Your Old Kindle Into a Smart Display With a Few Tweaks",
+    "description": "A guide shows how to repurpose a discarded Kindle into a useful display for home automation and media control.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "A guide shows how to repurpose a discarded Kindle into a useful display for home automation and media control.",
+    "page": "articles/turn-your-old-kindle-into-a-smart-display-with-a-few-tweaks-2026-10-28.html",
+    "source_urls": [
+      "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/"
+    ]
+  },
+  {
     "id": "apple-unveils-m6-powered-imac-and-entry-level-macbook-pro-2026-10-28",
     "title": "Apple Unveils M6‑Powered iMac and Entry‑Level MacBook Pro",
     "description": "Apple refreshes its desktop and laptop lineup with the new M6 chip, adding Wi‑Fi 7 and Bluetooth 6 to the iMac and entry‑level MacBook Pro.",
@@ -1782,25 +1800,6 @@
     "page": "articles/inmo-go3-smart-glasses-bring-gemini-ai-and-privacy-focused-display-to-the-market-2026-10-22.html",
     "source_urls": [
       "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/"
-    ]
-  },
-  {
-    "id": "amazon-web-services-logs-widespread-php-exploit-attempts-ahead-of-patch-2026-10-22",
-    "title": "Amazon Web Services Logs Widespread PHP Exploit Attempts Ahead of Patch",
-    "description": "AWS detected attempts to exploit the PHP2Shell vulnerability days before the fix was released, prompting a security alert for sites running PHP.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "AWS detected attempts to exploit the PHP2Shell vulnerability days before the fix was released, prompting a security alert for sites running PHP.",
-    "page": "articles/amazon-web-services-logs-widespread-php-exploit-attempts-ahead-of-patch-2026-10-22.html",
-    "source_urls": [
-      "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "https://www.technewsworld.com/story/internet-wide-threat-has-security-teams-scrambling-to-patch-php-180689.html?rss=1"
     ]
   }
 ]
