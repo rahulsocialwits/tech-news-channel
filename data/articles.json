@@ -1,5 +1,24 @@
 [
   {
+    "id": "apple-unveils-m6-powered-imac-and-entry-level-macbook-pro-2026-10-28",
+    "title": "Apple Unveils M6‑Powered iMac and Entry‑Level MacBook Pro",
+    "description": "Apple refreshes its desktop and laptop lineup with the new M6 chip, adding Wi‑Fi 7 and Bluetooth 6 to the iMac and entry‑level MacBook Pro.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Apple refreshes its desktop and laptop lineup with the new M6 chip, adding Wi‑Fi 7 and Bluetooth 6 to the iMac and entry‑level MacBook Pro.",
+    "page": "articles/apple-unveils-m6-powered-imac-and-entry-level-macbook-pro-2026-10-28.html",
+    "source_urls": [
+      "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
+    ]
+  },
+  {
     "id": "tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27",
     "title": "TSMC Considers Up to 20% CoWoS Price Hike Amid Nvidia Demand Surge",
     "description": "TSMC may raise CoWoS advanced packaging costs by 20% as Nvidia’s Blackwell and Rubin chips strain capacity, with equipment lead times stretching to eight months.",
@@ -1782,24 +1801,6 @@
     "source_urls": [
       "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "https://www.technewsworld.com/story/internet-wide-threat-has-security-teams-scrambling-to-patch-php-180689.html?rss=1"
-    ]
-  },
-  {
-    "id": "intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22",
-    "title": "Intel Advances U.S. Chip Production with New Fab 62 Tools",
-    "description": "Intel has installed advanced production equipment at its Arizona Fab 62, marking a key step toward expanding U.S. semiconductor manufacturing capacity.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Semiconductors"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Intel has installed advanced production equipment at its Arizona Fab 62, marking a key step toward expanding U.S. semiconductor manufacturing capacity.",
-    "page": "articles/intel-advances-u-s-chip-production-with-new-fab-62-tools-2026-10-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028"
     ]
   }
 ]
