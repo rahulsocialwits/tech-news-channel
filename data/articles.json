@@ -1,5 +1,23 @@
 [
   {
+    "id": "manufacturing-s-next-frontier-industrial-intelligence-drives-smart-factories-2026-10-28",
+    "title": "Manufacturing’s Next Frontier: Industrial Intelligence Drives Smart Factories",
+    "description": "Manufacturers are turning to industrial intelligence to capture tacit knowledge, improve efficiency, and stay competitive in a rapidly evolving market.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Industrial Intelligence"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Manufacturers are turning to industrial intelligence to capture tacit knowledge, improve efficiency, and stay competitive in a rapidly evolving market.",
+    "page": "articles/manufacturing-s-next-frontier-industrial-intelligence-drives-smart-factories-2026-10-28.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+    ]
+  },
+  {
     "id": "google-unveils-genie-4-the-first-ai-world-model-that-generates-realistic-audio-2026-10-28",
     "title": "Google Unveils Genie 4, the First AI World Model That Generates Realistic Audio",
     "description": "Google’s new Genie 4 world model can create lifelike soundscapes, marking a milestone in immersive AI experiences.",
@@ -1784,24 +1802,6 @@
     "page": "articles/context-aware-ai-the-next-frontier-for-enterprise-automation-2026-10-22.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
-    ]
-  },
-  {
-    "id": "google-s-tpus-now-power-meta-s-ai-workloads-in-production-2026-10-22",
-    "title": "Google’s TPUs Now Power Meta’s AI Workloads in Production",
-    "description": "Google’s Tensor Processing Units are being deployed in Meta’s data centers, enabling native PyTorch inference and expanding open‑source AI infrastructure.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Tensor Processing Units are being deployed in Meta’s data centers, enabling native PyTorch inference and expanding open‑source AI infrastructure.",
-    "page": "articles/google-s-tpus-now-power-meta-s-ai-workloads-in-production-2026-10-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance"
     ]
   }
 ]
