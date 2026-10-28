@@ -1,5 +1,26 @@
 [
   {
+    "id": "apple-unveils-touchscreen-macbook-pro-bringing-a-new-era-to-laptop-design-2026-10-28",
+    "title": "Apple Unveils Touchscreen MacBook Pro, Bringing a New Era to Laptop Design",
+    "description": "Apple’s first touchscreen MacBook Pro debuts with a 14‑inch OLED display, a lighter chassis, and a new touch interface, marking a significant shift in laptop technology.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s first touchscreen MacBook Pro debuts with a 14‑inch OLED display, a lighter chassis, and a new touch interface, marking a significant shift in laptop technology.",
+    "page": "articles/apple-unveils-touchscreen-macbook-pro-bringing-a-new-era-to-laptop-design-2026-10-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
+      "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+    ]
+  },
+  {
     "id": "xreal-aura-the-first-android-powered-wired-xr-headset-to-hit-the-market-2026-10-28",
     "title": "Xreal Aura: The First Android‑Powered Wired XR Headset to Hit the Market",
     "description": "Xreal Aura launches as a wired headset powered by Android XR, offering a new entry point for immersive experiences at $1,279.",
@@ -1784,24 +1805,6 @@
     "page": "articles/oppo-unveils-find-x10-series-and-new-coloros-17-skin-in-india-2026-10-22.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-launches-find-x10-pro-max-find-x10-pad-mini-and-enco-x4-in-india/article71611355.ece"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-tab-s10-fe-hits-record-low-price-on-amazon-2026-10-22",
-    "title": "Samsung Galaxy Tab S10 FE Hits Record Low Price on Amazon",
-    "description": "Samsung’s Galaxy Tab S10 FE drops to $419.99 on Amazon, offering an S Pen, 10.9‑inch display and all‑day battery life for budget‑savvy tablet buyers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s Galaxy Tab S10 FE drops to $419.99 on Amazon, offering an S Pen, 10.9‑inch display and all‑day battery life for budget‑savvy tablet buyers.",
-    "page": "articles/samsung-galaxy-tab-s10-fe-hits-record-low-price-on-amazon-2026-10-22.html",
-    "source_urls": [
-      "https://www.androidauthority.com/galaxy-tab-s10-fe-deal-3726877/"
     ]
   }
 ]
