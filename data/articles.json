@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-expands-echo-line-with-new-photo-frame-bedside-clock-and-ai-enhanced-show-16-2026-10-28",
+    "title": "Amazon Expands Echo Line with New Photo Frame, Bedside Clock and AI‑Enhanced Show 16",
+    "description": "Amazon launches a photo‑display Echo Studio, a bedside clock Echo, and an AI‑generated interface for the Echo Show 16, broadening its smart‑home ecosystem.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Amazon launches a photo‑display Echo Studio, a bedside clock Echo, and an AI‑generated interface for the Echo Show 16, broadening its smart‑home ecosystem.",
+    "page": "articles/amazon-expands-echo-line-with-new-photo-frame-bedside-clock-and-ai-enhanced-show-16-2026-10-28.html",
+    "source_urls": [
+      "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
+    ]
+  },
+  {
     "id": "jio-debuts-as-india-s-second-most-valuable-company-after-blockbuster-ipo-2026-10-28",
     "title": "Jio Debuts as India’s Second‑Most Valuable Company After Blockbuster IPO",
     "description": "Jio’s market debut sees shares surge 21%, positioning it as India’s second‑most valuable listed company behind Reliance Industries.",
@@ -1783,24 +1801,6 @@
     "page": "articles/tesla-eyes-cybercab-sales-to-transport-companies-by-year-s-end-2026-10-22.html",
     "source_urls": [
       "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/"
-    ]
-  },
-  {
-    "id": "tor-exit-node-hijack-campaign-reveals-widespread-ssh-and-email-vulnerabilities-2026-10-22",
-    "title": "Tor Exit Node Hijack Campaign Reveals Widespread SSH and Email Vulnerabilities",
-    "description": "A month‑long attack on 333 Tor exit nodes exposed SSH traffic and plaintext emails, highlighting the need for stronger exit node security.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "A month‑long attack on 333 Tor exit nodes exposed SSH traffic and plaintext emails, highlighting the need for stronger exit node security.",
-    "page": "articles/tor-exit-node-hijack-campaign-reveals-widespread-ssh-and-email-vulnerabilities-2026-10-22.html",
-    "source_urls": [
-      "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
     ]
   }
 ]
