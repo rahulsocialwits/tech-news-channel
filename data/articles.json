@@ -1,5 +1,23 @@
 [
   {
+    "id": "sony-unveils-transparent-playstation-5-controllers-that-let-you-peek-inside-2026-10-28",
+    "title": "Sony Unveils Transparent PlayStation 5 Controllers That Let You Peek Inside",
+    "description": "Sony’s new see‑through PS5 controllers showcase the console’s internal hardware, offering a fresh aesthetic and a glimpse into gaming tech.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Sony’s new see‑through PS5 controllers showcase the console’s internal hardware, offering a fresh aesthetic and a glimpse into gaming tech.",
+    "page": "articles/sony-unveils-transparent-playstation-5-controllers-that-let-you-peek-inside-2026-10-28.html",
+    "source_urls": [
+      "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/"
+    ]
+  },
+  {
     "id": "amazon-unveils-echo-dot-6th-gen-with-built-in-smart-home-hub-2026-10-28",
     "title": "Amazon Unveils Echo Dot 6th Gen with Built‑In Smart Home Hub",
     "description": "Amazon’s latest Echo Dot adds a smart home hub, boosting home‑automation control but at a higher price point.",
@@ -1784,24 +1802,6 @@
     "page": "articles/apple-mac-mini-m4-now-150-off-but-with-a-price-point-catch-2026-10-22.html",
     "source_urls": [
       "https://www.wired.com/story/mac-mini-m4-deal-october-2026/"
-    ]
-  },
-  {
-    "id": "helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22",
-    "title": "Helion Secures $225 Million to Accelerate Fusion Power Plant Development",
-    "description": "Fusion startup Helion raises fresh capital to speed construction of its first commercial fusion power plant slated to supply Microsoft with electricity by 2028.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Fusion startup Helion raises fresh capital to speed construction of its first commercial fusion power plant slated to supply Microsoft with electricity by 2028.",
-    "page": "articles/helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/"
     ]
   }
 ]
