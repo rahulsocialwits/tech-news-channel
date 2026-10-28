@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-unveils-echo-dot-6th-gen-with-built-in-smart-home-hub-2026-10-28",
+    "title": "Amazon Unveils Echo Dot 6th Gen with Built‑In Smart Home Hub",
+    "description": "Amazon’s latest Echo Dot adds a smart home hub, boosting home‑automation control but at a higher price point.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-28",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s latest Echo Dot adds a smart home hub, boosting home‑automation control but at a higher price point.",
+    "page": "articles/amazon-unveils-echo-dot-6th-gen-with-built-in-smart-home-hub-2026-10-28.html",
+    "source_urls": [
+      "https://www.androidauthority.com/amazon-launches-echo-dot-6th-gen-3729112/"
+    ]
+  },
+  {
     "id": "amazon-leo-secures-fcc-approval-to-acquire-globalstar-in-11-5-b-deal-2026-10-28",
     "title": "Amazon Leo Secures FCC Approval to Acquire Globalstar in $11.5 B Deal",
     "description": "Amazon’s satellite arm, Amazon Leo, has received FCC clearance to buy Globalstar, expanding its mobile‑satellite services.",
@@ -1784,23 +1802,6 @@
     "page": "articles/helion-secures-225-million-to-accelerate-fusion-power-plant-development-2026-10-22.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/"
-    ]
-  },
-  {
-    "id": "tsmc-seeks-rare-earth-free-equipment-to-reduce-china-dependence-2026-10-22",
-    "title": "TSMC Seeks Rare‑Earth‑Free Equipment to Reduce China Dependence",
-    "description": "TSMC is asking suppliers for factory machinery that avoids Chinese rare‑earth magnets, aiming to cut exposure to critical minerals amid tightening export controls.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "TSMC is asking suppliers for factory machinery that avoids Chinese rare‑earth magnets, aiming to cut exposure to critical minerals amid tightening export controls.",
-    "page": "articles/tsmc-seeks-rare-earth-free-equipment-to-reduce-china-dependence-2026-10-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
     ]
   }
 ]
