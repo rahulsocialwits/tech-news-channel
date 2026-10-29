@@ -1,5 +1,23 @@
 [
   {
+    "id": "mintive-secures-multi-million-funding-to-simplify-enterprise-agent-management-2026-10-29",
+    "title": "Mintive Secures Multi‑Million Funding to Simplify Enterprise Agent Management",
+    "description": "Mintive, a startup founded by former Google Brain engineers, raises capital from Cowboy Ventures, Coatue and AI luminaries Jeff Dean and Andrej Karpathy to help businesses control AI agents.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Mintive, a startup founded by former Google Brain engineers, raises capital from Cowboy Ventures, Coatue and AI luminaries Jeff Dean and Andrej Karpathy to help businesses control AI agents.",
+    "page": "articles/mintive-secures-multi-million-funding-to-simplify-enterprise-agent-management-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
+    ]
+  },
+  {
     "id": "garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29",
     "title": "Garmin Messenger’s SMS Verification Leaves Users Vulnerable to Phone Number Reassignment",
     "description": "Garmin Messenger’s reliance on SMS verification risks privacy when phone numbers are recycled, warns Android Authority.",
@@ -1786,25 +1804,6 @@
     "page": "articles/quest-diagnostics-confirms-patient-data-breach-amid-growing-healthcare-cyber-threats-2026-10-23.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
-    ]
-  },
-  {
-    "id": "bybit-unveils-ai-powered-personal-finance-tools-as-indian-enterprises-gear-up-for-a-surge--2026-10-23",
-    "title": "Bybit Unveils AI‑Powered Personal Finance Tools as Indian Enterprises Gear Up for a Surge in AI Talent",
-    "description": "Bybit introduces AI personalization and memory features for its 80‑million‑user platform, while Indian firms predict a 88% rise in demand for AI engineers by 2030.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Bybit introduces AI personalization and memory features for its 80‑million‑user platform, while Indian firms predict a 88% rise in demand for AI engineers by 2030.",
-    "page": "articles/bybit-unveils-ai-powered-personal-finance-tools-as-indian-enterprises-gear-up-for-a-surge--2026-10-23.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/bybit-ai-empowers-users-with-their-personal-financial-edge-adding-personalization-and-memory/",
-      "https://indianexpress.com/article/technology/artificial-intelligence/forward-deployed-engineers-it-jobs-scaler-cmr-report-10933175/"
     ]
   }
 ]
