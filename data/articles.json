@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29",
+    "title": "Google Expands AI‑Powered Search Ads Worldwide as Core Ad Growth Slows",
+    "description": "Google is rolling out AI‑driven search advertising across all markets, a move that comes as the company’s core ad revenue growth decelerates.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Google is rolling out AI‑driven search advertising across all markets, a move that comes as the company’s core ad revenue growth decelerates.",
+    "page": "articles/google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    ]
+  },
+  {
     "id": "github-s-ai-generated-code-surge-demands-massive-infrastructure-overhaul-2026-10-29",
     "title": "GitHub’s AI‑Generated Code Surge Demands Massive Infrastructure Overhaul",
     "description": "GitHub reports a sixfold jump in AI‑generated code, prompting the addition of 4 million CPU cores and 160 PB of storage to keep pace.",
@@ -1788,23 +1806,6 @@
     "page": "articles/ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-10933862/"
-    ]
-  },
-  {
-    "id": "china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23",
-    "title": "China‑Aligned Hackers Deploy AI Agents in Massive ConnectWise Supply‑Chain Attack",
-    "description": "Microsoft reports China‑aligned Storm‑0940 used the ARTEX AI agent framework to breach over 2,250 Microsoft 365 tenants via ConnectWise Cloud Backup.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft reports China‑aligned Storm‑0940 used the ARTEX AI agent framework to breach over 2,250 Microsoft 365 tenants via ConnectWise Cloud Backup.",
-    "page": "articles/china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours"
     ]
   }
 ]
