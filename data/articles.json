@@ -1,5 +1,23 @@
 [
   {
+    "id": "malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29",
+    "title": "Malaysia Seizes $12 Million Worth of Advanced AI Chips at Kuala Lumpur Airport",
+    "description": "Customs officials in Malaysia uncovered 30 servers packed with high‑end AI chips worth over $12 million, sparking a probe into a suspected smuggling network.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Customs officials in Malaysia uncovered 30 servers packed with high‑end AI chips worth over $12 million, sparking a probe into a suspected smuggling network.",
+    "page": "articles/malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
+    ]
+  },
+  {
     "id": "upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29",
     "title": "Upwind Secures $400M Series C, Reaches $3.8B Valuation Without Selling to Datadog",
     "description": "Cloud security firm Upwind raises $400 million in a Series C round, valuing the company at $3.8 billion after declining a Datadog acquisition offer.",
@@ -1786,25 +1804,6 @@
     "page": "articles/samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-one-ui-9-5-beta-new-banner-3726991/"
-    ]
-  },
-  {
-    "id": "nintendo-switch-2-jailbreak-opens-door-to-homebrew-and-modding-community-2026-10-23",
-    "title": "Nintendo Switch 2 Jailbreak Opens Door to Homebrew and Modding Community",
-    "description": "A newly discovered jailbreak for the Nintendo Switch 2 exposes a vulnerability that could let users run homebrew software and modify games, raising security concerns for the console’s ecosystem.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "A newly discovered jailbreak for the Nintendo Switch 2 exposes a vulnerability that could let users run homebrew software and modify games, raising security concerns for the console’s ecosystem.",
-    "page": "articles/nintendo-switch-2-jailbreak-opens-door-to-homebrew-and-modding-community-2026-10-23.html",
-    "source_urls": [
-      "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-      "https://www.androidauthority.com/nintendo-switch-2-software-jailbreak-3727013/"
     ]
   }
 ]
