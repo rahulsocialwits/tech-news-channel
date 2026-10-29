@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29",
+    "title": "Google Unveils Gemini 4 Carbon AI Model Focused on Cybersecurity",
+    "description": "Google launches Gemini 4 Carbon, an AI model engineered to tackle complex cybersecurity and engineering tasks with enhanced efficiency.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Google launches Gemini 4 Carbon, an AI model engineered to tackle complex cybersecurity and engineering tasks with enhanced efficiency.",
+    "page": "articles/google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
+    ]
+  },
+  {
     "id": "malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29",
     "title": "Malaysia Seizes $12 Million Worth of Advanced AI Chips at Kuala Lumpur Airport",
     "description": "Customs officials in Malaysia uncovered 30 servers packed with high‑end AI chips worth over $12 million, sparking a probe into a suspected smuggling network.",
@@ -1786,24 +1804,6 @@
     "page": "articles/enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-    ]
-  },
-  {
-    "id": "samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23",
-    "title": "Samsung’s One UI 9.5 Beta Reveals Bold New Design Ahead of Full Release",
-    "description": "Samsung’s latest One UI 9.5 beta showcases a redesigned banner and hints at upcoming UI overhaul, signaling the company’s push to refresh its Android experience.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s latest One UI 9.5 beta showcases a redesigned banner and hints at upcoming UI overhaul, signaling the company’s push to refresh its Android experience.",
-    "page": "articles/samsung-s-one-ui-9-5-beta-reveals-bold-new-design-ahead-of-full-release-2026-10-23.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-one-ui-9-5-beta-new-banner-3726991/"
     ]
   }
 ]
