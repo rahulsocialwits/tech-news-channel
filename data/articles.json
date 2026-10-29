@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29",
+    "title": "Bluesky Blocks Links to Major DHS Employee Data Leak, Raising Privacy Concerns",
+    "description": "Social network Bluesky has blocked access to a leaked archive of 41,000 DHS employee records, citing privacy violations and unauthorized sharing of personal data.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Social network Bluesky has blocked access to a leaked archive of 41,000 DHS employee records, citing privacy violations and unauthorized sharing of personal data.",
+    "page": "articles/bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29.html",
+    "source_urls": [
+      "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
+    ]
+  },
+  {
     "id": "google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29",
     "title": "Google Unveils Gemini 4 Carbon AI Model Focused on Cybersecurity",
     "description": "Google launches Gemini 4 Carbon, an AI model engineered to tackle complex cybersecurity and engineering tasks with enhanced efficiency.",
@@ -1786,24 +1804,6 @@
     "page": "articles/stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment"
-    ]
-  },
-  {
-    "id": "enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23",
-    "title": "Enterprise AI Gains Edge with Robust Serving Infrastructure",
-    "description": "New research shows that building durable AI serving systems can outperform model size alone in real‑world deployments.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "New research shows that building durable AI serving systems can outperform model size alone in real‑world deployments.",
-    "page": "articles/enterprise-ai-gains-edge-with-robust-serving-infrastructure-2026-10-23.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
     ]
   }
 ]
