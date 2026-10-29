@@ -1,5 +1,23 @@
 [
   {
+    "id": "garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29",
+    "title": "Garmin Messenger’s SMS Verification Leaves Users Vulnerable to Phone Number Reassignment",
+    "description": "Garmin Messenger’s reliance on SMS verification risks privacy when phone numbers are recycled, warns Android Authority.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Garmin Messenger’s reliance on SMS verification risks privacy when phone numbers are recycled, warns Android Authority.",
+    "page": "articles/garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29.html",
+    "source_urls": [
+      "https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/"
+    ]
+  },
+  {
     "id": "deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29",
     "title": "Deepgram Expands Voice AI Stack with Daily Acquisition",
     "description": "Deepgram has announced the purchase of Daily, the maker of Pipecat, to strengthen its voice AI infrastructure and keep the platform open source.",
@@ -1787,25 +1805,6 @@
     "source_urls": [
       "https://indiatechnologynews.in/bybit-ai-empowers-users-with-their-personal-financial-edge-adding-personalization-and-memory/",
       "https://indianexpress.com/article/technology/artificial-intelligence/forward-deployed-engineers-it-jobs-scaler-cmr-report-10933175/"
-    ]
-  },
-  {
-    "id": "ai-generated-code-spurs-a-shift-toward-pre-execution-security-in-cyber-defense-2026-10-23",
-    "title": "AI‑Generated Code Spurs a Shift Toward Pre‑Execution Security in Cyber Defense",
-    "description": "Security teams are turning to pre‑execution analysis of AI‑generated code to reduce attack surface and cut investigation time.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Security teams are turning to pre‑execution analysis of AI‑generated code to reduce attack surface and cut investigation time.",
-    "page": "articles/ai-generated-code-spurs-a-shift-toward-pre-execution-security-in-cyber-defense-2026-10-23.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/ai-generated-code-strengthens-the-case-for-pre-execution-security-180686.html?rss=1",
-      "https://indiatechnologynews.in/81-of-security-teams-in-india-have-ai-related-skills-gaps-and-66-report-reduced-security-head-count-linked-to-ai-new-barracuda-research-study-reveals/"
     ]
   }
 ]
