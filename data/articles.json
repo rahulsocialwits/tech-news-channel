@@ -1,5 +1,23 @@
 [
   {
+    "id": "thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29",
+    "title": "ThermoWorks Unveils Compact RFX Meat Mini Probe for Small Cuts",
+    "description": "ThermoWorks releases a shorter version of its RFX Meat wireless probe, delivering the same performance in a more portable form factor.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "ThermoWorks releases a shorter version of its RFX Meat wireless probe, delivering the same performance in a more portable form factor.",
+    "page": "articles/thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29.html",
+    "source_urls": [
+      "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/"
+    ]
+  },
+  {
     "id": "wabi-raises-55-million-reaches-1-25-b-valuation-as-ai-personal-agent-grows-2026-10-29",
     "title": "Wabi Raises $55 Million, Reaches $1.25 B Valuation as AI Personal Agent Grows",
     "description": "AI startup Wabi secured a $55 million round, boosting its valuation to $1.25 billion and expanding its personal‑agent platform.",
@@ -1786,24 +1804,6 @@
     "page": "articles/free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23.html",
     "source_urls": [
       "https://www.xda-developers.com/stopped-uploading-sensitive-pdf-to-adobe-after-finding-free-self-hosted-tool/"
-    ]
-  },
-  {
-    "id": "daytona-raises-1-b-pledges-agent-centric-cloud-for-the-future-2026-10-23",
-    "title": "Daytona Raises $1 B, Pledges Agent‑Centric Cloud for the Future",
-    "description": "Daytona, a cloud startup backed by FirstMark and a roster of tech founders, has hit a $1 billion valuation, promising a new platform that gives every agent its own virtual computer.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Daytona, a cloud startup backed by FirstMark and a roster of tech founders, has hit a $1 billion valuation, promising a new platform that gives every agent its own virtual computer.",
-    "page": "articles/daytona-raises-1-b-pledges-agent-centric-cloud-for-the-future-2026-10-23.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
     ]
   }
 ]
