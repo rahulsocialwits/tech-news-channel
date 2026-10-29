@@ -1,5 +1,23 @@
 [
   {
+    "id": "upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29",
+    "title": "Upwind Secures $400M Series C, Reaches $3.8B Valuation Without Selling to Datadog",
+    "description": "Cloud security firm Upwind raises $400 million in a Series C round, valuing the company at $3.8 billion after declining a Datadog acquisition offer.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Cloud security firm Upwind raises $400 million in a Series C round, valuing the company at $3.8 billion after declining a Datadog acquisition offer.",
+    "page": "articles/upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+    ]
+  },
+  {
     "id": "apple-unveils-touchscreen-macbook-pro-bringing-a-new-era-to-laptop-design-2026-10-28",
     "title": "Apple Unveils Touchscreen MacBook Pro, Bringing a New Era to Laptop Design",
     "description": "Apple’s first touchscreen MacBook Pro debuts with a 14‑inch OLED display, a lighter chassis, and a new touch interface, marking a significant shift in laptop technology.",
@@ -1787,24 +1805,6 @@
     "source_urls": [
       "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
       "https://www.androidauthority.com/nintendo-switch-2-software-jailbreak-3727013/"
-    ]
-  },
-  {
-    "id": "oppo-unveils-find-x10-series-and-new-coloros-17-skin-in-india-2026-10-22",
-    "title": "Oppo Unveils Find X10 Series and New ColorOS 17 Skin in India",
-    "description": "Oppo launches the Find X10 Pro Max, Find X10, Pad Mini and Enco X4, introducing ColorOS 17 based on Android 17 in India.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-22",
-    "readTime": "3 min read",
-    "excerpt": "Oppo launches the Find X10 Pro Max, Find X10, Pad Mini and Enco X4, introducing ColorOS 17 based on Android 17 in India.",
-    "page": "articles/oppo-unveils-find-x10-series-and-new-coloros-17-skin-in-india-2026-10-22.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-launches-find-x10-pro-max-find-x10-pad-mini-and-enco-x4-in-india/article71611355.ece"
     ]
   }
 ]
