@@ -1,5 +1,23 @@
 [
   {
+    "id": "granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29",
+    "title": "Granola Adds Dictation to Its Meeting Notetaker, Challenging Wispr",
+    "description": "Granola expands its meeting‑note app with a new dictation feature, positioning itself against Wispr’s recent note‑taking enhancements.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Granola expands its meeting‑note app with a new dictation feature, positioning itself against Wispr’s recent note‑taking enhancements.",
+    "page": "articles/granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+    ]
+  },
+  {
     "id": "thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29",
     "title": "ThermoWorks Unveils Compact RFX Meat Mini Probe for Small Cuts",
     "description": "ThermoWorks releases a shorter version of its RFX Meat wireless probe, delivering the same performance in a more portable form factor.",
@@ -1786,24 +1804,6 @@
     "page": "articles/openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24.html",
     "source_urls": [
       "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
-    ]
-  },
-  {
-    "id": "free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23",
-    "title": "Free Self‑Hosted PDF Tool Gives Users Full Acrobat‑Like Functionality",
-    "description": "A new open‑source PDF solution lets users edit, sign and secure documents without monthly fees, according to XDA Developers.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "A new open‑source PDF solution lets users edit, sign and secure documents without monthly fees, according to XDA Developers.",
-    "page": "articles/free-self-hosted-pdf-tool-gives-users-full-acrobat-like-functionality-2026-10-23.html",
-    "source_urls": [
-      "https://www.xda-developers.com/stopped-uploading-sensitive-pdf-to-adobe-after-finding-free-self-hosted-tool/"
     ]
   }
 ]
