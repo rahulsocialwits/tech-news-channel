@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29",
+    "title": "Google’s Gemini 4 Carbon Sets New Benchmarks in AI Coding and Cybersecurity",
+    "description": "Google’s latest Gemini 4 Carbon model achieves top scores in coding and cybersecurity, signaling a leap forward for AI-powered development tools.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Gemini 4 Carbon model achieves top scores in coding and cybersecurity, signaling a leap forward for AI-powered development tools.",
+    "page": "articles/google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29.html",
+    "source_urls": [
+      "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
+    ]
+  },
+  {
     "id": "microsoft-reveals-azure-s-first-quarterly-revenue-in-dollars-nearing-aws-dominance-2026-10-29",
     "title": "Microsoft Reveals Azure’s First Quarterly Revenue in Dollars, Nearing AWS Dominance",
     "description": "Microsoft disclosed Azure’s quarterly revenue of $33.2 billion, bringing the cloud platform close to Amazon Web Services in market share.",
@@ -1786,24 +1804,6 @@
     "page": "articles/warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23.html",
     "source_urls": [
       "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/"
-    ]
-  },
-  {
-    "id": "dyson-s-2026-week-deals-offer-up-to-300-off-popular-vacuums-and-hair-tools-2026-10-23",
-    "title": "Dyson’s 2026 Week Deals Offer Up to $300 Off Popular Vacuums and Hair Tools",
-    "description": "Dyson is offering steep discounts on its V15 Detect vacuum and Airwrap hair tool during its October 2026 sales event, saving customers up to $300 on high‑end home and beauty tech.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Dyson is offering steep discounts on its V15 Detect vacuum and Airwrap hair tool during its October 2026 sales event, saving customers up to $300 on high‑end home and beauty tech.",
-    "page": "articles/dyson-s-2026-week-deals-offer-up-to-300-off-popular-vacuums-and-hair-tools-2026-10-23.html",
-    "source_urls": [
-      "https://www.wired.com/story/dyson-week-deals-oct-2026/"
     ]
   }
 ]
