@@ -1,5 +1,23 @@
 [
   {
+    "id": "deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29",
+    "title": "Deepgram Expands Voice AI Stack with Daily Acquisition",
+    "description": "Deepgram has announced the purchase of Daily, the maker of Pipecat, to strengthen its voice AI infrastructure and keep the platform open source.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Deepgram has announced the purchase of Daily, the maker of Pipecat, to strengthen its voice AI infrastructure and keep the platform open source.",
+    "page": "articles/deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+    ]
+  },
+  {
     "id": "google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29",
     "title": "Google Expands AI‑Powered Search Ads Worldwide as Core Ad Growth Slows",
     "description": "Google is rolling out AI‑driven search advertising across all markets, a move that comes as the company’s core ad revenue growth decelerates.",
@@ -1788,24 +1806,6 @@
     "source_urls": [
       "https://www.technewsworld.com/story/ai-generated-code-strengthens-the-case-for-pre-execution-security-180686.html?rss=1",
       "https://indiatechnologynews.in/81-of-security-teams-in-india-have-ai-related-skills-gaps-and-66-report-reduced-security-head-count-linked-to-ai-new-barracuda-research-study-reveals/"
-    ]
-  },
-  {
-    "id": "ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23",
-    "title": "AI‑Discovered Bugs Could Spark New Cybersecurity Threats, Experts Warn",
-    "description": "Cybersecurity specialists highlight risks of AI‑identified software bugs that may lead to future attacks.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Cybersecurity specialists highlight risks of AI‑identified software bugs that may lead to future attacks.",
-    "page": "articles/ai-discovered-bugs-could-spark-new-cybersecurity-threats-experts-warn-2026-10-23.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-10933862/"
     ]
   }
 ]
