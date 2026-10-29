@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-ai-platforms-must-align-or-risk-misaligned-outcomes-2026-10-29",
+    "title": "Enterprise AI Platforms Must Align or Risk Misaligned Outcomes",
+    "description": "A new MIT Technology Review piece warns that uncoordinated AI tools in business can produce wrong or confusing results, urging tighter integration across platforms.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "A new MIT Technology Review piece warns that uncoordinated AI tools in business can produce wrong or confusing results, urging tighter integration across platforms.",
+    "page": "articles/enterprise-ai-platforms-must-align-or-risk-misaligned-outcomes-2026-10-29.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+    ]
+  },
+  {
     "id": "apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29",
     "title": "Apple Unveils Touchscreen MacBook Pro, Pushing Laptop Prices to New Heights",
     "description": "Apple’s latest MacBook Pro features an OLED touchscreen and a price tag that could reach $14,549, marking the most expensive laptop ever released by the company.",
@@ -1786,24 +1804,6 @@
     "page": "articles/custom-resolutions-turn-microsoft-surface-laptop-ultra-into-a-strong-gaming-companion-2026-10-23.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device"
-    ]
-  },
-  {
-    "id": "samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23",
-    "title": "Samsung Unveils Next Foldable Phone Ahead of Market Release",
-    "description": "Samsung is set to launch its next foldable smartphone, slated for release on October 29, 2026, though availability may be limited in some regions.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Samsung is set to launch its next foldable smartphone, slated for release on October 29, 2026, though availability may be limited in some regions.",
-    "page": "articles/samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
     ]
   }
 ]
