@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29",
+    "title": "Microsoft’s Azure Growth Drives Q4 Beat Amid Workforce Buyouts",
+    "description": "Microsoft reported a quarterly earnings surprise, powered by its Azure cloud business, while offering voluntary buyouts to thousands of employees.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft reported a quarterly earnings surprise, powered by its Azure cloud business, while offering voluntary buyouts to thousands of employees.",
+    "page": "articles/microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
+    ]
+  },
+  {
     "id": "bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29",
     "title": "Bluesky Blocks Links to Major DHS Employee Data Leak, Raising Privacy Concerns",
     "description": "Social network Bluesky has blocked access to a leaked archive of 41,000 DHS employee records, citing privacy violations and unauthorized sharing of personal data.",
@@ -1786,24 +1804,6 @@
     "page": "articles/sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup"
-    ]
-  },
-  {
-    "id": "stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23",
-    "title": "Stolen Nvidia RTX 5090 GPUs Surface Online After Brazil Airport Heist",
-    "description": "Three airport employees stole a high‑value Nvidia RTX 5090 shipment, and one card has appeared for sale online, police say.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Three airport employees stole a high‑value Nvidia RTX 5090 shipment, and one card has appeared for sale online, police say.",
-    "page": "articles/stolen-nvidia-rtx-5090-gpus-surface-online-after-brazil-airport-heist-2026-10-23.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment"
     ]
   }
 ]
