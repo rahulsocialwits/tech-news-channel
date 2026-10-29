@@ -1,5 +1,24 @@
 [
   {
+    "id": "github-s-ai-generated-code-surge-demands-massive-infrastructure-overhaul-2026-10-29",
+    "title": "GitHub’s AI‑Generated Code Surge Demands Massive Infrastructure Overhaul",
+    "description": "GitHub reports a sixfold jump in AI‑generated code, prompting the addition of 4 million CPU cores and 160 PB of storage to keep pace.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "GitHub reports a sixfold jump in AI‑generated code, prompting the addition of 4 million CPU cores and 160 PB of storage to keep pace.",
+    "page": "articles/github-s-ai-generated-code-surge-demands-massive-infrastructure-overhaul-2026-10-29.html",
+    "source_urls": [
+      "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
+      "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    ]
+  },
+  {
     "id": "google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29",
     "title": "Google’s Gemini 4 Carbon Sets New Benchmarks in AI Coding and Cybersecurity",
     "description": "Google’s latest Gemini 4 Carbon model achieves top scores in coding and cybersecurity, signaling a leap forward for AI-powered development tools.",
@@ -1786,24 +1805,6 @@
     "page": "articles/china-aligned-hackers-deploy-ai-agents-in-massive-connectwise-supply-chain-attack-2026-10-23.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours"
-    ]
-  },
-  {
-    "id": "warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23",
-    "title": "Warhound’s Genetic Engineering of Dogs Sparks Debate Over Military Applications",
-    "description": "A startup is using CRISPR to modify dogs for military, law‑enforcement and first‑responder roles, raising ethical and operational questions.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "A startup is using CRISPR to modify dogs for military, law‑enforcement and first‑responder roles, raising ethical and operational questions.",
-    "page": "articles/warhound-s-genetic-engineering-of-dogs-sparks-debate-over-military-applications-2026-10-23.html",
-    "source_urls": [
-      "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/"
     ]
   }
 ]
