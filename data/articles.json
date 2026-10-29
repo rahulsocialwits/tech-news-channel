@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29",
+    "title": "Apple Unveils Touchscreen MacBook Pro, Pushing Laptop Prices to New Heights",
+    "description": "Apple’s latest MacBook Pro features an OLED touchscreen and a price tag that could reach $14,549, marking the most expensive laptop ever released by the company.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-29",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest MacBook Pro features an OLED touchscreen and a price tag that could reach $14,549, marking the most expensive laptop ever released by the company.",
+    "page": "articles/apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+    ]
+  },
+  {
     "id": "microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29",
     "title": "Microsoft’s Azure Growth Drives Q4 Beat Amid Workforce Buyouts",
     "description": "Microsoft reported a quarterly earnings surprise, powered by its Azure cloud business, while offering voluntary buyouts to thousands of employees.",
@@ -1786,24 +1804,6 @@
     "page": "articles/samsung-unveils-next-foldable-phone-ahead-of-market-release-2026-10-23.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/"
-    ]
-  },
-  {
-    "id": "sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23",
-    "title": "Sony Japan Declares Last Stand for 4K Blu‑Ray Players",
-    "description": "Sony Japan officially marks its final standalone 4K Blu‑Ray player as discontinued, ending a long line of home‑theater discs.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-23",
-    "readTime": "3 min read",
-    "excerpt": "Sony Japan officially marks its final standalone 4K Blu‑Ray player as discontinued, ending a long line of home‑theater discs.",
-    "page": "articles/sony-japan-declares-last-stand-for-4k-blu-ray-players-2026-10-23.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup"
     ]
   }
 ]
