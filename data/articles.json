@@ -1,5 +1,23 @@
 [
   {
+    "id": "windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30",
+    "title": "Windows 11 Gets Right‑Click Menu Fixes and Cloud Recovery in Latest Update",
+    "description": "Microsoft’s newest Windows 11 update resolves long‑standing right‑click issues and adds a cloud recovery option for PCs that won’t boot.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s newest Windows 11 update resolves long‑standing right‑click issues and adds a cloud recovery option for PCs that won’t boot.",
+    "page": "articles/windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+    ]
+  },
+  {
     "id": "reddit-s-shift-to-logged-in-only-browsing-sparks-user-backlash-2026-10-30",
     "title": "Reddit’s Shift to Logged‑In‑Only Browsing Sparks User Backlash",
     "description": "Reddit plans to require users to log in for all browsing, a move that has drawn criticism from the community and raised questions about privacy and user experience.",
@@ -1787,24 +1805,6 @@
     "page": "articles/razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24.html",
     "source_urls": [
       "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review"
-    ]
-  },
-  {
-    "id": "google-messages-launches-enhanced-protection-mode-to-fight-spam-and-scams-2026-10-24",
-    "title": "Google Messages Launches Enhanced Protection Mode to Fight Spam and Scams",
-    "description": "Google rolls out a new spam‑blocking feature in its Messages app, adding a protective layer for Android users.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Google rolls out a new spam‑blocking feature in its Messages app, adding a protective layer for Android users.",
-    "page": "articles/google-messages-launches-enhanced-protection-mode-to-fight-spam-and-scams-2026-10-24.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/"
     ]
   }
 ]
