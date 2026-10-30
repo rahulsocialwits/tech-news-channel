@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-gemini-s-strava-integration-brings-real-time-fitness-insights-2026-10-30",
+    "title": "Google Gemini’s Strava Integration Brings Real‑Time Fitness Insights",
+    "description": "Google Gemini now connects with Strava, offering personalized training data for runners and cyclists.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Google Gemini now connects with Strava, offering personalized training data for runners and cyclists.",
+    "page": "articles/google-gemini-s-strava-integration-brings-real-time-fitness-insights-2026-10-30.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-gemini-strava-integration-3729811/"
+    ]
+  },
+  {
     "id": "windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30",
     "title": "Windows 11 Gets Right‑Click Menu Fixes and Cloud Recovery in Latest Update",
     "description": "Microsoft’s newest Windows 11 update resolves long‑standing right‑click issues and adds a cloud recovery option for PCs that won’t boot.",
@@ -1787,24 +1805,6 @@
     "page": "articles/micron-unveils-g11-3d-nand-42-gb-mm2-density-and-5-400-mt-s-interface-speed-2026-10-24.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed"
-    ]
-  },
-  {
-    "id": "razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24",
-    "title": "Razer’s Basilisk V4 Pro: A Gaming Mouse That Keeps Up With the Latest Tech",
-    "description": "Razer’s Basilisk V4 Pro gaming mouse blends ergonomic design, a lightweight build and a high‑precision Focus Pro 50K sensor, offering gamers a refined experience for competitive play.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Razer’s Basilisk V4 Pro gaming mouse blends ergonomic design, a lightweight build and a high‑precision Focus Pro 50K sensor, offering gamers a refined experience for competitive play.",
-    "page": "articles/razer-s-basilisk-v4-pro-a-gaming-mouse-that-keeps-up-with-the-latest-tech-2026-10-24.html",
-    "source_urls": [
-      "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review"
     ]
   }
 ]
