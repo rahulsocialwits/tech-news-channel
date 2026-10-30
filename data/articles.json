@@ -1,5 +1,23 @@
 [
   {
+    "id": "runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30",
+    "title": "Runware’s Factory‑Line AI Data Centers Aim to Scale Up Machine Learning Infrastructure",
+    "description": "Runware is building a prefabricated AI data center factory that could deliver units in 48 hours, testing mass‑production of AI infrastructure.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Runware is building a prefabricated AI data center factory that could deliver units in 48 hours, testing mass‑production of AI infrastructure.",
+    "page": "articles/runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    ]
+  },
+  {
     "id": "north-korean-hackers-execute-6-3-billion-binance-heist-in-20-minutes-2026-10-30",
     "title": "North Korean Hackers Execute $6.3 Billion Binance Heist in 20 Minutes",
     "description": "A swift cyberattack by North Korean operatives stole billions of crypto from Binance, the world’s largest exchange, in a record 20‑minute breach.",
@@ -1786,24 +1804,6 @@
     "page": "articles/ltm-launches-blueverse-industrial-ai-lab-to-accelerate-enterprise-ai-adoption-2026-10-24.html",
     "source_urls": [
       "https://indiatechnologynews.in/ltm-launches-blueverse-industrial-ai-lab-in-chennai-helping-enterprises-scale-ai-across-physical-operations-and-intelligent-products/"
-    ]
-  },
-  {
-    "id": "mars-1-000-mile-cloud-could-unlock-new-ice-formation-physics-2026-10-24",
-    "title": "Mars’ 1,000‑mile Cloud Could Unlock New Ice‑Formation Physics",
-    "description": "A new model suggests Mars may host ice‑forming physics never directly observed before, offering fresh insights into planetary science.",
-    "category": "Science",
-    "labels": [
-      "Science",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "A new model suggests Mars may host ice‑forming physics never directly observed before, offering fresh insights into planetary science.",
-    "page": "articles/mars-1-000-mile-cloud-could-unlock-new-ice-formation-physics-2026-10-24.html",
-    "source_urls": [
-      "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
     ]
   }
 ]
