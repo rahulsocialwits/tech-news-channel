@@ -1,5 +1,23 @@
 [
   {
+    "id": "psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30",
+    "title": "PsiQuantum Unveils 8×8 Optical Switch to Supercharge AI Data Center GPU Networks",
+    "description": "PsiQuantum’s new optical switch prototype offers 1.2 dB loss, far below the 3 dB limit in data centers, promising faster AI workloads.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "PsiQuantum’s new optical switch prototype offers 1.2 dB loss, far below the 3 dB limit in data centers, promising faster AI workloads.",
+    "page": "articles/psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices"
+    ]
+  },
+  {
     "id": "binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30",
     "title": "Binance Faces Record $6.3 B Crypto Theft Linked to North Korean Hackers",
     "description": "A massive crypto heist at Binance, worth $6.3 B, is traced back to North Korean operatives who breached an employee’s laptop.",
@@ -1786,24 +1804,6 @@
     "page": "articles/block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-    ]
-  },
-  {
-    "id": "acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24",
-    "title": "Acer Predator Helios Neo 16S: The Ultra‑Slim Gaming Laptop That’s Slashing Prices",
-    "description": "Acer’s new Predator Helios Neo 16S offers a 240 Hz QHD+ OLED display, Intel Core Ultra 9 and RTX 5070 Ti, with Best Buy discounts up to $800.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Acer’s new Predator Helios Neo 16S offers a 240 Hz QHD+ OLED display, Intel Core Ultra 9 and RTX 5070 Ti, with Best Buy discounts up to $800.",
-    "page": "articles/acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24.html",
-    "source_urls": [
-      "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400"
     ]
   }
 ]
