@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-rolls-out-software-updates-for-nest-cam-and-doorbell-models-2026-10-30",
+    "title": "Google Rolls Out Software Updates for Nest Cam and Doorbell Models",
+    "description": "Google releases new firmware for several Nest Cam and Doorbell devices, adding features and security fixes.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Google releases new firmware for several Nest Cam and Doorbell devices, adding features and security fixes.",
+    "page": "articles/google-rolls-out-software-updates-for-nest-cam-and-doorbell-models-2026-10-30.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/"
+    ]
+  },
+  {
     "id": "intel-fab-28-explosion-halts-10nm-xeon-shipments-threatening-cloud-infrastructure-2026-10-30",
     "title": "Intel Fab 28 Explosion Halts 10nm Xeon Shipments, Threatening Cloud Infrastructure",
     "description": "A two‑week shutdown at Intel’s Fab 28 in Israel has disrupted 10nm Xeon production, delaying server chip deliveries for two quarters and impacting cloud data centers worldwide.",
@@ -1787,24 +1805,6 @@
     "page": "articles/texas-halts-data-center-approvals-shuts-automated-permit-portal-2026-10-24.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals"
-    ]
-  },
-  {
-    "id": "nvidia-s-rtx-spark-reveals-hidden-npu-capabilities-2026-10-24",
-    "title": "Nvidia’s RTX Spark Reveals Hidden NPU Capabilities",
-    "description": "Nvidia’s new RTX Spark GPU includes a previously under‑reported neural processing unit that developers can now access for accelerated AI workloads.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s new RTX Spark GPU includes a previously under‑reported neural processing unit that developers can now access for accelerated AI workloads.",
-    "page": "articles/nvidia-s-rtx-spark-reveals-hidden-npu-capabilities-2026-10-24.html",
-    "source_urls": [
-      "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out/"
     ]
   }
 ]
