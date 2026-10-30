@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-gemini-design-update-brings-fresh-look-to-all-android-devices-2026-10-30",
+    "title": "Google’s Gemini Design Update Brings Fresh Look to All Android Devices",
+    "description": "Google has rolled out the latest Gemini design to every Android phone, adding a new file‑generation feature that streamlines app updates.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Google has rolled out the latest Gemini design to every Android phone, adding a new file‑generation feature that streamlines app updates.",
+    "page": "articles/google-s-gemini-design-update-brings-fresh-look-to-all-android-devices-2026-10-30.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/29/gemini-design-file-generation/"
+    ]
+  },
+  {
     "id": "intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30",
     "title": "Intel Unveils Nova Lake: First Desktop CPUs Built on Advanced 18A‑P Node",
     "description": "Intel’s next‑generation Nova Lake desktop processors will be the first client product to use the company’s enhanced 18A‑P node, marking a significant step in CPU manufacturing technology.",
@@ -1786,24 +1804,6 @@
     "page": "articles/google-health-5-11-brings-major-fitbit-and-pixel-watch-enhancements-2026-10-24.html",
     "source_urls": [
       "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/"
-    ]
-  },
-  {
-    "id": "gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24",
-    "title": "Gemini for Android Gets Side‑Panel and Settings Overhaul",
-    "description": "Meta’s Gemini AI app on Android receives a refreshed side‑panel layout and redesigned settings interface as part of its latest update.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Meta’s Gemini AI app on Android receives a refreshed side‑panel layout and redesigned settings interface as part of its latest update.",
-    "page": "articles/gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/"
     ]
   }
 ]
