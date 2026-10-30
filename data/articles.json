@@ -1,5 +1,23 @@
 [
   {
+    "id": "zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30",
+    "title": "Zest Launches AI Concierge That Books Restaurant Reservations Over Text",
+    "description": "Zest’s new AI agent lets users text to find restaurants, vote on options and secure reservations, streamlining group dining decisions.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Zest’s new AI agent lets users text to find restaurants, vote on options and secure reservations, streamlining group dining decisions.",
+    "page": "articles/zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    ]
+  },
+  {
     "id": "google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30",
     "title": "Google Launches First Data‑Center Satellite, Bringing AI Power to Space",
     "description": "Google’s new satellite hosts a TPU running a DeepMind model, marking the first time a data‑center‑grade AI processor operates in orbit.",
@@ -1786,24 +1804,6 @@
     "page": "articles/youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25.html",
     "source_urls": [
       "https://www.androidauthority.com/youtube-av2-rollout-update-3727638/"
-    ]
-  },
-  {
-    "id": "ai-assisted-exploits-uncover-hidden-php-vulnerabilities-2026-10-24",
-    "title": "AI‑Assisted Exploits Uncover Hidden PHP Vulnerabilities",
-    "description": "Security researchers used AI tools to uncover long‑hidden bugs in PHP, turning them into exploitable attacks.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Security researchers used AI tools to uncover long‑hidden bugs in PHP, turning them into exploitable attacks.",
-    "page": "articles/ai-assisted-exploits-uncover-hidden-php-vulnerabilities-2026-10-24.html",
-    "source_urls": [
-      "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
     ]
   }
 ]
