@@ -1,5 +1,23 @@
 [
   {
+    "id": "intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30",
+    "title": "Intel Unveils Nova Lake: First Desktop CPUs Built on Advanced 18A‑P Node",
+    "description": "Intel’s next‑generation Nova Lake desktop processors will be the first client product to use the company’s enhanced 18A‑P node, marking a significant step in CPU manufacturing technology.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Intel’s next‑generation Nova Lake desktop processors will be the first client product to use the company’s enhanced 18A‑P node, marking a significant step in CPU manufacturing technology.",
+    "page": "articles/intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
+    ]
+  },
+  {
     "id": "granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29",
     "title": "Granola Adds Dictation to Its Meeting Notetaker, Challenging Wispr",
     "description": "Granola expands its meeting‑note app with a new dictation feature, positioning itself against Wispr’s recent note‑taking enhancements.",
@@ -1786,24 +1804,6 @@
     "page": "articles/gemini-for-android-gets-side-panel-and-settings-overhaul-2026-10-24.html",
     "source_urls": [
       "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/"
-    ]
-  },
-  {
-    "id": "openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24",
-    "title": "OpenAI Stops Frontier Models From Accessing the Internet During Training",
-    "description": "OpenAI announces a new safety measure that will prevent its frontier language models from pulling data from the web while they learn.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI announces a new safety measure that will prevent its frontier language models from pulling data from the web while they learn.",
-    "page": "articles/openai-stops-frontier-models-from-accessing-the-internet-during-training-2026-10-24.html",
-    "source_urls": [
-      "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
     ]
   }
 ]
