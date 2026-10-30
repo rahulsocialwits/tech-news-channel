@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30",
+    "title": "Google Launches First Data‑Center Satellite, Bringing AI Power to Space",
+    "description": "Google’s new satellite hosts a TPU running a DeepMind model, marking the first time a data‑center‑grade AI processor operates in orbit.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "Google’s new satellite hosts a TPU running a DeepMind model, marking the first time a data‑center‑grade AI processor operates in orbit.",
+    "page": "articles/google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    ]
+  },
+  {
     "id": "tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30",
     "title": "TCL Unveils 27‑inch QD‑Mini LED 4K Gaming Monitor With Record Brightness",
     "description": "TCL’s new 27C2A Pro delivers 4K resolution, 160 Hz refresh, and 2,304‑zone local dimming for gamers seeking vivid color and high brightness.",
@@ -1786,24 +1804,6 @@
     "page": "articles/ai-assisted-exploits-uncover-hidden-php-vulnerabilities-2026-10-24.html",
     "source_urls": [
       "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
-    ]
-  },
-  {
-    "id": "proton-ag-defies-cease-and-desist-to-host-flock-s-300-000-camera-map-2026-10-24",
-    "title": "Proton AG Defies Cease‑and‑Desist to Host Flock’s 300,000‑Camera Map",
-    "description": "Privacy‑focused Proton AG has agreed to host the Flock camera map, exposing over 300,000 cameras worldwide after legal threats from the creator’s former employer.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Privacy‑focused Proton AG has agreed to host the Flock camera map, exposing over 300,000 cameras worldwide after legal threats from the creator’s former employer.",
-    "page": "articles/proton-ag-defies-cease-and-desist-to-host-flock-s-300-000-camera-map-2026-10-24.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them"
     ]
   }
 ]
