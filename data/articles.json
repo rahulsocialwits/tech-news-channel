@@ -1,5 +1,23 @@
 [
   {
+    "id": "tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30",
+    "title": "TCL Unveils 27‑inch QD‑Mini LED 4K Gaming Monitor With Record Brightness",
+    "description": "TCL’s new 27C2A Pro delivers 4K resolution, 160 Hz refresh, and 2,304‑zone local dimming for gamers seeking vivid color and high brightness.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "TCL’s new 27C2A Pro delivers 4K resolution, 160 Hz refresh, and 2,304‑zone local dimming for gamers seeking vivid color and high brightness.",
+    "page": "articles/tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30.html",
+    "source_urls": [
+      "https://www.tomshardware.com/monitors/gaming-monitors/tcl-27c2a-pro-27-inch-qd-mini-led-4k-gaming-monitor-review"
+    ]
+  },
+  {
     "id": "psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30",
     "title": "PsiQuantum Unveils 8×8 Optical Switch to Supercharge AI Data Center GPU Networks",
     "description": "PsiQuantum’s new optical switch prototype offers 1.2 dB loss, far below the 3 dB limit in data centers, promising faster AI workloads.",
@@ -1786,24 +1804,6 @@
     "page": "articles/proton-ag-defies-cease-and-desist-to-host-flock-s-300-000-camera-map-2026-10-24.html",
     "source_urls": [
       "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them"
-    ]
-  },
-  {
-    "id": "block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24",
-    "title": "Block Unveils Local Voice Model for MacBook M4 Max",
-    "description": "Block’s new voice model can run entirely on a MacBook M4 Max, offering privacy‑first speech synthesis without cloud dependency.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "Block’s new voice model can run entirely on a MacBook M4 Max, offering privacy‑first speech synthesis without cloud dependency.",
-    "page": "articles/block-unveils-local-voice-model-for-macbook-m4-max-2026-10-24.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
     ]
   }
 ]
