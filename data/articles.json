@@ -1,5 +1,23 @@
 [
   {
+    "id": "binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30",
+    "title": "Binance Faces Record $6.3 B Crypto Theft Linked to North Korean Hackers",
+    "description": "A massive crypto heist at Binance, worth $6.3 B, is traced back to North Korean operatives who breached an employee’s laptop.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-10-30",
+    "readTime": "3 min read",
+    "excerpt": "A massive crypto heist at Binance, worth $6.3 B, is traced back to North Korean operatives who breached an employee’s laptop.",
+    "page": "articles/binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+    ]
+  },
+  {
     "id": "runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30",
     "title": "Runware’s Factory‑Line AI Data Centers Aim to Scale Up Machine Learning Infrastructure",
     "description": "Runware is building a prefabricated AI data center factory that could deliver units in 48 hours, testing mass‑production of AI infrastructure.",
@@ -1786,24 +1804,6 @@
     "page": "articles/acer-predator-helios-neo-16s-the-ultra-slim-gaming-laptop-that-s-slashing-prices-2026-10-24.html",
     "source_urls": [
       "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400"
-    ]
-  },
-  {
-    "id": "ltm-launches-blueverse-industrial-ai-lab-to-accelerate-enterprise-ai-adoption-2026-10-24",
-    "title": "LTM Launches BlueVerse Industrial AI Lab to Accelerate Enterprise AI Adoption",
-    "description": "LTM opens a new industrial AI lab in Chennai that integrates vision AI, robotics, and digital twins to help enterprises scale AI across physical operations.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-24",
-    "readTime": "3 min read",
-    "excerpt": "LTM opens a new industrial AI lab in Chennai that integrates vision AI, robotics, and digital twins to help enterprises scale AI across physical operations.",
-    "page": "articles/ltm-launches-blueverse-industrial-ai-lab-to-accelerate-enterprise-ai-adoption-2026-10-24.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/ltm-launches-blueverse-industrial-ai-lab-in-chennai-helping-enterprises-scale-ai-across-physical-operations-and-intelligent-products/"
     ]
   }
 ]
