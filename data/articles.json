@@ -1,5 +1,23 @@
 [
   {
+    "id": "fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31",
+    "title": "Fraudsters Use AI to Forge Student Identities and Steal $200 Million in Loans",
+    "description": "A DOJ operation uncovered a $200 million ring that used AI to create fake student records and siphon federal student loans.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "A DOJ operation uncovered a $200 million ring that used AI to create fake student records and siphon federal student loans.",
+    "page": "articles/fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
+    ]
+  },
+  {
     "id": "google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31",
     "title": "Google Cloud’s Revenue Surge Raises Investor Concerns Over AI Spending",
     "description": "Google Cloud’s revenue more than doubled in 2026, yet heavy AI infrastructure investment is weighing on cash flow and prompting investor worry.",
@@ -1785,24 +1803,6 @@
     "page": "articles/wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25.html",
     "source_urls": [
       "https://www.wired.com/review/wallhack-m-001/"
-    ]
-  },
-  {
-    "id": "ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25",
-    "title": "AI‑Powered Wearables Set to Redefine Personal Tech",
-    "description": "A roundup of the latest AI‑enabled wearables, from Muse Charm to Bee, shows how the industry is blending health, productivity and style.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "A roundup of the latest AI‑enabled wearables, from Muse Charm to Bee, shows how the industry is blending health, productivity and style.",
-    "page": "articles/ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
     ]
   }
 ]
