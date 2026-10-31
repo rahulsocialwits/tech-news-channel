@@ -1,5 +1,23 @@
 [
   {
+    "id": "bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31",
+    "title": "Bolt Graphics Announces Successful Test Run of Its First Zeus GPU",
+    "description": "Bolt Graphics reports a milestone with a successful test run of its simulation‑centric Zeus GPU, marking a significant step toward its launch.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Bolt Graphics reports a milestone with a successful test run of its simulation‑centric Zeus GPU, marking a significant step toward its launch.",
+    "page": "articles/bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31.html",
+    "source_urls": [
+      "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/"
+    ]
+  },
+  {
     "id": "french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31",
     "title": "French Lawmakers Approve €0.055‑Per‑GB Internet Tax, Targeting Major Tech Firms",
     "description": "France’s new internet tax will charge users €0.055 per gigabyte of digital content, potentially generating €10 billion annually and affecting Google, Meta, Netflix and TikTok.",
@@ -1785,24 +1803,6 @@
     "page": "articles/atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25.html",
     "source_urls": [
       "https://www.xda-developers.com/this-free-tool-syncs-terminal-history-between-pcs-belongs-every-developers-machine/"
-    ]
-  },
-  {
-    "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25",
-    "title": "AI Delivers Zero Financial Payoff to Most Companies, Apollo Economist Says",
-    "description": "Apollo economist reports that AI investments have yielded no financial returns for non‑tech firms, highlighting a stark divide in corporate earnings.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "Apollo economist reports that AI investments have yielded no financial returns for non‑tech firms, highlighting a stark divide in corporate earnings.",
-    "page": "articles/ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     ]
   }
 ]
