@@ -1,5 +1,23 @@
 [
   {
+    "id": "alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31",
+    "title": "Alphabet Shares Plunge as Investors Question AI Investment Payoff",
+    "description": "Alphabet’s stock fell 12.6% after earnings raised doubts about the return on its massive AI spend, wiping out nearly $500 billion in market value.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Alphabet’s stock fell 12.6% after earnings raised doubts about the return on its massive AI spend, wiping out nearly $500 billion in market value.",
+    "page": "articles/alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31.html",
+    "source_urls": [
+      "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece"
+    ]
+  },
+  {
     "id": "nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31",
     "title": "Nvidia Quietly Pulls RTX 5080 After RTX 5090 Removal, Prices Surge",
     "description": "Nvidia removes its RTX 5080 listing as the RTX 5090 is pulled, sending retail prices to double MSRP.",
@@ -1785,24 +1803,6 @@
     "page": "articles/nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch"
-    ]
-  },
-  {
-    "id": "ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25",
-    "title": "IKEA’s $10 Bluetooth Speakers Build a Sonic Monolith",
-    "description": "WIRED documents how 150 IKEA speakers were wired together to create a massive wall of sound, proving that cheap hardware can deliver impressive audio when scaled.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "WIRED documents how 150 IKEA speakers were wired together to create a massive wall of sound, proving that cheap hardware can deliver impressive audio when scaled.",
-    "page": "articles/ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25.html",
-    "source_urls": [
-      "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/"
     ]
   }
 ]
