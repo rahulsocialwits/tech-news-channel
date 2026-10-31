@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-openai-anthropic-and-microsoft-unite-on-new-scraping-controls-for-ai-training-2026-10-31",
+    "title": "Google, OpenAI, Anthropic and Microsoft Unite on New Scraping Controls for AI Training",
+    "description": "Major AI firms announce a shared signal to block web scraping for training models, aiming to protect content owners and improve transparency.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Major AI firms announce a shared signal to block web scraping for training models, aiming to protect content owners and improve transparency.",
+    "page": "articles/google-openai-anthropic-and-microsoft-unite-on-new-scraping-controls-for-ai-training-2026-10-31.html",
+    "source_urls": [
+      "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/"
+    ]
+  },
+  {
     "id": "backup-by-biolite-a-portable-power-solution-for-home-appliances-2026-10-31",
     "title": "Backup by BioLite: A Portable Power Solution for Home Appliances",
     "description": "BioLite’s Backup device offers a solar‑powered backup for refrigerators during grid outages, providing a practical, though pricey, solution for homeowners.",
@@ -1785,24 +1803,6 @@
     "page": "articles/microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece"
-    ]
-  },
-  {
-    "id": "censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25",
-    "title": "Censor Board Data Breach Exposes Hundreds of Filmmaker Applications",
-    "description": "A recent breach of the Indian Censor Board’s online portal exposed sensitive documents from hundreds of film submissions, raising concerns over data security and privacy.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "A recent breach of the Indian Censor Board’s online portal exposed sensitive documents from hundreds of film submissions, raising concerns over data security and privacy.",
-    "page": "articles/censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/hundreds-of-applications-exposed-in-censor-board-data-breach/article71619870.ece"
     ]
   }
 ]
