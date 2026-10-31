@@ -1,5 +1,23 @@
 [
   {
+    "id": "french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31",
+    "title": "French Lawmakers Approve €0.055‑Per‑GB Internet Tax, Targeting Major Tech Firms",
+    "description": "France’s new internet tax will charge users €0.055 per gigabyte of digital content, potentially generating €10 billion annually and affecting Google, Meta, Netflix and TikTok.",
+    "category": "Enterprise",
+    "labels": [
+      "Enterprise",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "France’s new internet tax will charge users €0.055 per gigabyte of digital content, potentially generating €10 billion annually and affecting Google, Meta, Netflix and TikTok.",
+    "page": "articles/french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31.html",
+    "source_urls": [
+      "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
+    ]
+  },
+  {
     "id": "fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31",
     "title": "Fraudsters Use AI to Forge Student Identities and Steal $200 Million in Loans",
     "description": "A DOJ operation uncovered a $200 million ring that used AI to create fake student records and siphon federal student loans.",
@@ -1785,24 +1803,6 @@
     "page": "articles/ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says-2026-10-25.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    ]
-  },
-  {
-    "id": "wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25",
-    "title": "Wallhack M-001: A Gaming Mouse That Prioritizes Fun Over Specs",
-    "description": "The Wallhack M-001 gaming mouse offers a playful design and customizable dongle, redefining what gamers value in a peripheral.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "The Wallhack M-001 gaming mouse offers a playful design and customizable dongle, redefining what gamers value in a peripheral.",
-    "page": "articles/wallhack-m-001-a-gaming-mouse-that-prioritizes-fun-over-specs-2026-10-25.html",
-    "source_urls": [
-      "https://www.wired.com/review/wallhack-m-001/"
     ]
   }
 ]
