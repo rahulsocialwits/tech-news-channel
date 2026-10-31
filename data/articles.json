@@ -1,5 +1,23 @@
 [
   {
+    "id": "backup-by-biolite-a-portable-power-solution-for-home-appliances-2026-10-31",
+    "title": "Backup by BioLite: A Portable Power Solution for Home Appliances",
+    "description": "BioLite’s Backup device offers a solar‑powered backup for refrigerators during grid outages, providing a practical, though pricey, solution for homeowners.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "BioLite’s Backup device offers a solar‑powered backup for refrigerators during grid outages, providing a practical, though pricey, solution for homeowners.",
+    "page": "articles/backup-by-biolite-a-portable-power-solution-for-home-appliances-2026-10-31.html",
+    "source_urls": [
+      "https://www.wired.com/review/backup-by-biolite/"
+    ]
+  },
+  {
     "id": "alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31",
     "title": "Alphabet Shares Plunge as Investors Question AI Investment Payoff",
     "description": "Alphabet’s stock fell 12.6% after earnings raised doubts about the return on its massive AI spend, wiping out nearly $500 billion in market value.",
@@ -1785,24 +1803,6 @@
     "page": "articles/censor-board-data-breach-exposes-hundreds-of-filmmaker-applications-2026-10-25.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/hundreds-of-applications-exposed-in-censor-board-data-breach/article71619870.ece"
-    ]
-  },
-  {
-    "id": "nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25",
-    "title": "Nvidia Explores Repurposing Decommissioned German Nuclear Sites as AI Data Centers",
-    "description": "Nvidia and PreussenElektra are studying whether old German nuclear power plant sites can be converted into AI data centers, potentially cutting build time and cost by reusing existing grid connections and infrastructure.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia and PreussenElektra are studying whether old German nuclear power plant sites can be converted into AI data centers, potentially cutting build time and cost by reusing existing grid connections and infrastructure.",
-    "page": "articles/nvidia-explores-repurposing-decommissioned-german-nuclear-sites-as-ai-data-centers-2026-10-25.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch"
     ]
   }
 ]
