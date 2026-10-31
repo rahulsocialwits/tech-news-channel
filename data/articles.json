@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-pixel-watch-5-hits-record-low-ahead-of-black-friday-2026-10-31",
+    "title": "Google Pixel Watch 5 Hits Record Low Ahead of Black Friday",
+    "description": "Google’s latest smartwatch drops to its lowest price yet, offering new health features and a steep discount as the holiday shopping season kicks off.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest smartwatch drops to its lowest price yet, offering new health features and a steep discount as the holiday shopping season kicks off.",
+    "page": "articles/google-pixel-watch-5-hits-record-low-ahead-of-black-friday-2026-10-31.html",
+    "source_urls": [
+      "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/"
+    ]
+  },
+  {
     "id": "salesforce-expands-defense-footprint-with-375-million-acquisition-of-ai-logistics-startup--2026-10-31",
     "title": "Salesforce Expands Defense Footprint with $375 Million Acquisition of AI Logistics Startup Rune",
     "description": "Salesforce announced a $375 million deal to acquire defense‑tech startup Rune, adding AI‑powered logistics to its Missionforce platform.",
@@ -1785,24 +1803,6 @@
     "page": "articles/top-pet-cameras-of-2026-keeping-an-eye-on-your-furry-friends-2026-10-25.html",
     "source_urls": [
       "https://www.wired.com/gallery/best-pet-cameras/"
-    ]
-  },
-  {
-    "id": "personalized-mrna-vaccine-cuts-melanoma-recurrence-by-over-40-2026-10-25",
-    "title": "Personalized mRNA Vaccine Cuts Melanoma Recurrence by Over 40%",
-    "description": "Phase‑3 trial shows new mRNA vaccine tailored to individual tumors significantly reduces melanoma relapse.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Health"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "Phase‑3 trial shows new mRNA vaccine tailored to individual tumors significantly reduces melanoma relapse.",
-    "page": "articles/personalized-mrna-vaccine-cuts-melanoma-recurrence-by-over-40-2026-10-25.html",
-    "source_urls": [
-      "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
     ]
   }
 ]
