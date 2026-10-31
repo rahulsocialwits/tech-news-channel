@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31",
+    "title": "Google Cloud’s Revenue Surge Raises Investor Concerns Over AI Spending",
+    "description": "Google Cloud’s revenue more than doubled in 2026, yet heavy AI infrastructure investment is weighing on cash flow and prompting investor worry.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Google Cloud’s revenue more than doubled in 2026, yet heavy AI infrastructure investment is weighing on cash flow and prompting investor worry.",
+    "page": "articles/google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece"
+    ]
+  },
+  {
     "id": "ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31",
     "title": "AI‑Powered Malware ‘Volta‑Autodoxer’ Harvests Personal Data with Unprecedented Precision",
     "description": "The newly uncovered Volta‑Autodoxer malware uses AI tools to autonomously collect login credentials, credit card numbers, Discord sessions and even UberEats receipts, raising fresh concerns for cybersecurity defenders.",
@@ -1785,24 +1803,6 @@
     "page": "articles/ai-powered-wearables-set-to-redefine-personal-tech-2026-10-25.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-    ]
-  },
-  {
-    "id": "samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25",
-    "title": "Samsung Unveils 2TB 990 SSD at 38% Off, Boosting PCIe 4.0 Performance",
-    "description": "Samsung’s new 2TB 990 SSD offers PCIe 4.0 speeds and a 38% discount on Amazon, delivering a cost‑effective upgrade for gamers and creators.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s new 2TB 990 SSD offers PCIe 4.0 speeds and a 38% discount on Amazon, delivering a cost‑effective upgrade for gamers and creators.",
-    "page": "articles/samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time"
     ]
   }
 ]
