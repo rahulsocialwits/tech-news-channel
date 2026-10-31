@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31",
+    "title": "AI‑Powered Malware ‘Volta‑Autodoxer’ Harvests Personal Data with Unprecedented Precision",
+    "description": "The newly uncovered Volta‑Autodoxer malware uses AI tools to autonomously collect login credentials, credit card numbers, Discord sessions and even UberEats receipts, raising fresh concerns for cybersecurity defenders.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "The newly uncovered Volta‑Autodoxer malware uses AI tools to autonomously collect login credentials, credit card numbers, Discord sessions and even UberEats receipts, raising fresh concerns for cybersecurity defenders.",
+    "page": "articles/ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31.html",
+    "source_urls": [
+      "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+    ]
+  },
+  {
     "id": "google-openai-anthropic-and-microsoft-unite-on-new-scraping-controls-for-ai-training-2026-10-31",
     "title": "Google, OpenAI, Anthropic and Microsoft Unite on New Scraping Controls for AI Training",
     "description": "Major AI firms announce a shared signal to block web scraping for training models, aiming to protect content owners and improve transparency.",
@@ -1785,24 +1803,6 @@
     "page": "articles/samsung-unveils-2tb-990-ssd-at-38-off-boosting-pcie-4-0-performance-2026-10-25.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time"
-    ]
-  },
-  {
-    "id": "microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25",
-    "title": "Microsoft’s New AI Diagnostic Tool Outperforms General Physicians",
-    "description": "Microsoft researchers unveil an AI system that diagnoses patients step‑by‑step, achieving double the accuracy of general doctors.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft researchers unveil an AI system that diagnoses patients step‑by‑step, achieving double the accuracy of general doctors.",
-    "page": "articles/microsoft-s-new-ai-diagnostic-tool-outperforms-general-physicians-2026-10-25.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece"
     ]
   }
 ]
