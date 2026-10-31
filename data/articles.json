@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-offers-to-cosign-loan-for-nscale-s-west-virginia-ai-data-center-2026-10-31",
+    "title": "Nvidia Offers to Cosign Loan for Nscale’s West Virginia AI Data Center",
+    "description": "Chipmaker Nvidia steps in as cosigner for Nscale’s AI data center loan, easing investor concerns over AI spending.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Chipmaker Nvidia steps in as cosigner for Nscale’s AI data center loan, easing investor concerns over AI spending.",
+    "page": "articles/nvidia-offers-to-cosign-loan-for-nscale-s-west-virginia-ai-data-center-2026-10-31.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    ]
+  },
+  {
     "id": "zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30",
     "title": "Zest Launches AI Concierge That Books Restaurant Reservations Over Text",
     "description": "Zest’s new AI agent lets users text to find restaurants, vote on options and secure reservations, streamlining group dining decisions.",
@@ -1786,24 +1804,6 @@
     "source_urls": [
       "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
       "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/"
-    ]
-  },
-  {
-    "id": "youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25",
-    "title": "YouTube’s AV2 Video Codec Rollout Promises Smoother Streaming",
-    "description": "YouTube is preparing to launch its new AV2 codec, aiming to improve video quality and reduce buffering for users worldwide.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "YouTube is preparing to launch its new AV2 codec, aiming to improve video quality and reduce buffering for users worldwide.",
-    "page": "articles/youtube-s-av2-video-codec-rollout-promises-smoother-streaming-2026-10-25.html",
-    "source_urls": [
-      "https://www.androidauthority.com/youtube-av2-rollout-update-3727638/"
     ]
   }
 ]
