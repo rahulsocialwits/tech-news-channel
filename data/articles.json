@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31",
+    "title": "Nvidia Quietly Pulls RTX 5080 After RTX 5090 Removal, Prices Surge",
+    "description": "Nvidia removes its RTX 5080 listing as the RTX 5090 is pulled, sending retail prices to double MSRP.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia removes its RTX 5080 listing as the RTX 5090 is pulled, sending retail prices to double MSRP.",
+    "page": "articles/nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
+    ]
+  },
+  {
     "id": "android-auto-tool-lets-users-sideload-apps-for-free-2026-10-31",
     "title": "Android Auto Tool Lets Users Sideload Apps for Free",
     "description": "A new tool enables Android Auto users to run sideloaded apps without cost, expanding the platform’s functionality.",
@@ -1785,24 +1803,6 @@
     "page": "articles/ikea-s-10-bluetooth-speakers-build-a-sonic-monolith-2026-10-25.html",
     "source_urls": [
       "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/"
-    ]
-  },
-  {
-    "id": "starlink-resumes-normal-operations-in-ukraine-after-temporary-throttle-2026-10-25",
-    "title": "Starlink Resumes Normal Operations in Ukraine After Temporary Throttle",
-    "description": "SpaceX’s Starlink satellite internet service has returned to full functionality in Ukraine following a brief throttling order by Elon Musk.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Space"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "SpaceX’s Starlink satellite internet service has returned to full functionality in Ukraine following a brief throttling order by Elon Musk.",
-    "page": "articles/starlink-resumes-normal-operations-in-ukraine-after-temporary-throttle-2026-10-25.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
     ]
   }
 ]
