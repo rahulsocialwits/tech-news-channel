@@ -1,5 +1,23 @@
 [
   {
+    "id": "salesforce-expands-defense-footprint-with-375-million-acquisition-of-ai-logistics-startup--2026-10-31",
+    "title": "Salesforce Expands Defense Footprint with $375 Million Acquisition of AI Logistics Startup Rune",
+    "description": "Salesforce announced a $375 million deal to acquire defense‑tech startup Rune, adding AI‑powered logistics to its Missionforce platform.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-10-31",
+    "readTime": "3 min read",
+    "excerpt": "Salesforce announced a $375 million deal to acquire defense‑tech startup Rune, adding AI‑powered logistics to its Missionforce platform.",
+    "page": "articles/salesforce-expands-defense-footprint-with-375-million-acquisition-of-ai-logistics-startup--2026-10-31.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+    ]
+  },
+  {
     "id": "nvidia-offers-to-cosign-loan-for-nscale-s-west-virginia-ai-data-center-2026-10-31",
     "title": "Nvidia Offers to Cosign Loan for Nscale’s West Virginia AI Data Center",
     "description": "Chipmaker Nvidia steps in as cosigner for Nscale’s AI data center loan, easing investor concerns over AI spending.",
@@ -1785,25 +1803,6 @@
     "page": "articles/personalized-mrna-vaccine-cuts-melanoma-recurrence-by-over-40-2026-10-25.html",
     "source_urls": [
       "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
-    ]
-  },
-  {
-    "id": "usb-c-cable-with-built-in-phone-stand-a-compact-solution-for-travelers-2026-10-25",
-    "title": "USB‑C Cable with Built‑in Phone Stand: A Compact Solution for Travelers",
-    "description": "A new USB‑C cable doubles as a phone stand, offering a lightweight, no‑bulk option for keeping devices upright while charging.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "A new USB‑C cable doubles as a phone stand, offering a lightweight, no‑bulk option for keeping devices upright while charging.",
-    "page": "articles/usb-c-cable-with-built-in-phone-stand-a-compact-solution-for-travelers-2026-10-25.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
-      "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/"
     ]
   }
 ]
