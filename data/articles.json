@@ -1,5 +1,23 @@
 [
   {
+    "id": "motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01",
+    "title": "Motorola Signature 27 Unveiled: A New Era of Foldable Android Phones",
+    "description": "Motorola’s Signature 27 drops a 7.6‑inch OLED foldable with a 120 Hz refresh rate, a 120 MP main camera, and a 5000‑mAh battery, promising a premium experience at a competitive price.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Motorola’s Signature 27 drops a 7.6‑inch OLED foldable with a 120 Hz refresh rate, a 120 MP main camera, and a 5000‑mAh battery, promising a premium experience at a competitive price.",
+    "page": "articles/motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01.html",
+    "source_urls": [
+      "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/"
+    ]
+  },
+  {
     "id": "binance-recovers-after-6-3-billion-hack-resumes-withdrawals-2026-11-01",
     "title": "Binance Recovers After $6.3 Billion Hack, Resumes Withdrawals",
     "description": "The cryptocurrency exchange says it has covered 95% of stolen assets and is now allowing users to withdraw funds again.",
@@ -1783,25 +1801,6 @@
     "page": "articles/asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen"
-    ]
-  },
-  {
-    "id": "anthropic-files-for-ipo-revealing-financials-and-governance-structure-2026-10-26",
-    "title": "Anthropic Files for IPO, Revealing Financials and Governance Structure",
-    "description": "Anthropic has filed for a public debut, detailing revenue growth, losses, enterprise adoption, and a unique governance model aimed at preserving founder control and AI safety.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic has filed for a public debut, detailing revenue growth, losses, enterprise adoption, and a unique governance model aimed at preserving founder control and AI safety.",
-    "page": "articles/anthropic-files-for-ipo-revealing-financials-and-governance-structure-2026-10-26.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/"
     ]
   }
 ]
