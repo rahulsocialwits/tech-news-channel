@@ -1,5 +1,23 @@
 [
   {
+    "id": "claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01",
+    "title": "Claude Makes Home Assistant Setup a One‑Click Experience",
+    "description": "Claude’s new integration lets users launch Home Assistant with a single click, offering a safe, streamlined smart‑home setup.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Claude’s new integration lets users launch Home Assistant with a single click, offering a safe, streamlined smart‑home setup.",
+    "page": "articles/claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01.html",
+    "source_urls": [
+      "https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/"
+    ]
+  },
+  {
     "id": "cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01",
     "title": "CPU Speculation: How Modern Processors’ Predictive Features Open New Security Gaps",
     "description": "Processors that guess future instructions can boost speed but also create vulnerabilities that hackers can exploit, according to recent research.",
@@ -1784,24 +1802,6 @@
     "page": "articles/ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26.html",
     "source_urls": [
       "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/"
-    ]
-  },
-  {
-    "id": "akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26",
-    "title": "Akamai’s 515‑Million‑Attack Block Boosts Scalefusion’s Global SaaS Growth",
-    "description": "Akamai’s security platform stopped over 515 million attacks in 90 days, helping Scalefusion protect millions of devices and maintain 99.95% uptime.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Akamai’s security platform stopped over 515 million attacks in 90 days, helping Scalefusion protect millions of devices and maintain 99.95% uptime.",
-    "page": "articles/akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/scalefusion-secures-global-saas-growth-with-akamai-as-cyberattacks-surge/"
     ]
   }
 ]
