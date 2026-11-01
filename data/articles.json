@@ -1,5 +1,23 @@
 [
   {
+    "id": "binance-recovers-after-6-3-billion-hack-resumes-withdrawals-2026-11-01",
+    "title": "Binance Recovers After $6.3 Billion Hack, Resumes Withdrawals",
+    "description": "The cryptocurrency exchange says it has covered 95% of stolen assets and is now allowing users to withdraw funds again.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "The cryptocurrency exchange says it has covered 95% of stolen assets and is now allowing users to withdraw funds again.",
+    "page": "articles/binance-recovers-after-6-3-billion-hack-resumes-withdrawals-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "https://www.thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece"
+    ]
+  },
+  {
     "id": "walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01",
     "title": "Walmart’s Shelf Price Blunder Turns Into Massive Gaming PC Deal",
     "description": "A mispriced Walmart display offered two high‑end gaming rigs for a fraction of their cost, sparking a frenzy among PC builders.",
@@ -1784,25 +1802,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
       "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/"
-    ]
-  },
-  {
-    "id": "foldable-iphone-duo-faces-cracked-screens-and-hinge-failures-repairability-ratings-raise-c-2026-10-26",
-    "title": "Foldable iPhone Duo Faces Cracked Screens and Hinge Failures, Repairability Ratings Raise Concerns",
-    "description": "Apple’s first foldable iPhone Duo is experiencing widespread cracked-screen and hinge issues, prompting iFixit to release a low repairability score and users to report durability problems.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s first foldable iPhone Duo is experiencing widespread cracked-screen and hinge issues, prompting iFixit to release a low repairability score and users to report durability problems.",
-    "page": "articles/foldable-iphone-duo-faces-cracked-screens-and-hinge-failures-repairability-ratings-raise-c-2026-10-26.html",
-    "source_urls": [
-      "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
-      "https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-duo-cracked-screens-hinge-possible-causes-10937368/"
     ]
   }
 ]
