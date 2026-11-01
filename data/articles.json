@@ -1,5 +1,23 @@
 [
   {
+    "id": "walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01",
+    "title": "Walmart’s Shelf Price Blunder Turns Into Massive Gaming PC Deal",
+    "description": "A mispriced Walmart display offered two high‑end gaming rigs for a fraction of their cost, sparking a frenzy among PC builders.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gaming"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "A mispriced Walmart display offered two high‑end gaming rigs for a fraction of their cost, sparking a frenzy among PC builders.",
+    "page": "articles/walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01.html",
+    "source_urls": [
+      "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit"
+    ]
+  },
+  {
     "id": "google-s-pixel-11-pro-fold-and-motorola-s-flagship-return-signal-a-new-era-for-foldable-sm-2026-11-01",
     "title": "Google’s Pixel 11 Pro Fold and Motorola’s Flagship Return Signal a New Era for Foldable Smartphones",
     "description": "Google’s latest foldable, the Pixel 11 Pro Fold, and Motorola’s upcoming flagship signal a competitive push in the foldable phone market.",
@@ -1785,24 +1803,6 @@
     "source_urls": [
       "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
       "https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-duo-cracked-screens-hinge-possible-causes-10937368/"
-    ]
-  },
-  {
-    "id": "tesla-partners-with-turo-to-accelerate-full-self-driving-adoption-2026-10-26",
-    "title": "Tesla Partners with Turo to Accelerate Full Self‑Driving Adoption",
-    "description": "Tesla is offering Turo hosts a free month of its Full Self‑Driving software to boost real‑world testing and adoption.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Tesla is offering Turo hosts a free month of its Full Self‑Driving software to boost real‑world testing and adoption.",
-    "page": "articles/tesla-partners-with-turo-to-accelerate-full-self-driving-adoption-2026-10-26.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
     ]
   }
 ]
