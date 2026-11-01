@@ -1,5 +1,23 @@
 [
   {
+    "id": "naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01",
+    "title": "NAACP Lawsuit Challenges xAI Data Center Pollution Claims",
+    "description": "The NAACP has filed a lawsuit alleging that SpaceX-owned AI company xAI’s data center violates the Clean Air Act, prompting a judge to allow the case to proceed.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "The NAACP has filed a lawsuit alleging that SpaceX-owned AI company xAI’s data center violates the Clean Air Act, prompting a judge to allow the case to proceed.",
+    "page": "articles/naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    ]
+  },
+  {
     "id": "techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01",
     "title": "TechCrunch Founder Summit Kicks Off in Boston with a Focus on Meaningful Connections",
     "description": "The inaugural TechCrunch Founder Summit in Boston promises a full day of networking, insights, and opportunities for startups to scale.",
@@ -1784,24 +1802,6 @@
     "page": "articles/anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26.html",
     "source_urls": [
       "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/"
-    ]
-  },
-  {
-    "id": "samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26",
-    "title": "Samsung Unveils First Clip‑On Galaxy Buds, Expanding Wireless Audio Lineup",
-    "description": "Samsung launches clip‑on Galaxy Buds, adding a new form factor to its wireless earbud family.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Samsung launches clip‑on Galaxy Buds, adding a new form factor to its wireless earbud family.",
-    "page": "articles/samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/"
     ]
   }
 ]
