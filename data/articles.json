@@ -1,5 +1,23 @@
 [
   {
+    "id": "techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01",
+    "title": "TechCrunch Founder Summit Kicks Off in Boston with a Focus on Meaningful Connections",
+    "description": "The inaugural TechCrunch Founder Summit in Boston promises a full day of networking, insights, and opportunities for startups to scale.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Startups"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "The inaugural TechCrunch Founder Summit in Boston promises a full day of networking, insights, and opportunities for startups to scale.",
+    "page": "articles/techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    ]
+  },
+  {
     "id": "data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01",
     "title": "Data Centers Become a Midterm Issue in Brooklyn, Highlighting AI’s Growing Footprint",
     "description": "Brooklyn’s midterm debate turns to data centers and AI, underscoring the sector’s rising political and economic importance.",
@@ -1784,24 +1802,6 @@
     "page": "articles/samsung-unveils-first-clip-on-galaxy-buds-expanding-wireless-audio-lineup-2026-10-26.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/"
-    ]
-  },
-  {
-    "id": "impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26",
-    "title": "Impinj Turns RFID Into Real‑Time AI Tracking",
-    "description": "Impinj’s new RFID strategy bridges the gap between digital records and physical events, delivering real‑time tracking data for supply chains.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Impinj’s new RFID strategy bridges the gap between digital records and physical events, delivering real‑time tracking data for supply chains.",
-    "page": "articles/impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
     ]
   }
 ]
