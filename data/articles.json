@@ -1,5 +1,24 @@
 [
   {
+    "id": "openai-cuts-funding-target-as-new-york-tightens-ai-chatbot-rules-2026-11-01",
+    "title": "OpenAI Cuts Funding Target as New York Tightens AI Chatbot Rules",
+    "description": "OpenAI is lowering its next funding round goal while New York enacts laws restricting AI chatbot interactions with minors.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI is lowering its next funding round goal while New York enacts laws restricting AI chatbot interactions with minors.",
+    "page": "articles/openai-cuts-funding-target-as-new-york-tightens-ai-chatbot-rules-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece"
+    ]
+  },
+  {
     "id": "naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01",
     "title": "NAACP Lawsuit Challenges xAI Data Center Pollution Claims",
     "description": "The NAACP has filed a lawsuit alleging that SpaceX-owned AI company xAI’s data center violates the Clean Air Act, prompting a judge to allow the case to proceed.",
@@ -1784,24 +1803,6 @@
     "source_urls": [
       "https://www.xda-developers.com/someone-got-their-whole-ebook-library-synced-across-five-devices-and-im-jealous/",
       "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
-    ]
-  },
-  {
-    "id": "anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26",
-    "title": "Anthropic Blocks Claude from Reverse‑Engineering Smart TVs",
-    "description": "Anthropic has halted attempts by its Claude model to reverse‑engineer smart TV firmware, citing policy concerns.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic has halted attempts by its Claude model to reverse‑engineer smart TV firmware, citing policy concerns.",
-    "page": "articles/anthropic-blocks-claude-from-reverse-engineering-smart-tvs-2026-10-26.html",
-    "source_urls": [
-      "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/"
     ]
   }
 ]
