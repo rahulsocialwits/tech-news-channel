@@ -1,5 +1,23 @@
 [
   {
+    "id": "cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01",
+    "title": "CPU Speculation: How Modern Processors’ Predictive Features Open New Security Gaps",
+    "description": "Processors that guess future instructions can boost speed but also create vulnerabilities that hackers can exploit, according to recent research.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Processors that guess future instructions can boost speed but also create vulnerabilities that hackers can exploit, according to recent research.",
+    "page": "articles/cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01.html",
+    "source_urls": [
+      "https://www.xda-developers.com/cpu-predicts-future-improve-performace-but-opens-door-for-hackers/"
+    ]
+  },
+  {
     "id": "openai-cuts-funding-target-as-new-york-tightens-ai-chatbot-rules-2026-11-01",
     "title": "OpenAI Cuts Funding Target as New York Tightens AI Chatbot Rules",
     "description": "OpenAI is lowering its next funding round goal while New York enacts laws restricting AI chatbot interactions with minors.",
@@ -1784,25 +1802,6 @@
     "page": "articles/akamai-s-515-million-attack-block-boosts-scalefusion-s-global-saas-growth-2026-10-26.html",
     "source_urls": [
       "https://indiatechnologynews.in/scalefusion-secures-global-saas-growth-with-akamai-as-cyberattacks-surge/"
-    ]
-  },
-  {
-    "id": "home-server-ebook-sync-one-user-s-diy-library-solution-2026-10-26",
-    "title": "Home‑Server Ebook Sync: One User’s DIY Library Solution",
-    "description": "A tech enthusiast demonstrates how to sync an entire ebook collection across five devices using a home server, offering a practical alternative to commercial cloud services.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "A tech enthusiast demonstrates how to sync an entire ebook collection across five devices using a home server, offering a practical alternative to commercial cloud services.",
-    "page": "articles/home-server-ebook-sync-one-user-s-diy-library-solution-2026-10-26.html",
-    "source_urls": [
-      "https://www.xda-developers.com/someone-got-their-whole-ebook-library-synced-across-five-devices-and-im-jealous/",
-      "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
     ]
   }
 ]
