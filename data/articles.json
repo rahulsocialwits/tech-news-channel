@@ -1,5 +1,22 @@
 [
   {
+    "id": "data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01",
+    "title": "Data Centers Become a Midterm Issue in Brooklyn, Highlighting AI’s Growing Footprint",
+    "description": "Brooklyn’s midterm debate turns to data centers and AI, underscoring the sector’s rising political and economic importance.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Brooklyn’s midterm debate turns to data centers and AI, underscoring the sector’s rising political and economic importance.",
+    "page": "articles/data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    ]
+  },
+  {
     "id": "ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01",
     "title": "AI Giants Offer New Scraping‑Blocking Tool for Publishers",
     "description": "Major AI companies unveil a unified approach to curb web scraping, easing the burden on publishers who currently juggle multiple bot‑blocking rules.",
@@ -1785,24 +1802,6 @@
     "page": "articles/impinj-turns-rfid-into-real-time-ai-tracking-2026-10-26.html",
     "source_urls": [
       "https://www.technewsworld.com/story/impinj-brings-ai-down-to-earth-with-real-time-tracking-data-180681.html?rss=1"
-    ]
-  },
-  {
-    "id": "ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26",
-    "title": "AI Data Centers Drive Surge in Fuel‑Cell Demand",
-    "description": "The rapid expansion of AI data centers is boosting the market for fuel cells, as power and cooling needs grow.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "The rapid expansion of AI data centers is boosting the market for fuel cells, as power and cooling needs grow.",
-    "page": "articles/ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand-10936893/"
     ]
   }
 ]
