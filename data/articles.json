@@ -1,5 +1,22 @@
 [
   {
+    "id": "apple-s-new-ceo-signals-a-shift-away-from-ai-first-strategy-2026-11-01",
+    "title": "Apple’s New CEO Signals a Shift Away From AI‑First Strategy",
+    "description": "Apple’s latest leadership signals a deliberate pause on AI product rollouts, focusing instead on core hardware and privacy.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest leadership signals a deliberate pause on AI product rollouts, focusing instead on core hardware and privacy.",
+    "page": "articles/apple-s-new-ceo-signals-a-shift-away-from-ai-first-strategy-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    ]
+  },
+  {
     "id": "bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31",
     "title": "Bolt Graphics Announces Successful Test Run of Its First Zeus GPU",
     "description": "Bolt Graphics reports a milestone with a successful test run of its simulation‑centric Zeus GPU, marking a significant step toward its launch.",
@@ -1785,24 +1802,6 @@
     "page": "articles/scientists-trap-antimatter-particle-for-months-to-unlock-its-secrets-2026-10-26.html",
     "source_urls": [
       "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
-    ]
-  },
-  {
-    "id": "atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25",
-    "title": "Atuin Lets Developers Sync Terminal History Across PCs",
-    "description": "A free tool called Atuin syncs command‑line history between computers, helping developers keep track of commands they use on multiple machines.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-25",
-    "readTime": "3 min read",
-    "excerpt": "A free tool called Atuin syncs command‑line history between computers, helping developers keep track of commands they use on multiple machines.",
-    "page": "articles/atuin-lets-developers-sync-terminal-history-across-pcs-2026-10-25.html",
-    "source_urls": [
-      "https://www.xda-developers.com/this-free-tool-syncs-terminal-history-between-pcs-belongs-every-developers-machine/"
     ]
   }
 ]
