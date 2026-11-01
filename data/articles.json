@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01",
+    "title": "AI Giants Offer New Scraping‑Blocking Tool for Publishers",
+    "description": "Major AI companies unveil a unified approach to curb web scraping, easing the burden on publishers who currently juggle multiple bot‑blocking rules.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Major AI companies unveil a unified approach to curb web scraping, easing the burden on publishers who currently juggle multiple bot‑blocking rules.",
+    "page": "articles/ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-publishers-new-way-to-block-some-scraping/article71648159.ece"
+    ]
+  },
+  {
     "id": "govee-christmas-lights-2-deal-save-25-on-full-color-smart-string-lights-2026-11-01",
     "title": "Govee Christmas Lights 2 Deal: Save $25 on Full‑Color Smart String Lights",
     "description": "Govee’s latest smart string lights are now 25% off, offering full‑color control and versatile indoor/outdoor use.",
@@ -1785,24 +1803,6 @@
     "page": "articles/ai-data-centers-drive-surge-in-fuel-cell-demand-2026-10-26.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand-10936893/"
-    ]
-  },
-  {
-    "id": "google-s-ai-driven-personalisation-could-shift-targeted-advertising-2026-10-26",
-    "title": "Google’s AI‑Driven Personalisation Could Shift Targeted Advertising",
-    "description": "Google is testing AI‑powered personalisation that may enable more precise ad targeting based on user data, raising questions about privacy and ad effectiveness.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Google is testing AI‑powered personalisation that may enable more precise ad targeting based on user data, raising questions about privacy and ad effectiveness.",
-    "page": "articles/google-s-ai-driven-personalisation-could-shift-targeted-advertising-2026-10-26.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/googles-ai-personalisation-targeted-ads-user-data-10936203/"
     ]
   }
 ]
