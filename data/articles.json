@@ -1,5 +1,23 @@
 [
   {
+    "id": "everbloom-unveils-renoa-the-first-new-fiber-in-25-years-2026-11-01",
+    "title": "Everbloom Unveils RENOA, the First New Fiber in 25 Years",
+    "description": "Startup Everbloom introduces RENOA, a novel fiber material that promises to refresh the textile industry after a 25‑year lull.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-01",
+    "readTime": "3 min read",
+    "excerpt": "Startup Everbloom introduces RENOA, a novel fiber material that promises to refresh the textile industry after a 25‑year lull.",
+    "page": "articles/everbloom-unveils-renoa-the-first-new-fiber-in-25-years-2026-11-01.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    ]
+  },
+  {
     "id": "claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01",
     "title": "Claude Makes Home Assistant Setup a One‑Click Experience",
     "description": "Claude’s new integration lets users launch Home Assistant with a single click, offering a safe, streamlined smart‑home setup.",
@@ -1784,24 +1802,6 @@
     "page": "articles/original-xbox-emulator-hakux-receives-major-performance-boost-on-android-2026-10-26.html",
     "source_urls": [
       "https://www.androidauthority.com/hakux-original-xbox-emulator-android-3727845/"
-    ]
-  },
-  {
-    "id": "ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26",
-    "title": "iFixit Teardown Reveals Why iPhone Duo Screens Crack",
-    "description": "iFixit’s detailed teardown of Apple’s foldable iPhone Duo shows how the complex hinge and display design can lead to cracked screens.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "iFixit’s detailed teardown of Apple’s foldable iPhone Duo shows how the complex hinge and display design can lead to cracked screens.",
-    "page": "articles/ifixit-teardown-reveals-why-iphone-duo-screens-crack-2026-10-26.html",
-    "source_urls": [
-      "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/"
     ]
   }
 ]
