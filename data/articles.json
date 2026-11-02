@@ -1,5 +1,22 @@
 [
   {
+    "id": "ford-announces-privacy-promise-to-reassure-vehicle-data-users-2026-11-02",
+    "title": "Ford Announces ‘Privacy Promise’ to Reassure Vehicle Data Users",
+    "description": "Ford unveils a new privacy commitment, detailing how it safeguards driver data and explains its data usage practices.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "Ford unveils a new privacy commitment, detailing how it safeguards driver data and explains its data usage practices.",
+    "page": "articles/ford-announces-privacy-promise-to-reassure-vehicle-data-users-2026-11-02.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
+    ]
+  },
+  {
     "id": "technostruct-launches-autodesk-partnership-to-drive-digital-twins-in-india-2026-11-02",
     "title": "TechnoStruct Launches Autodesk Partnership to Drive Digital Twins in India",
     "description": "TechnoStruct partners with Autodesk to bring advanced BIM and digital twin solutions to Indian AEC firms.",
@@ -1786,24 +1803,6 @@
     "page": "articles/jsaux-flipgo-dual-screen-portable-monitor-delivers-touch-enabled-displays-and-built-in-hub-2026-10-27.html",
     "source_urls": [
       "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review"
-    ]
-  },
-  {
-    "id": "apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27",
-    "title": "Apple Unveils Slimmer iPad Mini with 8.5‑inch OLED Display",
-    "description": "Apple’s new iPad Mini is thinner, lighter and sports a larger OLED screen, marking a significant design shift for the popular tablet.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s new iPad Mini is thinner, lighter and sports a larger OLED screen, marking a significant design shift for the popular tablet.",
-    "page": "articles/apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/apple-unveils-new-ipad-mini-with-thinner-design/article71630115.ece"
     ]
   }
 ]
