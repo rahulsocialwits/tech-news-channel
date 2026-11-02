@@ -1,5 +1,24 @@
 [
   {
+    "id": "ai-driven-windows-malware-uses-claude-to-rank-victims-assets-2026-11-02",
+    "title": "AI‑Driven Windows Malware Uses Claude to Rank Victims’ Assets",
+    "description": "A new Windows infostealer leverages OpenAI’s Claude to prioritize stolen data before self‑destructing, according to Cisco Talos.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "A new Windows infostealer leverages OpenAI’s Claude to prioritize stolen data before self‑destructing, according to Cisco Talos.",
+    "page": "articles/ai-driven-windows-malware-uses-claude-to-rank-victims-assets-2026-11-02.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely"
+    ]
+  },
+  {
     "id": "motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01",
     "title": "Motorola Signature 27 Unveiled: A New Era of Foldable Android Phones",
     "description": "Motorola’s Signature 27 drops a 7.6‑inch OLED foldable with a 120 Hz refresh rate, a 120 MP main camera, and a 5000‑mAh battery, promising a premium experience at a competitive price.",
@@ -1783,24 +1802,6 @@
     "page": "articles/anthropic-s-ipo-filing-reveals-enterprise-focused-strategy-2026-10-26.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-    ]
-  },
-  {
-    "id": "asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26",
-    "title": "Asus ROG Xbox Ally X20 Delivers OLED Brilliance and Comfort for Handheld Gamers",
-    "description": "The new Asus ROG Xbox Ally X20 handheld offers an OLED display, improved ergonomics and AMD-powered performance, making it a top choice for on‑the‑go gamers.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "The new Asus ROG Xbox Ally X20 handheld offers an OLED display, improved ergonomics and AMD-powered performance, making it a top choice for on‑the‑go gamers.",
-    "page": "articles/asus-rog-xbox-ally-x20-delivers-oled-brilliance-and-comfort-for-handheld-gamers-2026-10-26.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen"
     ]
   }
 ]
