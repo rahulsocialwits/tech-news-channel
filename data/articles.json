@@ -1,5 +1,23 @@
 [
   {
+    "id": "mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02",
+    "title": "MediaTek Eyes AI Breakthrough Beyond Smartphones",
+    "description": "MediaTek plans to expand its AI ambitions with affordable devices, useful apps and partner ecosystems, according to a recent TechNewsWorld analysis.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "MediaTek plans to expand its AI ambitions with affordable devices, useful apps and partner ecosystems, according to a recent TechNewsWorld analysis.",
+    "page": "articles/mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/is-mediatek-ready-for-its-ai-breakout-180710.html?rss=1"
+    ]
+  },
+  {
     "id": "lenovo-qira-aims-to-deliver-a-trusted-personal-ai-assistant-2026-11-02",
     "title": "Lenovo Qira Aims to Deliver a Trusted Personal AI Assistant",
     "description": "Lenovo’s new Qira assistant promises privacy, reliability and cross‑device support, aiming to improve on past digital assistants.",
@@ -1785,24 +1803,6 @@
     "page": "articles/nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
-    ]
-  },
-  {
-    "id": "openai-claims-breakthrough-exponential-time-hypothesis-proven-false-by-new-model-2026-10-27",
-    "title": "OpenAI Claims Breakthrough: Exponential Time Hypothesis Proven False by New Model",
-    "description": "OpenAI announced that its latest models generated a proof that the Exponential Time Hypothesis is false, marking a milestone in theoretical computer science.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI announced that its latest models generated a proof that the Exponential Time Hypothesis is false, marking a milestone in theoretical computer science.",
-    "page": "articles/openai-claims-breakthrough-exponential-time-hypothesis-proven-false-by-new-model-2026-10-27.html",
-    "source_urls": [
-      "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
     ]
   }
 ]
