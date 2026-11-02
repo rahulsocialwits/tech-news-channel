@@ -1,5 +1,23 @@
 [
   {
+    "id": "ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02",
+    "title": "Ninja Unveils First Microwave That Combines Air‑Fry and Microwave Speed",
+    "description": "The Ninja Crispi Microwave introduces FusionCrisp technology, delivering fast heating with crispy results, positioning it as a dual‑function kitchen appliance.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "The Ninja Crispi Microwave introduces FusionCrisp technology, delivering fast heating with crispy results, positioning it as a dual‑function kitchen appliance.",
+    "page": "articles/ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
+    ]
+  },
+  {
     "id": "qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02",
     "title": "Qwenputer Blends AI and CPU in a Single Model, Running Doom Inside Its Weights",
     "description": "An experimental Qwen 3.5 4B LLM now contains a 32‑bit RISC‑V CPU, enabling it to execute code and even run the classic game Doom directly from its neural weights.",
@@ -1785,24 +1803,6 @@
     "page": "articles/banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27.html",
     "source_urls": [
       "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
-    ]
-  },
-  {
-    "id": "intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27",
-    "title": "Intel’s APX Extension Promises Windows 11 Performance Boost",
-    "description": "Intel’s Advanced Performance Extensions (APX) could give Windows 11 users a noticeable speed lift, according to Microsoft’s early testing.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Intel’s Advanced Performance Extensions (APX) could give Windows 11 users a noticeable speed lift, according to Microsoft’s early testing.",
-    "page": "articles/intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus"
     ]
   }
 ]
