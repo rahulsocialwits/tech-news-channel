@@ -1,5 +1,23 @@
 [
   {
+    "id": "qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02",
+    "title": "Qwenputer Blends AI and CPU in a Single Model, Running Doom Inside Its Weights",
+    "description": "An experimental Qwen 3.5 4B LLM now contains a 32‑bit RISC‑V CPU, enabling it to execute code and even run the classic game Doom directly from its neural weights.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "An experimental Qwen 3.5 4B LLM now contains a 32‑bit RISC‑V CPU, enabling it to execute code and even run the classic game Doom directly from its neural weights.",
+    "page": "articles/qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom"
+    ]
+  },
+  {
     "id": "mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02",
     "title": "MediaTek Eyes AI Breakthrough Beyond Smartphones",
     "description": "MediaTek plans to expand its AI ambitions with affordable devices, useful apps and partner ecosystems, according to a recent TechNewsWorld analysis.",
@@ -1785,24 +1803,6 @@
     "page": "articles/intel-s-apx-extension-promises-windows-11-performance-boost-2026-10-27.html",
     "source_urls": [
       "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus"
-    ]
-  },
-  {
-    "id": "nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27",
-    "title": "Nvidia Invests in Indian Startup Simplismart to Cut GPU Demand for AI Workloads",
-    "description": "Nvidia’s latest funding round backs Simplismart, a Bengaluru‑based company that claims to reduce the GPU count needed for running AI models, boosting efficiency for enterprises worldwide.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s latest funding round backs Simplismart, a Bengaluru‑based company that claims to reduce the GPU count needed for running AI models, boosting efficiency for enterprises worldwide.",
-    "page": "articles/nvidia-invests-in-indian-startup-simplismart-to-cut-gpu-demand-for-ai-workloads-2026-10-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
     ]
   }
 ]
