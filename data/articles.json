@@ -1,5 +1,23 @@
 [
   {
+    "id": "brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02",
+    "title": "Brazilian Lawyers Caught Using Prompt Injection to Influence Court AI",
+    "description": "A Brazilian labor case saw lawyers attempt to manipulate a court’s AI system with hidden prompt injection, but the scheme was uncovered and the lawyers were fined.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "A Brazilian labor case saw lawyers attempt to manipulate a court’s AI system with hidden prompt injection, but the scheme was uncovered and the lawyers were fined.",
+    "page": "articles/brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000"
+    ]
+  },
+  {
     "id": "apple-unveils-iphone-duo-the-first-foldable-smartphone-that-packs-a-punch-2026-11-02",
     "title": "Apple Unveils iPhone Duo: The First Foldable Smartphone That Packs a Punch",
     "description": "Apple’s new iPhone Duo folds into a 7.9‑inch tablet‑size display, offering a larger screen for multitasking while keeping a premium price tag.",
@@ -1784,24 +1802,6 @@
     "page": "articles/intel-s-raptor-lake-next-cpus-early-confirmation-from-internal-driver-and-shipping-manifes-2026-10-27.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august"
-    ]
-  },
-  {
-    "id": "openai-s-new-dots-assistant-turns-coding-tools-into-always-on-personal-helpers-2026-10-27",
-    "title": "OpenAI’s New ‘Dots’ Assistant Turns Coding Tools Into Always‑On Personal Helpers",
-    "description": "OpenAI has rebranded its coding tools as ‘dots’, creating an always‑on personal assistant that integrates with developers’ workflows.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI has rebranded its coding tools as ‘dots’, creating an always‑on personal assistant that integrates with developers’ workflows.",
-    "page": "articles/openai-s-new-dots-assistant-turns-coding-tools-into-always-on-personal-helpers-2026-10-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
     ]
   }
 ]
