@@ -1,5 +1,23 @@
 [
   {
+    "id": "technostruct-launches-autodesk-partnership-to-drive-digital-twins-in-india-2026-11-02",
+    "title": "TechnoStruct Launches Autodesk Partnership to Drive Digital Twins in India",
+    "description": "TechnoStruct partners with Autodesk to bring advanced BIM and digital twin solutions to Indian AEC firms.",
+    "category": "Enterprise",
+    "labels": [
+      "Enterprise",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "TechnoStruct partners with Autodesk to bring advanced BIM and digital twin solutions to Indian AEC firms.",
+    "page": "articles/technostruct-launches-autodesk-partnership-to-drive-digital-twins-in-india-2026-11-02.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/shaping-tomorrows-built-world-technostruct-group-brings-aec-leaders-together-at-tech-talks-2026-mumbai/"
+    ]
+  },
+  {
     "id": "new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02",
     "title": "New AI‑Enhanced Malware Profiling Tool Promises Rapid Victim Identification",
     "description": "A novel AI system called Volta‑Autodoxer can profile malware victims in seconds, offering a new defensive capability for cybersecurity teams.",
@@ -1786,24 +1804,6 @@
     "page": "articles/apple-unveils-slimmer-ipad-mini-with-8-5-inch-oled-display-2026-10-27.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/apple-unveils-new-ipad-mini-with-thinner-design/article71630115.ece"
-    ]
-  },
-  {
-    "id": "grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27",
-    "title": "Grok’s AI-Generated ‘The Odyssey’ Admits Historical Inaccuracy",
-    "description": "The AI model Grok acknowledges its rendition of Homer’s epic falls short of historical accuracy, following Elon Musk’s earlier claims of superiority.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "The AI model Grok acknowledges its rendition of Homer’s epic falls short of historical accuracy, following Elon Musk’s earlier claims of superiority.",
-    "page": "articles/grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27.html",
-    "source_urls": [
-      "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"
     ]
   }
 ]
