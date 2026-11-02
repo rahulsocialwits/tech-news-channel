@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-adds-system-status-bar-to-wear-os-apps-in-upcoming-update-2026-11-02",
+    "title": "Google Adds System Status Bar to Wear OS Apps in Upcoming Update",
+    "description": "Google announced that a future Wear OS release will include a system status bar, improving app integration on smartwatches.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "Google announced that a future Wear OS release will include a system status bar, improving app integration on smartwatches.",
+    "page": "articles/google-adds-system-status-bar-to-wear-os-apps-in-upcoming-update-2026-11-02.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "https://www.androidauthority.com/wear-os-android-feature-system-status-bar-3730455/"
+    ]
+  },
+  {
     "id": "brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02",
     "title": "Brazilian Lawyers Caught Using Prompt Injection to Influence Court AI",
     "description": "A Brazilian labor case saw lawyers attempt to manipulate a court’s AI system with hidden prompt injection, but the scheme was uncovered and the lawyers were fined.",
@@ -1784,24 +1803,6 @@
     "page": "articles/hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27.html",
     "source_urls": [
       "https://www.technewsworld.com/story/hps-latex-wraps-open-the-door-to-more-car-color-choices-180692.html?rss=1"
-    ]
-  },
-  {
-    "id": "intel-s-raptor-lake-next-cpus-early-confirmation-from-internal-driver-and-shipping-manifes-2026-10-27",
-    "title": "Intel’s Raptor Lake Next CPUs: Early Confirmation from Internal Driver and Shipping Manifest",
-    "description": "Intel quietly confirms the next generation of Raptor Lake CPUs with internal driver data and early shipping manifests, hinting at imminent availability for LGA‑1700 users.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Intel quietly confirms the next generation of Raptor Lake CPUs with internal driver data and early shipping manifests, hinting at imminent availability for LGA‑1700 users.",
-    "page": "articles/intel-s-raptor-lake-next-cpus-early-confirmation-from-internal-driver-and-shipping-manifes-2026-10-27.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august"
     ]
   }
 ]
