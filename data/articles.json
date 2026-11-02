@@ -1,5 +1,23 @@
 [
   {
+    "id": "spacex-eyes-boost-mobile-acquisition-to-expand-starlink-powered-wireless-reach-2026-11-02",
+    "title": "SpaceX Eyes Boost Mobile Acquisition to Expand Starlink‑Powered Wireless Reach",
+    "description": "SpaceX is reportedly exploring a purchase of Boost Mobile to leverage its Starlink satellite network for terrestrial mobile service, positioning the company against AT&T, T‑Mobile and Verizon.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Startups"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "SpaceX is reportedly exploring a purchase of Boost Mobile to leverage its Starlink satellite network for terrestrial mobile service, positioning the company against AT&T, T‑Mobile and Verizon.",
+    "page": "articles/spacex-eyes-boost-mobile-acquisition-to-expand-starlink-powered-wireless-reach-2026-11-02.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+    ]
+  },
+  {
     "id": "omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02",
     "title": "Omen AI Acquires Aquatic Labs to Tackle Data‑Center Water Challenges",
     "description": "Omen AI’s $16 million purchase of Aquatic Labs brings liquid‑management expertise to the data‑center sustainability arena.",
@@ -1785,24 +1803,6 @@
     "page": "articles/meta-ai-director-rohit-patel-leaves-to-launch-ndoc-a-new-office-suite-challenger-2026-10-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-    ]
-  },
-  {
-    "id": "apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27",
-    "title": "Apple Unveils iOS 27.2, Adding New Siri Languages and Security Fixes",
-    "description": "Apple’s latest iOS 27.2 update expands Siri’s language support and patches critical security issues for iPhones and iPads.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest iOS 27.2 update expands Siri’s language support and patches critical security issues for iPhones and iPads.",
-    "page": "articles/apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
     ]
   }
 ]
