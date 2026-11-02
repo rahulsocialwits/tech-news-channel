@@ -1,5 +1,23 @@
 [
   {
+    "id": "chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02",
+    "title": "ChatGPT to Leverage Android Health Data via Google Health Integration",
+    "description": "Google Health integration will let Android users feed their health data into ChatGPT, enabling personalized insights and recommendations.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "Google Health integration will let Android users feed their health data into ChatGPT, enabling personalized insights and recommendations.",
+    "page": "articles/chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02.html",
+    "source_urls": [
+      "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/"
+    ]
+  },
+  {
     "id": "google-adds-system-status-bar-to-wear-os-apps-in-upcoming-update-2026-11-02",
     "title": "Google Adds System Status Bar to Wear OS Apps in Upcoming Update",
     "description": "Google announced that a future Wear OS release will include a system status bar, improving app integration on smartwatches.",
@@ -1786,23 +1804,6 @@
     "page": "articles/google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27.html",
     "source_urls": [
       "https://www.androidauthority.com/google-docs-markdown-support-3728330/"
-    ]
-  },
-  {
-    "id": "hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27",
-    "title": "HP’s Latex Wraps Open the Door to More Car Color Choices",
-    "description": "HP partners with Ferrari to create customizable car wraps that expand color options and dealer services.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "HP partners with Ferrari to create customizable car wraps that expand color options and dealer services.",
-    "page": "articles/hp-s-latex-wraps-open-the-door-to-more-car-color-choices-2026-10-27.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/hps-latex-wraps-open-the-door-to-more-car-color-choices-180692.html?rss=1"
     ]
   }
 ]
