@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02",
+    "title": "New AI‑Enhanced Malware Profiling Tool Promises Rapid Victim Identification",
+    "description": "A novel AI system called Volta‑Autodoxer can profile malware victims in seconds, offering a new defensive capability for cybersecurity teams.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "A novel AI system called Volta‑Autodoxer can profile malware victims in seconds, offering a new defensive capability for cybersecurity teams.",
+    "page": "articles/new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/new-ai-malware-what-is-volta-autodoxer-10946844/"
+    ]
+  },
+  {
     "id": "chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02",
     "title": "ChatGPT to Leverage Android Health Data via Google Health Integration",
     "description": "Google Health integration will let Android users feed their health data into ChatGPT, enabling personalized insights and recommendations.",
@@ -1786,24 +1804,6 @@
     "page": "articles/grok-s-ai-generated-the-odyssey-admits-historical-inaccuracy-2026-10-27.html",
     "source_urls": [
       "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"
-    ]
-  },
-  {
-    "id": "google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27",
-    "title": "Google Docs Finally Resolves Markdown Compatibility Issues",
-    "description": "Google Docs has fixed a long‑standing problem that prevented Markdown files from opening correctly, improving workflow for users who rely on the format.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Google Docs has fixed a long‑standing problem that prevented Markdown files from opening correctly, improving workflow for users who rely on the format.",
-    "page": "articles/google-docs-finally-resolves-markdown-compatibility-issues-2026-10-27.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-docs-markdown-support-3728330/"
     ]
   }
 ]
