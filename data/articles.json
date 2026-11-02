@@ -1,5 +1,23 @@
 [
   {
+    "id": "nintendo-switch-2-hits-the-market-at-a-record-low-price-2026-11-02",
+    "title": "Nintendo Switch 2 Hits the Market at a Record Low Price",
+    "description": "Nintendo’s latest handheld console, the Switch 2, is now available for $469, a $30 discount from its launch price, offering gamers a powerful yet affordable gaming experience.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "Nintendo’s latest handheld console, the Switch 2, is now available for $469, a $30 discount from its launch price, offering gamers a powerful yet affordable gaming experience.",
+    "page": "articles/nintendo-switch-2-hits-the-market-at-a-record-low-price-2026-11-02.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale"
+    ]
+  },
+  {
     "id": "gog-eyes-physical-pc-game-releases-as-a-new-revenue-stream-2026-11-02",
     "title": "GOG Eyes Physical PC Game Releases as a New Revenue Stream",
     "description": "GOG plans to sell boxed PC games, offering a physical alternative to digital downloads while navigating logistics and publisher approvals.",
@@ -1784,24 +1802,6 @@
     "page": "articles/google-photos-unveils-customizable-collections-tab-in-major-redesign-2026-10-27.html",
     "source_urls": [
       "https://9to5google.com/2026/10/26/google-photos-collections-redesign/"
-    ]
-  },
-  {
-    "id": "bedrock-robotics-secures-600-million-to-accelerate-autonomous-excavator-deployment-2026-10-26",
-    "title": "Bedrock Robotics Secures $600 Million to Accelerate Autonomous Excavator Deployment",
-    "description": "Bedrock Robotics raises $600 million in a Series C round, valuing the autonomous construction startup at $4.1 billion as it tackles operator shortages in the heavy‑equipment sector.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-26",
-    "readTime": "3 min read",
-    "excerpt": "Bedrock Robotics raises $600 million in a Series C round, valuing the autonomous construction startup at $4.1 billion as it tackles operator shortages in the heavy‑equipment sector.",
-    "page": "articles/bedrock-robotics-secures-600-million-to-accelerate-autonomous-excavator-deployment-2026-10-26.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
     ]
   }
 ]
