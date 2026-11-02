@@ -1,5 +1,23 @@
 [
   {
+    "id": "omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02",
+    "title": "Omen AI Acquires Aquatic Labs to Tackle Data‑Center Water Challenges",
+    "description": "Omen AI’s $16 million purchase of Aquatic Labs brings liquid‑management expertise to the data‑center sustainability arena.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-02",
+    "readTime": "3 min read",
+    "excerpt": "Omen AI’s $16 million purchase of Aquatic Labs brings liquid‑management expertise to the data‑center sustainability arena.",
+    "page": "articles/omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    ]
+  },
+  {
     "id": "ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02",
     "title": "Ninja Unveils First Microwave That Combines Air‑Fry and Microwave Speed",
     "description": "The Ninja Crispi Microwave introduces FusionCrisp technology, delivering fast heating with crispy results, positioning it as a dual‑function kitchen appliance.",
@@ -1785,24 +1803,6 @@
     "page": "articles/apple-unveils-ios-27-2-adding-new-siri-languages-and-security-fixes-2026-10-27.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
-    ]
-  },
-  {
-    "id": "banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27",
-    "title": "Banks Tighten Controls on AI Agents Amid Account‑Security Concerns",
-    "description": "Major banks are limiting AI agent access to customer accounts as they weigh security risks and regulatory scrutiny.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Major banks are limiting AI agent access to customer accounts as they weigh security risks and regulatory scrutiny.",
-    "page": "articles/banks-tighten-controls-on-ai-agents-amid-account-security-concerns-2026-10-27.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
     ]
   }
 ]
