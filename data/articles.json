@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03",
+    "title": "Samsung Galaxy S26 FE Drops to $699 on Amazon, Offering 120Hz AMOLED and 7 Years of Updates",
+    "description": "Samsung’s Galaxy S26 FE 256GB now available on Amazon for $699, featuring a 6.7‑inch 120Hz AMOLED display and a seven‑year update promise.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s Galaxy S26 FE 256GB now available on Amazon for $699, featuring a 6.7‑inch 120Hz AMOLED display and a seven‑year update promise.",
+    "page": "articles/samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03.html",
+    "source_urls": [
+      "https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/"
+    ]
+  },
+  {
     "id": "xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03",
     "title": "Xiaomi Unveils Android 17 HyperOS 4 Rollout for Android 17 Devices",
     "description": "Xiaomi, Redmi and Poco phones receive Android 17 HyperOS 4 update today, bringing new features and performance improvements.",
@@ -1785,24 +1803,6 @@
     "page": "articles/amazon-leo-secures-fcc-approval-to-acquire-globalstar-in-11-5-b-deal-2026-10-28.html",
     "source_urls": [
       "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/"
-    ]
-  },
-  {
-    "id": "amazon-expands-echo-line-with-new-photo-frame-bedside-clock-and-ai-enhanced-show-16-2026-10-28",
-    "title": "Amazon Expands Echo Line with New Photo Frame, Bedside Clock and AI‑Enhanced Show 16",
-    "description": "Amazon launches a photo‑display Echo Studio, a bedside clock Echo, and an AI‑generated interface for the Echo Show 16, broadening its smart‑home ecosystem.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Amazon launches a photo‑display Echo Studio, a bedside clock Echo, and an AI‑generated interface for the Echo Show 16, broadening its smart‑home ecosystem.",
-    "page": "articles/amazon-expands-echo-line-with-new-photo-frame-bedside-clock-and-ai-enhanced-show-16-2026-10-28.html",
-    "source_urls": [
-      "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
     ]
   }
 ]
