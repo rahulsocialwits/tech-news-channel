@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-tests-load-shedding-to-cut-data-center-energy-during-peak-hours-2026-11-03",
+    "title": "OpenAI Tests Load‑Shedding to Cut Data‑Center Energy During Peak Hours",
+    "description": "OpenAI pilots a grid‑protectors program that temporarily reduces power to its AI servers when demand spikes, aiming to ease strain on the electric grid.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI pilots a grid‑protectors program that temporarily reduces power to its AI servers when demand spikes, aiming to ease strain on the electric grid.",
+    "page": "articles/openai-tests-load-shedding-to-cut-data-center-energy-during-peak-hours-2026-11-03.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia"
+    ]
+  },
+  {
     "id": "samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03",
     "title": "Samsung Galaxy S26 FE Drops to $699 on Amazon, Offering 120Hz AMOLED and 7 Years of Updates",
     "description": "Samsung’s Galaxy S26 FE 256GB now available on Amazon for $699, featuring a 6.7‑inch 120Hz AMOLED display and a seven‑year update promise.",
@@ -1785,24 +1803,6 @@
     "page": "articles/amazon-unveils-echo-dot-6th-gen-with-built-in-smart-home-hub-2026-10-28.html",
     "source_urls": [
       "https://www.androidauthority.com/amazon-launches-echo-dot-6th-gen-3729112/"
-    ]
-  },
-  {
-    "id": "amazon-leo-secures-fcc-approval-to-acquire-globalstar-in-11-5-b-deal-2026-10-28",
-    "title": "Amazon Leo Secures FCC Approval to Acquire Globalstar in $11.5 B Deal",
-    "description": "Amazon’s satellite arm, Amazon Leo, has received FCC clearance to buy Globalstar, expanding its mobile‑satellite services.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Amazon’s satellite arm, Amazon Leo, has received FCC clearance to buy Globalstar, expanding its mobile‑satellite services.",
-    "page": "articles/amazon-leo-secures-fcc-approval-to-acquire-globalstar-in-11-5-b-deal-2026-10-28.html",
-    "source_urls": [
-      "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/"
     ]
   }
 ]
