@@ -1,5 +1,23 @@
 [
   {
+    "id": "windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03",
+    "title": "Windows 11 26H2 Runs on 128 MB of RAM in a Stripped‑Down Build",
+    "description": "A developer has shown Windows 11 26H2 can operate with just 128 MB of memory, retaining basic desktop functions in a minimal installation.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "A developer has shown Windows 11 26H2 can operate with just 128 MB of memory, retaining basic desktop functions in a minimal installation.",
+    "page": "articles/windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03.html",
+    "source_urls": [
+      "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad"
+    ]
+  },
+  {
     "id": "apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03",
     "title": "Apple to Enforce Age Ratings on Dating Apps, Including AI Companions",
     "description": "Apple will require developers to disclose whether their dating apps connect real people or AI companions, enabling proper age ratings.",
@@ -1785,24 +1803,6 @@
     "source_urls": [
       "https://www.androidauthority.com/google-genie-4-ai-world-model-launched-3728951/",
       "https://9to5google.com/2026/10/27/gemini-notebook-recorder/"
-    ]
-  },
-  {
-    "id": "slate-truck-s-missing-4wd-option-could-cost-enthusiasts-a-deal-2026-10-28",
-    "title": "Slate Truck’s Missing 4WD Option Could Cost Enthusiasts a Deal",
-    "description": "The Slate Truck’s lack of a 4WD option may turn off buyers who want off‑road capability, according to Engadget.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "The Slate Truck’s lack of a 4WD option may turn off buyers who want off‑road capability, according to Engadget.",
-    "page": "articles/slate-truck-s-missing-4wd-option-could-cost-enthusiasts-a-deal-2026-10-28.html",
-    "source_urls": [
-      "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/"
     ]
   }
 ]
