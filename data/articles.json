@@ -1,5 +1,23 @@
 [
   {
+    "id": "xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03",
+    "title": "Xiaomi Unveils Android 17 HyperOS 4 Rollout for Android 17 Devices",
+    "description": "Xiaomi, Redmi and Poco phones receive Android 17 HyperOS 4 update today, bringing new features and performance improvements.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Xiaomi, Redmi and Poco phones receive Android 17 HyperOS 4 update today, bringing new features and performance improvements.",
+    "page": "articles/xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"
+    ]
+  },
+  {
     "id": "samsung-expands-sleep-apnea-detection-to-galaxy-watch-and-ring-2026-11-03",
     "title": "Samsung Expands Sleep Apnea Detection to Galaxy Watch and Ring",
     "description": "Samsung rolls out upgraded sleep apnea detection to newer Galaxy Watch models and the Galaxy Ring, offering broader health monitoring for users.",
@@ -1785,23 +1803,6 @@
     "page": "articles/amazon-expands-echo-line-with-new-photo-frame-bedside-clock-and-ai-enhanced-show-16-2026-10-28.html",
     "source_urls": [
       "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
-    ]
-  },
-  {
-    "id": "jio-debuts-as-india-s-second-most-valuable-company-after-blockbuster-ipo-2026-10-28",
-    "title": "Jio Debuts as India’s Second‑Most Valuable Company After Blockbuster IPO",
-    "description": "Jio’s market debut sees shares surge 21%, positioning it as India’s second‑most valuable listed company behind Reliance Industries.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Jio’s market debut sees shares surge 21%, positioning it as India’s second‑most valuable listed company behind Reliance Industries.",
-    "page": "articles/jio-debuts-as-india-s-second-most-valuable-company-after-blockbuster-ipo-2026-10-28.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
     ]
   }
 ]
