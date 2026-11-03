@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-eyes-ai-compute-campuses-as-data-center-backlash-grows-2026-11-03",
+    "title": "OpenAI Eyes ‘AI Compute Campuses’ as Data‑Center Backlash Grows",
+    "description": "OpenAI is rebranding its data centers to ‘AI compute campuses’ to address rising concerns over energy use, water consumption and pollution amid growing public scrutiny.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI is rebranding its data centers to ‘AI compute campuses’ to address rising concerns over energy use, water consumption and pollution amid growing public scrutiny.",
+    "page": "articles/openai-eyes-ai-compute-campuses-as-data-center-backlash-grows-2026-11-03.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+    ]
+  },
+  {
     "id": "verizon-ceo-projects-4-6-year-500b-road-to-compete-with-spacex-in-wireless-2026-11-02",
     "title": "Verizon CEO Projects 4‑6 Year, $500B Road to Compete with SpaceX in Wireless",
     "description": "Verizon’s chief executive outlines a multi‑year, multi‑hundred‑billion‑dollar plan to rival SpaceX’s satellite‑based wireless ambitions.",
@@ -1784,24 +1802,6 @@
     "page": "articles/tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months"
-    ]
-  },
-  {
-    "id": "ford-unveils-fathom-the-cheapest-american-ev-that-can-power-your-home-2026-10-27",
-    "title": "Ford Unveils Fathom, the Cheapest American EV That Can Power Your Home",
-    "description": "Ford’s new Fathom electric vehicle offers V2X capability, allowing it to supply power to homes and the grid at an unprecedented low price.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "Ford’s new Fathom electric vehicle offers V2X capability, allowing it to supply power to homes and the grid at an unprecedented low price.",
-    "page": "articles/ford-unveils-fathom-the-cheapest-american-ev-that-can-power-your-home-2026-10-27.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
     ]
   }
 ]
