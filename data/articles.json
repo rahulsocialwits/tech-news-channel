@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-expands-dreambeans-to-13-indian-languages-bringing-ai-generated-stories-to-a-new-au-2026-11-03",
+    "title": "Google Expands Dreambeans to 13 Indian Languages, Bringing AI-Generated Stories to a New Audience",
+    "description": "Google’s Dreambeans AI platform now supports 13 Indian languages, enabling personalized story creation across the subcontinent.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Dreambeans AI platform now supports 13 Indian languages, enabling personalized story creation across the subcontinent.",
+    "page": "articles/google-expands-dreambeans-to-13-indian-languages-bringing-ai-generated-stories-to-a-new-au-2026-11-03.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece"
+    ]
+  },
+  {
     "id": "openai-eyes-ai-compute-campuses-as-data-center-backlash-grows-2026-11-03",
     "title": "OpenAI Eyes ‘AI Compute Campuses’ as Data‑Center Backlash Grows",
     "description": "OpenAI is rebranding its data centers to ‘AI compute campuses’ to address rising concerns over energy use, water consumption and pollution amid growing public scrutiny.",
@@ -1785,23 +1804,6 @@
     "source_urls": [
       "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
       "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
-    ]
-  },
-  {
-    "id": "tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27",
-    "title": "TSMC Considers Up to 20% CoWoS Price Hike Amid Nvidia Demand Surge",
-    "description": "TSMC may raise CoWoS advanced packaging costs by 20% as Nvidia’s Blackwell and Rubin chips strain capacity, with equipment lead times stretching to eight months.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-27",
-    "readTime": "3 min read",
-    "excerpt": "TSMC may raise CoWoS advanced packaging costs by 20% as Nvidia’s Blackwell and Rubin chips strain capacity, with equipment lead times stretching to eight months.",
-    "page": "articles/tsmc-considers-up-to-20-cowos-price-hike-amid-nvidia-demand-surge-2026-10-27.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months"
     ]
   }
 ]
