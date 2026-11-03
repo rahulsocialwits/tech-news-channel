@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-home-speaker-gets-first-discount-since-launch-2026-11-03",
+    "title": "Google Home Speaker Gets First Discount Since Launch",
+    "description": "Google offers a price cut on its Home Speaker, marking the first discount since the product’s June release.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Google offers a price cut on its Home Speaker, marking the first discount since the product’s June release.",
+    "page": "articles/google-home-speaker-gets-first-discount-since-launch-2026-11-03.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/02/google-home-speaker-discount/"
+    ]
+  },
+  {
     "id": "realme-unveils-harry-potter-themed-android-phone-turning-fans-into-collectors-2026-11-03",
     "title": "Realme Unveils Harry Potter‑Themed Android Phone, Turning Fans Into Collectors",
     "description": "Realme launches a limited‑edition Harry Potter phone with themed packaging, accessories and in‑store displays, targeting collectors and franchise fans.",
@@ -1785,24 +1803,6 @@
     "page": "articles/nationwide-php-vulnerability-forces-immediate-patching-nsa-urges-offline-measures-2026-10-28.html",
     "source_urls": [
       "https://www.technewsworld.com/story/internet-wide-threat-has-security-teams-scrambling-to-patch-php-180689.html?rss=1"
-    ]
-  },
-  {
-    "id": "turn-your-old-kindle-into-a-smart-display-with-a-few-tweaks-2026-10-28",
-    "title": "Turn Your Old Kindle Into a Smart Display With a Few Tweaks",
-    "description": "A guide shows how to repurpose a discarded Kindle into a useful display for home automation and media control.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "A guide shows how to repurpose a discarded Kindle into a useful display for home automation and media control.",
-    "page": "articles/turn-your-old-kindle-into-a-smart-display-with-a-few-tweaks-2026-10-28.html",
-    "source_urls": [
-      "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/"
     ]
   }
 ]
