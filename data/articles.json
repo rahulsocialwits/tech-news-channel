@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03",
+    "title": "Apple to Enforce Age Ratings on Dating Apps, Including AI Companions",
+    "description": "Apple will require developers to disclose whether their dating apps connect real people or AI companions, enabling proper age ratings.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Apple will require developers to disclose whether their dating apps connect real people or AI companions, enabling proper age ratings.",
+    "page": "articles/apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03.html",
+    "source_urls": [
+      "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/"
+    ]
+  },
+  {
     "id": "apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03",
     "title": "Apple WatchOS 27 Beta Adds Siri Recap and Live Rewind Audio Features",
     "description": "Apple’s latest watchOS 27 beta introduces AI‑powered Siri Recap and Live Rewind audio, expanding the Apple Watch’s voice assistant capabilities.",
@@ -1785,24 +1803,6 @@
     "page": "articles/slate-truck-s-missing-4wd-option-could-cost-enthusiasts-a-deal-2026-10-28.html",
     "source_urls": [
       "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/"
-    ]
-  },
-  {
-    "id": "apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28",
-    "title": "Apple CarPlay Gets Two New Features in iOS 27.2",
-    "description": "Apple’s latest iOS update adds new CarPlay capabilities, enhancing navigation and media control for drivers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest iOS update adds new CarPlay capabilities, enhancing navigation and media control for drivers.",
-    "page": "articles/apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28.html",
-    "source_urls": [
-      "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/"
     ]
   }
 ]
