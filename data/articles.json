@@ -1,5 +1,23 @@
 [
   {
+    "id": "banks-tighten-controls-on-ai-agents-amid-rising-account-security-concerns-2026-11-03",
+    "title": "Banks Tighten Controls on AI Agents Amid Rising Account‑Security Concerns",
+    "description": "Major banks are limiting the use of AI agents to protect customer accounts, balancing convenience with security risks.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Major banks are limiting the use of AI agents to protect customer accounts, balancing convenience with security risks.",
+    "page": "articles/banks-tighten-controls-on-ai-agents-amid-rising-account-security-concerns-2026-11-03.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
+    ]
+  },
+  {
     "id": "windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03",
     "title": "Windows 11 26H2 Runs on 128 MB of RAM in a Stripped‑Down Build",
     "description": "A developer has shown Windows 11 26H2 can operate with just 128 MB of memory, retaining basic desktop functions in a minimal installation.",
@@ -1784,25 +1802,6 @@
     "page": "articles/manufacturing-s-next-frontier-industrial-intelligence-drives-smart-factories-2026-10-28.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
-    ]
-  },
-  {
-    "id": "google-unveils-genie-4-the-first-ai-world-model-that-generates-realistic-audio-2026-10-28",
-    "title": "Google Unveils Genie 4, the First AI World Model That Generates Realistic Audio",
-    "description": "Google’s new Genie 4 world model can create lifelike soundscapes, marking a milestone in immersive AI experiences.",
-    "category": "Software",
-    "labels": [
-      "AI",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Google’s new Genie 4 world model can create lifelike soundscapes, marking a milestone in immersive AI experiences.",
-    "page": "articles/google-unveils-genie-4-the-first-ai-world-model-that-generates-realistic-audio-2026-10-28.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-genie-4-ai-world-model-launched-3728951/",
-      "https://9to5google.com/2026/10/27/gemini-notebook-recorder/"
     ]
   }
 ]
