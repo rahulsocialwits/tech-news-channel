@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03",
+    "title": "Apple WatchOS 27 Beta Adds Siri Recap and Live Rewind Audio Features",
+    "description": "Apple’s latest watchOS 27 beta introduces AI‑powered Siri Recap and Live Rewind audio, expanding the Apple Watch’s voice assistant capabilities.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-03",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest watchOS 27 beta introduces AI‑powered Siri Recap and Live Rewind audio, expanding the Apple Watch’s voice assistant capabilities.",
+    "page": "articles/apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03.html",
+    "source_urls": [
+      "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/"
+    ]
+  },
+  {
     "id": "canon-unveils-massive-november-promo-codes-slashing-prices-on-cameras-and-printers-2026-11-03",
     "title": "Canon Unveils Massive November Promo Codes, Slashing Prices on Cameras and Printers",
     "description": "Canon offers up to 30% off on cameras, printers, and more in November 2026, with additional savings via coupon codes.",
@@ -1785,23 +1803,6 @@
     "page": "articles/apple-carplay-gets-two-new-features-in-ios-27-2-2026-10-28.html",
     "source_urls": [
       "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/"
-    ]
-  },
-  {
-    "id": "spacex-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-28",
-    "title": "SpaceX Starlink Clears Regulatory Hurdle to Become Mobile Carrier",
-    "description": "SpaceX’s Starlink has received regulatory clearance to operate as a mobile carrier, opening a new path for satellite‑based wireless competition in the U.S. market.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "SpaceX’s Starlink has received regulatory clearance to operate as a mobile carrier, opening a new path for satellite‑based wireless competition in the U.S. market.",
-    "page": "articles/spacex-starlink-clears-regulatory-hurdle-to-become-mobile-carrier-2026-10-28.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/spacexs-starlink-clears-hurdle-to-becoming-mobile-carrier-180687.html?rss=1"
     ]
   }
 ]
