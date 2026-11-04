@@ -1,5 +1,23 @@
 [
   {
+    "id": "front-usb-ports-may-be-slowing-down-every-device-you-plug-in-2026-11-04",
+    "title": "Front USB Ports May Be Slowing Down Every Device You Plug In",
+    "description": "A new study shows that the front USB ports on many desktops can bottleneck performance for all connected devices.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "A new study shows that the front USB ports on many desktops can bottleneck performance for all connected devices.",
+    "page": "articles/front-usb-ports-may-be-slowing-down-every-device-you-plug-in-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/"
+    ]
+  },
+  {
     "id": "smartphone-apps-may-be-over-permitting-how-to-verify-and-tighten-access-2026-11-04",
     "title": "Smartphone Apps May Be Over‑Permitting: How to Verify and Tighten Access",
     "description": "Users can now check which permissions their phone apps have and revoke unnecessary ones, protecting privacy and battery life.",
@@ -1784,24 +1802,6 @@
     "page": "articles/bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29.html",
     "source_urls": [
       "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
-    ]
-  },
-  {
-    "id": "google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29",
-    "title": "Google Unveils Gemini 4 Carbon AI Model Focused on Cybersecurity",
-    "description": "Google launches Gemini 4 Carbon, an AI model engineered to tackle complex cybersecurity and engineering tasks with enhanced efficiency.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Google launches Gemini 4 Carbon, an AI model engineered to tackle complex cybersecurity and engineering tasks with enhanced efficiency.",
-    "page": "articles/google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
     ]
   }
 ]
