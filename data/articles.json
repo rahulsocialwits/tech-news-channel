@@ -1,5 +1,23 @@
 [
   {
+    "id": "titan-os-secures-46-million-to-push-smart-tv-platform-global-2026-11-04",
+    "title": "Titan OS Secures $46 Million to Push Smart‑TV Platform Global",
+    "description": "Titan OS raises $46 million to expand its smart‑TV operating system beyond the U.S., aiming to partner with international manufacturers and content providers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Titan OS raises $46 million to expand its smart‑TV operating system beyond the U.S., aiming to partner with international manufacturers and content providers.",
+    "page": "articles/titan-os-secures-46-million-to-push-smart-tv-platform-global-2026-11-04.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"
+    ]
+  },
+  {
     "id": "data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04",
     "title": "Data Center Development Stalled as Voters Reject AI‑Powered Projects in Midterm Ballot Measures",
     "description": "County voters nationwide turned down 45 measures to build AI data centers, signaling growing public concern over large‑scale cloud infrastructure projects.",
@@ -1782,25 +1800,6 @@
     "page": "articles/google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-    ]
-  },
-  {
-    "id": "github-s-ai-generated-code-surge-demands-massive-infrastructure-overhaul-2026-10-29",
-    "title": "GitHub’s AI‑Generated Code Surge Demands Massive Infrastructure Overhaul",
-    "description": "GitHub reports a sixfold jump in AI‑generated code, prompting the addition of 4 million CPU cores and 160 PB of storage to keep pace.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "GitHub reports a sixfold jump in AI‑generated code, prompting the addition of 4 million CPU cores and 160 PB of storage to keep pace.",
-    "page": "articles/github-s-ai-generated-code-surge-demands-massive-infrastructure-overhaul-2026-10-29.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
-      "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
     ]
   }
 ]
