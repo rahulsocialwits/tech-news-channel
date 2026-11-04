@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04",
+    "title": "Apple Unveils iPad Mini OLED with Major Hardware Overhaul",
+    "description": "Apple’s latest iPad mini delivers an OLED display, upgraded processor, and new camera features, marking a significant leap from its predecessor.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest iPad mini delivers an OLED display, upgraded processor, and new camera features, marking a significant leap from its predecessor.",
+    "page": "articles/apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/"
+    ]
+  },
+  {
     "id": "windows-11-gets-a-20-performance-boost-on-8gb-ram-microsoft-claims-2026-11-04",
     "title": "Windows 11 Gets a 20% Performance Boost on 8GB RAM, Microsoft Claims",
     "description": "Microsoft announces a major performance improvement for Windows 11 on 8GB RAM systems, boosting multitasking and memory efficiency.",
@@ -1788,24 +1806,6 @@
       "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
       "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
       "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
-    ]
-  },
-  {
-    "id": "xreal-aura-the-first-android-powered-wired-xr-headset-to-hit-the-market-2026-10-28",
-    "title": "Xreal Aura: The First Android‑Powered Wired XR Headset to Hit the Market",
-    "description": "Xreal Aura launches as a wired headset powered by Android XR, offering a new entry point for immersive experiences at $1,279.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Xreal Aura launches as a wired headset powered by Android XR, offering a new entry point for immersive experiences at $1,279.",
-    "page": "articles/xreal-aura-the-first-android-powered-wired-xr-headset-to-hit-the-market-2026-10-28.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
     ]
   }
 ]
