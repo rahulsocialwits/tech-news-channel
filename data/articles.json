@@ -1,5 +1,24 @@
 [
   {
+    "id": "midterm-elections-deliver-blow-to-data-center-expansion-plans-2026-11-04",
+    "title": "Midterm Elections Deliver Blow to Data Center Expansion Plans",
+    "description": "Voters across the U.S. rejected data center projects in the 2026 midterms, signaling growing public concern over energy use and land use. The backlash could reshape the cloud industry’s growth trajectory.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Voters across the U.S. rejected data center projects in the 2026 midterms, signaling growing public concern over energy use and land use. The backlash could reshape the cloud industry’s growth trajectory.",
+    "page": "articles/midterm-elections-deliver-blow-to-data-center-expansion-plans-2026-11-04.html",
+    "source_urls": [
+      "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/"
+    ]
+  },
+  {
     "id": "hackers-reprogram-france-s-blood-bank-freezers-to-110-c-threatening-life-saving-supplies-2026-11-04",
     "title": "Hackers Reprogram France’s Blood Bank Freezers to 110°C, Threatening Life‑Saving Supplies",
     "description": "Cyber attackers altered the temperature settings of French blood bank freezers, raising them to 110°C and jeopardizing stored blood products.",
@@ -1782,24 +1801,6 @@
     "page": "articles/garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29.html",
     "source_urls": [
       "https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/"
-    ]
-  },
-  {
-    "id": "deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29",
-    "title": "Deepgram Expands Voice AI Stack with Daily Acquisition",
-    "description": "Deepgram has announced the purchase of Daily, the maker of Pipecat, to strengthen its voice AI infrastructure and keep the platform open source.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Deepgram has announced the purchase of Daily, the maker of Pipecat, to strengthen its voice AI infrastructure and keep the platform open source.",
-    "page": "articles/deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
     ]
   }
 ]
