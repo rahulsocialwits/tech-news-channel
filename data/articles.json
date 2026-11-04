@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04",
+    "title": "Apple Music’s New Selfie Sing Feature Lets Users Record Karaoke Videos",
+    "description": "Apple Music is adding a Selfie Sing mode that lets users record themselves singing karaoke with a single tap, launching with iOS 27.3.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Apple Music is adding a Selfie Sing mode that lets users record themselves singing karaoke with a single tap, launching with iOS 27.3.",
+    "page": "articles/apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/"
+    ]
+  },
+  {
     "id": "amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04",
     "title": "Amazon’s $35 Kindle Click Turns Any e‑Reader Into a Page‑Turning Machine",
     "description": "A low‑cost accessory lets Kindle users enjoy a physical page‑turning feel without buying a new device.",
@@ -1783,24 +1801,6 @@
     "page": "articles/google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29.html",
     "source_urls": [
       "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
-    ]
-  },
-  {
-    "id": "microsoft-reveals-azure-s-first-quarterly-revenue-in-dollars-nearing-aws-dominance-2026-10-29",
-    "title": "Microsoft Reveals Azure’s First Quarterly Revenue in Dollars, Nearing AWS Dominance",
-    "description": "Microsoft disclosed Azure’s quarterly revenue of $33.2 billion, bringing the cloud platform close to Amazon Web Services in market share.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft disclosed Azure’s quarterly revenue of $33.2 billion, bringing the cloud platform close to Amazon Web Services in market share.",
-    "page": "articles/microsoft-reveals-azure-s-first-quarterly-revenue-in-dollars-nearing-aws-dominance-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
     ]
   }
 ]
