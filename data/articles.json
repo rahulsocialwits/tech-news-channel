@@ -1,5 +1,23 @@
 [
   {
+    "id": "redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04",
+    "title": "Redditor Turns Apple TV into Nintendo Switch Emulator with Claude Code",
+    "description": "A community member used OpenAI’s Claude Code to port Nintendo Switch games to Apple TV, showcasing cross‑platform software adaptation.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "A community member used OpenAI’s Claude Code to port Nintendo Switch games to Apple TV, showcasing cross‑platform software adaptation.",
+    "page": "articles/redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/"
+    ]
+  },
+  {
     "id": "midterm-elections-deliver-blow-to-data-center-expansion-plans-2026-11-04",
     "title": "Midterm Elections Deliver Blow to Data Center Expansion Plans",
     "description": "Voters across the U.S. rejected data center projects in the 2026 midterms, signaling growing public concern over energy use and land use. The backlash could reshape the cloud industry’s growth trajectory.",
@@ -1783,24 +1801,6 @@
     "page": "articles/mintive-secures-multi-million-funding-to-simplify-enterprise-agent-management-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
-    ]
-  },
-  {
-    "id": "garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29",
-    "title": "Garmin Messenger’s SMS Verification Leaves Users Vulnerable to Phone Number Reassignment",
-    "description": "Garmin Messenger’s reliance on SMS verification risks privacy when phone numbers are recycled, warns Android Authority.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Garmin Messenger’s reliance on SMS verification risks privacy when phone numbers are recycled, warns Android Authority.",
-    "page": "articles/garmin-messenger-s-sms-verification-leaves-users-vulnerable-to-phone-number-reassignment-2026-10-29.html",
-    "source_urls": [
-      "https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/"
     ]
   }
 ]
