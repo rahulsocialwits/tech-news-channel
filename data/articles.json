@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04",
+    "title": "Data Center Development Stalled as Voters Reject AI‑Powered Projects in Midterm Ballot Measures",
+    "description": "County voters nationwide turned down 45 measures to build AI data centers, signaling growing public concern over large‑scale cloud infrastructure projects.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "County voters nationwide turned down 45 measures to build AI data centers, signaling growing public concern over large‑scale cloud infrastructure projects.",
+    "page": "articles/data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
+    ]
+  },
+  {
     "id": "apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04",
     "title": "Apple Music’s New Selfie Sing Feature Lets Users Record Karaoke Videos",
     "description": "Apple Music is adding a Selfie Sing mode that lets users record themselves singing karaoke with a single tap, launching with iOS 27.3.",
@@ -1783,24 +1801,6 @@
     "source_urls": [
       "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
       "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
-    ]
-  },
-  {
-    "id": "google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29",
-    "title": "Google’s Gemini 4 Carbon Sets New Benchmarks in AI Coding and Cybersecurity",
-    "description": "Google’s latest Gemini 4 Carbon model achieves top scores in coding and cybersecurity, signaling a leap forward for AI-powered development tools.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Google’s latest Gemini 4 Carbon model achieves top scores in coding and cybersecurity, signaling a leap forward for AI-powered development tools.",
-    "page": "articles/google-s-gemini-4-carbon-sets-new-benchmarks-in-ai-coding-and-cybersecurity-2026-10-29.html",
-    "source_urls": [
-      "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
     ]
   }
 ]
