@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04",
+    "title": "New Jersey’s New E‑Bike Law Leaves Riders Confused and Stranded",
+    "description": "New Jersey’s 2026 e‑bike licensing and insurance mandate has caused chaos for electric‑bike owners, sparking confusion and legal challenges.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "New Jersey’s 2026 e‑bike licensing and insurance mandate has caused chaos for electric‑bike owners, sparking confusion and legal challenges.",
+    "page": "articles/new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04.html",
+    "source_urls": [
+      "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
+    ]
+  },
+  {
     "id": "valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04",
     "title": "Valve Tightens Steam Release Rules to Tackle AI‑Generated Game Surge",
     "description": "Valve updates Steam approval process to manage backlog of AI‑created titles, aiming to streamline releases and protect user experience.",
@@ -1783,24 +1801,6 @@
     "page": "articles/enterprise-ai-platforms-must-align-or-risk-misaligned-outcomes-2026-10-29.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-    ]
-  },
-  {
-    "id": "apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29",
-    "title": "Apple Unveils Touchscreen MacBook Pro, Pushing Laptop Prices to New Heights",
-    "description": "Apple’s latest MacBook Pro features an OLED touchscreen and a price tag that could reach $14,549, marking the most expensive laptop ever released by the company.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest MacBook Pro features an OLED touchscreen and a price tag that could reach $14,549, marking the most expensive laptop ever released by the company.",
-    "page": "articles/apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
     ]
   }
 ]
