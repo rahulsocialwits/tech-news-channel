@@ -1,5 +1,23 @@
 [
   {
+    "id": "xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04",
+    "title": "xAI Data Center Turns to Converted Jet Engines for Power",
+    "description": "Elon Musk’s xAI data center in Mississippi is using eight repurposed jet engine turbines to meet its energy needs, a move that raises both efficiency and environmental concerns.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Elon Musk’s xAI data center in Mississippi is using eight repurposed jet engine turbines to meet its energy needs, a move that raises both efficiency and environmental concerns.",
+    "page": "articles/xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide"
+    ]
+  },
+  {
     "id": "intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04",
     "title": "Intel’s 14A Process Design Kit Brings Next‑Gen Chips Closer to Reality",
     "description": "Intel’s 14A process design kit (PDK) 0.9 release marks a key milestone toward commercializing its next‑generation semiconductor technology, boosting performance and yield for developers.",
@@ -1784,24 +1802,6 @@
     "page": "articles/malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
-    ]
-  },
-  {
-    "id": "upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29",
-    "title": "Upwind Secures $400M Series C, Reaches $3.8B Valuation Without Selling to Datadog",
-    "description": "Cloud security firm Upwind raises $400 million in a Series C round, valuing the company at $3.8 billion after declining a Datadog acquisition offer.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Cloud security firm Upwind raises $400 million in a Series C round, valuing the company at $3.8 billion after declining a Datadog acquisition offer.",
-    "page": "articles/upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
     ]
   }
 ]
