@@ -1,5 +1,23 @@
 [
   {
+    "id": "smartphone-apps-may-be-over-permitting-how-to-verify-and-tighten-access-2026-11-04",
+    "title": "Smartphone Apps May Be Over‑Permitting: How to Verify and Tighten Access",
+    "description": "Users can now check which permissions their phone apps have and revoke unnecessary ones, protecting privacy and battery life.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Users can now check which permissions their phone apps have and revoke unnecessary ones, protecting privacy and battery life.",
+    "page": "articles/smartphone-apps-may-be-over-permitting-how-to-verify-and-tighten-access-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/"
+    ]
+  },
+  {
     "id": "xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04",
     "title": "xAI Data Center Turns to Converted Jet Engines for Power",
     "description": "Elon Musk’s xAI data center in Mississippi is using eight repurposed jet engine turbines to meet its energy needs, a move that raises both efficiency and environmental concerns.",
@@ -1784,24 +1802,6 @@
     "page": "articles/google-unveils-gemini-4-carbon-ai-model-focused-on-cybersecurity-2026-10-29.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
-    ]
-  },
-  {
-    "id": "malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29",
-    "title": "Malaysia Seizes $12 Million Worth of Advanced AI Chips at Kuala Lumpur Airport",
-    "description": "Customs officials in Malaysia uncovered 30 servers packed with high‑end AI chips worth over $12 million, sparking a probe into a suspected smuggling network.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Customs officials in Malaysia uncovered 30 servers packed with high‑end AI chips worth over $12 million, sparking a probe into a suspected smuggling network.",
-    "page": "articles/malaysia-seizes-12-million-worth-of-advanced-ai-chips-at-kuala-lumpur-airport-2026-10-29.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
     ]
   }
 ]
