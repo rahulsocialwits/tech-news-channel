@@ -1,5 +1,23 @@
 [
   {
+    "id": "hackers-reprogram-france-s-blood-bank-freezers-to-110-c-threatening-life-saving-supplies-2026-11-04",
+    "title": "Hackers Reprogram France’s Blood Bank Freezers to 110°C, Threatening Life‑Saving Supplies",
+    "description": "Cyber attackers altered the temperature settings of French blood bank freezers, raising them to 110°C and jeopardizing stored blood products.",
+    "category": "Technology",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Cyber attackers altered the temperature settings of French blood bank freezers, raising them to 110°C and jeopardizing stored blood products.",
+    "page": "articles/hackers-reprogram-france-s-blood-bank-freezers-to-110-c-threatening-life-saving-supplies-2026-11-04.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/hackers-target-frances-blood-bank-freezers-reprogram-storage-to-110c/article71665055.ece"
+    ]
+  },
+  {
     "id": "titan-os-secures-46-million-to-push-smart-tv-platform-global-2026-11-04",
     "title": "Titan OS Secures $46 Million to Push Smart‑TV Platform Global",
     "description": "Titan OS raises $46 million to expand its smart‑TV operating system beyond the U.S., aiming to partner with international manufacturers and content providers.",
@@ -1782,24 +1800,6 @@
     "page": "articles/deepgram-expands-voice-ai-stack-with-daily-acquisition-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
-    ]
-  },
-  {
-    "id": "google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29",
-    "title": "Google Expands AI‑Powered Search Ads Worldwide as Core Ad Growth Slows",
-    "description": "Google is rolling out AI‑driven search advertising across all markets, a move that comes as the company’s core ad revenue growth decelerates.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Google is rolling out AI‑driven search advertising across all markets, a move that comes as the company’s core ad revenue growth decelerates.",
-    "page": "articles/google-expands-ai-powered-search-ads-worldwide-as-core-ad-growth-slows-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
     ]
   }
 ]
