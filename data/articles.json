@@ -1,5 +1,23 @@
 [
   {
+    "id": "valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04",
+    "title": "Valve Tightens Steam Release Rules to Tackle AI‑Generated Game Surge",
+    "description": "Valve updates Steam approval process to manage backlog of AI‑created titles, aiming to streamline releases and protect user experience.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Valve updates Steam approval process to manage backlog of AI‑created titles, aiming to streamline releases and protect user experience.",
+    "page": "articles/valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04.html",
+    "source_urls": [
+      "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/"
+    ]
+  },
+  {
     "id": "apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04",
     "title": "Apple Faces $33 B Surge in Memory Costs as DRAM Prices Skyrocket",
     "description": "Apple’s upcoming devices hit a new memory price ceiling as DRAM makers shift focus to high‑margin server products, tightening supply for consumer electronics.",
@@ -1783,24 +1801,6 @@
     "page": "articles/apple-unveils-touchscreen-macbook-pro-pushing-laptop-prices-to-new-heights-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
-    ]
-  },
-  {
-    "id": "microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29",
-    "title": "Microsoft’s Azure Growth Drives Q4 Beat Amid Workforce Buyouts",
-    "description": "Microsoft reported a quarterly earnings surprise, powered by its Azure cloud business, while offering voluntary buyouts to thousands of employees.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft reported a quarterly earnings surprise, powered by its Azure cloud business, while offering voluntary buyouts to thousands of employees.",
-    "page": "articles/microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
     ]
   }
 ]
