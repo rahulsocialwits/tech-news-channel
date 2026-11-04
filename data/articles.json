@@ -1,5 +1,22 @@
 [
   {
+    "id": "apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04",
+    "title": "Apple Faces $33 B Surge in Memory Costs as DRAM Prices Skyrocket",
+    "description": "Apple’s upcoming devices hit a new memory price ceiling as DRAM makers shift focus to high‑margin server products, tightening supply for consumer electronics.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s upcoming devices hit a new memory price ceiling as DRAM makers shift focus to high‑margin server products, tightening supply for consumer electronics.",
+    "page": "articles/apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
+    ]
+  },
+  {
     "id": "front-usb-ports-may-be-slowing-down-every-device-you-plug-in-2026-11-04",
     "title": "Front USB Ports May Be Slowing Down Every Device You Plug In",
     "description": "A new study shows that the front USB ports on many desktops can bottleneck performance for all connected devices.",
@@ -1784,24 +1801,6 @@
     "page": "articles/microsoft-s-azure-growth-drives-q4-beat-amid-workforce-buyouts-2026-10-29.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
-    ]
-  },
-  {
-    "id": "bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29",
-    "title": "Bluesky Blocks Links to Major DHS Employee Data Leak, Raising Privacy Concerns",
-    "description": "Social network Bluesky has blocked access to a leaked archive of 41,000 DHS employee records, citing privacy violations and unauthorized sharing of personal data.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Social network Bluesky has blocked access to a leaked archive of 41,000 DHS employee records, citing privacy violations and unauthorized sharing of personal data.",
-    "page": "articles/bluesky-blocks-links-to-major-dhs-employee-data-leak-raising-privacy-concerns-2026-10-29.html",
-    "source_urls": [
-      "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
     ]
   }
 ]
