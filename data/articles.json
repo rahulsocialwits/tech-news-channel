@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04",
+    "title": "Intel’s 14A Process Design Kit Brings Next‑Gen Chips Closer to Reality",
+    "description": "Intel’s 14A process design kit (PDK) 0.9 release marks a key milestone toward commercializing its next‑generation semiconductor technology, boosting performance and yield for developers.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "Intel’s 14A process design kit (PDK) 0.9 release marks a key milestone toward commercializing its next‑generation semiconductor technology, boosting performance and yield for developers.",
+    "page": "articles/intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027"
+    ]
+  },
+  {
     "id": "apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04",
     "title": "Apple Unveils iPad Mini OLED with Major Hardware Overhaul",
     "description": "Apple’s latest iPad mini delivers an OLED display, upgraded processor, and new camera features, marking a significant leap from its predecessor.",
@@ -1785,27 +1802,6 @@
     "page": "articles/upwind-secures-400m-series-c-reaches-3-8b-valuation-without-selling-to-datadog-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
-    ]
-  },
-  {
-    "id": "apple-unveils-touchscreen-macbook-pro-bringing-a-new-era-to-laptop-design-2026-10-28",
-    "title": "Apple Unveils Touchscreen MacBook Pro, Bringing a New Era to Laptop Design",
-    "description": "Apple’s first touchscreen MacBook Pro debuts with a 14‑inch OLED display, a lighter chassis, and a new touch interface, marking a significant shift in laptop technology.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-28",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s first touchscreen MacBook Pro debuts with a 14‑inch OLED display, a lighter chassis, and a new touch interface, marking a significant shift in laptop technology.",
-    "page": "articles/apple-unveils-touchscreen-macbook-pro-bringing-a-new-era-to-laptop-design-2026-10-28.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
-      "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
     ]
   }
 ]
