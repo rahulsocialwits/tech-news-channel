@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04",
+    "title": "Amazon’s $35 Kindle Click Turns Any e‑Reader Into a Page‑Turning Machine",
+    "description": "A low‑cost accessory lets Kindle users enjoy a physical page‑turning feel without buying a new device.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-04",
+    "readTime": "3 min read",
+    "excerpt": "A low‑cost accessory lets Kindle users enjoy a physical page‑turning feel without buying a new device.",
+    "page": "articles/amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04.html",
+    "source_urls": [
+      "https://www.wired.com/story/finally-a-kindle-page-turner/"
+    ]
+  },
+  {
     "id": "new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04",
     "title": "New Jersey’s New E‑Bike Law Leaves Riders Confused and Stranded",
     "description": "New Jersey’s 2026 e‑bike licensing and insurance mandate has caused chaos for electric‑bike owners, sparking confusion and legal challenges.",
@@ -1783,24 +1801,6 @@
     "page": "articles/microsoft-reveals-azure-s-first-quarterly-revenue-in-dollars-nearing-aws-dominance-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-    ]
-  },
-  {
-    "id": "enterprise-ai-platforms-must-align-or-risk-misaligned-outcomes-2026-10-29",
-    "title": "Enterprise AI Platforms Must Align or Risk Misaligned Outcomes",
-    "description": "A new MIT Technology Review piece warns that uncoordinated AI tools in business can produce wrong or confusing results, urging tighter integration across platforms.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "A new MIT Technology Review piece warns that uncoordinated AI tools in business can produce wrong or confusing results, urging tighter integration across platforms.",
-    "page": "articles/enterprise-ai-platforms-must-align-or-risk-misaligned-outcomes-2026-10-29.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
     ]
   }
 ]
