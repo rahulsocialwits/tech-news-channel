@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-announces-new-data-center-sustainability-pledges-2026-11-05",
+    "title": "OpenAI Announces New Data‑Center Sustainability Pledges",
+    "description": "OpenAI commits to protecting local resources and reporting on data‑center impacts amid growing scrutiny of AI infrastructure.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI commits to protecting local resources and reporting on data‑center impacts amid growing scrutiny of AI infrastructure.",
+    "page": "articles/openai-announces-new-data-center-sustainability-pledges-2026-11-05.html",
+    "source_urls": [
+      "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
+    ]
+  },
+  {
     "id": "amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05",
     "title": "Amazon and Uber Eats Team Up to Offer Prime Members Free Delivery Perks",
     "description": "Amazon partners with Uber Eats to let Prime members skip delivery fees on eligible orders, expanding the Prime ecosystem into food delivery.",
@@ -1784,24 +1802,6 @@
     "page": "articles/intel-fab-28-explosion-halts-10nm-xeon-shipments-threatening-cloud-infrastructure-2026-10-30.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory"
-    ]
-  },
-  {
-    "id": "binance-faces-record-6-3-b-hack-prompting-calls-for-stronger-crypto-security-2026-10-30",
-    "title": "Binance Faces Record $6.3 B Hack, Prompting Calls for Stronger Crypto Security",
-    "description": "The cryptocurrency exchange Binance suffered a $6.3 billion theft, the largest in history, sparking industry-wide scrutiny over security protocols and regulatory oversight.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "The cryptocurrency exchange Binance suffered a $6.3 billion theft, the largest in history, sparking industry-wide scrutiny over security protocols and regulatory oversight.",
-    "page": "articles/binance-faces-record-6-3-b-hack-prompting-calls-for-stronger-crypto-security-2026-10-30.html",
-    "source_urls": [
-      "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
     ]
   }
 ]
