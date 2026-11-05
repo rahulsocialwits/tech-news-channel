@@ -1,5 +1,23 @@
 [
   {
+    "id": "xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05",
+    "title": "Xbox Trials Two New Controllers for Cloud Gaming Experience",
+    "description": "Xbox is testing a Nano Controller and a new cloud‑gaming‑optimized design to improve remote play on its platform.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Xbox is testing a Nano Controller and a new cloud‑gaming‑optimized design to improve remote play on its platform.",
+    "page": "articles/xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05.html",
+    "source_urls": [
+      "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/"
+    ]
+  },
+  {
     "id": "pangram-expands-ai-detection-to-video-and-images-2026-11-05",
     "title": "Pangram Expands AI Detection to Video and Images",
     "description": "Pangram broadens its AI content detection suite to cover visual media, adding new tools for video and image analysis.",
@@ -1784,24 +1802,6 @@
     "page": "articles/google-gemini-s-strava-integration-brings-real-time-fitness-insights-2026-10-30.html",
     "source_urls": [
       "https://www.androidauthority.com/google-gemini-strava-integration-3729811/"
-    ]
-  },
-  {
-    "id": "windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30",
-    "title": "Windows 11 Gets Right‑Click Menu Fixes and Cloud Recovery in Latest Update",
-    "description": "Microsoft’s newest Windows 11 update resolves long‑standing right‑click issues and adds a cloud recovery option for PCs that won’t boot.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft’s newest Windows 11 update resolves long‑standing right‑click issues and adds a cloud recovery option for PCs that won’t boot.",
-    "page": "articles/windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
     ]
   }
 ]
