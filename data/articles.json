@@ -1,5 +1,23 @@
 [
   {
+    "id": "team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05",
+    "title": "Team Group CEO Warns Memory Crisis Could Reach Point Where Even Money Can’t Buy Goods",
+    "description": "Team Group CEO warns that DRAM shortages may force prices to stay high, with no downward trend expected next year.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Team Group CEO warns that DRAM shortages may force prices to stay high, with no downward trend expected next year.",
+    "page": "articles/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever"
+    ]
+  },
+  {
     "id": "xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05",
     "title": "Xbox Trials Two New Controllers for Cloud Gaming Experience",
     "description": "Xbox is testing a Nano Controller and a new cloud‑gaming‑optimized design to improve remote play on its platform.",
@@ -1784,24 +1802,6 @@
     "page": "articles/motorola-unveils-galaxy-ultra-challenger-with-5g-and-108-mp-camera-2026-10-30.html",
     "source_urls": [
       "https://www.androidauthority.com/motorola-signature-27-us-launch-date-confirmed-3729815/"
-    ]
-  },
-  {
-    "id": "google-gemini-s-strava-integration-brings-real-time-fitness-insights-2026-10-30",
-    "title": "Google Gemini’s Strava Integration Brings Real‑Time Fitness Insights",
-    "description": "Google Gemini now connects with Strava, offering personalized training data for runners and cyclists.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Google Gemini now connects with Strava, offering personalized training data for runners and cyclists.",
-    "page": "articles/google-gemini-s-strava-integration-brings-real-time-fitness-insights-2026-10-30.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-gemini-strava-integration-3729811/"
     ]
   }
 ]
