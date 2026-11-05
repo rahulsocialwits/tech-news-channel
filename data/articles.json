@@ -1,5 +1,27 @@
 [
   {
+    "id": "motorola-unveils-signature-27-a-1-600-flagship-with-7-year-updates-and-gemini-ai-2026-11-05",
+    "title": "Motorola Unveils Signature 27: A $1,600 Flagship with 7‑Year Updates and Gemini AI",
+    "description": "Motorola’s new Signature 27 phone offers a 7,000mAh battery, seven years of Android updates, and Google’s Gemini Intelligence features for $1,600.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Motorola’s new Signature 27 phone offers a 7,000mAh battery, seven years of Android updates, and Google’s Gemini Intelligence features for $1,600.",
+    "page": "articles/motorola-unveils-signature-27-a-1-600-flagship-with-7-year-updates-and-gemini-ai-2026-11-05.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+      "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
+      "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/"
+    ]
+  },
+  {
     "id": "openai-announces-new-data-center-sustainability-pledges-2026-11-05",
     "title": "OpenAI Announces New Data‑Center Sustainability Pledges",
     "description": "OpenAI commits to protecting local resources and reporting on data‑center impacts amid growing scrutiny of AI infrastructure.",
@@ -1784,24 +1806,6 @@
     "page": "articles/google-rolls-out-software-updates-for-nest-cam-and-doorbell-models-2026-10-30.html",
     "source_urls": [
       "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/"
-    ]
-  },
-  {
-    "id": "intel-fab-28-explosion-halts-10nm-xeon-shipments-threatening-cloud-infrastructure-2026-10-30",
-    "title": "Intel Fab 28 Explosion Halts 10nm Xeon Shipments, Threatening Cloud Infrastructure",
-    "description": "A two‑week shutdown at Intel’s Fab 28 in Israel has disrupted 10nm Xeon production, delaying server chip deliveries for two quarters and impacting cloud data centers worldwide.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "A two‑week shutdown at Intel’s Fab 28 in Israel has disrupted 10nm Xeon production, delaying server chip deliveries for two quarters and impacting cloud data centers worldwide.",
-    "page": "articles/intel-fab-28-explosion-halts-10nm-xeon-shipments-threatening-cloud-infrastructure-2026-10-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory"
     ]
   }
 ]
