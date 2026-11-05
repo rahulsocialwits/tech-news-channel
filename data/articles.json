@@ -1,5 +1,23 @@
 [
   {
+    "id": "pangram-expands-ai-detection-to-video-and-images-2026-11-05",
+    "title": "Pangram Expands AI Detection to Video and Images",
+    "description": "Pangram broadens its AI content detection suite to cover visual media, adding new tools for video and image analysis.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Pangram broadens its AI content detection suite to cover visual media, adding new tools for video and image analysis.",
+    "page": "articles/pangram-expands-ai-detection-to-video-and-images-2026-11-05.html",
+    "source_urls": [
+      "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
+    ]
+  },
+  {
     "id": "data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05",
     "title": "Data Center Opposition Surges After Midterms, Signals Bigger Clash Ahead",
     "description": "Following the U.S. midterm elections, bipartisan opposition to new data center projects is intensifying, raising questions about future infrastructure growth.",
@@ -1784,25 +1802,6 @@
     "page": "articles/windows-11-gets-right-click-menu-fixes-and-cloud-recovery-in-latest-update-2026-10-30.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
-    ]
-  },
-  {
-    "id": "reddit-s-shift-to-logged-in-only-browsing-sparks-user-backlash-2026-10-30",
-    "title": "Reddit’s Shift to Logged‑In‑Only Browsing Sparks User Backlash",
-    "description": "Reddit plans to require users to log in for all browsing, a move that has drawn criticism from the community and raised questions about privacy and user experience.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Reddit plans to require users to log in for all browsing, a move that has drawn criticism from the community and raised questions about privacy and user experience.",
-    "page": "articles/reddit-s-shift-to-logged-in-only-browsing-sparks-user-backlash-2026-10-30.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-      "https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/"
     ]
   }
 ]
