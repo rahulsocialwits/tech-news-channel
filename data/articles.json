@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05",
+    "title": "Data Center Opposition Surges After Midterms, Signals Bigger Clash Ahead",
+    "description": "Following the U.S. midterm elections, bipartisan opposition to new data center projects is intensifying, raising questions about future infrastructure growth.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Following the U.S. midterm elections, bipartisan opposition to new data center projects is intensifying, raising questions about future infrastructure growth.",
+    "page": "articles/data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    ]
+  },
+  {
     "id": "apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05",
     "title": "Apple Slashes Internal AI Spending as Memory Chip Prices Surge",
     "description": "Apple is reportedly cutting its internal AI budget amid rising memory costs, signaling a shift in its engineering strategy.",
@@ -1785,24 +1803,6 @@
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
       "https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/"
-    ]
-  },
-  {
-    "id": "google-s-gemini-design-update-brings-fresh-look-to-all-android-devices-2026-10-30",
-    "title": "Google’s Gemini Design Update Brings Fresh Look to All Android Devices",
-    "description": "Google has rolled out the latest Gemini design to every Android phone, adding a new file‑generation feature that streamlines app updates.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Google has rolled out the latest Gemini design to every Android phone, adding a new file‑generation feature that streamlines app updates.",
-    "page": "articles/google-s-gemini-design-update-brings-fresh-look-to-all-android-devices-2026-10-30.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/29/gemini-design-file-generation/"
     ]
   }
 ]
