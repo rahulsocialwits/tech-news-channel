@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05",
+    "title": "Amazon Switches to Uber Eats for Prime Delivery, Ending GrubHub Deal",
+    "description": "Amazon has announced Uber Eats as its new official restaurant delivery partner for Prime members in the United States, replacing GrubHub.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Amazon has announced Uber Eats as its new official restaurant delivery partner for Prime members in the United States, replacing GrubHub.",
+    "page": "articles/amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
+    ]
+  },
+  {
     "id": "team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05",
     "title": "Team Group CEO Warns Memory Crisis Could Reach Point Where Even Money Can’t Buy Goods",
     "description": "Team Group CEO warns that DRAM shortages may force prices to stay high, with no downward trend expected next year.",
@@ -1784,24 +1802,6 @@
     "page": "articles/waymo-partners-with-toyota-to-deploy-self-driving-bz4x-robotaxis-in-japan-and-the-u-k-2026-10-30.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
-    ]
-  },
-  {
-    "id": "motorola-unveils-galaxy-ultra-challenger-with-5g-and-108-mp-camera-2026-10-30",
-    "title": "Motorola Unveils Galaxy Ultra Challenger with 5G and 108‑MP Camera",
-    "description": "Motorola announces launch date for its flagship Galaxy Ultra, featuring a 108‑megapixel sensor, 5G connectivity and a 6.7‑inch OLED display.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Motorola announces launch date for its flagship Galaxy Ultra, featuring a 108‑megapixel sensor, 5G connectivity and a 6.7‑inch OLED display.",
-    "page": "articles/motorola-unveils-galaxy-ultra-challenger-with-5g-and-108-mp-camera-2026-10-30.html",
-    "source_urls": [
-      "https://www.androidauthority.com/motorola-signature-27-us-launch-date-confirmed-3729815/"
     ]
   }
 ]
