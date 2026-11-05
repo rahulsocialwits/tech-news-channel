@@ -1,5 +1,23 @@
 [
   {
+    "id": "mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05",
+    "title": "Mobile Phone Retailers Brace for 10% Price Hike After Diwali Amid Sharp Sales Decline",
+    "description": "India’s mobile retailers predict a 10% price increase post‑Diwali as sales slump, citing a 50% drop in volume expected to linger.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "India’s mobile retailers predict a 10% price increase post‑Diwali as sales slump, citing a 50% drop in volume expected to linger.",
+    "page": "articles/mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/mobile-phone-retailers-expect-10-price-hike-post-diwali-even-as-sales-drop/article71668987.ece"
+    ]
+  },
+  {
     "id": "uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05",
     "title": "UPERFECT GR14BU: A 120 Hz 3K OLED Portable Monitor That Packs a Punch",
     "description": "The UPERFECT GR14BU delivers a 3K OLED panel, 120 Hz refresh rate, and touch capability in a compact portable monitor, offering a high‑performance display for mobile professionals and gamers.",
@@ -1789,24 +1807,6 @@
     "page": "articles/binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
-    ]
-  },
-  {
-    "id": "runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30",
-    "title": "Runware’s Factory‑Line AI Data Centers Aim to Scale Up Machine Learning Infrastructure",
-    "description": "Runware is building a prefabricated AI data center factory that could deliver units in 48 hours, testing mass‑production of AI infrastructure.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Runware is building a prefabricated AI data center factory that could deliver units in 48 hours, testing mass‑production of AI infrastructure.",
-    "page": "articles/runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
     ]
   }
 ]
