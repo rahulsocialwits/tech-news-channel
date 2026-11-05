@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05",
+    "title": "OpenAI Announces Comprehensive U.S. Data‑Center Safeguards and Union Engagement",
+    "description": "OpenAI commits to environmental transparency, local hiring, and grid infrastructure support for its U.S. data‑center expansion.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI commits to environmental transparency, local hiring, and grid infrastructure support for its U.S. data‑center expansion.",
+    "page": "articles/openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05.html",
+    "source_urls": [
+      "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
+    ]
+  },
+  {
     "id": "mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05",
     "title": "Mobile Phone Retailers Brace for 10% Price Hike After Diwali Amid Sharp Sales Decline",
     "description": "India’s mobile retailers predict a 10% price increase post‑Diwali as sales slump, citing a 50% drop in volume expected to linger.",
@@ -1789,24 +1807,6 @@
     "page": "articles/psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices"
-    ]
-  },
-  {
-    "id": "binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30",
-    "title": "Binance Faces Record $6.3 B Crypto Theft Linked to North Korean Hackers",
-    "description": "A massive crypto heist at Binance, worth $6.3 B, is traced back to North Korean operatives who breached an employee’s laptop.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "A massive crypto heist at Binance, worth $6.3 B, is traced back to North Korean operatives who breached an employee’s laptop.",
-    "page": "articles/binance-faces-record-6-3-b-crypto-theft-linked-to-north-korean-hackers-2026-10-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
     ]
   }
 ]
