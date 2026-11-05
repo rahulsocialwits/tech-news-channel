@@ -1,5 +1,23 @@
 [
   {
+    "id": "t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05",
+    "title": "T‑Mobile Unveils 5 Gbps Fiber Plan at $90 a Month",
+    "description": "T‑Mobile offers a 5 Gbps fiber internet plan for under $100 a month, promising a 2.5× speed boost and a 10‑year price guarantee.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "T‑Mobile offers a 5 Gbps fiber internet plan for under $100 a month, promising a 2.5× speed boost and a 10‑year price guarantee.",
+    "page": "articles/t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05.html",
+    "source_urls": [
+      "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee"
+    ]
+  },
+  {
     "id": "macronix-shifts-focus-to-ai-data-center-chips-leaving-nintendo-rom-supply-in-limbo-2026-11-05",
     "title": "Macronix Shifts Focus to AI Data Center Chips, Leaving Nintendo ROM Supply in Limbo",
     "description": "The former Nintendo ROM chip supplier Macronix is pivoting its production toward NAND and NOR flash for AI data centers, impacting the Switch cartridge supply chain.",
@@ -1785,24 +1803,6 @@
     "page": "articles/granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
-    ]
-  },
-  {
-    "id": "thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29",
-    "title": "ThermoWorks Unveils Compact RFX Meat Mini Probe for Small Cuts",
-    "description": "ThermoWorks releases a shorter version of its RFX Meat wireless probe, delivering the same performance in a more portable form factor.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "ThermoWorks releases a shorter version of its RFX Meat wireless probe, delivering the same performance in a more portable form factor.",
-    "page": "articles/thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29.html",
-    "source_urls": [
-      "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/"
     ]
   }
 ]
