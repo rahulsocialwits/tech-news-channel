@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05",
+    "title": "Apple Slashes Internal AI Spending as Memory Chip Prices Surge",
+    "description": "Apple is reportedly cutting its internal AI budget amid rising memory costs, signaling a shift in its engineering strategy.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Apple is reportedly cutting its internal AI budget amid rising memory costs, signaling a shift in its engineering strategy.",
+    "page": "articles/apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    ]
+  },
+  {
     "id": "snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05",
     "title": "Snapchat+ Surpasses 30 Million Paid Subscribers as AI‑Powered Effects Drive Growth",
     "description": "Snap has crossed the 30‑million mark for paid users, with AI‑enhanced filters and effects attracting power users.",
@@ -1785,24 +1803,6 @@
     "page": "articles/google-s-gemini-design-update-brings-fresh-look-to-all-android-devices-2026-10-30.html",
     "source_urls": [
       "https://9to5google.com/2026/10/29/gemini-design-file-generation/"
-    ]
-  },
-  {
-    "id": "intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30",
-    "title": "Intel Unveils Nova Lake: First Desktop CPUs Built on Advanced 18A‑P Node",
-    "description": "Intel’s next‑generation Nova Lake desktop processors will be the first client product to use the company’s enhanced 18A‑P node, marking a significant step in CPU manufacturing technology.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Intel’s next‑generation Nova Lake desktop processors will be the first client product to use the company’s enhanced 18A‑P node, marking a significant step in CPU manufacturing technology.",
-    "page": "articles/intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
     ]
   }
 ]
