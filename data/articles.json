@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05",
+    "title": "Amazon and Uber Eats Team Up to Offer Prime Members Free Delivery Perks",
+    "description": "Amazon partners with Uber Eats to let Prime members skip delivery fees on eligible orders, expanding the Prime ecosystem into food delivery.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Amazon partners with Uber Eats to let Prime members skip delivery fees on eligible orders, expanding the Prime ecosystem into food delivery.",
+    "page": "articles/amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05.html",
+    "source_urls": [
+      "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/"
+    ]
+  },
+  {
     "id": "amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05",
     "title": "Amazon Switches to Uber Eats for Prime Delivery, Ending GrubHub Deal",
     "description": "Amazon has announced Uber Eats as its new official restaurant delivery partner for Prime members in the United States, replacing GrubHub.",
@@ -1784,24 +1802,6 @@
     "page": "articles/binance-faces-record-6-3-b-hack-prompting-calls-for-stronger-crypto-security-2026-10-30.html",
     "source_urls": [
       "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
-    ]
-  },
-  {
-    "id": "waymo-partners-with-toyota-to-deploy-self-driving-bz4x-robotaxis-in-japan-and-the-u-k-2026-10-30",
-    "title": "Waymo Partners with Toyota to Deploy Self‑Driving bZ4X Robotaxis in Japan and the U.K.",
-    "description": "Waymo will begin testing autonomous Toyota bZ4X electric vehicles in Japan next year as part of a new partnership that expands its robotaxi network.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Waymo will begin testing autonomous Toyota bZ4X electric vehicles in Japan next year as part of a new partnership that expands its robotaxi network.",
-    "page": "articles/waymo-partners-with-toyota-to-deploy-self-driving-bz4x-robotaxis-in-japan-and-the-u-k-2026-10-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
     ]
   }
 ]
