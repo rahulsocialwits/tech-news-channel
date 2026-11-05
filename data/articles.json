@@ -1,5 +1,23 @@
 [
   {
+    "id": "motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05",
+    "title": "Motorola Expands Premium Ecosystem with Moto Buds Ultra 27 and Watch Fit 27",
+    "description": "Motorola launches new premium earbuds and smartwatch, integrating Qira AI assistant for North American consumers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Motorola launches new premium earbuds and smartwatch, integrating Qira AI assistant for North American consumers.",
+    "page": "articles/motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/"
+    ]
+  },
+  {
     "id": "motorola-unveils-signature-27-a-1-600-flagship-with-7-year-updates-and-gemini-ai-2026-11-05",
     "title": "Motorola Unveils Signature 27: A $1,600 Flagship with 7‑Year Updates and Gemini AI",
     "description": "Motorola’s new Signature 27 phone offers a 7,000mAh battery, seven years of Android updates, and Google’s Gemini Intelligence features for $1,600.",
@@ -1788,24 +1806,6 @@
     "page": "articles/north-korean-hackers-execute-6-3-billion-binance-heist-in-20-minutes-2026-10-30.html",
     "source_urls": [
       "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
-    ]
-  },
-  {
-    "id": "google-rolls-out-software-updates-for-nest-cam-and-doorbell-models-2026-10-30",
-    "title": "Google Rolls Out Software Updates for Nest Cam and Doorbell Models",
-    "description": "Google releases new firmware for several Nest Cam and Doorbell devices, adding features and security fixes.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Google releases new firmware for several Nest Cam and Doorbell devices, adding features and security fixes.",
-    "page": "articles/google-rolls-out-software-updates-for-nest-cam-and-doorbell-models-2026-10-30.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/"
     ]
   }
 ]
