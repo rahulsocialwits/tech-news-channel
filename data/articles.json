@@ -1,5 +1,23 @@
 [
   {
+    "id": "uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05",
+    "title": "UPERFECT GR14BU: A 120 Hz 3K OLED Portable Monitor That Packs a Punch",
+    "description": "The UPERFECT GR14BU delivers a 3K OLED panel, 120 Hz refresh rate, and touch capability in a compact portable monitor, offering a high‑performance display for mobile professionals and gamers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "The UPERFECT GR14BU delivers a 3K OLED panel, 120 Hz refresh rate, and touch capability in a compact portable monitor, offering a high‑performance display for mobile professionals and gamers.",
+    "page": "articles/uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05.html",
+    "source_urls": [
+      "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review"
+    ]
+  },
+  {
     "id": "motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05",
     "title": "Motorola Expands Premium Ecosystem with Moto Buds Ultra 27 and Watch Fit 27",
     "description": "Motorola launches new premium earbuds and smartwatch, integrating Qira AI assistant for North American consumers.",
@@ -1789,23 +1807,6 @@
     "page": "articles/runware-s-factory-line-ai-data-centers-aim-to-scale-up-machine-learning-infrastructure-2026-10-30.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
-    ]
-  },
-  {
-    "id": "north-korean-hackers-execute-6-3-billion-binance-heist-in-20-minutes-2026-10-30",
-    "title": "North Korean Hackers Execute $6.3 Billion Binance Heist in 20 Minutes",
-    "description": "A swift cyberattack by North Korean operatives stole billions of crypto from Binance, the world’s largest exchange, in a record 20‑minute breach.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "A swift cyberattack by North Korean operatives stole billions of crypto from Binance, the world’s largest exchange, in a record 20‑minute breach.",
-    "page": "articles/north-korean-hackers-execute-6-3-billion-binance-heist-in-20-minutes-2026-10-30.html",
-    "source_urls": [
-      "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
     ]
   }
 ]
