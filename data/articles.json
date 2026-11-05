@@ -1,5 +1,24 @@
 [
   {
+    "id": "macronix-shifts-focus-to-ai-data-center-chips-leaving-nintendo-rom-supply-in-limbo-2026-11-05",
+    "title": "Macronix Shifts Focus to AI Data Center Chips, Leaving Nintendo ROM Supply in Limbo",
+    "description": "The former Nintendo ROM chip supplier Macronix is pivoting its production toward NAND and NOR flash for AI data centers, impacting the Switch cartridge supply chain.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "The former Nintendo ROM chip supplier Macronix is pivoting its production toward NAND and NOR flash for AI data centers, impacting the Switch cartridge supply chain.",
+    "page": "articles/macronix-shifts-focus-to-ai-data-center-chips-leaving-nintendo-rom-supply-in-limbo-2026-11-05.html",
+    "source_urls": [
+      "https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive",
+      "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
+    ]
+  },
+  {
     "id": "texas-ai-data-center-boom-faces-political-headwinds-2026-11-05",
     "title": "Texas’ AI Data Center Boom Faces Political Headwinds",
     "description": "The state’s rapid growth in AI data centers may stall after recent election results, experts warn.",
@@ -1784,24 +1803,6 @@
     "page": "articles/thermoworks-unveils-compact-rfx-meat-mini-probe-for-small-cuts-2026-10-29.html",
     "source_urls": [
       "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/"
-    ]
-  },
-  {
-    "id": "wabi-raises-55-million-reaches-1-25-b-valuation-as-ai-personal-agent-grows-2026-10-29",
-    "title": "Wabi Raises $55 Million, Reaches $1.25 B Valuation as AI Personal Agent Grows",
-    "description": "AI startup Wabi secured a $55 million round, boosting its valuation to $1.25 billion and expanding its personal‑agent platform.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "AI startup Wabi secured a $55 million round, boosting its valuation to $1.25 billion and expanding its personal‑agent platform.",
-    "page": "articles/wabi-raises-55-million-reaches-1-25-b-valuation-as-ai-personal-agent-grows-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
     ]
   }
 ]
