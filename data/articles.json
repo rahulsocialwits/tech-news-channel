@@ -1,5 +1,24 @@
 [
   {
+    "id": "texas-ai-data-center-boom-faces-political-headwinds-2026-11-05",
+    "title": "Texas’ AI Data Center Boom Faces Political Headwinds",
+    "description": "The state’s rapid growth in AI data centers may stall after recent election results, experts warn.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "The state’s rapid growth in AI data centers may stall after recent election results, experts warn.",
+    "page": "articles/texas-ai-data-center-boom-faces-political-headwinds-2026-11-05.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
+    ]
+  },
+  {
     "id": "redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04",
     "title": "Redditor Turns Apple TV into Nintendo Switch Emulator with Claude Code",
     "description": "A community member used OpenAI’s Claude Code to port Nintendo Switch games to Apple TV, showcasing cross‑platform software adaptation.",
@@ -1783,24 +1802,6 @@
     "page": "articles/wabi-raises-55-million-reaches-1-25-b-valuation-as-ai-personal-agent-grows-2026-10-29.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
-    ]
-  },
-  {
-    "id": "mintive-secures-multi-million-funding-to-simplify-enterprise-agent-management-2026-10-29",
-    "title": "Mintive Secures Multi‑Million Funding to Simplify Enterprise Agent Management",
-    "description": "Mintive, a startup founded by former Google Brain engineers, raises capital from Cowboy Ventures, Coatue and AI luminaries Jeff Dean and Andrej Karpathy to help businesses control AI agents.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Mintive, a startup founded by former Google Brain engineers, raises capital from Cowboy Ventures, Coatue and AI luminaries Jeff Dean and Andrej Karpathy to help businesses control AI agents.",
-    "page": "articles/mintive-secures-multi-million-funding-to-simplify-enterprise-agent-management-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
     ]
   }
 ]
