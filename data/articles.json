@@ -1,5 +1,23 @@
 [
   {
+    "id": "snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05",
+    "title": "Snapchat+ Surpasses 30 Million Paid Subscribers as AI‑Powered Effects Drive Growth",
+    "description": "Snap has crossed the 30‑million mark for paid users, with AI‑enhanced filters and effects attracting power users.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-05",
+    "readTime": "3 min read",
+    "excerpt": "Snap has crossed the 30‑million mark for paid users, with AI‑enhanced filters and effects attracting power users.",
+    "page": "articles/snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05.html",
+    "source_urls": [
+      "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/"
+    ]
+  },
+  {
     "id": "t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05",
     "title": "T‑Mobile Unveils 5 Gbps Fiber Plan at $90 a Month",
     "description": "T‑Mobile offers a 5 Gbps fiber internet plan for under $100 a month, promising a 2.5× speed boost and a 10‑year price guarantee.",
@@ -1785,24 +1803,6 @@
     "page": "articles/intel-unveils-nova-lake-first-desktop-cpus-built-on-advanced-18a-p-node-2026-10-30.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
-    ]
-  },
-  {
-    "id": "granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29",
-    "title": "Granola Adds Dictation to Its Meeting Notetaker, Challenging Wispr",
-    "description": "Granola expands its meeting‑note app with a new dictation feature, positioning itself against Wispr’s recent note‑taking enhancements.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-29",
-    "readTime": "3 min read",
-    "excerpt": "Granola expands its meeting‑note app with a new dictation feature, positioning itself against Wispr’s recent note‑taking enhancements.",
-    "page": "articles/granola-adds-dictation-to-its-meeting-notetaker-challenging-wispr-2026-10-29.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
     ]
   }
 ]
