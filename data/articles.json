@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-tightens-ai-gpu-tracking-in-southeast-asia-amid-smuggling-concerns-2026-11-06",
+    "title": "Nvidia Tightens AI GPU Tracking in Southeast Asia Amid Smuggling Concerns",
+    "description": "Nvidia requires Southeast Asian cloud providers to enroll in its Fleet Intelligence program to monitor AI GPU deployments as chip smuggling investigations intensify.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia requires Southeast Asian cloud providers to enroll in its Fleet Intelligence program to monitor AI GPU deployments as chip smuggling investigations intensify.",
+    "page": "articles/nvidia-tightens-ai-gpu-tracking-in-southeast-asia-amid-smuggling-concerns-2026-11-06.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status"
+    ]
+  },
+  {
     "id": "physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06",
     "title": "Physicl Secures $10 Million to Bridge the Sim‑to‑Real Gap for Robots",
     "description": "Startup Physicl raises $10 million to develop a pipeline that turns digital simulations into real‑world robotic actions, aiming to accelerate robot deployment across industries.",
@@ -1787,24 +1805,6 @@
     "page": "articles/backup-by-biolite-a-portable-power-solution-for-home-appliances-2026-10-31.html",
     "source_urls": [
       "https://www.wired.com/review/backup-by-biolite/"
-    ]
-  },
-  {
-    "id": "alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31",
-    "title": "Alphabet Shares Plunge as Investors Question AI Investment Payoff",
-    "description": "Alphabet’s stock fell 12.6% after earnings raised doubts about the return on its massive AI spend, wiping out nearly $500 billion in market value.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Alphabet’s stock fell 12.6% after earnings raised doubts about the return on its massive AI spend, wiping out nearly $500 billion in market value.",
-    "page": "articles/alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31.html",
-    "source_urls": [
-      "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece"
     ]
   }
 ]
