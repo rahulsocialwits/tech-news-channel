@@ -1,5 +1,23 @@
 [
   {
+    "id": "motorola-unveils-polar-powered-moto-watch-2-fit-and-bose-boosted-moto-buds-2-ultra-2026-11-06",
+    "title": "Motorola Unveils Polar‑Powered Moto Watch 2 Fit and Bose‑Boosted Moto Buds 2 Ultra",
+    "description": "Motorola launches the Moto Watch 2 Fit with a new polar‑powered battery and the Moto Buds 2 Ultra featuring Bose audio technology.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "4 min read",
+    "excerpt": "Motorola launches the Moto Watch 2 Fit with a new polar‑powered battery and the Moto Buds 2 Ultra featuring Bose audio technology.",
+    "page": "articles/motorola-unveils-polar-powered-moto-watch-2-fit-and-bose-boosted-moto-buds-2-ultra-2026-11-06.html",
+    "source_urls": [
+      "https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/"
+    ]
+  },
+  {
     "id": "bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06",
     "title": "Bose Recalls Over 670,000 S1 Pro Battery Packs Amid Fire and Overheating Concerns",
     "description": "Bose has issued a recall for its S1 Pro battery packs after reports of fire and overheating incidents, affecting more than 670,000 units in the U.S. and Canada.",
@@ -1789,24 +1807,6 @@
     "page": "articles/zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
-    ]
-  },
-  {
-    "id": "google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30",
-    "title": "Google Launches First Data‑Center Satellite, Bringing AI Power to Space",
-    "description": "Google’s new satellite hosts a TPU running a DeepMind model, marking the first time a data‑center‑grade AI processor operates in orbit.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Google’s new satellite hosts a TPU running a DeepMind model, marking the first time a data‑center‑grade AI processor operates in orbit.",
-    "page": "articles/google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
     ]
   }
 ]
