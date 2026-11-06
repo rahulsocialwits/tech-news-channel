@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-center-ballot-measures-signal-shift-toward-more-regulated-growth-2026-11-06",
+    "title": "Data Center Ballot Measures Signal Shift Toward More Regulated Growth",
+    "description": "Recent U.S. midterm elections saw voters approve 40 of 41 data‑center‑related ballot measures, tightening restrictions on new facilities and prompting industry leaders to rethink expansion plans.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Recent U.S. midterm elections saw voters approve 40 of 41 data‑center‑related ballot measures, tightening restrictions on new facilities and prompting industry leaders to rethink expansion plans.",
+    "page": "articles/data-center-ballot-measures-signal-shift-toward-more-regulated-growth-2026-11-06.html",
+    "source_urls": [
+      "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    ]
+  },
+  {
     "id": "eufy-unveils-window-mounted-outdoor-camera-that-stays-inside-2026-11-06",
     "title": "Eufy Unveils Window‑Mounted Outdoor Camera That Stays Inside",
     "description": "Eufy’s new $80 E10 camera sticks to windows, pointing outward for discreet outdoor security.",
@@ -1787,24 +1805,6 @@
     "page": "articles/fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
-    ]
-  },
-  {
-    "id": "google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31",
-    "title": "Google Cloud’s Revenue Surge Raises Investor Concerns Over AI Spending",
-    "description": "Google Cloud’s revenue more than doubled in 2026, yet heavy AI infrastructure investment is weighing on cash flow and prompting investor worry.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Google Cloud’s revenue more than doubled in 2026, yet heavy AI infrastructure investment is weighing on cash flow and prompting investor worry.",
-    "page": "articles/google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece"
     ]
   }
 ]
