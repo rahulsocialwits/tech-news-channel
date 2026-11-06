@@ -1,5 +1,22 @@
 [
   {
+    "id": "physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06",
+    "title": "Physicl Secures $10 Million to Bridge the Sim‑to‑Real Gap for Robots",
+    "description": "Startup Physicl raises $10 million to develop a pipeline that turns digital simulations into real‑world robotic actions, aiming to accelerate robot deployment across industries.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Startup Physicl raises $10 million to develop a pipeline that turns digital simulations into real‑world robotic actions, aiming to accelerate robot deployment across industries.",
+    "page": "articles/physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    ]
+  },
+  {
     "id": "intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06",
     "title": "Intel’s Nova Lake CPUs Demand New Motherboards as LGA 1954 Arrives",
     "description": "Intel’s upcoming Nova Lake processors introduce a new LGA 1954 socket, requiring fresh motherboards with enhanced PCIe 5.0, Thunderbolt 5, and faster memory support.",
@@ -1788,24 +1805,6 @@
     "page": "articles/alphabet-shares-plunge-as-investors-question-ai-investment-payoff-2026-10-31.html",
     "source_urls": [
       "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece"
-    ]
-  },
-  {
-    "id": "nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31",
-    "title": "Nvidia Quietly Pulls RTX 5080 After RTX 5090 Removal, Prices Surge",
-    "description": "Nvidia removes its RTX 5080 listing as the RTX 5090 is pulled, sending retail prices to double MSRP.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia removes its RTX 5080 listing as the RTX 5090 is pulled, sending retail prices to double MSRP.",
-    "page": "articles/nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
     ]
   }
 ]
