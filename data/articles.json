@@ -1,5 +1,23 @@
 [
   {
+    "id": "eufy-unveils-window-mounted-outdoor-camera-that-stays-inside-2026-11-06",
+    "title": "Eufy Unveils Window‑Mounted Outdoor Camera That Stays Inside",
+    "description": "Eufy’s new $80 E10 camera sticks to windows, pointing outward for discreet outdoor security.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Eufy’s new $80 E10 camera sticks to windows, pointing outward for discreet outdoor security.",
+    "page": "articles/eufy-unveils-window-mounted-outdoor-camera-that-stays-inside-2026-11-06.html",
+    "source_urls": [
+      "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/"
+    ]
+  },
+  {
     "id": "apple-drops-13-inch-macbook-air-price-to-1-349-its-lowest-since-june-2026-11-06",
     "title": "Apple Drops 13‑inch MacBook Air Price to $1,349, Its Lowest Since June",
     "description": "Apple’s 13‑inch MacBook Air with M5, 16GB RAM and 1TB SSD is now available for $1,349 on Amazon, a $250 discount from its previous price.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-cloud-s-revenue-surge-raises-investor-concerns-over-ai-spending-2026-10-31.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece"
-    ]
-  },
-  {
-    "id": "ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31",
-    "title": "AI‑Powered Malware ‘Volta‑Autodoxer’ Harvests Personal Data with Unprecedented Precision",
-    "description": "The newly uncovered Volta‑Autodoxer malware uses AI tools to autonomously collect login credentials, credit card numbers, Discord sessions and even UberEats receipts, raising fresh concerns for cybersecurity defenders.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "The newly uncovered Volta‑Autodoxer malware uses AI tools to autonomously collect login credentials, credit card numbers, Discord sessions and even UberEats receipts, raising fresh concerns for cybersecurity defenders.",
-    "page": "articles/ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31.html",
-    "source_urls": [
-      "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
     ]
   }
 ]
