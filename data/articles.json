@@ -1,5 +1,22 @@
 [
   {
+    "id": "local-governments-strip-flock-surveillance-cameras-amid-privacy-concerns-2026-11-06",
+    "title": "Local Governments Strip Flock Surveillance Cameras Amid Privacy Concerns",
+    "description": "At least ten municipalities have removed Flock’s cameras after privacy and data‑sharing worries grew this summer.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "At least ten municipalities have removed Flock’s cameras after privacy and data‑sharing worries grew this summer.",
+    "page": "articles/local-governments-strip-flock-surveillance-cameras-amid-privacy-concerns-2026-11-06.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+    ]
+  },
+  {
     "id": "google-adds-notify-when-left-behind-alerts-to-find-hub-tags-2026-11-06",
     "title": "Google Adds ‘Notify When Left Behind’ Alerts to Find Hub Tags",
     "description": "Google expands Find Hub’s tracking features with new left‑behind notifications for Android users.",
@@ -1789,24 +1806,6 @@
     "page": "articles/bose-soundlink-plus-returns-to-all-time-low-offering-big-sound-and-phone-charging-for-90-2026-10-31.html",
     "source_urls": [
       "https://www.androidauthority.com/bose-soundlink-plus-deal-amazon-3730318/"
-    ]
-  },
-  {
-    "id": "apple-watch-ultra-4-drops-to-699-99-after-first-major-price-cut-2026-10-31",
-    "title": "Apple Watch Ultra 4 Drops to $699.99 After First Major Price Cut",
-    "description": "Apple reduces the price of its flagship titanium smartwatch, the Ultra 4, to $699.99 on Amazon, offering a $99 discount.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Apple reduces the price of its flagship titanium smartwatch, the Ultra 4, to $699.99 on Amazon, offering a $99 discount.",
-    "page": "articles/apple-watch-ultra-4-drops-to-699-99-after-first-major-price-cut-2026-10-31.html",
-    "source_urls": [
-      "https://www.androidauthority.com/apple-watch-ultra-4-deal-3730321/"
     ]
   }
 ]
