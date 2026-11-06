@@ -1,5 +1,23 @@
 [
   {
+    "id": "palo-alto-networks-eyes-500m-acquisition-of-ai-driven-security-startup-clutch-2026-11-06",
+    "title": "Palo Alto Networks Eyes $500M Acquisition of AI‑Driven Security Startup Clutch",
+    "description": "Palo Alto Networks is in talks to acquire Clutch, a startup that builds AI‑powered security agents, for $500 million, potentially reshaping enterprise threat detection.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Palo Alto Networks is in talks to acquire Clutch, a startup that builds AI‑powered security agents, for $500 million, potentially reshaping enterprise threat detection.",
+    "page": "articles/palo-alto-networks-eyes-500m-acquisition-of-ai-driven-security-startup-clutch-2026-11-06.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    ]
+  },
+  {
     "id": "texas-faces-uncertain-future-as-ai-data-center-boom-stalls-2026-11-06",
     "title": "Texas Faces Uncertain Future as AI Data‑Center Boom Stalls",
     "description": "Texas, once the fastest‑growing data‑center market, may see its AI boom falter amid shifting energy policies, according to a recent MIT Technology Review analysis.",
@@ -1789,24 +1807,6 @@
     "page": "articles/google-pixel-watch-5-hits-record-low-ahead-of-black-friday-2026-10-31.html",
     "source_urls": [
       "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/"
-    ]
-  },
-  {
-    "id": "salesforce-expands-defense-footprint-with-375-million-acquisition-of-ai-logistics-startup--2026-10-31",
-    "title": "Salesforce Expands Defense Footprint with $375 Million Acquisition of AI Logistics Startup Rune",
-    "description": "Salesforce announced a $375 million deal to acquire defense‑tech startup Rune, adding AI‑powered logistics to its Missionforce platform.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Salesforce announced a $375 million deal to acquire defense‑tech startup Rune, adding AI‑powered logistics to its Missionforce platform.",
-    "page": "articles/salesforce-expands-defense-footprint-with-375-million-acquisition-of-ai-logistics-startup--2026-10-31.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
     ]
   }
 ]
