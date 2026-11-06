@@ -1,5 +1,23 @@
 [
   {
+    "id": "intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06",
+    "title": "Intel’s Nova Lake CPUs Demand New Motherboards as LGA 1954 Arrives",
+    "description": "Intel’s upcoming Nova Lake processors introduce a new LGA 1954 socket, requiring fresh motherboards with enhanced PCIe 5.0, Thunderbolt 5, and faster memory support.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Hardware"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Intel’s upcoming Nova Lake processors introduce a new LGA 1954 socket, requiring fresh motherboards with enhanced PCIe 5.0, Thunderbolt 5, and faster memory support.",
+    "page": "articles/intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets"
+    ]
+  },
+  {
     "id": "aina-smart-ring-adds-tiny-display-to-manage-ai-agents-2026-11-06",
     "title": "Aina Smart Ring Adds Tiny Display to Manage AI Agents",
     "description": "The $400 Aina smart ring offers a miniature screen for controlling AI assistants on iPhone and Mac, though Android support is missing.",
@@ -1788,24 +1806,6 @@
     "page": "articles/nvidia-quietly-pulls-rtx-5080-after-rtx-5090-removal-prices-surge-2026-10-31.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp"
-    ]
-  },
-  {
-    "id": "android-auto-tool-lets-users-sideload-apps-for-free-2026-10-31",
-    "title": "Android Auto Tool Lets Users Sideload Apps for Free",
-    "description": "A new tool enables Android Auto users to run sideloaded apps without cost, expanding the platform’s functionality.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "A new tool enables Android Auto users to run sideloaded apps without cost, expanding the platform’s functionality.",
-    "page": "articles/android-auto-tool-lets-users-sideload-apps-for-free-2026-10-31.html",
-    "source_urls": [
-      "https://www.androidauthority.com/android-auto-unknownauto-tool-3730284/"
     ]
   }
 ]
