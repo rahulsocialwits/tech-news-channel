@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-drops-13-inch-macbook-air-price-to-1-349-its-lowest-since-june-2026-11-06",
+    "title": "Apple Drops 13‑inch MacBook Air Price to $1,349, Its Lowest Since June",
+    "description": "Apple’s 13‑inch MacBook Air with M5, 16GB RAM and 1TB SSD is now available for $1,349 on Amazon, a $250 discount from its previous price.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s 13‑inch MacBook Air with M5, 16GB RAM and 1TB SSD is now available for $1,349 on Amazon, a $250 discount from its previous price.",
+    "page": "articles/apple-drops-13-inch-macbook-air-price-to-1-349-its-lowest-since-june-2026-11-06.html",
+    "source_urls": [
+      "https://www.androidauthority.com/13-inch-macbook-air-deal-3732616/"
+    ]
+  },
+  {
     "id": "amazon-expands-alexa-s-reach-text-based-shopping-now-available-to-millions-2026-11-06",
     "title": "Amazon Expands Alexa’s Reach: Text‑Based Shopping Now Available to Millions",
     "description": "Amazon rolls out a new text‑to‑Alexa feature that lets users shop via SMS, broadening the voice assistant’s accessibility and convenience.",
@@ -1787,24 +1805,6 @@
     "page": "articles/ai-powered-malware-volta-autodoxer-harvests-personal-data-with-unprecedented-precision-2026-10-31.html",
     "source_urls": [
       "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
-    ]
-  },
-  {
-    "id": "google-openai-anthropic-and-microsoft-unite-on-new-scraping-controls-for-ai-training-2026-10-31",
-    "title": "Google, OpenAI, Anthropic and Microsoft Unite on New Scraping Controls for AI Training",
-    "description": "Major AI firms announce a shared signal to block web scraping for training models, aiming to protect content owners and improve transparency.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Major AI firms announce a shared signal to block web scraping for training models, aiming to protect content owners and improve transparency.",
-    "page": "articles/google-openai-anthropic-and-microsoft-unite-on-new-scraping-controls-for-ai-training-2026-10-31.html",
-    "source_urls": [
-      "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/"
     ]
   }
 ]
