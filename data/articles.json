@@ -1,5 +1,23 @@
 [
   {
+    "id": "googlebook-rolls-out-november-update-with-31-fixes-and-firmware-improvements-2026-11-06",
+    "title": "Googlebook Rolls Out November Update With 31 Fixes and Firmware Improvements",
+    "description": "Googlebook’s latest November update delivers 31 bug fixes, stability boosts and firmware updates to enhance user experience.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Googlebook’s latest November update delivers 31 bug fixes, stability boosts and firmware updates to enhance user experience.",
+    "page": "articles/googlebook-rolls-out-november-update-with-31-fixes-and-firmware-improvements-2026-11-06.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/05/googlebook-november-update/"
+    ]
+  },
+  {
     "id": "motorola-unveils-polar-powered-moto-watch-2-fit-and-bose-boosted-moto-buds-2-ultra-2026-11-06",
     "title": "Motorola Unveils Polar‑Powered Moto Watch 2 Fit and Bose‑Boosted Moto Buds 2 Ultra",
     "description": "Motorola launches the Moto Watch 2 Fit with a new polar‑powered battery and the Moto Buds 2 Ultra featuring Bose audio technology.",
@@ -1789,24 +1807,6 @@
     "page": "articles/nvidia-offers-to-cosign-loan-for-nscale-s-west-virginia-ai-data-center-2026-10-31.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-    ]
-  },
-  {
-    "id": "zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30",
-    "title": "Zest Launches AI Concierge That Books Restaurant Reservations Over Text",
-    "description": "Zest’s new AI agent lets users text to find restaurants, vote on options and secure reservations, streamlining group dining decisions.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "Zest’s new AI agent lets users text to find restaurants, vote on options and secure reservations, streamlining group dining decisions.",
-    "page": "articles/zest-launches-ai-concierge-that-books-restaurant-reservations-over-text-2026-10-30.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
     ]
   }
 ]
