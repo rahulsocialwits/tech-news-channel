@@ -1,5 +1,23 @@
 [
   {
+    "id": "blue-origin-unveils-cost-cutting-rocket-engine-upgrade-pushing-spaceflight-into-a-new-era-2026-11-06",
+    "title": "Blue Origin Unveils Cost‑Cutting Rocket Engine Upgrade, Pushing Spaceflight Into a New Era",
+    "description": "Blue Origin announced a new rocket engine design that promises higher performance at a quarter of the cost, signaling a shift toward more affordable space launches.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Blue Origin announced a new rocket engine design that promises higher performance at a quarter of the cost, signaling a shift toward more affordable space launches.",
+    "page": "articles/blue-origin-unveils-cost-cutting-rocket-engine-upgrade-pushing-spaceflight-into-a-new-era-2026-11-06.html",
+    "source_urls": [
+      "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/"
+    ]
+  },
+  {
     "id": "openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05",
     "title": "OpenAI Announces Comprehensive U.S. Data‑Center Safeguards and Union Engagement",
     "description": "OpenAI commits to environmental transparency, local hiring, and grid infrastructure support for its U.S. data‑center expansion.",
@@ -1789,24 +1807,6 @@
     "page": "articles/tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30.html",
     "source_urls": [
       "https://www.tomshardware.com/monitors/gaming-monitors/tcl-27c2a-pro-27-inch-qd-mini-led-4k-gaming-monitor-review"
-    ]
-  },
-  {
-    "id": "psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30",
-    "title": "PsiQuantum Unveils 8×8 Optical Switch to Supercharge AI Data Center GPU Networks",
-    "description": "PsiQuantum’s new optical switch prototype offers 1.2 dB loss, far below the 3 dB limit in data centers, promising faster AI workloads.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "PsiQuantum’s new optical switch prototype offers 1.2 dB loss, far below the 3 dB limit in data centers, promising faster AI workloads.",
-    "page": "articles/psiquantum-unveils-8-8-optical-switch-to-supercharge-ai-data-center-gpu-networks-2026-10-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices"
     ]
   }
 ]
