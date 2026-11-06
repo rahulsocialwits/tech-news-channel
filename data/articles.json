@@ -1,5 +1,23 @@
 [
   {
+    "id": "bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06",
+    "title": "Bose Recalls Over 670,000 S1 Pro Battery Packs Amid Fire and Overheating Concerns",
+    "description": "Bose has issued a recall for its S1 Pro battery packs after reports of fire and overheating incidents, affecting more than 670,000 units in the U.S. and Canada.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-06",
+    "readTime": "3 min read",
+    "excerpt": "Bose has issued a recall for its S1 Pro battery packs after reports of fire and overheating incidents, affecting more than 670,000 units in the U.S. and Canada.",
+    "page": "articles/bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06.html",
+    "source_urls": [
+      "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/"
+    ]
+  },
+  {
     "id": "blue-origin-unveils-cost-cutting-rocket-engine-upgrade-pushing-spaceflight-into-a-new-era-2026-11-06",
     "title": "Blue Origin Unveils Cost‑Cutting Rocket Engine Upgrade, Pushing Spaceflight Into a New Era",
     "description": "Blue Origin announced a new rocket engine design that promises higher performance at a quarter of the cost, signaling a shift toward more affordable space launches.",
@@ -1789,24 +1807,6 @@
     "page": "articles/google-launches-first-data-center-satellite-bringing-ai-power-to-space-2026-10-30.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
-    ]
-  },
-  {
-    "id": "tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30",
-    "title": "TCL Unveils 27‑inch QD‑Mini LED 4K Gaming Monitor With Record Brightness",
-    "description": "TCL’s new 27C2A Pro delivers 4K resolution, 160 Hz refresh, and 2,304‑zone local dimming for gamers seeking vivid color and high brightness.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-30",
-    "readTime": "3 min read",
-    "excerpt": "TCL’s new 27C2A Pro delivers 4K resolution, 160 Hz refresh, and 2,304‑zone local dimming for gamers seeking vivid color and high brightness.",
-    "page": "articles/tcl-unveils-27-inch-qd-mini-led-4k-gaming-monitor-with-record-brightness-2026-10-30.html",
-    "source_urls": [
-      "https://www.tomshardware.com/monitors/gaming-monitors/tcl-27c2a-pro-27-inch-qd-mini-led-4k-gaming-monitor-review"
     ]
   }
 ]
