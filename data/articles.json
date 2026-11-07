@@ -1,5 +1,23 @@
 [
   {
+    "id": "sequoia-ventures-ends-its-scouts-program-signaling-shift-in-vc-talent-development-2026-11-07",
+    "title": "Sequoia Ventures Ends Its Scouts Program, Signaling Shift in VC Talent Development",
+    "description": "Sequoia Ventures has announced the closure of its Scouts program, a long‑running initiative that paired early‑stage founders with seasoned investors. The move reflects a broader reevaluation of the model’s effectiveness in today’s startup ecosystem.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Sequoia Ventures has announced the closure of its Scouts program, a long‑running initiative that paired early‑stage founders with seasoned investors. The move reflects a broader reevaluation of the model’s effectiveness in today’s startup ecosystem.",
+    "page": "articles/sequoia-ventures-ends-its-scouts-program-signaling-shift-in-vc-talent-development-2026-11-07.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+    ]
+  },
+  {
     "id": "amazon-expands-alexa-shopping-with-text-based-interface-2026-11-07",
     "title": "Amazon Expands Alexa Shopping with Text‑Based Interface",
     "description": "Amazon rolls out a new text‑based shopping feature for Alexa, letting users research, compare products and complete purchases through chat.",
@@ -1789,23 +1807,6 @@
     "page": "articles/techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-    ]
-  },
-  {
-    "id": "data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01",
-    "title": "Data Centers Become a Midterm Issue in Brooklyn, Highlighting AI’s Growing Footprint",
-    "description": "Brooklyn’s midterm debate turns to data centers and AI, underscoring the sector’s rising political and economic importance.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Brooklyn’s midterm debate turns to data centers and AI, underscoring the sector’s rising political and economic importance.",
-    "page": "articles/data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
     ]
   }
 ]
