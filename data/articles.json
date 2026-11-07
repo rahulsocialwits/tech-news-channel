@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-expands-alexa-shopping-with-text-based-interface-2026-11-07",
+    "title": "Amazon Expands Alexa Shopping with Text‑Based Interface",
+    "description": "Amazon rolls out a new text‑based shopping feature for Alexa, letting users research, compare products and complete purchases through chat.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Amazon rolls out a new text‑based shopping feature for Alexa, letting users research, compare products and complete purchases through chat.",
+    "page": "articles/amazon-expands-alexa-shopping-with-text-based-interface-2026-11-07.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/article71677218.ece"
+    ]
+  },
+  {
     "id": "us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07",
     "title": "US Regulators Warn of Rising Cyber‑Attack Threat to Industrial Refrigeration Systems",
     "description": "The FBI and federal regulators have issued a warning after a wave of cyber‑attacks on industrial refrigeration and cold‑chain monitoring systems caused significant food waste in European supermarkets.",
@@ -1788,24 +1806,6 @@
     "page": "articles/data-centers-become-a-midterm-issue-in-brooklyn-highlighting-ai-s-growing-footprint-2026-11-01.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
-    ]
-  },
-  {
-    "id": "ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01",
-    "title": "AI Giants Offer New Scraping‑Blocking Tool for Publishers",
-    "description": "Major AI companies unveil a unified approach to curb web scraping, easing the burden on publishers who currently juggle multiple bot‑blocking rules.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Major AI companies unveil a unified approach to curb web scraping, easing the burden on publishers who currently juggle multiple bot‑blocking rules.",
-    "page": "articles/ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-publishers-new-way-to-block-some-scraping/article71648159.ece"
     ]
   }
 ]
