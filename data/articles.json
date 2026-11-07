@@ -1,5 +1,23 @@
 [
   {
+    "id": "gentle-monster-pre-orders-google-smart-glasses-on-november-12-2026-11-07",
+    "title": "Gentle Monster Pre‑Orders Google Smart Glasses on November 12",
+    "description": "Gentle Monster’s Intelligent Eyewear will be available for pre‑order on November 12, marking a new partnership with Google for smart glasses.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Gentle Monster’s Intelligent Eyewear will be available for pre‑order on November 12, marking a new partnership with Google for smart glasses.",
+    "page": "articles/gentle-monster-pre-orders-google-smart-glasses-on-november-12-2026-11-07.html",
+    "source_urls": [
+      "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/"
+    ]
+  },
+  {
     "id": "ai-generated-documents-threaten-brand-trust-experts-warn-2026-11-07",
     "title": "AI‑Generated Documents Threaten Brand Trust, Experts Warn",
     "description": "Industry experts caution that polished AI drafts can erode customer confidence, urging companies to maintain human oversight.",
@@ -1790,24 +1808,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece"
-    ]
-  },
-  {
-    "id": "naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01",
-    "title": "NAACP Lawsuit Challenges xAI Data Center Pollution Claims",
-    "description": "The NAACP has filed a lawsuit alleging that SpaceX-owned AI company xAI’s data center violates the Clean Air Act, prompting a judge to allow the case to proceed.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "The NAACP has filed a lawsuit alleging that SpaceX-owned AI company xAI’s data center violates the Clean Air Act, prompting a judge to allow the case to proceed.",
-    "page": "articles/naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
     ]
   }
 ]
