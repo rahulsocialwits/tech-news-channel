@@ -1,5 +1,24 @@
 [
   {
+    "id": "ai-generated-documents-threaten-brand-trust-experts-warn-2026-11-07",
+    "title": "AI‑Generated Documents Threaten Brand Trust, Experts Warn",
+    "description": "Industry experts caution that polished AI drafts can erode customer confidence, urging companies to maintain human oversight.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Industry experts caution that polished AI drafts can erode customer confidence, urging companies to maintain human oversight.",
+    "page": "articles/ai-generated-documents-threaten-brand-trust-experts-warn-2026-11-07.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/experts-warn-ai-generated-documents-can-weaken-brand-trust-180720.html?rss=1",
+      "https://indiatechnologynews.in/mphasis-revenue-grew-4-5-qoq-and-17-4-yoy-in-q2-fy27/"
+    ]
+  },
+  {
     "id": "sequoia-ventures-ends-its-scouts-program-signaling-shift-in-vc-talent-development-2026-11-07",
     "title": "Sequoia Ventures Ends Its Scouts Program, Signaling Shift in VC Talent Development",
     "description": "Sequoia Ventures has announced the closure of its Scouts program, a long‑running initiative that paired early‑stage founders with seasoned investors. The move reflects a broader reevaluation of the model’s effectiveness in today’s startup ecosystem.",
@@ -1789,24 +1808,6 @@
     "page": "articles/naacp-lawsuit-challenges-xai-data-center-pollution-claims-2026-11-01.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-    ]
-  },
-  {
-    "id": "techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01",
-    "title": "TechCrunch Founder Summit Kicks Off in Boston with a Focus on Meaningful Connections",
-    "description": "The inaugural TechCrunch Founder Summit in Boston promises a full day of networking, insights, and opportunities for startups to scale.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Startups"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "The inaugural TechCrunch Founder Summit in Boston promises a full day of networking, insights, and opportunities for startups to scale.",
-    "page": "articles/techcrunch-founder-summit-kicks-off-in-boston-with-a-focus-on-meaningful-connections-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
     ]
   }
 ]
