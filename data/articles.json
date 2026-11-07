@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07",
+    "title": "Microsoft Faces Protest as Activists Storm Planned Amsterdam Data Centre",
+    "description": "Activists invaded the site of Microsoft’s new data centre in Amsterdam, sparking a clash over environmental and community concerns.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Activists invaded the site of Microsoft’s new data centre in Amsterdam, sparking a clash over environmental and community concerns.",
+    "page": "articles/microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/activists-invade-site-of-microsofts-planned-data-centre-in-amsterdam/article71677202.ece"
+    ]
+  },
+  {
     "id": "openai-accelerates-data-center-expansion-amid-political-uncertainty-2026-11-07",
     "title": "OpenAI Accelerates Data‑Center Expansion Amid Political Uncertainty",
     "description": "OpenAI is moving forward with new data‑center construction despite concerns over the U.S. midterm election outcome.",
@@ -1788,25 +1806,6 @@
     "page": "articles/govee-christmas-lights-2-deal-save-25-on-full-color-smart-string-lights-2026-11-01.html",
     "source_urls": [
       "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/"
-    ]
-  },
-  {
-    "id": "3d-printers-turn-expensive-hobbies-into-cost-saving-machines-2026-11-01",
-    "title": "3D Printers Turn Expensive Hobbies Into Cost‑Saving Machines",
-    "description": "Personal 3D printers can slash costs for hobbyists who spend heavily on supplies, according to recent reviews and pricing deals.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Personal 3D printers can slash costs for hobbyists who spend heavily on supplies, according to recent reviews and pricing deals.",
-    "page": "articles/3d-printers-turn-expensive-hobbies-into-cost-saving-machines-2026-11-01.html",
-    "source_urls": [
-      "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
-      "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners"
     ]
   }
 ]
