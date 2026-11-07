@@ -1,5 +1,23 @@
 [
   {
+    "id": "globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07",
+    "title": "GlobalFoundries Unveils FDX Fusion: 7nm-Class Performance Without EUV",
+    "description": "GlobalFoundries announced its FDX Fusion process, delivering 7nm-class performance using planar FD‑SOI transistors and no EUV lithography, targeting high‑volume production by 2030.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Semiconductors"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "GlobalFoundries announced its FDX Fusion process, delivering 7nm-class performance using planar FD‑SOI transistors and no EUV lithography, targeting high‑volume production by 2030.",
+    "page": "articles/globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow"
+    ]
+  },
+  {
     "id": "openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07",
     "title": "OpenAI Secures $11 B in Funding, Valuation Climbs to $1.25 Trillion",
     "description": "OpenAI announced a new funding round that could bring its valuation to $1.25 trillion, marking a significant milestone for the AI research lab.",
@@ -1787,24 +1805,6 @@
     "page": "articles/apple-s-new-ceo-signals-a-shift-away-from-ai-first-strategy-2026-11-01.html",
     "source_urls": [
       "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-    ]
-  },
-  {
-    "id": "bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31",
-    "title": "Bolt Graphics Announces Successful Test Run of Its First Zeus GPU",
-    "description": "Bolt Graphics reports a milestone with a successful test run of its simulation‑centric Zeus GPU, marking a significant step toward its launch.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "Bolt Graphics reports a milestone with a successful test run of its simulation‑centric Zeus GPU, marking a significant step toward its launch.",
-    "page": "articles/bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31.html",
-    "source_urls": [
-      "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/"
     ]
   }
 ]
