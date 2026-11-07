@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07",
+    "title": "Google Acquires Crusoe’s Wyoming Data‑Center Project Amid AI Infrastructure Push",
+    "description": "Google’s purchase of Crusoe’s troubled Wyoming data‑center project underscores the growing demand for AI‑ready infrastructure and the challenges of scaling large‑scale facilities.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Google’s purchase of Crusoe’s troubled Wyoming data‑center project underscores the growing demand for AI‑ready infrastructure and the challenges of scaling large‑scale facilities.",
+    "page": "articles/google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    ]
+  },
+  {
     "id": "data-center-ballot-measures-signal-shift-toward-more-regulated-growth-2026-11-06",
     "title": "Data Center Ballot Measures Signal Shift Toward More Regulated Growth",
     "description": "Recent U.S. midterm elections saw voters approve 40 of 41 data‑center‑related ballot measures, tightening restrictions on new facilities and prompting industry leaders to rethink expansion plans.",
@@ -1787,24 +1805,6 @@
     "page": "articles/french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31.html",
     "source_urls": [
       "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
-    ]
-  },
-  {
-    "id": "fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31",
-    "title": "Fraudsters Use AI to Forge Student Identities and Steal $200 Million in Loans",
-    "description": "A DOJ operation uncovered a $200 million ring that used AI to create fake student records and siphon federal student loans.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "A DOJ operation uncovered a $200 million ring that used AI to create fake student records and siphon federal student loans.",
-    "page": "articles/fraudsters-use-ai-to-forge-student-identities-and-steal-200-million-in-loans-2026-10-31.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
     ]
   }
 ]
