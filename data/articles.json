@@ -1,5 +1,23 @@
 [
   {
+    "id": "windows-powertoys-the-secret-toolkit-that-automates-everyday-pc-tasks-2026-11-07",
+    "title": "Windows PowerToys: The Secret Toolkit That Automates Everyday PC Tasks",
+    "description": "Microsoft’s PowerToys offers a suite of utilities that streamline routine Windows operations, boosting productivity for both casual users and power users.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s PowerToys offers a suite of utilities that streamline routine Windows operations, boosting productivity for both casual users and power users.",
+    "page": "articles/windows-powertoys-the-secret-toolkit-that-automates-everyday-pc-tasks-2026-11-07.html",
+    "source_urls": [
+      "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/"
+    ]
+  },
+  {
     "id": "refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07",
     "title": "Refrigerator Hacks Highlight Critical IoT Security Gap",
     "description": "A surge of hacks targeting smart refrigerators exposes vulnerabilities in everyday appliances and underscores the need for stronger security standards.",
@@ -1789,24 +1807,6 @@
     "page": "articles/everbloom-unveils-renoa-the-first-new-fiber-in-25-years-2026-11-01.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
-    ]
-  },
-  {
-    "id": "claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01",
-    "title": "Claude Makes Home Assistant Setup a One‑Click Experience",
-    "description": "Claude’s new integration lets users launch Home Assistant with a single click, offering a safe, streamlined smart‑home setup.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Claude’s new integration lets users launch Home Assistant with a single click, offering a safe, streamlined smart‑home setup.",
-    "page": "articles/claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01.html",
-    "source_urls": [
-      "https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/"
     ]
   }
 ]
