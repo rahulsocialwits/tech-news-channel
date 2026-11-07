@@ -1,5 +1,23 @@
 [
   {
+    "id": "refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07",
+    "title": "Refrigerator Hacks Highlight Critical IoT Security Gap",
+    "description": "A surge of hacks targeting smart refrigerators exposes vulnerabilities in everyday appliances and underscores the need for stronger security standards.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "A surge of hacks targeting smart refrigerators exposes vulnerabilities in everyday appliances and underscores the need for stronger security standards.",
+    "page": "articles/refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07.html",
+    "source_urls": [
+      "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
+    ]
+  },
+  {
     "id": "wired-tested-wi-fi-routers-the-2026-home-network-showdown-2026-11-07",
     "title": "Wired‑Tested Wi‑Fi Routers: The 2026 Home Network Showdown",
     "description": "Wired’s latest roundup of 50+ routers shows which models deliver the best speed, coverage and value for 2026 homes.",
@@ -1789,24 +1807,6 @@
     "page": "articles/claude-makes-home-assistant-setup-a-one-click-experience-2026-11-01.html",
     "source_urls": [
       "https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/"
-    ]
-  },
-  {
-    "id": "cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01",
-    "title": "CPU Speculation: How Modern Processors’ Predictive Features Open New Security Gaps",
-    "description": "Processors that guess future instructions can boost speed but also create vulnerabilities that hackers can exploit, according to recent research.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Processors that guess future instructions can boost speed but also create vulnerabilities that hackers can exploit, according to recent research.",
-    "page": "articles/cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01.html",
-    "source_urls": [
-      "https://www.xda-developers.com/cpu-predicts-future-improve-performace-but-opens-door-for-hackers/"
     ]
   }
 ]
