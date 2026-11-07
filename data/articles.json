@@ -1,5 +1,23 @@
 [
   {
+    "id": "binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07",
+    "title": "Binance CFO Resigns Amid $6.3 Billion Hack Fallout",
+    "description": "Binance’s chief financial officer steps down after a massive cryptocurrency theft, raising questions about the exchange’s security and governance.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Binance’s chief financial officer steps down after a massive cryptocurrency theft, raising questions about the exchange’s security and governance.",
+    "page": "articles/binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+    ]
+  },
+  {
     "id": "new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07",
     "title": "New Solar Panel Design Promises Nearly Double Efficiency",
     "description": "A recent breakthrough in solar cell architecture could raise panel output to almost twice current levels, offering a significant boost for renewable energy adoption.",
@@ -1788,24 +1806,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
       "https://www.thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece"
-    ]
-  },
-  {
-    "id": "walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01",
-    "title": "Walmart’s Shelf Price Blunder Turns Into Massive Gaming PC Deal",
-    "description": "A mispriced Walmart display offered two high‑end gaming rigs for a fraction of their cost, sparking a frenzy among PC builders.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gaming"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "A mispriced Walmart display offered two high‑end gaming rigs for a fraction of their cost, sparking a frenzy among PC builders.",
-    "page": "articles/walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01.html",
-    "source_urls": [
-      "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit"
     ]
   }
 ]
