@@ -1,5 +1,23 @@
 [
   {
+    "id": "us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07",
+    "title": "US Regulators Warn of Rising Cyber‑Attack Threat to Industrial Refrigeration Systems",
+    "description": "The FBI and federal regulators have issued a warning after a wave of cyber‑attacks on industrial refrigeration and cold‑chain monitoring systems caused significant food waste in European supermarkets.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "The FBI and federal regulators have issued a warning after a wave of cyber‑attacks on industrial refrigeration and cold‑chain monitoring systems caused significant food waste in European supermarkets.",
+    "page": "articles/us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece"
+    ]
+  },
+  {
     "id": "microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07",
     "title": "Microsoft Faces Protest as Activists Storm Planned Amsterdam Data Centre",
     "description": "Activists invaded the site of Microsoft’s new data centre in Amsterdam, sparking a clash over environmental and community concerns.",
@@ -1788,24 +1806,6 @@
     "page": "articles/ai-giants-offer-new-scraping-blocking-tool-for-publishers-2026-11-01.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-publishers-new-way-to-block-some-scraping/article71648159.ece"
-    ]
-  },
-  {
-    "id": "govee-christmas-lights-2-deal-save-25-on-full-color-smart-string-lights-2026-11-01",
-    "title": "Govee Christmas Lights 2 Deal: Save $25 on Full‑Color Smart String Lights",
-    "description": "Govee’s latest smart string lights are now 25% off, offering full‑color control and versatile indoor/outdoor use.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Govee’s latest smart string lights are now 25% off, offering full‑color control and versatile indoor/outdoor use.",
-    "page": "articles/govee-christmas-lights-2-deal-save-25-on-full-color-smart-string-lights-2026-11-01.html",
-    "source_urls": [
-      "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/"
     ]
   }
 ]
