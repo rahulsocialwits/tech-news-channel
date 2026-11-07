@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07",
+    "title": "OpenAI Secures $11 B in Funding, Valuation Climbs to $1.25 Trillion",
+    "description": "OpenAI announced a new funding round that could bring its valuation to $1.25 trillion, marking a significant milestone for the AI research lab.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI announced a new funding round that could bring its valuation to $1.25 trillion, marking a significant milestone for the AI research lab.",
+    "page": "articles/openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    ]
+  },
+  {
     "id": "google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07",
     "title": "Google Acquires Crusoe’s Wyoming Data‑Center Project Amid AI Infrastructure Push",
     "description": "Google’s purchase of Crusoe’s troubled Wyoming data‑center project underscores the growing demand for AI‑ready infrastructure and the challenges of scaling large‑scale facilities.",
@@ -1787,24 +1805,6 @@
     "page": "articles/bolt-graphics-announces-successful-test-run-of-its-first-zeus-gpu-2026-10-31.html",
     "source_urls": [
       "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/"
-    ]
-  },
-  {
-    "id": "french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31",
-    "title": "French Lawmakers Approve €0.055‑Per‑GB Internet Tax, Targeting Major Tech Firms",
-    "description": "France’s new internet tax will charge users €0.055 per gigabyte of digital content, potentially generating €10 billion annually and affecting Google, Meta, Netflix and TikTok.",
-    "category": "Enterprise",
-    "labels": [
-      "Enterprise",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-10-31",
-    "readTime": "3 min read",
-    "excerpt": "France’s new internet tax will charge users €0.055 per gigabyte of digital content, potentially generating €10 billion annually and affecting Google, Meta, Netflix and TikTok.",
-    "page": "articles/french-lawmakers-approve-0-055-per-gb-internet-tax-targeting-major-tech-firms-2026-10-31.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
     ]
   }
 ]
