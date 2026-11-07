@@ -1,5 +1,23 @@
 [
   {
+    "id": "wired-tested-wi-fi-routers-the-2026-home-network-showdown-2026-11-07",
+    "title": "Wired‑Tested Wi‑Fi Routers: The 2026 Home Network Showdown",
+    "description": "Wired’s latest roundup of 50+ routers shows which models deliver the best speed, coverage and value for 2026 homes.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Wired’s latest roundup of 50+ routers shows which models deliver the best speed, coverage and value for 2026 homes.",
+    "page": "articles/wired-tested-wi-fi-routers-the-2026-home-network-showdown-2026-11-07.html",
+    "source_urls": [
+      "https://www.wired.com/gallery/best-wifi-routers/"
+    ]
+  },
+  {
     "id": "gentle-monster-pre-orders-google-smart-glasses-on-november-12-2026-11-07",
     "title": "Gentle Monster Pre‑Orders Google Smart Glasses on November 12",
     "description": "Gentle Monster’s Intelligent Eyewear will be available for pre‑order on November 12, marking a new partnership with Google for smart glasses.",
@@ -1789,25 +1807,6 @@
     "page": "articles/cpu-speculation-how-modern-processors-predictive-features-open-new-security-gaps-2026-11-01.html",
     "source_urls": [
       "https://www.xda-developers.com/cpu-predicts-future-improve-performace-but-opens-door-for-hackers/"
-    ]
-  },
-  {
-    "id": "openai-cuts-funding-target-as-new-york-tightens-ai-chatbot-rules-2026-11-01",
-    "title": "OpenAI Cuts Funding Target as New York Tightens AI Chatbot Rules",
-    "description": "OpenAI is lowering its next funding round goal while New York enacts laws restricting AI chatbot interactions with minors.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI is lowering its next funding round goal while New York enacts laws restricting AI chatbot interactions with minors.",
-    "page": "articles/openai-cuts-funding-target-as-new-york-tightens-ai-chatbot-rules-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece"
     ]
   }
 ]
