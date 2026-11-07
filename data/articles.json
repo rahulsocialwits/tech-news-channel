@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07",
+    "title": "New Solar Panel Design Promises Nearly Double Efficiency",
+    "description": "A recent breakthrough in solar cell architecture could raise panel output to almost twice current levels, offering a significant boost for renewable energy adoption.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "A recent breakthrough in solar cell architecture could raise panel output to almost twice current levels, offering a significant boost for renewable energy adoption.",
+    "page": "articles/new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07.html",
+    "source_urls": [
+      "https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/"
+    ]
+  },
+  {
     "id": "black-friday-headphone-deals-heat-up-as-prices-drop-50-2026-11-07",
     "title": "Black Friday Headphone Deals Heat Up as Prices Drop 50%",
     "description": "Early Black Friday offers slash prices on top headphone brands, giving tech shoppers a chance to snag premium audio gear at half price.",
@@ -1788,25 +1806,6 @@
     "page": "articles/walmart-s-shelf-price-blunder-turns-into-massive-gaming-pc-deal-2026-11-01.html",
     "source_urls": [
       "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit"
-    ]
-  },
-  {
-    "id": "google-s-pixel-11-pro-fold-and-motorola-s-flagship-return-signal-a-new-era-for-foldable-sm-2026-11-01",
-    "title": "Google’s Pixel 11 Pro Fold and Motorola’s Flagship Return Signal a New Era for Foldable Smartphones",
-    "description": "Google’s latest foldable, the Pixel 11 Pro Fold, and Motorola’s upcoming flagship signal a competitive push in the foldable phone market.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Google’s latest foldable, the Pixel 11 Pro Fold, and Motorola’s upcoming flagship signal a competitive push in the foldable phone market.",
-    "page": "articles/google-s-pixel-11-pro-fold-and-motorola-s-flagship-return-signal-a-new-era-for-foldable-sm-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "https://9to5google.com/2026/11/01/motorola-oneplus-gap/"
     ]
   }
 ]
