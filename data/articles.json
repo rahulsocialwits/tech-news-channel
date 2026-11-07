@@ -1,5 +1,23 @@
 [
   {
+    "id": "black-friday-headphone-deals-heat-up-as-prices-drop-50-2026-11-07",
+    "title": "Black Friday Headphone Deals Heat Up as Prices Drop 50%",
+    "description": "Early Black Friday offers slash prices on top headphone brands, giving tech shoppers a chance to snag premium audio gear at half price.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "Early Black Friday offers slash prices on top headphone brands, giving tech shoppers a chance to snag premium audio gear at half price.",
+    "page": "articles/black-friday-headphone-deals-heat-up-as-prices-drop-50-2026-11-07.html",
+    "source_urls": [
+      "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/"
+    ]
+  },
+  {
     "id": "windows-powertoys-the-secret-toolkit-that-automates-everyday-pc-tasks-2026-11-07",
     "title": "Windows PowerToys: The Secret Toolkit That Automates Everyday PC Tasks",
     "description": "Microsoft’s PowerToys offers a suite of utilities that streamline routine Windows operations, boosting productivity for both casual users and power users.",
@@ -1789,24 +1807,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
       "https://9to5google.com/2026/11/01/motorola-oneplus-gap/"
-    ]
-  },
-  {
-    "id": "everbloom-unveils-renoa-the-first-new-fiber-in-25-years-2026-11-01",
-    "title": "Everbloom Unveils RENOA, the First New Fiber in 25 Years",
-    "description": "Startup Everbloom introduces RENOA, a novel fiber material that promises to refresh the textile industry after a 25‑year lull.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Startup Everbloom introduces RENOA, a novel fiber material that promises to refresh the textile industry after a 25‑year lull.",
-    "page": "articles/everbloom-unveils-renoa-the-first-new-fiber-in-25-years-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
     ]
   }
 ]
