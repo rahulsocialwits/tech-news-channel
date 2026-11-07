@@ -1,5 +1,24 @@
 [
   {
+    "id": "openai-accelerates-data-center-expansion-amid-political-uncertainty-2026-11-07",
+    "title": "OpenAI Accelerates Data‑Center Expansion Amid Political Uncertainty",
+    "description": "OpenAI is moving forward with new data‑center construction despite concerns over the U.S. midterm election outcome.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-07",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI is moving forward with new data‑center construction despite concerns over the U.S. midterm election outcome.",
+    "page": "articles/openai-accelerates-data-center-expansion-amid-political-uncertainty-2026-11-07.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
+      "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
+    ]
+  },
+  {
     "id": "globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07",
     "title": "GlobalFoundries Unveils FDX Fusion: 7nm-Class Performance Without EUV",
     "description": "GlobalFoundries announced its FDX Fusion process, delivering 7nm-class performance using planar FD‑SOI transistors and no EUV lithography, targeting high‑volume production by 2030.",
@@ -1788,23 +1807,6 @@
     "source_urls": [
       "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
       "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners"
-    ]
-  },
-  {
-    "id": "apple-s-new-ceo-signals-a-shift-away-from-ai-first-strategy-2026-11-01",
-    "title": "Apple’s New CEO Signals a Shift Away From AI‑First Strategy",
-    "description": "Apple’s latest leadership signals a deliberate pause on AI product rollouts, focusing instead on core hardware and privacy.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest leadership signals a deliberate pause on AI product rollouts, focusing instead on core hardware and privacy.",
-    "page": "articles/apple-s-new-ceo-signals-a-shift-away-from-ai-first-strategy-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
     ]
   }
 ]
