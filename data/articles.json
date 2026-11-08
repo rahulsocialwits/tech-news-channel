@@ -1,5 +1,23 @@
 [
   {
+    "id": "ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08",
+    "title": "iBUYPOWER Slate: The RTX 5060 Gaming PC That Beats the Steam Machine in Price",
+    "description": "iBUYPOWER’s Slate pre‑built PC, powered by an RTX 5060 and a Ryzen 5, offers gamers a budget‑friendly alternative to the Steam Machine, now available for $899 after a $500 discount.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "iBUYPOWER’s Slate pre‑built PC, powered by an RTX 5060 and a Ryzen 5, offers gamers a budget‑friendly alternative to the Steam Machine, now available for $899 after a $500 discount.",
+    "page": "articles/ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount"
+    ]
+  },
+  {
     "id": "binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07",
     "title": "Binance CFO Resigns Amid $6.3 Billion Hack Fallout",
     "description": "Binance’s chief financial officer steps down after a massive cryptocurrency theft, raising questions about the exchange’s security and governance.",
@@ -1788,24 +1806,6 @@
     "page": "articles/motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01.html",
     "source_urls": [
       "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/"
-    ]
-  },
-  {
-    "id": "binance-recovers-after-6-3-billion-hack-resumes-withdrawals-2026-11-01",
-    "title": "Binance Recovers After $6.3 Billion Hack, Resumes Withdrawals",
-    "description": "The cryptocurrency exchange says it has covered 95% of stolen assets and is now allowing users to withdraw funds again.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "The cryptocurrency exchange says it has covered 95% of stolen assets and is now allowing users to withdraw funds again.",
-    "page": "articles/binance-recovers-after-6-3-billion-hack-resumes-withdrawals-2026-11-01.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "https://www.thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece"
     ]
   }
 ]
