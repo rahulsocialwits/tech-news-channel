@@ -1,5 +1,23 @@
 [
   {
+    "id": "diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08",
+    "title": "Diamond Foundry Unveils 200mm Single‑Crystal Diamond Wafer to Tackle AI Chip Heat",
+    "description": "Diamond Foundry’s new 200mm diamond wafer promises efficient heat removal for next‑generation AI processors, potentially easing the cooling crisis in high‑performance chips.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Diamond Foundry’s new 200mm diamond wafer promises efficient heat removal for next‑generation AI processors, potentially easing the cooling crisis in high‑performance chips.",
+    "page": "articles/diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
+    ]
+  },
+  {
     "id": "how-long-pc-coolant-really-lasts-and-why-it-matters-2026-11-08",
     "title": "How Long PC Coolant Really Lasts and Why It Matters",
     "description": "Learn the lifespan of liquid‑cooling solutions for PCs and how to keep your rig running smoothly.",
@@ -1788,24 +1806,6 @@
     "page": "articles/omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-    ]
-  },
-  {
-    "id": "ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02",
-    "title": "Ninja Unveils First Microwave That Combines Air‑Fry and Microwave Speed",
-    "description": "The Ninja Crispi Microwave introduces FusionCrisp technology, delivering fast heating with crispy results, positioning it as a dual‑function kitchen appliance.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "The Ninja Crispi Microwave introduces FusionCrisp technology, delivering fast heating with crispy results, positioning it as a dual‑function kitchen appliance.",
-    "page": "articles/ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
     ]
   }
 ]
