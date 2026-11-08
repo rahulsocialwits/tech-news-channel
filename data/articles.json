@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08",
+    "title": "AI‑Powered Smartphones Could Push Prices Up to ₹3,000 in India",
+    "description": "India’s smartphone market may see a 10% price hike after Diwali as AI features and supply constraints drive costs higher.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "India’s smartphone market may see a 10% price hike after Diwali as AI features and supply constraints drive costs higher.",
+    "page": "articles/ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/ai-smartphone-to-increase-smartphone-prices-by-up-to-3000/article71674050.ece"
+    ]
+  },
+  {
     "id": "free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08",
     "title": "Free Open‑Source Utility Lets Mac Users Reclaim Gigabytes of Hidden Space",
     "description": "An open‑source app cleans hidden caches, app junk and offline Apple Intelligence models, freeing up space on macOS without a paid subscription.",
@@ -1788,24 +1806,6 @@
     "source_urls": [
       "https://9to5google.com/2026/11/01/wear-os-status-bar/",
       "https://www.androidauthority.com/wear-os-android-feature-system-status-bar-3730455/"
-    ]
-  },
-  {
-    "id": "brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02",
-    "title": "Brazilian Lawyers Caught Using Prompt Injection to Influence Court AI",
-    "description": "A Brazilian labor case saw lawyers attempt to manipulate a court’s AI system with hidden prompt injection, but the scheme was uncovered and the lawyers were fined.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "A Brazilian labor case saw lawyers attempt to manipulate a court’s AI system with hidden prompt injection, but the scheme was uncovered and the lawyers were fined.",
-    "page": "articles/brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000"
     ]
   }
 ]
