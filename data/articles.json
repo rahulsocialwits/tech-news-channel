@@ -1,5 +1,23 @@
 [
   {
+    "id": "how-long-pc-coolant-really-lasts-and-why-it-matters-2026-11-08",
+    "title": "How Long PC Coolant Really Lasts and Why It Matters",
+    "description": "Learn the lifespan of liquid‑cooling solutions for PCs and how to keep your rig running smoothly.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Learn the lifespan of liquid‑cooling solutions for PCs and how to keep your rig running smoothly.",
+    "page": "articles/how-long-pc-coolant-really-lasts-and-why-it-matters-2026-11-08.html",
+    "source_urls": [
+      "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/"
+    ]
+  },
+  {
     "id": "ninja-autobarista-s-grind-iq-the-smart-coffee-maker-that-analyzes-your-beans-2026-11-08",
     "title": "Ninja AutoBarista’s Grind iQ: The Smart Coffee Maker That Analyzes Your Beans",
     "description": "Ninja’s new AutoBarista coffee machine uses Grind iQ technology to tailor espresso shots to the exact bean profile, offering a personalized brewing experience for coffee lovers.",
@@ -1788,24 +1806,6 @@
     "page": "articles/ninja-unveils-first-microwave-that-combines-air-fry-and-microwave-speed-2026-11-02.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
-    ]
-  },
-  {
-    "id": "qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02",
-    "title": "Qwenputer Blends AI and CPU in a Single Model, Running Doom Inside Its Weights",
-    "description": "An experimental Qwen 3.5 4B LLM now contains a 32‑bit RISC‑V CPU, enabling it to execute code and even run the classic game Doom directly from its neural weights.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "An experimental Qwen 3.5 4B LLM now contains a 32‑bit RISC‑V CPU, enabling it to execute code and even run the classic game Doom directly from its neural weights.",
-    "page": "articles/qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom"
     ]
   }
 ]
