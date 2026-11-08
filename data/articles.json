@@ -1,5 +1,23 @@
 [
   {
+    "id": "coloros-17-on-the-oneplus-15-a-polished-android-experience-with-ambitious-ai-features-2026-11-08",
+    "title": "ColorOS 17 on the OnePlus 15: A Polished Android Experience with Ambitious AI Features",
+    "description": "OnePlus 15 runs ColorOS 17, offering a refined Android interface and new AI capabilities that set it apart from other flagship phones.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "OnePlus 15 runs ColorOS 17, offering a refined Android interface and new AI capabilities that set it apart from other flagship phones.",
+    "page": "articles/coloros-17-on-the-oneplus-15-a-polished-android-experience-with-ambitious-ai-features-2026-11-08.html",
+    "source_urls": [
+      "https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/"
+    ]
+  },
+  {
     "id": "diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08",
     "title": "Diamond Foundry Unveils 200mm Single‑Crystal Diamond Wafer to Tackle AI Chip Heat",
     "description": "Diamond Foundry’s new 200mm diamond wafer promises efficient heat removal for next‑generation AI processors, potentially easing the cooling crisis in high‑performance chips.",
@@ -1788,24 +1806,6 @@
     "page": "articles/spacex-eyes-boost-mobile-acquisition-to-expand-starlink-powered-wireless-reach-2026-11-02.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
-    ]
-  },
-  {
-    "id": "omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02",
-    "title": "Omen AI Acquires Aquatic Labs to Tackle Data‑Center Water Challenges",
-    "description": "Omen AI’s $16 million purchase of Aquatic Labs brings liquid‑management expertise to the data‑center sustainability arena.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Omen AI’s $16 million purchase of Aquatic Labs brings liquid‑management expertise to the data‑center sustainability arena.",
-    "page": "articles/omen-ai-acquires-aquatic-labs-to-tackle-data-center-water-challenges-2026-11-02.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
     ]
   }
 ]
