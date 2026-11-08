@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08",
+    "title": "Data Center Landscape Shifts as Midterms Redefine Tech Investment",
+    "description": "The recent U.S. midterm elections have sparked uncertainty for data center operators, prompting a reevaluation of capital spending and energy strategies.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "The recent U.S. midterm elections have sparked uncertainty for data center operators, prompting a reevaluation of capital spending and energy strategies.",
+    "page": "articles/data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+    ]
+  },
+  {
     "id": "samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08",
     "title": "Samsung Prepares One UI 9.5 Beta Ahead of 2027 Launch",
     "description": "Samsung is opening its One UI 9.5 beta program, giving early testers a chance to experience the next major Android skin before the 2027 release.",
@@ -1788,24 +1806,6 @@
     "page": "articles/nintendo-switch-2-hits-the-market-at-a-record-low-price-2026-11-02.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale"
-    ]
-  },
-  {
-    "id": "gog-eyes-physical-pc-game-releases-as-a-new-revenue-stream-2026-11-02",
-    "title": "GOG Eyes Physical PC Game Releases as a New Revenue Stream",
-    "description": "GOG plans to sell boxed PC games, offering a physical alternative to digital downloads while navigating logistics and publisher approvals.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "GOG plans to sell boxed PC games, offering a physical alternative to digital downloads while navigating logistics and publisher approvals.",
-    "page": "articles/gog-eyes-physical-pc-game-releases-as-a-new-revenue-stream-2026-11-02.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges"
     ]
   }
 ]
