@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08",
+    "title": "Microsoft Unveils Open‑Source GPU Task Manager to Reveal VRAM Usage",
+    "description": "Microsoft’s new open‑source tool gputaskman shows which processes consume GPU memory, helping developers optimize workloads.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s new open‑source tool gputaskman shows which processes consume GPU memory, helping developers optimize workloads.",
+    "page": "articles/microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads"
+    ]
+  },
+  {
     "id": "google-messages-unveils-bold-new-home-page-design-2026-11-08",
     "title": "Google Messages Unveils Bold New Home Page Design",
     "description": "Google Messages introduces pinned chat avatars, a bottom search bar and a corner Gemini widget in a fresh redesign tested on Android.",
@@ -1788,24 +1806,6 @@
     "page": "articles/mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02.html",
     "source_urls": [
       "https://www.technewsworld.com/story/is-mediatek-ready-for-its-ai-breakout-180710.html?rss=1"
-    ]
-  },
-  {
-    "id": "lenovo-qira-aims-to-deliver-a-trusted-personal-ai-assistant-2026-11-02",
-    "title": "Lenovo Qira Aims to Deliver a Trusted Personal AI Assistant",
-    "description": "Lenovo’s new Qira assistant promises privacy, reliability and cross‑device support, aiming to improve on past digital assistants.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Lenovo’s new Qira assistant promises privacy, reliability and cross‑device support, aiming to improve on past digital assistants.",
-    "page": "articles/lenovo-qira-aims-to-deliver-a-trusted-personal-ai-assistant-2026-11-02.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/lenovo-qira-could-deliver-on-the-personal-ai-assistant-promise-180707.html?rss=1"
     ]
   }
 ]
