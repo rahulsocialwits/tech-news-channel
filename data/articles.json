@@ -1,5 +1,23 @@
 [
   {
+    "id": "free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08",
+    "title": "Free Open‑Source Utility Lets Mac Users Reclaim Gigabytes of Hidden Space",
+    "description": "An open‑source app cleans hidden caches, app junk and offline Apple Intelligence models, freeing up space on macOS without a paid subscription.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "An open‑source app cleans hidden caches, app junk and offline Apple Intelligence models, freeing up space on macOS without a paid subscription.",
+    "page": "articles/free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08.html",
+    "source_urls": [
+      "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/"
+    ]
+  },
+  {
     "id": "microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08",
     "title": "Microsoft to Wind Down Oracle Deal for AI Cloud Capacity",
     "description": "Microsoft is ending its partnership with Oracle to lease AI cloud infrastructure, shifting focus to its own cloud services.",
@@ -1788,24 +1806,6 @@
     "page": "articles/brazilian-lawyers-caught-using-prompt-injection-to-influence-court-ai-2026-11-02.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000"
-    ]
-  },
-  {
-    "id": "apple-unveils-iphone-duo-the-first-foldable-smartphone-that-packs-a-punch-2026-11-02",
-    "title": "Apple Unveils iPhone Duo: The First Foldable Smartphone That Packs a Punch",
-    "description": "Apple’s new iPhone Duo folds into a 7.9‑inch tablet‑size display, offering a larger screen for multitasking while keeping a premium price tag.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "4 min read",
-    "excerpt": "Apple’s new iPhone Duo folds into a 7.9‑inch tablet‑size display, offering a larger screen for multitasking while keeping a premium price tag.",
-    "page": "articles/apple-unveils-iphone-duo-the-first-foldable-smartphone-that-packs-a-punch-2026-11-02.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/iphone-duo-apples-first-foldable-impresses-with-compromises-180705.html?rss=1"
     ]
   }
 ]
