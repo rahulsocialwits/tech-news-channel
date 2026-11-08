@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08",
+    "title": "Amazon Unveils a Slimmer, More Affordable Basic Kindle",
+    "description": "Amazon’s latest basic Kindle offers a lighter design and sharper display while cutting costs, appealing to budget‑savvy readers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s latest basic Kindle offers a lighter design and sharper display while cutting costs, appealing to budget‑savvy readers.",
+    "page": "articles/amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+    ]
+  },
+  {
     "id": "new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08",
     "title": "New Kid‑Focused Phones Aim to Give Parents Peace of Mind",
     "description": "A wave of new smartphones and feature phones designed for children offers parents tighter controls and simplified interfaces.",
@@ -1787,24 +1805,6 @@
     "page": "articles/new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/new-ai-malware-what-is-volta-autodoxer-10946844/"
-    ]
-  },
-  {
-    "id": "chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02",
-    "title": "ChatGPT to Leverage Android Health Data via Google Health Integration",
-    "description": "Google Health integration will let Android users feed their health data into ChatGPT, enabling personalized insights and recommendations.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Google Health integration will let Android users feed their health data into ChatGPT, enabling personalized insights and recommendations.",
-    "page": "articles/chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02.html",
-    "source_urls": [
-      "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/"
     ]
   }
 ]
