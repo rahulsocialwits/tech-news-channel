@@ -1,5 +1,23 @@
 [
   {
+    "id": "how-spam-callers-harvest-your-phone-number-and-how-to-stop-them-2026-11-08",
+    "title": "How Spam Callers Harvest Your Phone Number—and How to Stop Them",
+    "description": "A new Engadget investigation reveals the early steps that let scammers acquire your number and offers simple habits to protect your privacy.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "A new Engadget investigation reveals the early steps that let scammers acquire your number and offers simple habits to protect your privacy.",
+    "page": "articles/how-spam-callers-harvest-your-phone-number-and-how-to-stop-them-2026-11-08.html",
+    "source_urls": [
+      "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/"
+    ]
+  },
+  {
     "id": "amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08",
     "title": "Amazon Unveils a Slimmer, More Affordable Basic Kindle",
     "description": "Amazon’s latest basic Kindle offers a lighter design and sharper display while cutting costs, appealing to budget‑savvy readers.",
@@ -1787,24 +1805,6 @@
     "page": "articles/technostruct-launches-autodesk-partnership-to-drive-digital-twins-in-india-2026-11-02.html",
     "source_urls": [
       "https://indiatechnologynews.in/shaping-tomorrows-built-world-technostruct-group-brings-aec-leaders-together-at-tech-talks-2026-mumbai/"
-    ]
-  },
-  {
-    "id": "new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02",
-    "title": "New AI‑Enhanced Malware Profiling Tool Promises Rapid Victim Identification",
-    "description": "A novel AI system called Volta‑Autodoxer can profile malware victims in seconds, offering a new defensive capability for cybersecurity teams.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "A novel AI system called Volta‑Autodoxer can profile malware victims in seconds, offering a new defensive capability for cybersecurity teams.",
-    "page": "articles/new-ai-enhanced-malware-profiling-tool-promises-rapid-victim-identification-2026-11-02.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/new-ai-malware-what-is-volta-autodoxer-10946844/"
     ]
   }
 ]
