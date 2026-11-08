@@ -1,5 +1,23 @@
 [
   {
+    "id": "ninja-autobarista-s-grind-iq-the-smart-coffee-maker-that-analyzes-your-beans-2026-11-08",
+    "title": "Ninja AutoBarista’s Grind iQ: The Smart Coffee Maker That Analyzes Your Beans",
+    "description": "Ninja’s new AutoBarista coffee machine uses Grind iQ technology to tailor espresso shots to the exact bean profile, offering a personalized brewing experience for coffee lovers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Ninja’s new AutoBarista coffee machine uses Grind iQ technology to tailor espresso shots to the exact bean profile, offering a personalized brewing experience for coffee lovers.",
+    "page": "articles/ninja-autobarista-s-grind-iq-the-smart-coffee-maker-that-analyzes-your-beans-2026-11-08.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
+    ]
+  },
+  {
     "id": "microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08",
     "title": "Microsoft Unveils Open‑Source GPU Task Manager to Reveal VRAM Usage",
     "description": "Microsoft’s new open‑source tool gputaskman shows which processes consume GPU memory, helping developers optimize workloads.",
@@ -1788,24 +1806,6 @@
     "page": "articles/qwenputer-blends-ai-and-cpu-in-a-single-model-running-doom-inside-its-weights-2026-11-02.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom"
-    ]
-  },
-  {
-    "id": "mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02",
-    "title": "MediaTek Eyes AI Breakthrough Beyond Smartphones",
-    "description": "MediaTek plans to expand its AI ambitions with affordable devices, useful apps and partner ecosystems, according to a recent TechNewsWorld analysis.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "MediaTek plans to expand its AI ambitions with affordable devices, useful apps and partner ecosystems, according to a recent TechNewsWorld analysis.",
-    "page": "articles/mediatek-eyes-ai-breakthrough-beyond-smartphones-2026-11-02.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/is-mediatek-ready-for-its-ai-breakout-180710.html?rss=1"
     ]
   }
 ]
