@@ -1,5 +1,24 @@
 [
   {
+    "id": "hydration-tech-the-2026-cat-water-fountain-revolution-2026-11-08",
+    "title": "Hydration Tech: The 2026 Cat Water Fountain Revolution",
+    "description": "Explore the latest cat water fountains that keep pets hydrated and healthy, featuring top picks from Petlibro, Petkit, and Oneisall.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Explore the latest cat water fountains that keep pets hydrated and healthy, featuring top picks from Petlibro, Petkit, and Oneisall.",
+    "page": "articles/hydration-tech-the-2026-cat-water-fountain-revolution-2026-11-08.html",
+    "source_urls": [
+      "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/"
+    ]
+  },
+  {
     "id": "ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08",
     "title": "iBUYPOWER Slate: The RTX 5060 Gaming PC That Beats the Steam Machine in Price",
     "description": "iBUYPOWER’s Slate pre‑built PC, powered by an RTX 5060 and a Ryzen 5, offers gamers a budget‑friendly alternative to the Steam Machine, now available for $899 after a $500 discount.",
@@ -1788,24 +1807,6 @@
     "page": "articles/ai-driven-windows-malware-uses-claude-to-rank-victims-assets-2026-11-02.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely"
-    ]
-  },
-  {
-    "id": "motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01",
-    "title": "Motorola Signature 27 Unveiled: A New Era of Foldable Android Phones",
-    "description": "Motorola’s Signature 27 drops a 7.6‑inch OLED foldable with a 120 Hz refresh rate, a 120 MP main camera, and a 5000‑mAh battery, promising a premium experience at a competitive price.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-01",
-    "readTime": "3 min read",
-    "excerpt": "Motorola’s Signature 27 drops a 7.6‑inch OLED foldable with a 120 Hz refresh rate, a 120 MP main camera, and a 5000‑mAh battery, promising a premium experience at a competitive price.",
-    "page": "articles/motorola-signature-27-unveiled-a-new-era-of-foldable-android-phones-2026-11-01.html",
-    "source_urls": [
-      "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/"
     ]
   }
 ]
