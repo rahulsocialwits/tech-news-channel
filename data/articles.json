@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08",
+    "title": "Microsoft to Wind Down Oracle Deal for AI Cloud Capacity",
+    "description": "Microsoft is ending its partnership with Oracle to lease AI cloud infrastructure, shifting focus to its own cloud services.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft is ending its partnership with Oracle to lease AI cloud infrastructure, shifting focus to its own cloud services.",
+    "page": "articles/microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-report-10955343/"
+    ]
+  },
+  {
     "id": "data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08",
     "title": "Data Center Landscape Shifts as Midterms Redefine Tech Investment",
     "description": "The recent U.S. midterm elections have sparked uncertainty for data center operators, prompting a reevaluation of capital spending and energy strategies.",
@@ -1788,24 +1806,6 @@
     "page": "articles/apple-unveils-iphone-duo-the-first-foldable-smartphone-that-packs-a-punch-2026-11-02.html",
     "source_urls": [
       "https://www.technewsworld.com/story/iphone-duo-apples-first-foldable-impresses-with-compromises-180705.html?rss=1"
-    ]
-  },
-  {
-    "id": "nintendo-switch-2-hits-the-market-at-a-record-low-price-2026-11-02",
-    "title": "Nintendo Switch 2 Hits the Market at a Record Low Price",
-    "description": "Nintendo’s latest handheld console, the Switch 2, is now available for $469, a $30 discount from its launch price, offering gamers a powerful yet affordable gaming experience.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Nintendo’s latest handheld console, the Switch 2, is now available for $469, a $30 discount from its launch price, offering gamers a powerful yet affordable gaming experience.",
-    "page": "articles/nintendo-switch-2-hits-the-market-at-a-record-low-price-2026-11-02.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale"
     ]
   }
 ]
