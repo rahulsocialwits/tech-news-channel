@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08",
+    "title": "New Kid‑Focused Phones Aim to Give Parents Peace of Mind",
+    "description": "A wave of new smartphones and feature phones designed for children offers parents tighter controls and simplified interfaces.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "A wave of new smartphones and feature phones designed for children offers parents tighter controls and simplified interfaces.",
+    "page": "articles/new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+    ]
+  },
+  {
     "id": "ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08",
     "title": "AI‑Powered Smartphones Could Push Prices Up to ₹3,000 in India",
     "description": "India’s smartphone market may see a 10% price hike after Diwali as AI features and supply constraints drive costs higher.",
@@ -1787,25 +1805,6 @@
     "page": "articles/chatgpt-to-leverage-android-health-data-via-google-health-integration-2026-11-02.html",
     "source_urls": [
       "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/"
-    ]
-  },
-  {
-    "id": "google-adds-system-status-bar-to-wear-os-apps-in-upcoming-update-2026-11-02",
-    "title": "Google Adds System Status Bar to Wear OS Apps in Upcoming Update",
-    "description": "Google announced that a future Wear OS release will include a system status bar, improving app integration on smartwatches.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Google announced that a future Wear OS release will include a system status bar, improving app integration on smartwatches.",
-    "page": "articles/google-adds-system-status-bar-to-wear-os-apps-in-upcoming-update-2026-11-02.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/01/wear-os-status-bar/",
-      "https://www.androidauthority.com/wear-os-android-feature-system-status-bar-3730455/"
     ]
   }
 ]
