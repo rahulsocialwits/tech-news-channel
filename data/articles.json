@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-messages-unveils-bold-new-home-page-design-2026-11-08",
+    "title": "Google Messages Unveils Bold New Home Page Design",
+    "description": "Google Messages introduces pinned chat avatars, a bottom search bar and a corner Gemini widget in a fresh redesign tested on Android.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Google Messages introduces pinned chat avatars, a bottom search bar and a corner Gemini widget in a fresh redesign tested on Android.",
+    "page": "articles/google-messages-unveils-bold-new-home-page-design-2026-11-08.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/"
+    ]
+  },
+  {
     "id": "wandrd-s-magnetic-camera-straps-a-game-changing-accessory-for-mobile-photography-2026-11-08",
     "title": "Wandrd’s Magnetic Camera Straps: A Game‑Changing Accessory for Mobile Photography",
     "description": "Wandrd’s new magnetic camera straps offer a lightweight, secure way to carry smartphones for photography enthusiasts.",
@@ -1788,23 +1806,6 @@
     "page": "articles/lenovo-qira-aims-to-deliver-a-trusted-personal-ai-assistant-2026-11-02.html",
     "source_urls": [
       "https://www.technewsworld.com/story/lenovo-qira-could-deliver-on-the-personal-ai-assistant-promise-180707.html?rss=1"
-    ]
-  },
-  {
-    "id": "ford-announces-privacy-promise-to-reassure-vehicle-data-users-2026-11-02",
-    "title": "Ford Announces ‘Privacy Promise’ to Reassure Vehicle Data Users",
-    "description": "Ford unveils a new privacy commitment, detailing how it safeguards driver data and explains its data usage practices.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Ford unveils a new privacy commitment, detailing how it safeguards driver data and explains its data usage practices.",
-    "page": "articles/ford-announces-privacy-promise-to-reassure-vehicle-data-users-2026-11-02.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
     ]
   }
 ]
