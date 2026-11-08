@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08",
+    "title": "Samsung Prepares One UI 9.5 Beta Ahead of 2027 Launch",
+    "description": "Samsung is opening its One UI 9.5 beta program, giving early testers a chance to experience the next major Android skin before the 2027 release.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-08",
+    "readTime": "3 min read",
+    "excerpt": "Samsung is opening its One UI 9.5 beta program, giving early testers a chance to experience the next major Android skin before the 2027 release.",
+    "page": "articles/samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08.html",
+    "source_urls": [
+      "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/"
+    ]
+  },
+  {
     "id": "hydration-tech-the-2026-cat-water-fountain-revolution-2026-11-08",
     "title": "Hydration Tech: The 2026 Cat Water Fountain Revolution",
     "description": "Explore the latest cat water fountains that keep pets hydrated and healthy, featuring top picks from Petlibro, Petkit, and Oneisall.",
@@ -1788,25 +1806,6 @@
     "page": "articles/gog-eyes-physical-pc-game-releases-as-a-new-revenue-stream-2026-11-02.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges"
-    ]
-  },
-  {
-    "id": "ai-driven-windows-malware-uses-claude-to-rank-victims-assets-2026-11-02",
-    "title": "AI‑Driven Windows Malware Uses Claude to Rank Victims’ Assets",
-    "description": "A new Windows infostealer leverages OpenAI’s Claude to prioritize stolen data before self‑destructing, according to Cisco Talos.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "A new Windows infostealer leverages OpenAI’s Claude to prioritize stolen data before self‑destructing, according to Cisco Talos.",
-    "page": "articles/ai-driven-windows-malware-uses-claude-to-rank-victims-assets-2026-11-02.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely"
     ]
   }
 ]
