@@ -1,5 +1,23 @@
 [
   {
+    "id": "cloud-giants-rush-to-buy-memory-as-ai-demands-surge-2026-11-09",
+    "title": "Cloud Giants Rush to Buy Memory as AI Demands Surge",
+    "description": "Cloud providers are accelerating memory purchases amid growing AI workloads, sparking community pushback and raising questions about the true cloud footprint of AI.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Cloud providers are accelerating memory purchases amid growing AI workloads, sparking community pushback and raising questions about the true cloud footprint of AI.",
+    "page": "articles/cloud-giants-rush-to-buy-memory-as-ai-demands-surge-2026-11-09.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/gridlock-and-gigawatts-the-post-midterm-reckoning-for-the-ai-buildout-180721.html?rss=1"
+    ]
+  },
+  {
     "id": "anthropic-secures-1-7gw-of-gas-turbine-power-for-ai-data-centers-2026-11-09",
     "title": "Anthropic Secures 1.7GW of Gas‑Turbine Power for AI Data Centers",
     "description": "Anthropic has committed $3.4 billion to acquire 1.7GW of gas‑fired generators, bypassing long equipment lead times and ensuring reliable power for its AI workloads.",
@@ -1787,24 +1805,6 @@
     "page": "articles/samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03.html",
     "source_urls": [
       "https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/"
-    ]
-  },
-  {
-    "id": "xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03",
-    "title": "Xiaomi Unveils Android 17 HyperOS 4 Rollout for Android 17 Devices",
-    "description": "Xiaomi, Redmi and Poco phones receive Android 17 HyperOS 4 update today, bringing new features and performance improvements.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Xiaomi, Redmi and Poco phones receive Android 17 HyperOS 4 update today, bringing new features and performance improvements.",
-    "page": "articles/xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"
     ]
   }
 ]
