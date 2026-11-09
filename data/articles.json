@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09",
+    "title": "Meta Unveils Muse Ember, a Low‑Cost AI Model for Agent Execution",
+    "description": "Meta’s new Muse Ember model offers a lightweight, inexpensive option for AI agents, priced at 10 cents per million input tokens.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Meta’s new Muse Ember model offers a lightweight, inexpensive option for AI agents, priced at 10 cents per million input tokens.",
+    "page": "articles/meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    ]
+  },
+  {
     "id": "google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09",
     "title": "Google Gemini Adds ‘Memory Summary’ to Let Users View, Edit, and Delete Personal Data",
     "description": "Google Gemini now offers a new Memory Summary feature that lets users see, edit, and delete what the AI remembers about them.",
@@ -1787,24 +1805,6 @@
       "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
       "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-5-and-probook-4-g2is-in-india/article71660501.ece",
       "https://indianexpress.com/article/technology/artificial-intelligence/apple-27-3-update-siri-ai-features-10949636/"
-    ]
-  },
-  {
-    "id": "crowdstrike-to-invest-nearly-500m-in-two-ai-security-startups-2026-11-03",
-    "title": "CrowdStrike to Invest Nearly $500M in Two AI Security Startups",
-    "description": "CrowdStrike announced a $500 million acquisition of Fiddler AI and Dreadnode, expanding its AI‑driven security portfolio.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "CrowdStrike announced a $500 million acquisition of Fiddler AI and Dreadnode, expanding its AI‑driven security portfolio.",
-    "page": "articles/crowdstrike-to-invest-nearly-500m-in-two-ai-security-startups-2026-11-03.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
     ]
   }
 ]
