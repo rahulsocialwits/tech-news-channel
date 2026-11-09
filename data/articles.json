@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09",
+    "title": "Google Gemini Adds ‘Memory Summary’ to Let Users View, Edit, and Delete Personal Data",
+    "description": "Google Gemini now offers a new Memory Summary feature that lets users see, edit, and delete what the AI remembers about them.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Google Gemini now offers a new Memory Summary feature that lets users see, edit, and delete what the AI remembers about them.",
+    "page": "articles/google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/09/google-gemini-memory-summary/"
+    ]
+  },
+  {
     "id": "meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09",
     "title": "Meta Expands Instagram’s AI Age‑Guessing Tool to Global Markets",
     "description": "Meta is rolling out its AI‑driven age‑guessing feature on Instagram worldwide, targeting users who may misrepresent their age.",
@@ -1787,24 +1805,6 @@
     "page": "articles/crowdstrike-to-invest-nearly-500m-in-two-ai-security-startups-2026-11-03.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
-    ]
-  },
-  {
-    "id": "openai-tests-load-shedding-to-cut-data-center-energy-during-peak-hours-2026-11-03",
-    "title": "OpenAI Tests Load‑Shedding to Cut Data‑Center Energy During Peak Hours",
-    "description": "OpenAI pilots a grid‑protectors program that temporarily reduces power to its AI servers when demand spikes, aiming to ease strain on the electric grid.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI pilots a grid‑protectors program that temporarily reduces power to its AI servers when demand spikes, aiming to ease strain on the electric grid.",
-    "page": "articles/openai-tests-load-shedding-to-cut-data-center-energy-during-peak-hours-2026-11-03.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia"
     ]
   }
 ]
