@@ -1,5 +1,23 @@
 [
   {
+    "id": "top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09",
+    "title": "Top 8 Computer Speakers of 2026: From Stereo to Surround Sound",
+    "description": "A roundup of the best computer speakers tested in 2026, covering stereo sets, subwoofers, and surround sound systems.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "A roundup of the best computer speakers tested in 2026, covering stereo sets, subwoofers, and surround sound systems.",
+    "page": "articles/top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09.html",
+    "source_urls": [
+      "https://www.wired.com/gallery/best-computer-speakers/"
+    ]
+  },
+  {
     "id": "usb-devices-gone-missing-on-macbooks-here-s-how-to-fix-the-problem-2026-11-09",
     "title": "USB Devices Gone Missing on MacBooks? Here’s How to Fix the Problem",
     "description": "MacBook users can now troubleshoot common USB connectivity issues with simple steps, from checking cables to updating drivers.",
@@ -1788,25 +1806,6 @@
     "page": "articles/realme-unveils-harry-potter-themed-android-phone-turning-fans-into-collectors-2026-11-03.html",
     "source_urls": [
       "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/"
-    ]
-  },
-  {
-    "id": "google-expands-dreambeans-to-13-indian-languages-bringing-ai-generated-stories-to-a-new-au-2026-11-03",
-    "title": "Google Expands Dreambeans to 13 Indian Languages, Bringing AI-Generated Stories to a New Audience",
-    "description": "Google’s Dreambeans AI platform now supports 13 Indian languages, enabling personalized story creation across the subcontinent.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Dreambeans AI platform now supports 13 Indian languages, enabling personalized story creation across the subcontinent.",
-    "page": "articles/google-expands-dreambeans-to-13-indian-languages-bringing-ai-generated-stories-to-a-new-au-2026-11-03.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece"
     ]
   }
 ]
