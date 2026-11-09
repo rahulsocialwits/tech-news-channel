@@ -1,5 +1,23 @@
 [
   {
+    "id": "azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09",
+    "title": "Azahar 3DS Emulator Receives Major Performance Boost and Per‑Game Settings",
+    "description": "The latest update to the Azahar 3DS emulator brings significant speed improvements and customizable options for each game, according to the developers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "The latest update to the Azahar 3DS emulator brings significant speed improvements and customizable options for each game, according to the developers.",
+    "page": "articles/azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09.html",
+    "source_urls": [
+      "https://www.androidauthority.com/azahar-3ds-emulator-android-biggest-update-3732766/"
+    ]
+  },
+  {
     "id": "canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09",
     "title": "Canon’s Free 3D Photo Software Now Supports a New Wave of Cameras",
     "description": "Canon expands its free 3D photo software to work with a broader selection of cameras, making 3D photography more accessible to hobbyists and professionals alike.",
@@ -1788,24 +1806,6 @@
     "page": "articles/canon-unveils-massive-november-promo-codes-slashing-prices-on-cameras-and-printers-2026-11-03.html",
     "source_urls": [
       "https://www.wired.com/story/canon-promo-code/"
-    ]
-  },
-  {
-    "id": "apple-watch-s-new-audio-intelligence-lets-you-rewind-and-recap-conversations-2026-11-03",
-    "title": "Apple Watch’s New Audio Intelligence Lets You Rewind and Recap Conversations",
-    "description": "Apple’s latest Apple Watch beta adds AI‑powered audio tools that let users rewind and summarize spoken exchanges.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest Apple Watch beta adds AI‑powered audio tools that let users rewind and summarize spoken exchanges.",
-    "page": "articles/apple-watch-s-new-audio-intelligence-lets-you-rewind-and-recap-conversations-2026-11-03.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
     ]
   }
 ]
