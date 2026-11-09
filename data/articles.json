@@ -1,5 +1,23 @@
 [
   {
+    "id": "android-tablets-make-a-comeback-as-brands-push-bigger-screens-2026-11-09",
+    "title": "Android Tablets Make a Comeback as Brands Push Bigger Screens",
+    "description": "Android tablet makers are reviving the form factor with larger devices, sparking debate among users who prefer smaller tablets.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Android tablet makers are reviving the form factor with larger devices, sparking debate among users who prefer smaller tablets.",
+    "page": "articles/android-tablets-make-a-comeback-as-brands-push-bigger-screens-2026-11-09.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/08/android-tablets-are-back-poll/"
+    ]
+  },
+  {
     "id": "turn-your-old-laptop-into-a-free-second-monitor-2026-11-09",
     "title": "Turn Your Old Laptop Into a Free Second Monitor",
     "description": "Learn how to wirelessly or wiredly connect a spare laptop to your main machine for a dual‑display setup without extra hardware.",
@@ -1789,23 +1807,6 @@
     "page": "articles/openai-eyes-ai-compute-campuses-as-data-center-backlash-grows-2026-11-03.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
-    ]
-  },
-  {
-    "id": "verizon-ceo-projects-4-6-year-500b-road-to-compete-with-spacex-in-wireless-2026-11-02",
-    "title": "Verizon CEO Projects 4‑6 Year, $500B Road to Compete with SpaceX in Wireless",
-    "description": "Verizon’s chief executive outlines a multi‑year, multi‑hundred‑billion‑dollar plan to rival SpaceX’s satellite‑based wireless ambitions.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-02",
-    "readTime": "3 min read",
-    "excerpt": "Verizon’s chief executive outlines a multi‑year, multi‑hundred‑billion‑dollar plan to rival SpaceX’s satellite‑based wireless ambitions.",
-    "page": "articles/verizon-ceo-projects-4-6-year-500b-road-to-compete-with-spacex-in-wireless-2026-11-02.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/verizon-ceo-4-to-6-years-up-to-500b-for-spacex-to-compete-in-wireless-180701.html?rss=1"
     ]
   }
 ]
