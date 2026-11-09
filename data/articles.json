@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09",
+    "title": "Meta Expands Instagram’s AI Age‑Guessing Tool to Global Markets",
+    "description": "Meta is rolling out its AI‑driven age‑guessing feature on Instagram worldwide, targeting users who may misrepresent their age.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Meta is rolling out its AI‑driven age‑guessing feature on Instagram worldwide, targeting users who may misrepresent their age.",
+    "page": "articles/meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+    ]
+  },
+  {
     "id": "cloud-giants-rush-to-buy-memory-as-ai-demands-surge-2026-11-09",
     "title": "Cloud Giants Rush to Buy Memory as AI Demands Surge",
     "description": "Cloud providers are accelerating memory purchases amid growing AI workloads, sparking community pushback and raising questions about the true cloud footprint of AI.",
@@ -1787,24 +1805,6 @@
     "page": "articles/openai-tests-load-shedding-to-cut-data-center-energy-during-peak-hours-2026-11-03.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03",
-    "title": "Samsung Galaxy S26 FE Drops to $699 on Amazon, Offering 120Hz AMOLED and 7 Years of Updates",
-    "description": "Samsung’s Galaxy S26 FE 256GB now available on Amazon for $699, featuring a 6.7‑inch 120Hz AMOLED display and a seven‑year update promise.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s Galaxy S26 FE 256GB now available on Amazon for $699, featuring a 6.7‑inch 120Hz AMOLED display and a seven‑year update promise.",
-    "page": "articles/samsung-galaxy-s26-fe-drops-to-699-on-amazon-offering-120hz-amoled-and-7-years-of-updates-2026-11-03.html",
-    "source_urls": [
-      "https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/"
     ]
   }
 ]
