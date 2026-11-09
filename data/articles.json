@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09",
+    "title": "AI’s Climate Case Still Missing, Says MIT Technology Review",
+    "description": "MIT Technology Review argues that the environmental benefits of artificial intelligence have yet to be convincingly demonstrated, amid global climate talks.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "MIT Technology Review argues that the environmental benefits of artificial intelligence have yet to be convincingly demonstrated, amid global climate talks.",
+    "page": "articles/ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+    ]
+  },
+  {
     "id": "samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09",
     "title": "Samsung’s Leaked Memory App Could Bring Pixel‑Style Screenshot Features to Galaxy Phones",
     "description": "Samsung may soon offer a new Memory app that lets Galaxy users capture and organize screenshots, mirroring Google’s Pixel feature set.",
@@ -1788,24 +1806,6 @@
     "page": "articles/windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03.html",
     "source_urls": [
       "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad"
-    ]
-  },
-  {
-    "id": "apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03",
-    "title": "Apple to Enforce Age Ratings on Dating Apps, Including AI Companions",
-    "description": "Apple will require developers to disclose whether their dating apps connect real people or AI companions, enabling proper age ratings.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Apple will require developers to disclose whether their dating apps connect real people or AI companions, enabling proper age ratings.",
-    "page": "articles/apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03.html",
-    "source_urls": [
-      "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/"
     ]
   }
 ]
