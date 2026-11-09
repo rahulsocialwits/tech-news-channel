@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09",
+    "title": "Samsung Rolls Out One UI 9 and Wear OS 7 to Galaxy Watch 8 Series",
+    "description": "Samsung delivers its first major OS upgrade for the Galaxy Watch 8, bringing One UI 9 and Wear OS 7 to the smartwatch lineup.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Samsung delivers its first major OS upgrade for the Galaxy Watch 8, bringing One UI 9 and Wear OS 7 to the smartwatch lineup.",
+    "page": "articles/samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09.html",
+    "source_urls": [
+      "https://www.androidauthority.com/galaxy-watch-8-one-ui-9-wear-os-7-stable-update-3732792/"
+    ]
+  },
+  {
     "id": "azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09",
     "title": "Azahar 3DS Emulator Receives Major Performance Boost and Per‑Game Settings",
     "description": "The latest update to the Azahar 3DS emulator brings significant speed improvements and customizable options for each game, according to the developers.",
@@ -1788,24 +1806,6 @@
     "page": "articles/apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03.html",
     "source_urls": [
       "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/"
-    ]
-  },
-  {
-    "id": "canon-unveils-massive-november-promo-codes-slashing-prices-on-cameras-and-printers-2026-11-03",
-    "title": "Canon Unveils Massive November Promo Codes, Slashing Prices on Cameras and Printers",
-    "description": "Canon offers up to 30% off on cameras, printers, and more in November 2026, with additional savings via coupon codes.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Canon offers up to 30% off on cameras, printers, and more in November 2026, with additional savings via coupon codes.",
-    "page": "articles/canon-unveils-massive-november-promo-codes-slashing-prices-on-cameras-and-printers-2026-11-03.html",
-    "source_urls": [
-      "https://www.wired.com/story/canon-promo-code/"
     ]
   }
 ]
