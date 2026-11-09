@@ -1,5 +1,23 @@
 [
   {
+    "id": "canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09",
+    "title": "Canon’s Free 3D Photo Software Now Supports a New Wave of Cameras",
+    "description": "Canon expands its free 3D photo software to work with a broader selection of cameras, making 3D photography more accessible to hobbyists and professionals alike.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Canon expands its free 3D photo software to work with a broader selection of cameras, making 3D photography more accessible to hobbyists and professionals alike.",
+    "page": "articles/canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09.html",
+    "source_urls": [
+      "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/"
+    ]
+  },
+  {
     "id": "new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09",
     "title": "New York Times Cooking Adds AI‑Powered Recipe Modifier to Help Home Cooks",
     "description": "The New York Times’ Cooking app now offers a beta feature that lets users swap ingredients and adjust recipes using AI, improving accessibility and personalization.",
@@ -1788,24 +1806,6 @@
     "page": "articles/apple-watch-s-new-audio-intelligence-lets-you-rewind-and-recap-conversations-2026-11-03.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
-    ]
-  },
-  {
-    "id": "google-home-speaker-gets-first-discount-since-launch-2026-11-03",
-    "title": "Google Home Speaker Gets First Discount Since Launch",
-    "description": "Google offers a price cut on its Home Speaker, marking the first discount since the product’s June release.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Google offers a price cut on its Home Speaker, marking the first discount since the product’s June release.",
-    "page": "articles/google-home-speaker-gets-first-discount-since-launch-2026-11-03.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/02/google-home-speaker-discount/"
     ]
   }
 ]
