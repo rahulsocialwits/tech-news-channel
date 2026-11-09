@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-secures-1-7gw-of-gas-turbine-power-for-ai-data-centers-2026-11-09",
+    "title": "Anthropic Secures 1.7GW of Gas‑Turbine Power for AI Data Centers",
+    "description": "Anthropic has committed $3.4 billion to acquire 1.7GW of gas‑fired generators, bypassing long equipment lead times and ensuring reliable power for its AI workloads.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic has committed $3.4 billion to acquire 1.7GW of gas‑fired generators, bypassing long equipment lead times and ensuring reliable power for its AI workloads.",
+    "page": "articles/anthropic-secures-1-7gw-of-gas-turbine-power-for-ai-data-centers-2026-11-09.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
+    ]
+  },
+  {
     "id": "samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09",
     "title": "Samsung Eyes $4.99 Galaxy AI Premium for S27 Users",
     "description": "Samsung plans to test a paid Galaxy AI Premium tier on the Galaxy S27, offering advanced AI features for a monthly fee.",
@@ -1787,24 +1805,6 @@
     "page": "articles/xiaomi-unveils-android-17-hyperos-4-rollout-for-android-17-devices-2026-11-03.html",
     "source_urls": [
       "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"
-    ]
-  },
-  {
-    "id": "samsung-expands-sleep-apnea-detection-to-galaxy-watch-and-ring-2026-11-03",
-    "title": "Samsung Expands Sleep Apnea Detection to Galaxy Watch and Ring",
-    "description": "Samsung rolls out upgraded sleep apnea detection to newer Galaxy Watch models and the Galaxy Ring, offering broader health monitoring for users.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Samsung rolls out upgraded sleep apnea detection to newer Galaxy Watch models and the Galaxy Ring, offering broader health monitoring for users.",
-    "page": "articles/samsung-expands-sleep-apnea-detection-to-galaxy-watch-and-ring-2026-11-03.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-sleep-apnea-detection-rolling-out-3731174/"
     ]
   }
 ]
