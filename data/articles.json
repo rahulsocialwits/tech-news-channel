@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09",
+    "title": "Samsung’s Leaked Memory App Could Bring Pixel‑Style Screenshot Features to Galaxy Phones",
+    "description": "Samsung may soon offer a new Memory app that lets Galaxy users capture and organize screenshots, mirroring Google’s Pixel feature set.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Samsung may soon offer a new Memory app that lets Galaxy users capture and organize screenshots, mirroring Google’s Pixel feature set.",
+    "page": "articles/samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/"
+    ]
+  },
+  {
     "id": "samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09",
     "title": "Samsung Rolls Out One UI 9 and Wear OS 7 to Galaxy Watch 8 Series",
     "description": "Samsung delivers its first major OS upgrade for the Galaxy Watch 8, bringing One UI 9 and Wear OS 7 to the smartwatch lineup.",
@@ -1788,24 +1806,6 @@
     "page": "articles/apple-to-enforce-age-ratings-on-dating-apps-including-ai-companions-2026-11-03.html",
     "source_urls": [
       "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/"
-    ]
-  },
-  {
-    "id": "apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03",
-    "title": "Apple WatchOS 27 Beta Adds Siri Recap and Live Rewind Audio Features",
-    "description": "Apple’s latest watchOS 27 beta introduces AI‑powered Siri Recap and Live Rewind audio, expanding the Apple Watch’s voice assistant capabilities.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest watchOS 27 beta introduces AI‑powered Siri Recap and Live Rewind audio, expanding the Apple Watch’s voice assistant capabilities.",
-    "page": "articles/apple-watchos-27-beta-adds-siri-recap-and-live-rewind-audio-features-2026-11-03.html",
-    "source_urls": [
-      "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/"
     ]
   }
 ]
