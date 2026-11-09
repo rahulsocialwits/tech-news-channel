@@ -1,5 +1,22 @@
 [
   {
+    "id": "tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09",
+    "title": "Tesla Expands Robotaxi Service to San Antonio, Marking Fourth Texas City Launch",
+    "description": "Tesla rolls out its autonomous ride‑hailing fleet to San Antonio, expanding its robotaxi network across Texas.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Tesla rolls out its autonomous ride‑hailing fleet to San Antonio, expanding its robotaxi network across Texas.",
+    "page": "articles/tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+    ]
+  },
+  {
     "id": "ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09",
     "title": "AI’s Climate Case Still Missing, Says MIT Technology Review",
     "description": "MIT Technology Review argues that the environmental benefits of artificial intelligence have yet to be convincingly demonstrated, amid global climate talks.",
@@ -1788,24 +1805,6 @@
     "page": "articles/banks-tighten-controls-on-ai-agents-amid-rising-account-security-concerns-2026-11-03.html",
     "source_urls": [
       "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
-    ]
-  },
-  {
-    "id": "windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03",
-    "title": "Windows 11 26H2 Runs on 128 MB of RAM in a Stripped‑Down Build",
-    "description": "A developer has shown Windows 11 26H2 can operate with just 128 MB of memory, retaining basic desktop functions in a minimal installation.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "A developer has shown Windows 11 26H2 can operate with just 128 MB of memory, retaining basic desktop functions in a minimal installation.",
-    "page": "articles/windows-11-26h2-runs-on-128-mb-of-ram-in-a-stripped-down-build-2026-11-03.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad"
     ]
   }
 ]
