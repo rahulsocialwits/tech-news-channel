@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09",
+    "title": "New York Times Cooking Adds AI‑Powered Recipe Modifier to Help Home Cooks",
+    "description": "The New York Times’ Cooking app now offers a beta feature that lets users swap ingredients and adjust recipes using AI, improving accessibility and personalization.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "The New York Times’ Cooking app now offers a beta feature that lets users swap ingredients and adjust recipes using AI, improving accessibility and personalization.",
+    "page": "articles/new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09.html",
+    "source_urls": [
+      "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
+    ]
+  },
+  {
     "id": "top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09",
     "title": "Top 8 Computer Speakers of 2026: From Stereo to Surround Sound",
     "description": "A roundup of the best computer speakers tested in 2026, covering stereo sets, subwoofers, and surround sound systems.",
@@ -1788,24 +1806,6 @@
     "page": "articles/google-home-speaker-gets-first-discount-since-launch-2026-11-03.html",
     "source_urls": [
       "https://9to5google.com/2026/11/02/google-home-speaker-discount/"
-    ]
-  },
-  {
-    "id": "realme-unveils-harry-potter-themed-android-phone-turning-fans-into-collectors-2026-11-03",
-    "title": "Realme Unveils Harry Potter‑Themed Android Phone, Turning Fans Into Collectors",
-    "description": "Realme launches a limited‑edition Harry Potter phone with themed packaging, accessories and in‑store displays, targeting collectors and franchise fans.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Realme launches a limited‑edition Harry Potter phone with themed packaging, accessories and in‑store displays, targeting collectors and franchise fans.",
-    "page": "articles/realme-unveils-harry-potter-themed-android-phone-turning-fans-into-collectors-2026-11-03.html",
-    "source_urls": [
-      "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/"
     ]
   }
 ]
