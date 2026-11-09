@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09",
+    "title": "Samsung Eyes $4.99 Galaxy AI Premium for S27 Users",
+    "description": "Samsung plans to test a paid Galaxy AI Premium tier on the Galaxy S27, offering advanced AI features for a monthly fee.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-09",
+    "readTime": "3 min read",
+    "excerpt": "Samsung plans to test a paid Galaxy AI Premium tier on the Galaxy S27, offering advanced AI features for a monthly fee.",
+    "page": "articles/samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/"
+    ]
+  },
+  {
     "id": "tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09",
     "title": "Tesla Expands Robotaxi Service to San Antonio, Marking Fourth Texas City Launch",
     "description": "Tesla rolls out its autonomous ride‑hailing fleet to San Antonio, expanding its robotaxi network across Texas.",
@@ -1787,24 +1805,6 @@
     "page": "articles/samsung-expands-sleep-apnea-detection-to-galaxy-watch-and-ring-2026-11-03.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-sleep-apnea-detection-rolling-out-3731174/"
-    ]
-  },
-  {
-    "id": "banks-tighten-controls-on-ai-agents-amid-rising-account-security-concerns-2026-11-03",
-    "title": "Banks Tighten Controls on AI Agents Amid Rising Account‑Security Concerns",
-    "description": "Major banks are limiting the use of AI agents to protect customer accounts, balancing convenience with security risks.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-03",
-    "readTime": "3 min read",
-    "excerpt": "Major banks are limiting the use of AI agents to protect customer accounts, balancing convenience with security risks.",
-    "page": "articles/banks-tighten-controls-on-ai-agents-amid-rising-account-security-concerns-2026-11-03.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/banks-restrict-ai-agents-amid-customer-account-security-concerns-180699.html?rss=1"
     ]
   }
 ]
