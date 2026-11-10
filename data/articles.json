@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10",
+    "title": "Google’s 2027 Foldable App Push Sparks Hope and Skepticism",
+    "description": "Google plans to optimize apps for foldable phones in 2027, but users remain uncertain about the rollout.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Google plans to optimize apps for foldable phones in 2027, but users remain uncertain about the rollout.",
+    "page": "articles/google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/"
+    ]
+  },
+  {
     "id": "uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10",
     "title": "UK Government Sites Exposed to ‘God‑Tier’ Security Flaws, Researcher Finds",
     "description": "A researcher uncovered private data risks across multiple UK government departments, highlighting urgent security gaps.",
@@ -1786,24 +1804,6 @@
     "page": "articles/amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04.html",
     "source_urls": [
       "https://www.wired.com/story/finally-a-kindle-page-turner/"
-    ]
-  },
-  {
-    "id": "new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04",
-    "title": "New Jersey’s New E‑Bike Law Leaves Riders Confused and Stranded",
-    "description": "New Jersey’s 2026 e‑bike licensing and insurance mandate has caused chaos for electric‑bike owners, sparking confusion and legal challenges.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "New Jersey’s 2026 e‑bike licensing and insurance mandate has caused chaos for electric‑bike owners, sparking confusion and legal challenges.",
-    "page": "articles/new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04.html",
-    "source_urls": [
-      "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
     ]
   }
 ]
