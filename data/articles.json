@@ -1,5 +1,23 @@
 [
   {
+    "id": "steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10",
+    "title": "Steam Adds Anonymous Average FPS Data to Help Gamers Choose Wisely",
+    "description": "Valve now shows average FPS for thousands of Steam Deck games, giving buyers a clearer view of performance on their hardware.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Valve now shows average FPS for thousands of Steam Deck games, giving buyers a clearer view of performance on their hardware.",
+    "page": "articles/steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10.html",
+    "source_urls": [
+      "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned"
+    ]
+  },
+  {
     "id": "google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10",
     "title": "Google Antigravity Unveils ‘Knowledge Work’ Interface for Non‑Coding Tasks",
     "description": "Google’s Antigravity platform expands beyond coding with a new Knowledge Work experience, streamlining research, writing and data analysis for everyday users.",
@@ -1786,24 +1804,6 @@
     "page": "articles/data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
-    ]
-  },
-  {
-    "id": "apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04",
-    "title": "Apple Music’s New Selfie Sing Feature Lets Users Record Karaoke Videos",
-    "description": "Apple Music is adding a Selfie Sing mode that lets users record themselves singing karaoke with a single tap, launching with iOS 27.3.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Apple Music is adding a Selfie Sing mode that lets users record themselves singing karaoke with a single tap, launching with iOS 27.3.",
-    "page": "articles/apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04.html",
-    "source_urls": [
-      "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/"
     ]
   }
 ]
