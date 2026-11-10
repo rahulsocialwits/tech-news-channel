@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10",
+    "title": "Anthropic Eyes IPO as Valuation Range Set for 2026",
+    "description": "Anthropic is moving forward with an initial public offering, with its valuation range expected to be announced this week.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic is moving forward with an initial public offering, with its valuation range expected to be announced this week.",
+    "page": "articles/anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    ]
+  },
+  {
     "id": "meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09",
     "title": "Meta Unveils Muse Ember, a Low‑Cost AI Model for Agent Execution",
     "description": "Meta’s new Muse Ember model offers a lightweight, inexpensive option for AI agents, priced at 10 cents per million input tokens.",
@@ -1784,27 +1802,6 @@
     "page": "articles/apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04.html",
     "source_urls": [
       "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/"
-    ]
-  },
-  {
-    "id": "windows-11-gets-a-20-performance-boost-on-8gb-ram-microsoft-claims-2026-11-04",
-    "title": "Windows 11 Gets a 20% Performance Boost on 8GB RAM, Microsoft Claims",
-    "description": "Microsoft announces a major performance improvement for Windows 11 on 8GB RAM systems, boosting multitasking and memory efficiency.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft announces a major performance improvement for Windows 11 on 8GB RAM systems, boosting multitasking and memory efficiency.",
-    "page": "articles/windows-11-gets-a-20-performance-boost-on-8gb-ram-microsoft-claims-2026-11-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines",
-      "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
-      "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-5-and-probook-4-g2is-in-india/article71660501.ece",
-      "https://indianexpress.com/article/technology/artificial-intelligence/apple-27-3-update-siri-ai-features-10949636/"
     ]
   }
 ]
