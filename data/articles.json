@@ -1,5 +1,23 @@
 [
   {
+    "id": "cyberattacks-threaten-to-make-open-source-ai-less-open-hugging-face-executive-warns-2026-11-10",
+    "title": "Cyberattacks Threaten to Make Open-Source AI Less Open, Hugging Face Executive Warns",
+    "description": "Hugging Face executive warns that rising cyberattacks on open‑source AI platforms could force tighter security, potentially limiting developer access.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Hugging Face executive warns that rising cyberattacks on open‑source AI platforms could force tighter security, potentially limiting developer access.",
+    "page": "articles/cyberattacks-threaten-to-make-open-source-ai-less-open-hugging-face-executive-warns-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+    ]
+  },
+  {
     "id": "steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10",
     "title": "Steam Adds Anonymous Average FPS Data to Help Gamers Choose Wisely",
     "description": "Valve now shows average FPS for thousands of Steam Deck games, giving buyers a clearer view of performance on their hardware.",
@@ -1786,24 +1804,6 @@
     "page": "articles/titan-os-secures-46-million-to-push-smart-tv-platform-global-2026-11-04.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"
-    ]
-  },
-  {
-    "id": "data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04",
-    "title": "Data Center Development Stalled as Voters Reject AI‑Powered Projects in Midterm Ballot Measures",
-    "description": "County voters nationwide turned down 45 measures to build AI data centers, signaling growing public concern over large‑scale cloud infrastructure projects.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "County voters nationwide turned down 45 measures to build AI data centers, signaling growing public concern over large‑scale cloud infrastructure projects.",
-    "page": "articles/data-center-development-stalled-as-voters-reject-ai-powered-projects-in-midterm-ballot-mea-2026-11-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
     ]
   }
 ]
