@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10",
+    "title": "Google Antigravity Unveils ‘Knowledge Work’ Interface for Non‑Coding Tasks",
+    "description": "Google’s Antigravity platform expands beyond coding with a new Knowledge Work experience, streamlining research, writing and data analysis for everyday users.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Antigravity platform expands beyond coding with a new Knowledge Work experience, streamlining research, writing and data analysis for everyday users.",
+    "page": "articles/google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/"
+    ]
+  },
+  {
     "id": "google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10",
     "title": "Google’s 2027 Foldable App Push Sparks Hope and Skepticism",
     "description": "Google plans to optimize apps for foldable phones in 2027, but users remain uncertain about the rollout.",
@@ -1786,24 +1804,6 @@
     "page": "articles/apple-music-s-new-selfie-sing-feature-lets-users-record-karaoke-videos-2026-11-04.html",
     "source_urls": [
       "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/"
-    ]
-  },
-  {
-    "id": "amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04",
-    "title": "Amazon’s $35 Kindle Click Turns Any e‑Reader Into a Page‑Turning Machine",
-    "description": "A low‑cost accessory lets Kindle users enjoy a physical page‑turning feel without buying a new device.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "A low‑cost accessory lets Kindle users enjoy a physical page‑turning feel without buying a new device.",
-    "page": "articles/amazon-s-35-kindle-click-turns-any-e-reader-into-a-page-turning-machine-2026-11-04.html",
-    "source_urls": [
-      "https://www.wired.com/story/finally-a-kindle-page-turner/"
     ]
   }
 ]
