@@ -1,5 +1,23 @@
 [
   {
+    "id": "otter-ai-expands-multilingual-support-to-30-languages-2026-11-10",
+    "title": "Otter AI Expands Multilingual Support to 30+ Languages",
+    "description": "Otter AI adds 27 new languages and announces a feature that tracks conversations as speakers switch between languages.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Otter AI adds 27 new languages and announces a feature that tracks conversations as speakers switch between languages.",
+    "page": "articles/otter-ai-expands-multilingual-support-to-30-languages-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    ]
+  },
+  {
     "id": "apple-watch-health-alerts-a-lifeline-for-seniors-living-alone-2026-11-10",
     "title": "Apple Watch Health Alerts: A Lifeline for Seniors Living Alone",
     "description": "Apple Watch now offers medication reminders, fall detection and other alerts that can help seniors stay safe and healthy.",
@@ -1785,24 +1803,6 @@
     "page": "articles/apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
-    ]
-  },
-  {
-    "id": "front-usb-ports-may-be-slowing-down-every-device-you-plug-in-2026-11-04",
-    "title": "Front USB Ports May Be Slowing Down Every Device You Plug In",
-    "description": "A new study shows that the front USB ports on many desktops can bottleneck performance for all connected devices.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "A new study shows that the front USB ports on many desktops can bottleneck performance for all connected devices.",
-    "page": "articles/front-usb-ports-may-be-slowing-down-every-device-you-plug-in-2026-11-04.html",
-    "source_urls": [
-      "https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/"
     ]
   }
 ]
