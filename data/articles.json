@@ -1,5 +1,23 @@
 [
   {
+    "id": "uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10",
+    "title": "UK Government Sites Exposed to ‘God‑Tier’ Security Flaws, Researcher Finds",
+    "description": "A researcher uncovered private data risks across multiple UK government departments, highlighting urgent security gaps.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "A researcher uncovered private data risks across multiple UK government departments, highlighting urgent security gaps.",
+    "page": "articles/uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10.html",
+    "source_urls": [
+      "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
+    ]
+  },
+  {
     "id": "hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10",
     "title": "HoverAir Versa: A Hybrid Flying Desk That Keeps You Grounded",
     "description": "The HoverAir Versa blends a hoverboard and a laptop stand, offering a portable workspace that flies but still feels like a desk.",
@@ -1786,24 +1804,6 @@
     "page": "articles/new-jersey-s-new-e-bike-law-leaves-riders-confused-and-stranded-2026-11-04.html",
     "source_urls": [
       "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/"
-    ]
-  },
-  {
-    "id": "valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04",
-    "title": "Valve Tightens Steam Release Rules to Tackle AI‑Generated Game Surge",
-    "description": "Valve updates Steam approval process to manage backlog of AI‑created titles, aiming to streamline releases and protect user experience.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Valve updates Steam approval process to manage backlog of AI‑created titles, aiming to streamline releases and protect user experience.",
-    "page": "articles/valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04.html",
-    "source_urls": [
-      "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/"
     ]
   }
 ]
