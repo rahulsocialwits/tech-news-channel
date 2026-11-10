@@ -1,5 +1,23 @@
 [
   {
+    "id": "sundrop-turns-endless-baby-photos-into-keepsakes-without-cloud-uploads-2026-11-10",
+    "title": "Sundrop Turns Endless Baby Photos Into Keepsakes Without Cloud Uploads",
+    "description": "New iPhone app Sundrop uses on‑device AI to help parents create photo recaps, time‑lapses and more, keeping images local and private.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "New iPhone app Sundrop uses on‑device AI to help parents create photo recaps, time‑lapses and more, keeping images local and private.",
+    "page": "articles/sundrop-turns-endless-baby-photos-into-keepsakes-without-cloud-uploads-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+    ]
+  },
+  {
     "id": "apple-tv-adds-built-in-sign-language-interpretation-while-secretlab-debuts-monitor-light-b-2026-11-10",
     "title": "Apple TV Adds Built‑In Sign Language Interpretation, While Secretlab Debuts Monitor Light Bar",
     "description": "Apple TV now offers sign language interpretation for supported titles, and Secretlab releases a monitor light bar to cut glare and eye strain.",
@@ -1787,24 +1805,6 @@
     "source_urls": [
       "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
-    ]
-  },
-  {
-    "id": "redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04",
-    "title": "Redditor Turns Apple TV into Nintendo Switch Emulator with Claude Code",
-    "description": "A community member used OpenAI’s Claude Code to port Nintendo Switch games to Apple TV, showcasing cross‑platform software adaptation.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "A community member used OpenAI’s Claude Code to port Nintendo Switch games to Apple TV, showcasing cross‑platform software adaptation.",
-    "page": "articles/redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04.html",
-    "source_urls": [
-      "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/"
     ]
   }
 ]
