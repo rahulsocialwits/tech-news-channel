@@ -1,5 +1,24 @@
 [
   {
+    "id": "apple-tv-adds-built-in-sign-language-interpretation-while-secretlab-debuts-monitor-light-b-2026-11-10",
+    "title": "Apple TV Adds Built‑In Sign Language Interpretation, While Secretlab Debuts Monitor Light Bar",
+    "description": "Apple TV now offers sign language interpretation for supported titles, and Secretlab releases a monitor light bar to cut glare and eye strain.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "4 min read",
+    "excerpt": "Apple TV now offers sign language interpretation for supported titles, and Secretlab releases a monitor light bar to cut glare and eye strain.",
+    "page": "articles/apple-tv-adds-built-in-sign-language-interpretation-while-secretlab-debuts-monitor-light-b-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+      "https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179"
+    ]
+  },
+  {
     "id": "reddit-turns-user-chats-into-ai-generated-product-reviews-2026-11-10",
     "title": "Reddit Turns User Chats Into AI‑Generated Product Reviews",
     "description": "Reddit’s new AI tool turns thousands of user conversations into concise product reviews, helping shoppers research before the holiday rush.",
@@ -1786,25 +1805,6 @@
     "page": "articles/redditor-turns-apple-tv-into-nintendo-switch-emulator-with-claude-code-2026-11-04.html",
     "source_urls": [
       "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/"
-    ]
-  },
-  {
-    "id": "midterm-elections-deliver-blow-to-data-center-expansion-plans-2026-11-04",
-    "title": "Midterm Elections Deliver Blow to Data Center Expansion Plans",
-    "description": "Voters across the U.S. rejected data center projects in the 2026 midterms, signaling growing public concern over energy use and land use. The backlash could reshape the cloud industry’s growth trajectory.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Voters across the U.S. rejected data center projects in the 2026 midterms, signaling growing public concern over energy use and land use. The backlash could reshape the cloud industry’s growth trajectory.",
-    "page": "articles/midterm-elections-deliver-blow-to-data-center-expansion-plans-2026-11-04.html",
-    "source_urls": [
-      "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-      "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/"
     ]
   }
 ]
