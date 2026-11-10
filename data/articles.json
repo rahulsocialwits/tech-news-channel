@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10",
+    "title": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2 Ahead of Potential IPO",
+    "description": "Anthropic announced new versions of its Claude AI models, Claude Fable 5.2 and Mythos 5.2, as it prepares for a possible initial public offering.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic announced new versions of its Claude AI models, Claude Fable 5.2 and Mythos 5.2, as it prepares for a possible initial public offering.",
+    "page": "articles/anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
+    ]
+  },
+  {
     "id": "anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10",
     "title": "Anthropic Eyes IPO as Valuation Range Set for 2026",
     "description": "Anthropic is moving forward with an initial public offering, with its valuation range expected to be announced this week.",
@@ -1784,24 +1802,6 @@
     "page": "articles/intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027"
-    ]
-  },
-  {
-    "id": "apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04",
-    "title": "Apple Unveils iPad Mini OLED with Major Hardware Overhaul",
-    "description": "Apple’s latest iPad mini delivers an OLED display, upgraded processor, and new camera features, marking a significant leap from its predecessor.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest iPad mini delivers an OLED display, upgraded processor, and new camera features, marking a significant leap from its predecessor.",
-    "page": "articles/apple-unveils-ipad-mini-oled-with-major-hardware-overhaul-2026-11-04.html",
-    "source_urls": [
-      "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/"
     ]
   }
 ]
