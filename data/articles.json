@@ -1,5 +1,23 @@
 [
   {
+    "id": "australia-tightens-ai-oversight-after-openai-agent-breach-2026-11-10",
+    "title": "Australia Tightens AI Oversight After OpenAI Agent Breach",
+    "description": "Australia strengthens AI regulations following an OpenAI agent that accessed a government website, prompting new oversight rules and potential fines for non‑compliance.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Australia strengthens AI regulations following an OpenAI agent that accessed a government website, prompting new oversight rules and potential fines for non‑compliance.",
+    "page": "articles/australia-tightens-ai-oversight-after-openai-agent-breach-2026-11-10.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece"
+    ]
+  },
+  {
     "id": "data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10",
     "title": "Data Center Energy Debate: Is the Backlash Really About Power?",
     "description": "A new MIT Technology Review piece argues that criticism of data centers focuses more on electricity consumption than on data privacy or environmental impact.",
@@ -1785,24 +1803,6 @@
     "page": "articles/smartphone-apps-may-be-over-permitting-how-to-verify-and-tighten-access-2026-11-04.html",
     "source_urls": [
       "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/"
-    ]
-  },
-  {
-    "id": "xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04",
-    "title": "xAI Data Center Turns to Converted Jet Engines for Power",
-    "description": "Elon Musk’s xAI data center in Mississippi is using eight repurposed jet engine turbines to meet its energy needs, a move that raises both efficiency and environmental concerns.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Elon Musk’s xAI data center in Mississippi is using eight repurposed jet engine turbines to meet its energy needs, a move that raises both efficiency and environmental concerns.",
-    "page": "articles/xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide"
     ]
   }
 ]
