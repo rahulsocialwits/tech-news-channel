@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-unveils-claude-meetings-to-turn-workplace-discussions-into-actionable-plans-2026-11-10",
+    "title": "Anthropic Unveils Claude Meetings to Turn Workplace Discussions into Actionable Plans",
+    "description": "Anthropic’s new Claude Meetings feature automatically drafts meeting plans, timelines, and answers questions in real time, integrating with work apps to pull data such as last year’s figures.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic’s new Claude Meetings feature automatically drafts meeting plans, timelines, and answers questions in real time, integrating with work apps to pull data such as last year’s figures.",
+    "page": "articles/anthropic-unveils-claude-meetings-to-turn-workplace-discussions-into-actionable-plans-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    ]
+  },
+  {
     "id": "sundrop-turns-endless-baby-photos-into-keepsakes-without-cloud-uploads-2026-11-10",
     "title": "Sundrop Turns Endless Baby Photos Into Keepsakes Without Cloud Uploads",
     "description": "New iPhone app Sundrop uses on‑device AI to help parents create photo recaps, time‑lapses and more, keeping images local and private.",
@@ -1786,25 +1804,6 @@
     "source_urls": [
       "https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive",
       "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
-    ]
-  },
-  {
-    "id": "texas-ai-data-center-boom-faces-political-headwinds-2026-11-05",
-    "title": "Texas’ AI Data Center Boom Faces Political Headwinds",
-    "description": "The state’s rapid growth in AI data centers may stall after recent election results, experts warn.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "The state’s rapid growth in AI data centers may stall after recent election results, experts warn.",
-    "page": "articles/texas-ai-data-center-boom-faces-political-headwinds-2026-11-05.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
     ]
   }
 ]
