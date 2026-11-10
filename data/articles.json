@@ -1,5 +1,24 @@
 [
   {
+    "id": "reddit-turns-user-chats-into-ai-generated-product-reviews-2026-11-10",
+    "title": "Reddit Turns User Chats Into AI‑Generated Product Reviews",
+    "description": "Reddit’s new AI tool turns thousands of user conversations into concise product reviews, helping shoppers research before the holiday rush.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "Reddit’s new AI tool turns thousands of user conversations into concise product reviews, helping shoppers research before the holiday rush.",
+    "page": "articles/reddit-turns-user-chats-into-ai-generated-product-reviews-2026-11-10.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/"
+    ]
+  },
+  {
     "id": "ring-revives-indoor-drone-camera-now-powered-by-ai-2026-11-10",
     "title": "Ring Revives Indoor Drone Camera, Now Powered by AI",
     "description": "Ring’s new indoor drone camera returns with AI‑driven features, offering homeowners a $250 solution to monitor threats and businesses a Rover Cam with Amazon Astro hardware.",
@@ -1786,24 +1805,6 @@
     "source_urls": [
       "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
       "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/"
-    ]
-  },
-  {
-    "id": "hackers-reprogram-france-s-blood-bank-freezers-to-110-c-threatening-life-saving-supplies-2026-11-04",
-    "title": "Hackers Reprogram France’s Blood Bank Freezers to 110°C, Threatening Life‑Saving Supplies",
-    "description": "Cyber attackers altered the temperature settings of French blood bank freezers, raising them to 110°C and jeopardizing stored blood products.",
-    "category": "Technology",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Cyber attackers altered the temperature settings of French blood bank freezers, raising them to 110°C and jeopardizing stored blood products.",
-    "page": "articles/hackers-reprogram-france-s-blood-bank-freezers-to-110-c-threatening-life-saving-supplies-2026-11-04.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/hackers-target-frances-blood-bank-freezers-reprogram-storage-to-110c/article71665055.ece"
     ]
   }
 ]
