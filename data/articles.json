@@ -1,5 +1,23 @@
 [
   {
+    "id": "hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10",
+    "title": "HoverAir Versa: A Hybrid Flying Desk That Keeps You Grounded",
+    "description": "The HoverAir Versa blends a hoverboard and a laptop stand, offering a portable workspace that flies but still feels like a desk.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "The HoverAir Versa blends a hoverboard and a laptop stand, offering a portable workspace that flies but still feels like a desk.",
+    "page": "articles/hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10.html",
+    "source_urls": [
+      "https://www.engadget.com/2311413/hoverair-versa-review/"
+    ]
+  },
+  {
     "id": "otter-ai-expands-multilingual-support-to-30-languages-2026-11-10",
     "title": "Otter AI Expands Multilingual Support to 30+ Languages",
     "description": "Otter AI adds 27 new languages and announces a feature that tracks conversations as speakers switch between languages.",
@@ -1786,23 +1804,6 @@
     "page": "articles/valve-tightens-steam-release-rules-to-tackle-ai-generated-game-surge-2026-11-04.html",
     "source_urls": [
       "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/"
-    ]
-  },
-  {
-    "id": "apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04",
-    "title": "Apple Faces $33 B Surge in Memory Costs as DRAM Prices Skyrocket",
-    "description": "Apple’s upcoming devices hit a new memory price ceiling as DRAM makers shift focus to high‑margin server products, tightening supply for consumer electronics.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s upcoming devices hit a new memory price ceiling as DRAM makers shift focus to high‑margin server products, tightening supply for consumer electronics.",
-    "page": "articles/apple-faces-33-b-surge-in-memory-costs-as-dram-prices-skyrocket-2026-11-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
     ]
   }
 ]
