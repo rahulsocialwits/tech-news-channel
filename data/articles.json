@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10",
+    "title": "Data Center Energy Debate: Is the Backlash Really About Power?",
+    "description": "A new MIT Technology Review piece argues that criticism of data centers focuses more on electricity consumption than on data privacy or environmental impact.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-10",
+    "readTime": "3 min read",
+    "excerpt": "A new MIT Technology Review piece argues that criticism of data centers focuses more on electricity consumption than on data privacy or environmental impact.",
+    "page": "articles/data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+    ]
+  },
+  {
     "id": "anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10",
     "title": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2 Ahead of Potential IPO",
     "description": "Anthropic announced new versions of its Claude AI models, Claude Fable 5.2 and Mythos 5.2, as it prepares for a possible initial public offering.",
@@ -1785,23 +1803,6 @@
     "page": "articles/xai-data-center-turns-to-converted-jet-engines-for-power-2026-11-04.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide"
-    ]
-  },
-  {
-    "id": "intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04",
-    "title": "Intel’s 14A Process Design Kit Brings Next‑Gen Chips Closer to Reality",
-    "description": "Intel’s 14A process design kit (PDK) 0.9 release marks a key milestone toward commercializing its next‑generation semiconductor technology, boosting performance and yield for developers.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-04",
-    "readTime": "3 min read",
-    "excerpt": "Intel’s 14A process design kit (PDK) 0.9 release marks a key milestone toward commercializing its next‑generation semiconductor technology, boosting performance and yield for developers.",
-    "page": "articles/intel-s-14a-process-design-kit-brings-next-gen-chips-closer-to-reality-2026-11-04.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027"
     ]
   }
 ]
