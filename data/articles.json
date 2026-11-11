@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11",
+    "title": "Samsung Revamps Galaxy Enhance‑X Image Editor in One UI 9.5",
+    "description": "Samsung updates its Galaxy Enhance‑X photo‑editing app with a new interface and improved tools as part of the One UI 9.5 rollout.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Samsung updates its Galaxy Enhance‑X photo‑editing app with a new interface and improved tools as part of the One UI 9.5 rollout.",
+    "page": "articles/samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/"
+    ]
+  },
+  {
     "id": "adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11",
     "title": "Adobe Unveils AI Agents and Creative Tools, Deepening Google and Microsoft Integration",
     "description": "Adobe announced new AI agents and creative tools at its 2026 event, expanding integration with Google and Microsoft services.",
@@ -1785,24 +1803,6 @@
     "page": "articles/amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
-    ]
-  },
-  {
-    "id": "team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05",
-    "title": "Team Group CEO Warns Memory Crisis Could Reach Point Where Even Money Can’t Buy Goods",
-    "description": "Team Group CEO warns that DRAM shortages may force prices to stay high, with no downward trend expected next year.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Team Group CEO warns that DRAM shortages may force prices to stay high, with no downward trend expected next year.",
-    "page": "articles/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever"
     ]
   }
 ]
