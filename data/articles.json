@@ -1,5 +1,23 @@
 [
   {
+    "id": "roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11",
+    "title": "Roku Shifts Focus: Ending Smart‑Home Line to Double Down on Streaming",
+    "description": "Roku will stop selling video doorbells and other smart‑home devices, redirecting resources to its core streaming business.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Roku will stop selling video doorbells and other smart‑home devices, redirecting resources to its core streaming business.",
+    "page": "articles/roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11.html",
+    "source_urls": [
+      "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/"
+    ]
+  },
+  {
     "id": "google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11",
     "title": "Google Home Bug Leaves Nest Camera Alerts Without Video Previews",
     "description": "A recent flaw in Google Home’s integration with Nest cameras means users receive only text notifications, missing the expected video preview.",
@@ -1781,24 +1799,6 @@
     "source_urls": [
       "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
       "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/"
-    ]
-  },
-  {
-    "id": "openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05",
-    "title": "OpenAI Announces Comprehensive U.S. Data‑Center Safeguards and Union Engagement",
-    "description": "OpenAI commits to environmental transparency, local hiring, and grid infrastructure support for its U.S. data‑center expansion.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI commits to environmental transparency, local hiring, and grid infrastructure support for its U.S. data‑center expansion.",
-    "page": "articles/openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05.html",
-    "source_urls": [
-      "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
     ]
   }
 ]
