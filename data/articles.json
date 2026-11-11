@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-acquires-odessia-expanding-into-travel-tech-2026-11-11",
+    "title": "OpenAI Acquires Odessia, Expanding Into Travel Tech",
+    "description": "OpenAI has announced the purchase of Odessia, a travel startup founded by Sonder co‑founder Francis Davidson, marking a new venture into the travel industry.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI has announced the purchase of Odessia, a travel startup founded by Sonder co‑founder Francis Davidson, marking a new venture into the travel industry.",
+    "page": "articles/openai-acquires-odessia-expanding-into-travel-tech-2026-11-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    ]
+  },
+  {
     "id": "x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11",
     "title": "X Introduces Clipping Feature to Boost Influencer Engagement",
     "description": "X launches a new clipping tool that lets users create short, shareable video snippets, aiming to increase influencer interaction and viral reach.",
@@ -1785,24 +1803,6 @@
     "page": "articles/apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
-    ]
-  },
-  {
-    "id": "snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05",
-    "title": "Snapchat+ Surpasses 30 Million Paid Subscribers as AI‑Powered Effects Drive Growth",
-    "description": "Snap has crossed the 30‑million mark for paid users, with AI‑enhanced filters and effects attracting power users.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Snap has crossed the 30‑million mark for paid users, with AI‑enhanced filters and effects attracting power users.",
-    "page": "articles/snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05.html",
-    "source_urls": [
-      "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/"
     ]
   }
 ]
