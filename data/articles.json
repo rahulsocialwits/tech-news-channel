@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-urges-fcc-to-keep-chinese-optical-gear-in-data-centers-2026-11-11",
+    "title": "Microsoft Urges FCC to Keep Chinese Optical Gear in Data Centers",
+    "description": "Microsoft lobbies to prevent a potential ban on Chinese optical transceivers critical for AI data centers, warning it could halt rollout of new facilities.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft lobbies to prevent a potential ban on Chinese optical transceivers critical for AI data centers, warning it could halt rollout of new facilities.",
+    "page": "articles/microsoft-urges-fcc-to-keep-chinese-optical-gear-in-data-centers-2026-11-11.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt"
+    ]
+  },
+  {
     "id": "anthropic-unveils-claude-meetings-to-turn-workplace-discussions-into-actionable-plans-2026-11-10",
     "title": "Anthropic Unveils Claude Meetings to Turn Workplace Discussions into Actionable Plans",
     "description": "Anthropic’s new Claude Meetings feature automatically drafts meeting plans, timelines, and answers questions in real time, integrating with work apps to pull data such as last year’s figures.",
@@ -1785,25 +1803,6 @@
     "page": "articles/t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05.html",
     "source_urls": [
       "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee"
-    ]
-  },
-  {
-    "id": "macronix-shifts-focus-to-ai-data-center-chips-leaving-nintendo-rom-supply-in-limbo-2026-11-05",
-    "title": "Macronix Shifts Focus to AI Data Center Chips, Leaving Nintendo ROM Supply in Limbo",
-    "description": "The former Nintendo ROM chip supplier Macronix is pivoting its production toward NAND and NOR flash for AI data centers, impacting the Switch cartridge supply chain.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "The former Nintendo ROM chip supplier Macronix is pivoting its production toward NAND and NOR flash for AI data centers, impacting the Switch cartridge supply chain.",
-    "page": "articles/macronix-shifts-focus-to-ai-data-center-chips-leaving-nintendo-rom-supply-in-limbo-2026-11-05.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive",
-      "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
     ]
   }
 ]
