@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-to-shut-down-online-support-community-on-november-20-2026-11-11",
+    "title": "Apple to Shut Down Online Support Community on November 20",
+    "description": "Apple will permanently close its online Support Community forum, ending a key resource for users and developers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Apple will permanently close its online Support Community forum, ending a key resource for users and developers.",
+    "page": "articles/apple-to-shut-down-online-support-community-on-november-20-2026-11-11.html",
+    "source_urls": [
+      "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/"
+    ]
+  },
+  {
     "id": "meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11",
     "title": "Meta’s Muse AI Now Runs on Wear OS, Bringing Smart Assistant to Your Wrist",
     "description": "Meta launches Muse AI agent for Wear OS, enabling on-device smart assistant features that still rely on the phone for heavy processing.",
@@ -1785,24 +1803,6 @@
     "page": "articles/openai-announces-new-data-center-sustainability-pledges-2026-11-05.html",
     "source_urls": [
       "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
-    ]
-  },
-  {
-    "id": "amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05",
-    "title": "Amazon and Uber Eats Team Up to Offer Prime Members Free Delivery Perks",
-    "description": "Amazon partners with Uber Eats to let Prime members skip delivery fees on eligible orders, expanding the Prime ecosystem into food delivery.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Amazon partners with Uber Eats to let Prime members skip delivery fees on eligible orders, expanding the Prime ecosystem into food delivery.",
-    "page": "articles/amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05.html",
-    "source_urls": [
-      "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/"
     ]
   }
 ]
