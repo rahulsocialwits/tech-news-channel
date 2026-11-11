@@ -1,5 +1,23 @@
 [
   {
+    "id": "amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11",
+    "title": "AMD Bets on Server CPUs as AI Agents Shift Workload Away from GPUs",
+    "description": "AMD’s latest strategy positions server CPUs to handle more AI agent tasks, aiming to balance the workload traditionally dominated by GPUs.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "AMD’s latest strategy positions server CPUs to handle more AI agent tasks, aiming to balance the workload traditionally dominated by GPUs.",
+    "page": "articles/amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/amds-silicon-power-play-for-the-agentic-ai-era-180723.html?rss=1"
+    ]
+  },
+  {
     "id": "apple-to-shut-down-online-support-community-on-november-20-2026-11-11",
     "title": "Apple to Shut Down Online Support Community on November 20",
     "description": "Apple will permanently close its online Support Community forum, ending a key resource for users and developers.",
@@ -1785,24 +1803,6 @@
       "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
       "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
       "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/"
-    ]
-  },
-  {
-    "id": "openai-announces-new-data-center-sustainability-pledges-2026-11-05",
-    "title": "OpenAI Announces New Data‑Center Sustainability Pledges",
-    "description": "OpenAI commits to protecting local resources and reporting on data‑center impacts amid growing scrutiny of AI infrastructure.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI commits to protecting local resources and reporting on data‑center impacts amid growing scrutiny of AI infrastructure.",
-    "page": "articles/openai-announces-new-data-center-sustainability-pledges-2026-11-05.html",
-    "source_urls": [
-      "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
     ]
   }
 ]
