@@ -1,5 +1,23 @@
 [
   {
+    "id": "x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11",
+    "title": "X Introduces Clipping Feature to Boost Influencer Engagement",
+    "description": "X launches a new clipping tool that lets users create short, shareable video snippets, aiming to increase influencer interaction and viral reach.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "X launches a new clipping tool that lets users create short, shareable video snippets, aiming to increase influencer interaction and viral reach.",
+    "page": "articles/x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+    ]
+  },
+  {
     "id": "microsoft-urges-fcc-to-keep-chinese-optical-gear-in-data-centers-2026-11-11",
     "title": "Microsoft Urges FCC to Keep Chinese Optical Gear in Data Centers",
     "description": "Microsoft lobbies to prevent a potential ban on Chinese optical transceivers critical for AI data centers, warning it could halt rollout of new facilities.",
@@ -1785,24 +1803,6 @@
     "page": "articles/snapchat-surpasses-30-million-paid-subscribers-as-ai-powered-effects-drive-growth-2026-11-05.html",
     "source_urls": [
       "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/"
-    ]
-  },
-  {
-    "id": "t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05",
-    "title": "T‑Mobile Unveils 5 Gbps Fiber Plan at $90 a Month",
-    "description": "T‑Mobile offers a 5 Gbps fiber internet plan for under $100 a month, promising a 2.5× speed boost and a 10‑year price guarantee.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "T‑Mobile offers a 5 Gbps fiber internet plan for under $100 a month, promising a 2.5× speed boost and a 10‑year price guarantee.",
-    "page": "articles/t-mobile-unveils-5-gbps-fiber-plan-at-90-a-month-2026-11-05.html",
-    "source_urls": [
-      "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee"
     ]
   }
 ]
