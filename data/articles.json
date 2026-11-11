@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11",
+    "title": "New York’s AI Safety Law Enters Full Effect, Mandating Oversight for Major Developers",
+    "description": "New York’s sweeping AI safety law now requires OpenAI, Anthropic, and other large developers to register, disclose safety practices, and report incidents, or face fines.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "New York’s sweeping AI safety law now requires OpenAI, Anthropic, and other large developers to register, disclose safety practices, and report incidents, or face fines.",
+    "page": "articles/new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    ]
+  },
+  {
     "id": "seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11",
     "title": "Seagate Revives SSD‑HDD Hybrid with FireCuda Forge, Raising Classic Questions",
     "description": "Seagate’s new FireCuda Forge hybrid drive blends flash and spinning media, sparking debate over performance, endurance and market fit.",
@@ -1785,24 +1803,6 @@
     "page": "articles/pangram-expands-ai-detection-to-video-and-images-2026-11-05.html",
     "source_urls": [
       "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
-    ]
-  },
-  {
-    "id": "data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05",
-    "title": "Data Center Opposition Surges After Midterms, Signals Bigger Clash Ahead",
-    "description": "Following the U.S. midterm elections, bipartisan opposition to new data center projects is intensifying, raising questions about future infrastructure growth.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Following the U.S. midterm elections, bipartisan opposition to new data center projects is intensifying, raising questions about future infrastructure growth.",
-    "page": "articles/data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
     ]
   }
 ]
