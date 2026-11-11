@@ -1,5 +1,23 @@
 [
   {
+    "id": "adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11",
+    "title": "Adobe Unveils AI Agents and Creative Tools, Deepening Google and Microsoft Integration",
+    "description": "Adobe announced new AI agents and creative tools at its 2026 event, expanding integration with Google and Microsoft services.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Adobe announced new AI agents and creative tools at its 2026 event, expanding integration with Google and Microsoft services.",
+    "page": "articles/adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/adobe-max-2026-firefly-ai-creative-studio-adobe-creative-agent-updates-10958662/"
+    ]
+  },
+  {
     "id": "samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11",
     "title": "Samsung Gallery Now Syncs Photos to Google, Expanding Cloud Backup Options",
     "description": "Samsung users can now back up photos and videos from select devices to their Google accounts, adding flexibility to the company’s cloud strategy.",
@@ -1785,24 +1803,6 @@
     "page": "articles/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-can-t-buy-goods-2026-11-05.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever"
-    ]
-  },
-  {
-    "id": "xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05",
-    "title": "Xbox Trials Two New Controllers for Cloud Gaming Experience",
-    "description": "Xbox is testing a Nano Controller and a new cloud‑gaming‑optimized design to improve remote play on its platform.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Xbox is testing a Nano Controller and a new cloud‑gaming‑optimized design to improve remote play on its platform.",
-    "page": "articles/xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05.html",
-    "source_urls": [
-      "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/"
     ]
   }
 ]
