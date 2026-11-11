@@ -1,5 +1,23 @@
 [
   {
+    "id": "deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11",
+    "title": "DeepMind Uses AI to Mathematically Verify Signal’s Encryption",
+    "description": "Google DeepMind has applied AI to perform a formal verification of key components of Signal’s end‑to‑end encryption, demonstrating a new approach to security assurance.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Google DeepMind has applied AI to perform a formal verification of key components of Signal’s end‑to‑end encryption, demonstrating a new approach to security assurance.",
+    "page": "articles/deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11.html",
+    "source_urls": [
+      "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+    ]
+  },
+  {
     "id": "microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11",
     "title": "Microsoft’s Automatic Super Resolution Now Powers Xbox Ally X and Select Copilot+ PCs",
     "description": "Microsoft’s upscaling technology, Automatic Super Resolution, has been released for the ROG Xbox Ally X and a handful of Copilot+ PCs, boosting game visuals on handheld devices.",
@@ -1781,24 +1799,6 @@
     "page": "articles/uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05.html",
     "source_urls": [
       "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review"
-    ]
-  },
-  {
-    "id": "motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05",
-    "title": "Motorola Expands Premium Ecosystem with Moto Buds Ultra 27 and Watch Fit 27",
-    "description": "Motorola launches new premium earbuds and smartwatch, integrating Qira AI assistant for North American consumers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Motorola launches new premium earbuds and smartwatch, integrating Qira AI assistant for North American consumers.",
-    "page": "articles/motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/"
     ]
   }
 ]
