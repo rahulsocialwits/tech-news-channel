@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11",
+    "title": "Samsung Gallery Now Syncs Photos to Google, Expanding Cloud Backup Options",
+    "description": "Samsung users can now back up photos and videos from select devices to their Google accounts, adding flexibility to the company’s cloud strategy.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Samsung users can now back up photos and videos from select devices to their Google accounts, adding flexibility to the company’s cloud strategy.",
+    "page": "articles/samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11.html",
+    "source_urls": [
+      "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/"
+    ]
+  },
+  {
     "id": "new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11",
     "title": "New York’s AI Safety Law Enters Full Effect, Mandating Oversight for Major Developers",
     "description": "New York’s sweeping AI safety law now requires OpenAI, Anthropic, and other large developers to register, disclose safety practices, and report incidents, or face fines.",
@@ -1785,24 +1803,6 @@
     "page": "articles/xbox-trials-two-new-controllers-for-cloud-gaming-experience-2026-11-05.html",
     "source_urls": [
       "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/"
-    ]
-  },
-  {
-    "id": "pangram-expands-ai-detection-to-video-and-images-2026-11-05",
-    "title": "Pangram Expands AI Detection to Video and Images",
-    "description": "Pangram broadens its AI content detection suite to cover visual media, adding new tools for video and image analysis.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Pangram broadens its AI content detection suite to cover visual media, adding new tools for video and image analysis.",
-    "page": "articles/pangram-expands-ai-detection-to-video-and-images-2026-11-05.html",
-    "source_urls": [
-      "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
     ]
   }
 ]
