@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11",
+    "title": "Microsoft’s Automatic Super Resolution Now Powers Xbox Ally X and Select Copilot+ PCs",
+    "description": "Microsoft’s upscaling technology, Automatic Super Resolution, has been released for the ROG Xbox Ally X and a handful of Copilot+ PCs, boosting game visuals on handheld devices.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s upscaling technology, Automatic Super Resolution, has been released for the ROG Xbox Ally X and a handful of Copilot+ PCs, boosting game visuals on handheld devices.",
+    "page": "articles/microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11.html",
+    "source_urls": [
+      "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
+    ]
+  },
+  {
     "id": "amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11",
     "title": "AMD Bets on Server CPUs as AI Agents Shift Workload Away from GPUs",
     "description": "AMD’s latest strategy positions server CPUs to handle more AI agent tasks, aiming to balance the workload traditionally dominated by GPUs.",
@@ -1781,28 +1799,6 @@
     "page": "articles/motorola-expands-premium-ecosystem-with-moto-buds-ultra-27-and-watch-fit-27-2026-11-05.html",
     "source_urls": [
       "https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/"
-    ]
-  },
-  {
-    "id": "motorola-unveils-signature-27-a-1-600-flagship-with-7-year-updates-and-gemini-ai-2026-11-05",
-    "title": "Motorola Unveils Signature 27: A $1,600 Flagship with 7‑Year Updates and Gemini AI",
-    "description": "Motorola’s new Signature 27 phone offers a 7,000mAh battery, seven years of Android updates, and Google’s Gemini Intelligence features for $1,600.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Motorola’s new Signature 27 phone offers a 7,000mAh battery, seven years of Android updates, and Google’s Gemini Intelligence features for $1,600.",
-    "page": "articles/motorola-unveils-signature-27-a-1-600-flagship-with-7-year-updates-and-gemini-ai-2026-11-05.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
-      "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
-      "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
-      "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
-      "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/"
     ]
   }
 ]
