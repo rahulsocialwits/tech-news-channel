@@ -1,5 +1,23 @@
 [
   {
+    "id": "seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11",
+    "title": "Seagate Revives SSD‑HDD Hybrid with FireCuda Forge, Raising Classic Questions",
+    "description": "Seagate’s new FireCuda Forge hybrid drive blends flash and spinning media, sparking debate over performance, endurance and market fit.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Seagate’s new FireCuda Forge hybrid drive blends flash and spinning media, sparking debate over performance, endurance and market fit.",
+    "page": "articles/seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+    ]
+  },
+  {
     "id": "openai-acquires-odessia-expanding-into-travel-tech-2026-11-11",
     "title": "OpenAI Acquires Odessia, Expanding Into Travel Tech",
     "description": "OpenAI has announced the purchase of Odessia, a travel startup founded by Sonder co‑founder Francis Davidson, marking a new venture into the travel industry.",
@@ -1785,24 +1803,6 @@
     "page": "articles/data-center-opposition-surges-after-midterms-signals-bigger-clash-ahead-2026-11-05.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
-    ]
-  },
-  {
-    "id": "apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05",
-    "title": "Apple Slashes Internal AI Spending as Memory Chip Prices Surge",
-    "description": "Apple is reportedly cutting its internal AI budget amid rising memory costs, signaling a shift in its engineering strategy.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Apple is reportedly cutting its internal AI budget amid rising memory costs, signaling a shift in its engineering strategy.",
-    "page": "articles/apple-slashes-internal-ai-spending-as-memory-chip-prices-surge-2026-11-05.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
     ]
   }
 ]
