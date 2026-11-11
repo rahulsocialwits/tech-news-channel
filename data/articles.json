@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11",
+    "title": "Google Home Bug Leaves Nest Camera Alerts Without Video Previews",
+    "description": "A recent flaw in Google Home’s integration with Nest cameras means users receive only text notifications, missing the expected video preview.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "A recent flaw in Google Home’s integration with Nest cameras means users receive only text notifications, missing the expected video preview.",
+    "page": "articles/google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/"
+    ]
+  },
+  {
     "id": "ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11",
     "title": "Ring Unveils Indoor Drone and Roving Guard Cam for Home and Business Security",
     "description": "Amazon’s Ring introduces a new indoor drone that can investigate alarms and a wheeled robot that patrols commercial spaces after hours.",
@@ -1781,24 +1799,6 @@
     "page": "articles/openai-announces-comprehensive-u-s-data-center-safeguards-and-union-engagement-2026-11-05.html",
     "source_urls": [
       "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
-    ]
-  },
-  {
-    "id": "mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05",
-    "title": "Mobile Phone Retailers Brace for 10% Price Hike After Diwali Amid Sharp Sales Decline",
-    "description": "India’s mobile retailers predict a 10% price increase post‑Diwali as sales slump, citing a 50% drop in volume expected to linger.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "India’s mobile retailers predict a 10% price increase post‑Diwali as sales slump, citing a 50% drop in volume expected to linger.",
-    "page": "articles/mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/mobile-phone-retailers-expect-10-price-hike-post-diwali-even-as-sales-drop/article71668987.ece"
     ]
   }
 ]
