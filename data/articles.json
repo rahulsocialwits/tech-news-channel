@@ -1,5 +1,23 @@
 [
   {
+    "id": "ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11",
+    "title": "Ring Unveils Indoor Drone and Roving Guard Cam for Home and Business Security",
+    "description": "Amazon’s Ring introduces a new indoor drone that can investigate alarms and a wheeled robot that patrols commercial spaces after hours.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s Ring introduces a new indoor drone that can investigate alarms and a wheeled robot that patrols commercial spaces after hours.",
+    "page": "articles/ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/amazons-ring-unveils-home-security-drone-roving-guard-cam-180729.html?rss=1"
+    ]
+  },
+  {
     "id": "deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11",
     "title": "DeepMind Uses AI to Mathematically Verify Signal’s Encryption",
     "description": "Google DeepMind has applied AI to perform a formal verification of key components of Signal’s end‑to‑end encryption, demonstrating a new approach to security assurance.",
@@ -1781,24 +1799,6 @@
     "page": "articles/mobile-phone-retailers-brace-for-10-price-hike-after-diwali-amid-sharp-sales-decline-2026-11-05.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/mobile-phone-retailers-expect-10-price-hike-post-diwali-even-as-sales-drop/article71668987.ece"
-    ]
-  },
-  {
-    "id": "uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05",
-    "title": "UPERFECT GR14BU: A 120 Hz 3K OLED Portable Monitor That Packs a Punch",
-    "description": "The UPERFECT GR14BU delivers a 3K OLED panel, 120 Hz refresh rate, and touch capability in a compact portable monitor, offering a high‑performance display for mobile professionals and gamers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "The UPERFECT GR14BU delivers a 3K OLED panel, 120 Hz refresh rate, and touch capability in a compact portable monitor, offering a high‑performance display for mobile professionals and gamers.",
-    "page": "articles/uperfect-gr14bu-a-120-hz-3k-oled-portable-monitor-that-packs-a-punch-2026-11-05.html",
-    "source_urls": [
-      "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review"
     ]
   }
 ]
