@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11",
+    "title": "Meta’s Muse AI Now Runs on Wear OS, Bringing Smart Assistant to Your Wrist",
+    "description": "Meta launches Muse AI agent for Wear OS, enabling on-device smart assistant features that still rely on the phone for heavy processing.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-11",
+    "readTime": "3 min read",
+    "excerpt": "Meta launches Muse AI agent for Wear OS, enabling on-device smart assistant features that still rely on the phone for heavy processing.",
+    "page": "articles/meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11.html",
+    "source_urls": [
+      "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"
+    ]
+  },
+  {
     "id": "samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11",
     "title": "Samsung Revamps Galaxy Enhance‑X Image Editor in One UI 9.5",
     "description": "Samsung updates its Galaxy Enhance‑X photo‑editing app with a new interface and improved tools as part of the One UI 9.5 rollout.",
@@ -1785,24 +1803,6 @@
     "page": "articles/amazon-and-uber-eats-team-up-to-offer-prime-members-free-delivery-perks-2026-11-05.html",
     "source_urls": [
       "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/"
-    ]
-  },
-  {
-    "id": "amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05",
-    "title": "Amazon Switches to Uber Eats for Prime Delivery, Ending GrubHub Deal",
-    "description": "Amazon has announced Uber Eats as its new official restaurant delivery partner for Prime members in the United States, replacing GrubHub.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-05",
-    "readTime": "3 min read",
-    "excerpt": "Amazon has announced Uber Eats as its new official restaurant delivery partner for Prime members in the United States, replacing GrubHub.",
-    "page": "articles/amazon-switches-to-uber-eats-for-prime-delivery-ending-grubhub-deal-2026-11-05.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
     ]
   }
 ]
