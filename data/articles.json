@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12",
+    "title": "Apple’s M6 iMac: A Clean‑Desk Powerhouse That Keeps the Status Quo",
+    "description": "Apple’s latest iMac, powered by the M6 chip, offers solid performance and a sleek design, though its price remains a consideration for buyers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest iMac, powered by the M6 chip, offers solid performance and a sleek design, though its price remains a consideration for buyers.",
+    "page": "articles/apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12.html",
+    "source_urls": [
+      "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
+    ]
+  },
+  {
     "id": "nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12",
     "title": "Nintendo to Drop Google and Apple Sign‑Ins for Its Services Next Year",
     "description": "Nintendo will no longer allow users to log in with Google or Apple accounts, shifting to its own authentication system by early 2027.",
@@ -1781,23 +1799,6 @@
     "page": "articles/nvidia-tightens-ai-gpu-tracking-in-southeast-asia-amid-smuggling-concerns-2026-11-06.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status"
-    ]
-  },
-  {
-    "id": "physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06",
-    "title": "Physicl Secures $10 Million to Bridge the Sim‑to‑Real Gap for Robots",
-    "description": "Startup Physicl raises $10 million to develop a pipeline that turns digital simulations into real‑world robotic actions, aiming to accelerate robot deployment across industries.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Startup Physicl raises $10 million to develop a pipeline that turns digital simulations into real‑world robotic actions, aiming to accelerate robot deployment across industries.",
-    "page": "articles/physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
     ]
   }
 ]
