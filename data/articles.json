@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-health-fixes-missing-daily-vitals-bug-2026-11-12",
+    "title": "Google Health Fixes Missing Daily Vitals Bug",
+    "description": "Google Health users report missing daily vitals; the company confirms a fix is underway.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Google Health users report missing daily vitals; the company confirms a fix is underway.",
+    "page": "articles/google-health-fixes-missing-daily-vitals-bug-2026-11-12.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/"
+    ]
+  },
+  {
     "id": "chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12",
     "title": "Chinese Cloud Providers Rush to Secure Nvidia GPUs Amid U.S. Curbs Concerns",
     "description": "Chinese AI firms are scrambling to lock in Nvidia chip capacity as a spy scandal fuels fears of new U.S. export restrictions.",
@@ -1779,24 +1797,6 @@
     "page": "articles/local-governments-strip-flock-surveillance-cameras-amid-privacy-concerns-2026-11-06.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
-    ]
-  },
-  {
-    "id": "google-adds-notify-when-left-behind-alerts-to-find-hub-tags-2026-11-06",
-    "title": "Google Adds ‘Notify When Left Behind’ Alerts to Find Hub Tags",
-    "description": "Google expands Find Hub’s tracking features with new left‑behind notifications for Android users.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Google expands Find Hub’s tracking features with new left‑behind notifications for Android users.",
-    "page": "articles/google-adds-notify-when-left-behind-alerts-to-find-hub-tags-2026-11-06.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/"
     ]
   }
 ]
