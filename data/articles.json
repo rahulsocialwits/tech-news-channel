@@ -1,5 +1,23 @@
 [
   {
+    "id": "fairphone-partners-with-boost-mobile-to-bring-repairable-smartphones-to-the-u-s-market-2026-11-12",
+    "title": "Fairphone Partners with Boost Mobile to Bring Repairable Smartphones to the U.S. Market",
+    "description": "Fairphone, the sustainable phone maker, has secured its first U.S. carrier partnership with Boost Mobile, offering repairable smartphones and wireless plans to American consumers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Fairphone, the sustainable phone maker, has secured its first U.S. carrier partnership with Boost Mobile, offering repairable smartphones and wireless plans to American consumers.",
+    "page": "articles/fairphone-partners-with-boost-mobile-to-bring-repairable-smartphones-to-the-u-s-market-2026-11-12.html",
+    "source_urls": [
+      "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/"
+    ]
+  },
+  {
     "id": "apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12",
     "title": "Apple’s M6 iMac: A Clean‑Desk Powerhouse That Keeps the Status Quo",
     "description": "Apple’s latest iMac, powered by the M6 chip, offers solid performance and a sleek design, though its price remains a consideration for buyers.",
@@ -1781,24 +1799,6 @@
     "page": "articles/amazon-expands-alexa-s-reach-text-based-shopping-now-available-to-millions-2026-11-06.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-    ]
-  },
-  {
-    "id": "nvidia-tightens-ai-gpu-tracking-in-southeast-asia-amid-smuggling-concerns-2026-11-06",
-    "title": "Nvidia Tightens AI GPU Tracking in Southeast Asia Amid Smuggling Concerns",
-    "description": "Nvidia requires Southeast Asian cloud providers to enroll in its Fleet Intelligence program to monitor AI GPU deployments as chip smuggling investigations intensify.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia requires Southeast Asian cloud providers to enroll in its Fleet Intelligence program to monitor AI GPU deployments as chip smuggling investigations intensify.",
-    "page": "articles/nvidia-tightens-ai-gpu-tracking-in-southeast-asia-amid-smuggling-concerns-2026-11-06.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status"
     ]
   }
 ]
