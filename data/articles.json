@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-wallet-adds-digital-home-keys-for-nfc-enabled-smart-locks-2026-11-12",
+    "title": "Google Wallet Adds Digital Home Keys for NFC‑Enabled Smart Locks",
+    "description": "Google Wallet now lets users unlock compatible smart locks with a tap, adding a hands‑free option to its digital wallet services.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Google Wallet now lets users unlock compatible smart locks with a tap, adding a hands‑free option to its digital wallet services.",
+    "page": "articles/google-wallet-adds-digital-home-keys-for-nfc-enabled-smart-locks-2026-11-12.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/"
+    ]
+  },
+  {
     "id": "roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11",
     "title": "Roku Shifts Focus: Ending Smart‑Home Line to Double Down on Streaming",
     "description": "Roku will stop selling video doorbells and other smart‑home devices, redirecting resources to its core streaming business.",
@@ -1781,24 +1799,6 @@
     "page": "articles/bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06.html",
     "source_urls": [
       "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/"
-    ]
-  },
-  {
-    "id": "blue-origin-unveils-cost-cutting-rocket-engine-upgrade-pushing-spaceflight-into-a-new-era-2026-11-06",
-    "title": "Blue Origin Unveils Cost‑Cutting Rocket Engine Upgrade, Pushing Spaceflight Into a New Era",
-    "description": "Blue Origin announced a new rocket engine design that promises higher performance at a quarter of the cost, signaling a shift toward more affordable space launches.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Blue Origin announced a new rocket engine design that promises higher performance at a quarter of the cost, signaling a shift toward more affordable space launches.",
-    "page": "articles/blue-origin-unveils-cost-cutting-rocket-engine-upgrade-pushing-spaceflight-into-a-new-era-2026-11-06.html",
-    "source_urls": [
-      "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/"
     ]
   }
 ]
