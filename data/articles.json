@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12",
+    "title": "Google Expands Gemini to Apple CarPlay, Bringing AI Chat to the Road",
+    "description": "Google’s Gemini chatbot is now available on Apple CarPlay, letting drivers access the AI assistant directly from their car’s infotainment system.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Gemini chatbot is now available on Apple CarPlay, letting drivers access the AI assistant directly from their car’s infotainment system.",
+    "page": "articles/google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12.html",
+    "source_urls": [
+      "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+    ]
+  },
+  {
     "id": "google-health-fixes-missing-daily-vitals-bug-2026-11-12",
     "title": "Google Health Fixes Missing Daily Vitals Bug",
     "description": "Google Health users report missing daily vitals; the company confirms a fix is underway.",
@@ -1780,23 +1798,6 @@
     "page": "articles/nintendo-switch-2-controllers-hit-the-market-ahead-of-zelda-ocarina-of-time-remaster-2026-11-06.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others"
-    ]
-  },
-  {
-    "id": "local-governments-strip-flock-surveillance-cameras-amid-privacy-concerns-2026-11-06",
-    "title": "Local Governments Strip Flock Surveillance Cameras Amid Privacy Concerns",
-    "description": "At least ten municipalities have removed Flock’s cameras after privacy and data‑sharing worries grew this summer.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "At least ten municipalities have removed Flock’s cameras after privacy and data‑sharing worries grew this summer.",
-    "page": "articles/local-governments-strip-flock-surveillance-cameras-amid-privacy-concerns-2026-11-06.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
     ]
   }
 ]
