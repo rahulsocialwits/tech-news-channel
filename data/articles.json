@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12",
+    "title": "OpenAI Launches India‑Localized GPT‑6 Luna API to Meet Enterprise Data‑Localisation Needs",
+    "description": "OpenAI now lets Indian enterprises run GPT‑6 Luna requests inside India, addressing data‑localisation regulations and reducing latency.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI now lets Indian enterprises run GPT‑6 Luna requests inside India, addressing data‑localisation regulations and reducing latency.",
+    "page": "articles/openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12.html",
+    "source_urls": [
+      "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece"
+    ]
+  },
+  {
     "id": "google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12",
     "title": "Google Expands Gemini to Apple CarPlay, Bringing AI Chat to the Road",
     "description": "Google’s Gemini chatbot is now available on Apple CarPlay, letting drivers access the AI assistant directly from their car’s infotainment system.",
@@ -1780,24 +1798,6 @@
     "page": "articles/aina-smart-ring-adds-tiny-display-to-manage-ai-agents-2026-11-06.html",
     "source_urls": [
       "https://www.androidauthority.com/aina-smart-ring-with-display-3732394/"
-    ]
-  },
-  {
-    "id": "nintendo-switch-2-controllers-hit-the-market-ahead-of-zelda-ocarina-of-time-remaster-2026-11-06",
-    "title": "Nintendo Switch 2 Controllers Hit the Market Ahead of Zelda: Ocarina of Time Remaster",
-    "description": "New Switch 2 controllers from 8BitDo, GameSir and others launch now, offering improved ergonomics and wireless play for the upcoming Zelda remaster.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "New Switch 2 controllers from 8BitDo, GameSir and others launch now, offering improved ergonomics and wireless play for the upcoming Zelda remaster.",
-    "page": "articles/nintendo-switch-2-controllers-hit-the-market-ahead-of-zelda-ocarina-of-time-remaster-2026-11-06.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others"
     ]
   }
 ]
