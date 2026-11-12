@@ -1,5 +1,23 @@
 [
   {
+    "id": "nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12",
+    "title": "Nintendo to Drop Google and Apple Sign‑Ins for Its Services Next Year",
+    "description": "Nintendo will no longer allow users to log in with Google or Apple accounts, shifting to its own authentication system by early 2027.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Nintendo will no longer allow users to log in with Google or Apple accounts, shifting to its own authentication system by early 2027.",
+    "page": "articles/nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12.html",
+    "source_urls": [
+      "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/"
+    ]
+  },
+  {
     "id": "google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12",
     "title": "Google Unveils TPU 8i Max and TPU 8tx for Long‑Context AI Agents and Secure Inference",
     "description": "Google expands its TPU lineup with two new chips that combine long‑context processing and confidential inference, targeting AI agents and security workloads.",
@@ -1780,24 +1798,6 @@
     "page": "articles/physicl-secures-10-million-to-bridge-the-sim-to-real-gap-for-robots-2026-11-06.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-    ]
-  },
-  {
-    "id": "intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06",
-    "title": "Intel’s Nova Lake CPUs Demand New Motherboards as LGA 1954 Arrives",
-    "description": "Intel’s upcoming Nova Lake processors introduce a new LGA 1954 socket, requiring fresh motherboards with enhanced PCIe 5.0, Thunderbolt 5, and faster memory support.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Hardware"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Intel’s upcoming Nova Lake processors introduce a new LGA 1954 socket, requiring fresh motherboards with enhanced PCIe 5.0, Thunderbolt 5, and faster memory support.",
-    "page": "articles/intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets"
     ]
   }
 ]
