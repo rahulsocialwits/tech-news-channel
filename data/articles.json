@@ -1,5 +1,23 @@
 [
   {
+    "id": "pixel-cameras-darken-after-november-update-but-fix-is-simple-2026-11-12",
+    "title": "Pixel Cameras Darken After November Update, but Fix Is Simple",
+    "description": "Google’s latest Android update has caused Pixel camera apps to go dark, yet a quick software tweak restores full functionality.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Android update has caused Pixel camera apps to go dark, yet a quick software tweak restores full functionality.",
+    "page": "articles/pixel-cameras-darken-after-november-update-but-fix-is-simple-2026-11-12.html",
+    "source_urls": [
+      "https://www.androidauthority.com/pixel-camera-not-working-after-november-update-3734529/"
+    ]
+  },
+  {
     "id": "tcl-s-nxtpaper-14-tablet-drops-22-in-amazon-lightning-deal-2026-11-12",
     "title": "TCL’s NXTPAPER 14 Tablet Drops 22% in Amazon Lightning Deal",
     "description": "TCL’s large‑screen Android tablet with a paper‑like display is now available at a 22% discount on Amazon, slashing the price to $100.",
@@ -1782,24 +1800,6 @@
     "page": "articles/google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-    ]
-  },
-  {
-    "id": "data-center-ballot-measures-signal-shift-toward-more-regulated-growth-2026-11-06",
-    "title": "Data Center Ballot Measures Signal Shift Toward More Regulated Growth",
-    "description": "Recent U.S. midterm elections saw voters approve 40 of 41 data‑center‑related ballot measures, tightening restrictions on new facilities and prompting industry leaders to rethink expansion plans.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Recent U.S. midterm elections saw voters approve 40 of 41 data‑center‑related ballot measures, tightening restrictions on new facilities and prompting industry leaders to rethink expansion plans.",
-    "page": "articles/data-center-ballot-measures-signal-shift-toward-more-regulated-growth-2026-11-06.html",
-    "source_urls": [
-      "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
     ]
   }
 ]
