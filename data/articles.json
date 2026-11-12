@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-york-orders-t-mobile-to-drop-data-caps-on-low-income-home-internet-plans-2026-11-12",
+    "title": "New York Orders T‑Mobile to Drop Data Caps on Low‑Income Home Internet Plans",
+    "description": "The city mandates T‑Mobile to stop throttling speeds for Affordable Broadband Act customers, ensuring fair access for low‑income households.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "The city mandates T‑Mobile to stop throttling speeds for Affordable Broadband Act customers, ensuring fair access for low‑income households.",
+    "page": "articles/new-york-orders-t-mobile-to-drop-data-caps-on-low-income-home-internet-plans-2026-11-12.html",
+    "source_urls": [
+      "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/"
+    ]
+  },
+  {
     "id": "google-wallet-adds-digital-home-keys-for-nfc-enabled-smart-locks-2026-11-12",
     "title": "Google Wallet Adds Digital Home Keys for NFC‑Enabled Smart Locks",
     "description": "Google Wallet now lets users unlock compatible smart locks with a tap, adding a hands‑free option to its digital wallet services.",
@@ -1781,24 +1799,6 @@
     "page": "articles/motorola-unveils-polar-powered-moto-watch-2-fit-and-bose-boosted-moto-buds-2-ultra-2026-11-06.html",
     "source_urls": [
       "https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/"
-    ]
-  },
-  {
-    "id": "bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06",
-    "title": "Bose Recalls Over 670,000 S1 Pro Battery Packs Amid Fire and Overheating Concerns",
-    "description": "Bose has issued a recall for its S1 Pro battery packs after reports of fire and overheating incidents, affecting more than 670,000 units in the U.S. and Canada.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Bose has issued a recall for its S1 Pro battery packs after reports of fire and overheating incidents, affecting more than 670,000 units in the U.S. and Canada.",
-    "page": "articles/bose-recalls-over-670-000-s1-pro-battery-packs-amid-fire-and-overheating-concerns-2026-11-06.html",
-    "source_urls": [
-      "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/"
     ]
   }
 ]
