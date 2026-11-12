@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12",
+    "title": "Google Unveils TPU 8i Max and TPU 8tx for Long‑Context AI Agents and Secure Inference",
+    "description": "Google expands its TPU lineup with two new chips that combine long‑context processing and confidential inference, targeting AI agents and security workloads.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Google expands its TPU lineup with two new chips that combine long‑context processing and confidential inference, targeting AI agents and security workloads.",
+    "page": "articles/google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc"
+    ]
+  },
+  {
     "id": "openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12",
     "title": "OpenAI Launches India‑Localized GPT‑6 Luna API to Meet Enterprise Data‑Localisation Needs",
     "description": "OpenAI now lets Indian enterprises run GPT‑6 Luna requests inside India, addressing data‑localisation regulations and reducing latency.",
@@ -1780,24 +1798,6 @@
     "page": "articles/intel-s-nova-lake-cpus-demand-new-motherboards-as-lga-1954-arrives-2026-11-06.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets"
-    ]
-  },
-  {
-    "id": "aina-smart-ring-adds-tiny-display-to-manage-ai-agents-2026-11-06",
-    "title": "Aina Smart Ring Adds Tiny Display to Manage AI Agents",
-    "description": "The $400 Aina smart ring offers a miniature screen for controlling AI assistants on iPhone and Mac, though Android support is missing.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "The $400 Aina smart ring offers a miniature screen for controlling AI assistants on iPhone and Mac, though Android support is missing.",
-    "page": "articles/aina-smart-ring-adds-tiny-display-to-manage-ai-agents-2026-11-06.html",
-    "source_urls": [
-      "https://www.androidauthority.com/aina-smart-ring-with-display-3732394/"
     ]
   }
 ]
