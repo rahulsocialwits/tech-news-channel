@@ -1,5 +1,23 @@
 [
   {
+    "id": "chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12",
+    "title": "Chinese Cloud Providers Rush to Secure Nvidia GPUs Amid U.S. Curbs Concerns",
+    "description": "Chinese AI firms are scrambling to lock in Nvidia chip capacity as a spy scandal fuels fears of new U.S. export restrictions.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "Chinese AI firms are scrambling to lock in Nvidia chip capacity as a spy scandal fuels fears of new U.S. export restrictions.",
+    "page": "articles/chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece"
+    ]
+  },
+  {
     "id": "united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12",
     "title": "United Airlines Limits AI Agents From Booking Flights Amid Security Concerns",
     "description": "United Airlines has announced a ban on AI agents booking flights, citing security risks and potential regulatory violations.",
@@ -1779,24 +1797,6 @@
     "page": "articles/google-adds-notify-when-left-behind-alerts-to-find-hub-tags-2026-11-06.html",
     "source_urls": [
       "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/"
-    ]
-  },
-  {
-    "id": "palo-alto-networks-eyes-500m-acquisition-of-ai-driven-security-startup-clutch-2026-11-06",
-    "title": "Palo Alto Networks Eyes $500M Acquisition of AI‑Driven Security Startup Clutch",
-    "description": "Palo Alto Networks is in talks to acquire Clutch, a startup that builds AI‑powered security agents, for $500 million, potentially reshaping enterprise threat detection.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Palo Alto Networks is in talks to acquire Clutch, a startup that builds AI‑powered security agents, for $500 million, potentially reshaping enterprise threat detection.",
-    "page": "articles/palo-alto-networks-eyes-500m-acquisition-of-ai-driven-security-startup-clutch-2026-11-06.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     ]
   }
 ]
