@@ -1,5 +1,22 @@
 [
   {
+    "id": "united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12",
+    "title": "United Airlines Blocks AI Agents Over Security Concerns",
+    "description": "United Airlines has moved to prevent AI agents from booking flights, citing security risks and potential regulatory violations.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "United Airlines has moved to prevent AI agents from booking flights, citing security risks and potential regulatory violations.",
+    "page": "articles/united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/"
+    ]
+  },
+  {
     "id": "nintendo-switch-2-hits-lowest-price-of-the-season-at-459-2026-11-12",
     "title": "Nintendo Switch 2 Hits Lowest Price of the Season at $459",
     "description": "Nintendo’s latest handheld console drops to a record low of $459, offering gamers a fresh deal amid a competitive market.",
@@ -1781,24 +1798,6 @@
     "page": "articles/texas-faces-uncertain-future-as-ai-data-center-boom-stalls-2026-11-06.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
-    ]
-  },
-  {
-    "id": "googlebook-rolls-out-november-update-with-31-fixes-and-firmware-improvements-2026-11-06",
-    "title": "Googlebook Rolls Out November Update With 31 Fixes and Firmware Improvements",
-    "description": "Googlebook’s latest November update delivers 31 bug fixes, stability boosts and firmware updates to enhance user experience.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Googlebook’s latest November update delivers 31 bug fixes, stability boosts and firmware updates to enhance user experience.",
-    "page": "articles/googlebook-rolls-out-november-update-with-31-fixes-and-firmware-improvements-2026-11-06.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/05/googlebook-november-update/"
     ]
   }
 ]
