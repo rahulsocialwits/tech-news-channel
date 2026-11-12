@@ -1,5 +1,22 @@
 [
   {
+    "id": "united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12",
+    "title": "United Airlines Limits AI Agents From Booking Flights Amid Security Concerns",
+    "description": "United Airlines has announced a ban on AI agents booking flights, citing security risks and potential regulatory violations.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-12",
+    "readTime": "3 min read",
+    "excerpt": "United Airlines has announced a ban on AI agents booking flights, citing security risks and potential regulatory violations.",
+    "page": "articles/united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12.html",
+    "source_urls": [
+      "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
+    ]
+  },
+  {
     "id": "united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12",
     "title": "United Airlines Blocks AI Agents Over Security Concerns",
     "description": "United Airlines has moved to prevent AI agents from booking flights, citing security risks and potential regulatory violations.",
@@ -1780,24 +1797,6 @@
     "page": "articles/palo-alto-networks-eyes-500m-acquisition-of-ai-driven-security-startup-clutch-2026-11-06.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-    ]
-  },
-  {
-    "id": "texas-faces-uncertain-future-as-ai-data-center-boom-stalls-2026-11-06",
-    "title": "Texas Faces Uncertain Future as AI Data‑Center Boom Stalls",
-    "description": "Texas, once the fastest‑growing data‑center market, may see its AI boom falter amid shifting energy policies, according to a recent MIT Technology Review analysis.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-06",
-    "readTime": "3 min read",
-    "excerpt": "Texas, once the fastest‑growing data‑center market, may see its AI boom falter amid shifting energy policies, according to a recent MIT Technology Review analysis.",
-    "page": "articles/texas-faces-uncertain-future-as-ai-data-center-boom-stalls-2026-11-06.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
     ]
   }
 ]
