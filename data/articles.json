@@ -1,5 +1,23 @@
 [
   {
+    "id": "uber-driver-license-breach-highlights-risks-of-cloud-based-data-storage-2026-11-13",
+    "title": "Uber Driver License Breach Highlights Risks of Cloud‑Based Data Storage",
+    "description": "Uber confirmed that hackers accessed thousands of driver license records stored by Fireworks AI, underscoring the need for stronger cloud security measures.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Uber confirmed that hackers accessed thousands of driver license records stored by Fireworks AI, underscoring the need for stronger cloud security measures.",
+    "page": "articles/uber-driver-license-breach-highlights-risks-of-cloud-based-data-storage-2026-11-13.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    ]
+  },
+  {
     "id": "microsoft-s-global-cloud-crisis-from-email-outage-to-service-wide-downtime-2026-11-13",
     "title": "Microsoft’s Global Cloud Crisis: From Email Outage to Service-Wide Downtime",
     "description": "Microsoft’s day‑long outage began with Outlook and Teams and escalated into a worldwide cloud service disruption, prompting a gradual restoration effort.",
@@ -1785,24 +1803,6 @@
     "page": "articles/new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07.html",
     "source_urls": [
       "https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/"
-    ]
-  },
-  {
-    "id": "black-friday-headphone-deals-heat-up-as-prices-drop-50-2026-11-07",
-    "title": "Black Friday Headphone Deals Heat Up as Prices Drop 50%",
-    "description": "Early Black Friday offers slash prices on top headphone brands, giving tech shoppers a chance to snag premium audio gear at half price.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Early Black Friday offers slash prices on top headphone brands, giving tech shoppers a chance to snag premium audio gear at half price.",
-    "page": "articles/black-friday-headphone-deals-heat-up-as-prices-drop-50-2026-11-07.html",
-    "source_urls": [
-      "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/"
     ]
   }
 ]
