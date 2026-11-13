@@ -1,5 +1,23 @@
 [
   {
+    "id": "motorola-s-signature-27-a-beastly-phone-for-the-high-end-market-2026-11-13",
+    "title": "Motorola’s Signature 27: A Beastly Phone for the High‑End Market",
+    "description": "Motorola’s new Signature 27 sports a massive tandem OLED display, a 7,000 mAh battery, premium cameras and a $1,600 price tag, positioning it as a flagship for power users.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Motorola’s new Signature 27 sports a massive tandem OLED display, a 7,000 mAh battery, premium cameras and a $1,600 price tag, positioning it as a flagship for power users.",
+    "page": "articles/motorola-s-signature-27-a-beastly-phone-for-the-high-end-market-2026-11-13.html",
+    "source_urls": [
+      "https://www.engadget.com/2315452/motorola-signature-27-hands-on/"
+    ]
+  },
+  {
     "id": "uber-driver-license-breach-highlights-risks-of-cloud-based-data-storage-2026-11-13",
     "title": "Uber Driver License Breach Highlights Risks of Cloud‑Based Data Storage",
     "description": "Uber confirmed that hackers accessed thousands of driver license records stored by Fireworks AI, underscoring the need for stronger cloud security measures.",
@@ -1785,24 +1803,6 @@
     "page": "articles/binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
-    ]
-  },
-  {
-    "id": "new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07",
-    "title": "New Solar Panel Design Promises Nearly Double Efficiency",
-    "description": "A recent breakthrough in solar cell architecture could raise panel output to almost twice current levels, offering a significant boost for renewable energy adoption.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "A recent breakthrough in solar cell architecture could raise panel output to almost twice current levels, offering a significant boost for renewable energy adoption.",
-    "page": "articles/new-solar-panel-design-promises-nearly-double-efficiency-2026-11-07.html",
-    "source_urls": [
-      "https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/"
     ]
   }
 ]
