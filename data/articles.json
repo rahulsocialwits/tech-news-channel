@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13",
+    "title": "Meta’s Muse Turns AI Agent Into Your Personal Call Concierge",
+    "description": "Meta’s new Muse feature lets paid subscribers schedule appointments, make reservations and even wait on hold for you, turning the AI assistant into a hands‑free call handler.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Meta’s new Muse feature lets paid subscribers schedule appointments, make reservations and even wait on hold for you, turning the AI assistant into a hands‑free call handler.",
+    "page": "articles/meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13.html",
+    "source_urls": [
+      "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/"
+    ]
+  },
+  {
     "id": "yandex-cloud-recovers-97-of-customer-data-after-ukrainian-drone-strike-2026-11-13",
     "title": "Yandex Cloud Recovers 97% of Customer Data After Ukrainian Drone Strike",
     "description": "Yandex Cloud reports restoring the majority of customer data following a drone attack that caused significant data loss.",
@@ -1782,24 +1800,6 @@
     "page": "articles/globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow"
-    ]
-  },
-  {
-    "id": "openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07",
-    "title": "OpenAI Secures $11 B in Funding, Valuation Climbs to $1.25 Trillion",
-    "description": "OpenAI announced a new funding round that could bring its valuation to $1.25 trillion, marking a significant milestone for the AI research lab.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI announced a new funding round that could bring its valuation to $1.25 trillion, marking a significant milestone for the AI research lab.",
-    "page": "articles/openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     ]
   }
 ]
