@@ -1,5 +1,26 @@
 [
   {
+    "id": "microsoft-365-faces-global-outage-amid-elevated-load-issues-2026-11-13",
+    "title": "Microsoft 365 Faces Global Outage Amid Elevated Load Issues",
+    "description": "Microsoft 365 services including Outlook, Teams, and Copilot are down worldwide as the company works to resolve elevated load problems.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft 365 services including Outlook, Teams, and Copilot are down worldwide as the company works to resolve elevated load problems.",
+    "page": "articles/microsoft-365-faces-global-outage-amid-elevated-load-issues-2026-11-13.html",
+    "source_urls": [
+      "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
+      "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
+      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "https://indianexpress.com/article/technology/outlook-teams-co-pilot-global-outage-microsoft-attempts-to-fix-10961200/"
+    ]
+  },
+  {
     "id": "nvidia-announces-ceo-transition-amid-internal-petition-for-jensen-huang-s-return-2026-11-13",
     "title": "Nvidia Announces CEO Transition Amid Internal Petition for Jensen Huang’s Return",
     "description": "Nvidia’s board names interim CEO Collette Kress and chair Harvey C. Jones as the company navigates a leadership change after Jensen Huang’s resignation.",
@@ -1783,24 +1804,6 @@
     "page": "articles/us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece"
-    ]
-  },
-  {
-    "id": "microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07",
-    "title": "Microsoft Faces Protest as Activists Storm Planned Amsterdam Data Centre",
-    "description": "Activists invaded the site of Microsoft’s new data centre in Amsterdam, sparking a clash over environmental and community concerns.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Activists invaded the site of Microsoft’s new data centre in Amsterdam, sparking a clash over environmental and community concerns.",
-    "page": "articles/microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/activists-invade-site-of-microsofts-planned-data-centre-in-amsterdam/article71677202.ece"
     ]
   }
 ]
