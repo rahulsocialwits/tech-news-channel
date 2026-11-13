@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13",
+    "title": "Microsoft’s 20‑Hour Outage Highlights Cloud Dependency Risks",
+    "description": "A global outage that knocked out Outlook and other services for 20 hours exposed how businesses rely on a single cloud provider.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "A global outage that knocked out Outlook and other services for 20 hours exposed how businesses rely on a single cloud provider.",
+    "page": "articles/microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13.html",
+    "source_urls": [
+      "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/"
+    ]
+  },
+  {
     "id": "microsoft-s-20-hour-outage-leaves-global-businesses-in-turmoil-2026-11-13",
     "title": "Microsoft’s 20‑Hour Outage Leaves Global Businesses in Turmoil",
     "description": "A worldwide outage of Microsoft’s cloud services, including Outlook and Teams, disrupted businesses and public services for nearly a day.",
@@ -1786,24 +1804,6 @@
     "source_urls": [
       "https://www.wired.com/gallery/best-cat-water-fountains/",
       "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/"
-    ]
-  },
-  {
-    "id": "ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08",
-    "title": "iBUYPOWER Slate: The RTX 5060 Gaming PC That Beats the Steam Machine in Price",
-    "description": "iBUYPOWER’s Slate pre‑built PC, powered by an RTX 5060 and a Ryzen 5, offers gamers a budget‑friendly alternative to the Steam Machine, now available for $899 after a $500 discount.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "iBUYPOWER’s Slate pre‑built PC, powered by an RTX 5060 and a Ryzen 5, offers gamers a budget‑friendly alternative to the Steam Machine, now available for $899 after a $500 discount.",
-    "page": "articles/ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount"
     ]
   }
 ]
