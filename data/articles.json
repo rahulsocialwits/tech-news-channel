@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-confirms-feasibility-of-chip-tracking-technology-amid-smuggling-crackdown-2026-11-13",
+    "title": "Nvidia Confirms Feasibility of Chip‑Tracking Technology Amid Smuggling Crackdown",
+    "description": "Nvidia says it can implement anti‑smuggling chip‑tracking measures requested by the Chip Security Act, countering industry doubts.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia says it can implement anti‑smuggling chip‑tracking measures requested by the Chip Security Act, countering industry doubts.",
+    "page": "articles/nvidia-confirms-feasibility-of-chip-tracking-technology-amid-smuggling-crackdown-2026-11-13.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+    ]
+  },
+  {
     "id": "meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13",
     "title": "Meta’s Muse Turns AI Agent Into Your Personal Call Concierge",
     "description": "Meta’s new Muse feature lets paid subscribers schedule appointments, make reservations and even wait on hold for you, turning the AI assistant into a hands‑free call handler.",
@@ -1782,24 +1800,6 @@
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
       "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
-    ]
-  },
-  {
-    "id": "globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07",
-    "title": "GlobalFoundries Unveils FDX Fusion: 7nm-Class Performance Without EUV",
-    "description": "GlobalFoundries announced its FDX Fusion process, delivering 7nm-class performance using planar FD‑SOI transistors and no EUV lithography, targeting high‑volume production by 2030.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Semiconductors"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "GlobalFoundries announced its FDX Fusion process, delivering 7nm-class performance using planar FD‑SOI transistors and no EUV lithography, targeting high‑volume production by 2030.",
-    "page": "articles/globalfoundries-unveils-fdx-fusion-7nm-class-performance-without-euv-2026-11-07.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow"
     ]
   }
 ]
