@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-sheets-adds-canvas-sharing-to-let-viewers-explore-data-without-full-access-2026-11-13",
+    "title": "Google Sheets Adds Canvas Sharing to Let Viewers Explore Data Without Full Access",
+    "description": "Google Sheets now offers a canvas sharing feature that lets collaborators view and interact with data visualizations while keeping the underlying spreadsheet private.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Google Sheets now offers a canvas sharing feature that lets collaborators view and interact with data visualizations while keeping the underlying spreadsheet private.",
+    "page": "articles/google-sheets-adds-canvas-sharing-to-let-viewers-explore-data-without-full-access-2026-11-13.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/"
+    ]
+  },
+  {
     "id": "microsoft-365-faces-global-outage-amid-elevated-load-issues-2026-11-13",
     "title": "Microsoft 365 Faces Global Outage Amid Elevated Load Issues",
     "description": "Microsoft 365 services including Outlook, Teams, and Copilot are down worldwide as the company works to resolve elevated load problems.",
@@ -1786,24 +1804,6 @@
     "page": "articles/amazon-expands-alexa-shopping-with-text-based-interface-2026-11-07.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/article71677218.ece"
-    ]
-  },
-  {
-    "id": "us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07",
-    "title": "US Regulators Warn of Rising Cyber‑Attack Threat to Industrial Refrigeration Systems",
-    "description": "The FBI and federal regulators have issued a warning after a wave of cyber‑attacks on industrial refrigeration and cold‑chain monitoring systems caused significant food waste in European supermarkets.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "The FBI and federal regulators have issued a warning after a wave of cyber‑attacks on industrial refrigeration and cold‑chain monitoring systems caused significant food waste in European supermarkets.",
-    "page": "articles/us-regulators-warn-of-rising-cyber-attack-threat-to-industrial-refrigeration-systems-2026-11-07.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece"
     ]
   }
 ]
