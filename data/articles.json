@@ -1,5 +1,23 @@
 [
   {
+    "id": "yandex-cloud-recovers-97-of-customer-data-after-ukrainian-drone-strike-2026-11-13",
+    "title": "Yandex Cloud Recovers 97% of Customer Data After Ukrainian Drone Strike",
+    "description": "Yandex Cloud reports restoring the majority of customer data following a drone attack that caused significant data loss.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Yandex Cloud reports restoring the majority of customer data following a drone attack that caused significant data loss.",
+    "page": "articles/yandex-cloud-recovers-97-of-customer-data-after-ukrainian-drone-strike-2026-11-13.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default"
+    ]
+  },
+  {
     "id": "pixel-cameras-darken-after-november-update-but-fix-is-simple-2026-11-12",
     "title": "Pixel Cameras Darken After November Update, but Fix Is Simple",
     "description": "Google’s latest Android update has caused Pixel camera apps to go dark, yet a quick software tweak restores full functionality.",
@@ -1782,24 +1800,6 @@
     "page": "articles/openai-secures-11-b-in-funding-valuation-climbs-to-1-25-trillion-2026-11-07.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-    ]
-  },
-  {
-    "id": "google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07",
-    "title": "Google Acquires Crusoe’s Wyoming Data‑Center Project Amid AI Infrastructure Push",
-    "description": "Google’s purchase of Crusoe’s troubled Wyoming data‑center project underscores the growing demand for AI‑ready infrastructure and the challenges of scaling large‑scale facilities.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Google’s purchase of Crusoe’s troubled Wyoming data‑center project underscores the growing demand for AI‑ready infrastructure and the challenges of scaling large‑scale facilities.",
-    "page": "articles/google-acquires-crusoe-s-wyoming-data-center-project-amid-ai-infrastructure-push-2026-11-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     ]
   }
 ]
