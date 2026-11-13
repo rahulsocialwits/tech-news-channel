@@ -1,5 +1,23 @@
 [
   {
+    "id": "pixel-november-update-unveils-persistent-aod-and-notification-bugs-2026-11-13",
+    "title": "Pixel November Update Unveils Persistent AOD and Notification Bugs",
+    "description": "Google’s latest Pixel November 2026 update introduces new features but also brings a wave of bugs affecting always‑on‑display, lock screen and notification handling.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Pixel November 2026 update introduces new features but also brings a wave of bugs affecting always‑on‑display, lock screen and notification handling.",
+    "page": "articles/pixel-november-update-unveils-persistent-aod-and-notification-bugs-2026-11-13.html",
+    "source_urls": [
+      "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/"
+    ]
+  },
+  {
     "id": "newegg-unveils-1-250-gaming-pc-combo-with-32gb-ddr5-and-ryzen-7-9800x3d-2026-11-13",
     "title": "Newegg Unveils $1,250 Gaming PC Combo with 32GB DDR5 and Ryzen 7 9800X3D",
     "description": "Newegg’s latest bundle offers a high‑end gaming rig featuring 32GB of Corsair Vengeance DDR5‑6000, a Ryzen 7 9800X3D CPU, MSI X870E Carbon Wifi motherboard and a free Rosewill Frostmax 360mm AIO for $1,250, saving $119 over retail.",
@@ -1785,25 +1803,6 @@
     "page": "articles/gentle-monster-pre-orders-google-smart-glasses-on-november-12-2026-11-07.html",
     "source_urls": [
       "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/"
-    ]
-  },
-  {
-    "id": "ai-generated-documents-threaten-brand-trust-experts-warn-2026-11-07",
-    "title": "AI‑Generated Documents Threaten Brand Trust, Experts Warn",
-    "description": "Industry experts caution that polished AI drafts can erode customer confidence, urging companies to maintain human oversight.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Industry experts caution that polished AI drafts can erode customer confidence, urging companies to maintain human oversight.",
-    "page": "articles/ai-generated-documents-threaten-brand-trust-experts-warn-2026-11-07.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/experts-warn-ai-generated-documents-can-weaken-brand-trust-180720.html?rss=1",
-      "https://indiatechnologynews.in/mphasis-revenue-grew-4-5-qoq-and-17-4-yoy-in-q2-fy27/"
     ]
   }
 ]
