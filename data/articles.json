@@ -1,5 +1,25 @@
 [
   {
+    "id": "nvidia-announces-ceo-transition-amid-internal-petition-for-jensen-huang-s-return-2026-11-13",
+    "title": "Nvidia Announces CEO Transition Amid Internal Petition for Jensen Huang’s Return",
+    "description": "Nvidia’s board names interim CEO Collette Kress and chair Harvey C. Jones as the company navigates a leadership change after Jensen Huang’s resignation.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s board names interim CEO Collette Kress and chair Harvey C. Jones as the company navigates a leadership change after Jensen Huang’s resignation.",
+    "page": "articles/nvidia-announces-ceo-transition-amid-internal-petition-for-jensen-huang-s-return-2026-11-13.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+      "https://indiatechnologynews.in/nvidia-announces-ceo-transition/"
+    ]
+  },
+  {
     "id": "nvidia-confirms-feasibility-of-chip-tracking-technology-amid-smuggling-crackdown-2026-11-13",
     "title": "Nvidia Confirms Feasibility of Chip‑Tracking Technology Amid Smuggling Crackdown",
     "description": "Nvidia says it can implement anti‑smuggling chip‑tracking measures requested by the Chip Security Act, countering industry doubts.",
@@ -1781,25 +1801,6 @@
     "page": "articles/microsoft-faces-protest-as-activists-storm-planned-amsterdam-data-centre-2026-11-07.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/activists-invade-site-of-microsofts-planned-data-centre-in-amsterdam/article71677202.ece"
-    ]
-  },
-  {
-    "id": "openai-accelerates-data-center-expansion-amid-political-uncertainty-2026-11-07",
-    "title": "OpenAI Accelerates Data‑Center Expansion Amid Political Uncertainty",
-    "description": "OpenAI is moving forward with new data‑center construction despite concerns over the U.S. midterm election outcome.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI is moving forward with new data‑center construction despite concerns over the U.S. midterm election outcome.",
-    "page": "articles/openai-accelerates-data-center-expansion-amid-political-uncertainty-2026-11-07.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
-      "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
     ]
   }
 ]
