@@ -1,5 +1,23 @@
 [
   {
+    "id": "china-s-access-to-nvidia-chips-in-jeopardy-as-u-s-curbs-tighten-2026-11-13",
+    "title": "China’s Access to Nvidia Chips in Jeopardy as U.S. Curbs Tighten",
+    "description": "U.S. export restrictions threaten Chinese firms’ ability to obtain Nvidia GPUs, raising concerns for AI development in China.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "U.S. export restrictions threaten Chinese firms’ ability to obtain Nvidia GPUs, raising concerns for AI development in China.",
+    "page": "articles/china-s-access-to-nvidia-chips-in-jeopardy-as-u-s-curbs-tighten-2026-11-13.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece"
+    ]
+  },
+  {
     "id": "whoop-launches-fitness-focused-social-network-to-connect-athletes-2026-11-13",
     "title": "Whoop Launches Fitness‑Focused Social Network to Connect Athletes",
     "description": "Whoop, known for its screenless fitness trackers, has unveiled a new social platform that lets users share workouts, progress and motivation without a phone screen.",
@@ -1785,24 +1803,6 @@
     "page": "articles/windows-powertoys-the-secret-toolkit-that-automates-everyday-pc-tasks-2026-11-07.html",
     "source_urls": [
       "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/"
-    ]
-  },
-  {
-    "id": "refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07",
-    "title": "Refrigerator Hacks Highlight Critical IoT Security Gap",
-    "description": "A surge of hacks targeting smart refrigerators exposes vulnerabilities in everyday appliances and underscores the need for stronger security standards.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "A surge of hacks targeting smart refrigerators exposes vulnerabilities in everyday appliances and underscores the need for stronger security standards.",
-    "page": "articles/refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07.html",
-    "source_urls": [
-      "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
     ]
   }
 ]
