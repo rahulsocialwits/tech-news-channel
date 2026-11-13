@@ -1,5 +1,24 @@
 [
   {
+    "id": "microsoft-s-20-hour-outage-leaves-global-businesses-in-turmoil-2026-11-13",
+    "title": "Microsoft’s 20‑Hour Outage Leaves Global Businesses in Turmoil",
+    "description": "A worldwide outage of Microsoft’s cloud services, including Outlook and Teams, disrupted businesses and public services for nearly a day.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "A worldwide outage of Microsoft’s cloud services, including Outlook and Teams, disrupted businesses and public services for nearly a day.",
+    "page": "articles/microsoft-s-20-hour-outage-leaves-global-businesses-in-turmoil-2026-11-13.html",
+    "source_urls": [
+      "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
+      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece"
+    ]
+  },
+  {
     "id": "motorola-s-signature-27-a-beastly-phone-for-the-high-end-market-2026-11-13",
     "title": "Motorola’s Signature 27: A Beastly Phone for the High‑End Market",
     "description": "Motorola’s new Signature 27 sports a massive tandem OLED display, a 7,000 mAh battery, premium cameras and a $1,600 price tag, positioning it as a flagship for power users.",
@@ -1785,24 +1804,6 @@
     "page": "articles/ibuypower-slate-the-rtx-5060-gaming-pc-that-beats-the-steam-machine-in-price-2026-11-08.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount"
-    ]
-  },
-  {
-    "id": "binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07",
-    "title": "Binance CFO Resigns Amid $6.3 Billion Hack Fallout",
-    "description": "Binance’s chief financial officer steps down after a massive cryptocurrency theft, raising questions about the exchange’s security and governance.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Binance’s chief financial officer steps down after a massive cryptocurrency theft, raising questions about the exchange’s security and governance.",
-    "page": "articles/binance-cfo-resigns-amid-6-3-billion-hack-fallout-2026-11-07.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
     ]
   }
 ]
