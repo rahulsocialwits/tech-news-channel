@@ -1,5 +1,23 @@
 [
   {
+    "id": "whoop-launches-fitness-focused-social-network-to-connect-athletes-2026-11-13",
+    "title": "Whoop Launches Fitness‑Focused Social Network to Connect Athletes",
+    "description": "Whoop, known for its screenless fitness trackers, has unveiled a new social platform that lets users share workouts, progress and motivation without a phone screen.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-13",
+    "readTime": "3 min read",
+    "excerpt": "Whoop, known for its screenless fitness trackers, has unveiled a new social platform that lets users share workouts, progress and motivation without a phone screen.",
+    "page": "articles/whoop-launches-fitness-focused-social-network-to-connect-athletes-2026-11-13.html",
+    "source_urls": [
+      "https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/"
+    ]
+  },
+  {
     "id": "8bitdo-ultimate-2-gamepad-hits-record-low-price-on-amazon-2026-11-13",
     "title": "8BitDo Ultimate 2 Gamepad Hits Record Low Price on Amazon",
     "description": "The 8BitDo Ultimate 2 wireless controller for PC and Switch 2 is now available for $51.12, a 27% discount from its usual price.",
@@ -1785,24 +1803,6 @@
     "page": "articles/refrigerator-hacks-highlight-critical-iot-security-gap-2026-11-07.html",
     "source_urls": [
       "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
-    ]
-  },
-  {
-    "id": "wired-tested-wi-fi-routers-the-2026-home-network-showdown-2026-11-07",
-    "title": "Wired‑Tested Wi‑Fi Routers: The 2026 Home Network Showdown",
-    "description": "Wired’s latest roundup of 50+ routers shows which models deliver the best speed, coverage and value for 2026 homes.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-07",
-    "readTime": "3 min read",
-    "excerpt": "Wired’s latest roundup of 50+ routers shows which models deliver the best speed, coverage and value for 2026 homes.",
-    "page": "articles/wired-tested-wi-fi-routers-the-2026-home-network-showdown-2026-11-07.html",
-    "source_urls": [
-      "https://www.wired.com/gallery/best-wifi-routers/"
     ]
   }
 ]
