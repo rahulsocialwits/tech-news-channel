@@ -1,5 +1,24 @@
 [
   {
+    "id": "microsoft-outlook-outage-leaves-businesses-offline-company-offers-credits-2026-11-14",
+    "title": "Microsoft Outlook Outage Leaves Businesses Offline, Company Offers Credits",
+    "description": "Microsoft’s recent outage of Outlook and other business services caused downtime for users, prompting the company to offer partial credits on future bills.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s recent outage of Outlook and other business services caused downtime for users, prompting the company to offer partial credits on future bills.",
+    "page": "articles/microsoft-outlook-outage-leaves-businesses-offline-company-offers-credits-2026-11-14.html",
+    "source_urls": [
+      "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
+      "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece"
+    ]
+  },
+  {
     "id": "ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14",
     "title": "UGREEN Launches HomeAgent: A Local‑First Smart Home Hub",
     "description": "UGREEN’s new HomeAgent collection brings cameras, speakers and more to the home with local processing, reducing reliance on cloud services.",
@@ -1786,24 +1805,6 @@
     "page": "articles/amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
-    ]
-  },
-  {
-    "id": "new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08",
-    "title": "New Kid‑Focused Phones Aim to Give Parents Peace of Mind",
-    "description": "A wave of new smartphones and feature phones designed for children offers parents tighter controls and simplified interfaces.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "A wave of new smartphones and feature phones designed for children offers parents tighter controls and simplified interfaces.",
-    "page": "articles/new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
     ]
   }
 ]
