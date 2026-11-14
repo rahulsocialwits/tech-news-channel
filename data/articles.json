@@ -1,5 +1,23 @@
 [
   {
+    "id": "asian-governments-scramble-to-secure-chip-supply-after-nvidia-ceo-s-exit-2026-11-14",
+    "title": "Asian Governments Scramble to Secure Chip Supply After Nvidia CEO’s Exit",
+    "description": "Governments in Asia are taking steps to confirm chip supply commitments and monitor local projects following Nvidia CEO Jensen Huang’s departure.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Governments in Asia are taking steps to confirm chip supply commitments and monitor local projects following Nvidia CEO Jensen Huang’s departure.",
+    "page": "articles/asian-governments-scramble-to-secure-chip-supply-after-nvidia-ceo-s-exit-2026-11-14.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    ]
+  },
+  {
     "id": "elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14",
     "title": "Elegoo M1 Ultra 3D Scanner Turns Household Items Into Print‑Ready Models",
     "description": "The Elegoo M1 Ultra 3D scanner offers a fast, affordable way to digitize everyday objects for 3D printing, according to a recent review.",
@@ -1787,24 +1805,6 @@
     "page": "articles/turn-your-old-laptop-into-a-free-second-monitor-2026-11-09.html",
     "source_urls": [
       "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/"
-    ]
-  },
-  {
-    "id": "coloros-17-on-the-oneplus-15-a-polished-android-experience-with-ambitious-ai-features-2026-11-08",
-    "title": "ColorOS 17 on the OnePlus 15: A Polished Android Experience with Ambitious AI Features",
-    "description": "OnePlus 15 runs ColorOS 17, offering a refined Android interface and new AI capabilities that set it apart from other flagship phones.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "OnePlus 15 runs ColorOS 17, offering a refined Android interface and new AI capabilities that set it apart from other flagship phones.",
-    "page": "articles/coloros-17-on-the-oneplus-15-a-polished-android-experience-with-ambitious-ai-features-2026-11-08.html",
-    "source_urls": [
-      "https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/"
     ]
   }
 ]
