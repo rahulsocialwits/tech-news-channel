@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-s-1tb-990-ssd-slashes-prices-to-19-per-gb-amid-memory-crunch-2026-11-14",
+    "title": "Samsung’s 1TB 990 SSD Slashes Prices to 19¢ per GB Amid Memory Crunch",
+    "description": "Samsung’s 990 PCIe 4.0 SSD hits a new low, offering high‑speed storage for under $40 as memory prices fall.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s 990 PCIe 4.0 SSD hits a new low, offering high‑speed storage for under $40 as memory prices fall.",
+    "page": "articles/samsung-s-1tb-990-ssd-slashes-prices-to-19-per-gb-amid-memory-crunch-2026-11-14.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off"
+    ]
+  },
+  {
     "id": "asian-governments-scramble-to-secure-chip-supply-after-nvidia-ceo-s-exit-2026-11-14",
     "title": "Asian Governments Scramble to Secure Chip Supply After Nvidia CEO’s Exit",
     "description": "Governments in Asia are taking steps to confirm chip supply commitments and monitor local projects following Nvidia CEO Jensen Huang’s departure.",
@@ -1787,24 +1805,6 @@
     "page": "articles/android-tablets-make-a-comeback-as-brands-push-bigger-screens-2026-11-09.html",
     "source_urls": [
       "https://9to5google.com/2026/11/08/android-tablets-are-back-poll/"
-    ]
-  },
-  {
-    "id": "turn-your-old-laptop-into-a-free-second-monitor-2026-11-09",
-    "title": "Turn Your Old Laptop Into a Free Second Monitor",
-    "description": "Learn how to wirelessly or wiredly connect a spare laptop to your main machine for a dual‑display setup without extra hardware.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Learn how to wirelessly or wiredly connect a spare laptop to your main machine for a dual‑display setup without extra hardware.",
-    "page": "articles/turn-your-old-laptop-into-a-free-second-monitor-2026-11-09.html",
-    "source_urls": [
-      "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/"
     ]
   }
 ]
