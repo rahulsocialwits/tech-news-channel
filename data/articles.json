@@ -1,5 +1,23 @@
 [
   {
+    "id": "dell-offers-20-off-on-laptops-and-monitors-this-november-2026-11-14",
+    "title": "Dell Offers 20% Off on Laptops and Monitors This November",
+    "description": "Dell is giving customers a 20% discount on laptops, Alienware monitors, and other tech items during its November promotion.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Dell is giving customers a 20% discount on laptops, Alienware monitors, and other tech items during its November promotion.",
+    "page": "articles/dell-offers-20-off-on-laptops-and-monitors-this-november-2026-11-14.html",
+    "source_urls": [
+      "https://www.wired.com/story/dell-coupon-code/"
+    ]
+  },
+  {
     "id": "samsung-and-google-unveil-co-developed-smart-glasses-with-built-in-camera-and-open-ear-aud-2026-11-14",
     "title": "Samsung and Google Unveil Co‑Developed Smart Glasses with Built‑In Camera and Open‑Ear Audio",
     "description": "Samsung and Google launch a new pair of smart glasses featuring a high‑definition camera, open‑ear speakers and directional microphones for natural interaction.",
@@ -1787,24 +1805,6 @@
     "page": "articles/wandrd-s-magnetic-camera-straps-a-game-changing-accessory-for-mobile-photography-2026-11-08.html",
     "source_urls": [
       "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/"
-    ]
-  },
-  {
-    "id": "how-spam-callers-harvest-your-phone-number-and-how-to-stop-them-2026-11-08",
-    "title": "How Spam Callers Harvest Your Phone Number—and How to Stop Them",
-    "description": "A new Engadget investigation reveals the early steps that let scammers acquire your number and offers simple habits to protect your privacy.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "A new Engadget investigation reveals the early steps that let scammers acquire your number and offers simple habits to protect your privacy.",
-    "page": "articles/how-spam-callers-harvest-your-phone-number-and-how-to-stop-them-2026-11-08.html",
-    "source_urls": [
-      "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/"
     ]
   }
 ]
