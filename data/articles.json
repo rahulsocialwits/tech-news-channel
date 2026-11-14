@@ -1,5 +1,24 @@
 [
   {
+    "id": "nvidia-s-leadership-shake-up-signals-a-shift-in-ai-startup-funding-and-chip-tracking-2026-11-14",
+    "title": "Nvidia’s Leadership Shake‑Up Signals a Shift in AI Startup Funding and Chip Tracking",
+    "description": "The departure of Jensen Huang has left Nvidia scrambling to fill a massive void, prompting a reevaluation of AI startup investments and a new focus on chip supply chain transparency.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "The departure of Jensen Huang has left Nvidia scrambling to fill a massive void, prompting a reevaluation of AI startup investments and a new focus on chip supply chain transparency.",
+    "page": "articles/nvidia-s-leadership-shake-up-signals-a-shift-in-ai-startup-funding-and-chip-tracking-2026-11-14.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+      "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+    ]
+  },
+  {
     "id": "microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14",
     "title": "Microsoft’s Global Outage Highlights Risks of Single‑Vendor Dependence",
     "description": "A week‑long outage of Microsoft 365 services exposed the fragility of relying on one cloud provider for critical business operations.",
@@ -1785,24 +1804,6 @@
     "page": "articles/microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-report-10955343/"
-    ]
-  },
-  {
-    "id": "data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08",
-    "title": "Data Center Landscape Shifts as Midterms Redefine Tech Investment",
-    "description": "The recent U.S. midterm elections have sparked uncertainty for data center operators, prompting a reevaluation of capital spending and energy strategies.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "The recent U.S. midterm elections have sparked uncertainty for data center operators, prompting a reevaluation of capital spending and energy strategies.",
-    "page": "articles/data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
     ]
   }
 ]
