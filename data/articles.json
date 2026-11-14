@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14",
+    "title": "Google’s New Intelligent Eyewear Faces Privacy Hurdles in Latest Review",
+    "description": "A recent review of Google’s Intelligent Eyewear highlights performance strengths and privacy concerns that could shape the smart glasses market.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "A recent review of Google’s Intelligent Eyewear highlights performance strengths and privacy concerns that could shape the smart glasses market.",
+    "page": "articles/google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/"
+    ]
+  },
+  {
     "id": "pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14",
     "title": "Pixel 11 Pro Adds Hilight to WhatsApp Messages",
     "description": "Google expands the Pixel 11 Pro’s Hilight feature to highlight important WhatsApp messages, improving user focus on key conversations.",
@@ -1786,24 +1804,6 @@
     "page": "articles/ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/ai-smartphone-to-increase-smartphone-prices-by-up-to-3000/article71674050.ece"
-    ]
-  },
-  {
-    "id": "free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08",
-    "title": "Free Open‑Source Utility Lets Mac Users Reclaim Gigabytes of Hidden Space",
-    "description": "An open‑source app cleans hidden caches, app junk and offline Apple Intelligence models, freeing up space on macOS without a paid subscription.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "An open‑source app cleans hidden caches, app junk and offline Apple Intelligence models, freeing up space on macOS without a paid subscription.",
-    "page": "articles/free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08.html",
-    "source_urls": [
-      "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/"
     ]
   }
 ]
