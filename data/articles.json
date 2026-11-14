@@ -1,5 +1,23 @@
 [
   {
+    "id": "elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14",
+    "title": "Elegoo M1 Ultra 3D Scanner Turns Household Items Into Print‑Ready Models",
+    "description": "The Elegoo M1 Ultra 3D scanner offers a fast, affordable way to digitize everyday objects for 3D printing, according to a recent review.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "The Elegoo M1 Ultra 3D scanner offers a fast, affordable way to digitize everyday objects for 3D printing, according to a recent review.",
+    "page": "articles/elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14.html",
+    "source_urls": [
+      "https://www.xda-developers.com/i-used-this-3d-scanner-for-my-functional-models/"
+    ]
+  },
+  {
     "id": "langchain-surges-to-3-b-valuation-securing-7-000-customers-2026-11-14",
     "title": "LangChain Surges to $3 B Valuation, Securing 7,000 Customers",
     "description": "AI‑agent startup LangChain reaches $3 B valuation after adding 7,000 customers to its LangSmith platform.",
@@ -1787,24 +1805,6 @@
     "page": "articles/coloros-17-on-the-oneplus-15-a-polished-android-experience-with-ambitious-ai-features-2026-11-08.html",
     "source_urls": [
       "https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/"
-    ]
-  },
-  {
-    "id": "diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08",
-    "title": "Diamond Foundry Unveils 200mm Single‑Crystal Diamond Wafer to Tackle AI Chip Heat",
-    "description": "Diamond Foundry’s new 200mm diamond wafer promises efficient heat removal for next‑generation AI processors, potentially easing the cooling crisis in high‑performance chips.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Diamond Foundry’s new 200mm diamond wafer promises efficient heat removal for next‑generation AI processors, potentially easing the cooling crisis in high‑performance chips.",
-    "page": "articles/diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
     ]
   }
 ]
