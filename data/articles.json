@@ -1,5 +1,23 @@
 [
   {
+    "id": "langchain-surges-to-3-b-valuation-securing-7-000-customers-2026-11-14",
+    "title": "LangChain Surges to $3 B Valuation, Securing 7,000 Customers",
+    "description": "AI‑agent startup LangChain reaches $3 B valuation after adding 7,000 customers to its LangSmith platform.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "AI‑agent startup LangChain reaches $3 B valuation after adding 7,000 customers to its LangSmith platform.",
+    "page": "articles/langchain-surges-to-3-b-valuation-securing-7-000-customers-2026-11-14.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    ]
+  },
+  {
     "id": "ocean-powered-floating-data-centers-a-new-frontier-for-sustainable-computing-2026-11-14",
     "title": "Ocean‑Powered Floating Data Centers: A New Frontier for Sustainable Computing",
     "description": "A startup called Drogue is turning ocean heat into electricity to run data centers on floating vessels, promising a greener alternative to land‑based facilities.",
@@ -1787,24 +1805,6 @@
     "page": "articles/diamond-foundry-unveils-200mm-single-crystal-diamond-wafer-to-tackle-ai-chip-heat-2026-11-08.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
-    ]
-  },
-  {
-    "id": "how-long-pc-coolant-really-lasts-and-why-it-matters-2026-11-08",
-    "title": "How Long PC Coolant Really Lasts and Why It Matters",
-    "description": "Learn the lifespan of liquid‑cooling solutions for PCs and how to keep your rig running smoothly.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Learn the lifespan of liquid‑cooling solutions for PCs and how to keep your rig running smoothly.",
-    "page": "articles/how-long-pc-coolant-really-lasts-and-why-it-matters-2026-11-08.html",
-    "source_urls": [
-      "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/"
     ]
   }
 ]
