@@ -1,5 +1,23 @@
 [
   {
+    "id": "faa-restores-u-s-flights-after-nationwide-ground-stop-2026-11-14",
+    "title": "FAA Restores U.S. Flights After Nationwide Ground Stop",
+    "description": "After a multi‑hour ground stop caused by aging air traffic control equipment, the FAA cleared the skies for commercial and private aircraft across the United States.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "After a multi‑hour ground stop caused by aging air traffic control equipment, the FAA cleared the skies for commercial and private aircraft across the United States.",
+    "page": "articles/faa-restores-u-s-flights-after-nationwide-ground-stop-2026-11-14.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+    ]
+  },
+  {
     "id": "audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14",
     "title": "Audit Your Cloud Storage Links Before They Become Security Risks",
     "description": "A recent Wired guide warns that old cloud links can still be live and may expose sensitive data to unwanted visitors.",
@@ -1787,24 +1805,6 @@
     "page": "articles/ninja-autobarista-s-grind-iq-the-smart-coffee-maker-that-analyzes-your-beans-2026-11-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
-    ]
-  },
-  {
-    "id": "microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08",
-    "title": "Microsoft Unveils Open‑Source GPU Task Manager to Reveal VRAM Usage",
-    "description": "Microsoft’s new open‑source tool gputaskman shows which processes consume GPU memory, helping developers optimize workloads.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft’s new open‑source tool gputaskman shows which processes consume GPU memory, helping developers optimize workloads.",
-    "page": "articles/microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads"
     ]
   }
 ]
