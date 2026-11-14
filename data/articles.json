@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-and-google-unveil-co-developed-smart-glasses-with-built-in-camera-and-open-ear-aud-2026-11-14",
+    "title": "Samsung and Google Unveil Co‑Developed Smart Glasses with Built‑In Camera and Open‑Ear Audio",
+    "description": "Samsung and Google launch a new pair of smart glasses featuring a high‑definition camera, open‑ear speakers and directional microphones for natural interaction.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Samsung and Google launch a new pair of smart glasses featuring a high‑definition camera, open‑ear speakers and directional microphones for natural interaction.",
+    "page": "articles/samsung-and-google-unveil-co-developed-smart-glasses-with-built-in-camera-and-open-ear-aud-2026-11-14.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-announces-google-co-developed-pricing-and-sale-details-of-its-smart-glasses/article71701046.ece"
+    ]
+  },
+  {
     "id": "microsoft-outlook-outage-leaves-businesses-offline-company-offers-credits-2026-11-14",
     "title": "Microsoft Outlook Outage Leaves Businesses Offline, Company Offers Credits",
     "description": "Microsoft’s recent outage of Outlook and other business services caused downtime for users, prompting the company to offer partial credits on future bills.",
@@ -1787,24 +1805,6 @@
     "page": "articles/how-spam-callers-harvest-your-phone-number-and-how-to-stop-them-2026-11-08.html",
     "source_urls": [
       "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/"
-    ]
-  },
-  {
-    "id": "amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08",
-    "title": "Amazon Unveils a Slimmer, More Affordable Basic Kindle",
-    "description": "Amazon’s latest basic Kindle offers a lighter design and sharper display while cutting costs, appealing to budget‑savvy readers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Amazon’s latest basic Kindle offers a lighter design and sharper display while cutting costs, appealing to budget‑savvy readers.",
-    "page": "articles/amazon-unveils-a-slimmer-more-affordable-basic-kindle-2026-11-08.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
     ]
   }
 ]
