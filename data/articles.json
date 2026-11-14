@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14",
+    "title": "Amazon Unveils Lightweight Kindle Colorsoft with Edge‑to‑Edge Display",
+    "description": "Amazon’s new Kindle Colorsoft offers a slimmer design and full‑edge screen, but existing owners may find little incentive to upgrade.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s new Kindle Colorsoft offers a slimmer design and full‑edge screen, but existing owners may find little incentive to upgrade.",
+    "page": "articles/amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+    ]
+  },
+  {
     "id": "microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13",
     "title": "Microsoft’s 20‑Hour Outage Highlights Cloud Dependency Risks",
     "description": "A global outage that knocked out Outlook and other services for 20 hours exposed how businesses rely on a single cloud provider.",
@@ -1785,25 +1803,6 @@
     "page": "articles/samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08.html",
     "source_urls": [
       "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/"
-    ]
-  },
-  {
-    "id": "hydration-tech-the-2026-cat-water-fountain-revolution-2026-11-08",
-    "title": "Hydration Tech: The 2026 Cat Water Fountain Revolution",
-    "description": "Explore the latest cat water fountains that keep pets hydrated and healthy, featuring top picks from Petlibro, Petkit, and Oneisall.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Explore the latest cat water fountains that keep pets hydrated and healthy, featuring top picks from Petlibro, Petkit, and Oneisall.",
-    "page": "articles/hydration-tech-the-2026-cat-water-fountain-revolution-2026-11-08.html",
-    "source_urls": [
-      "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/"
     ]
   }
 ]
