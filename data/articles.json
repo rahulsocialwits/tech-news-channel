@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14",
+    "title": "Microsoft’s Global Outage Highlights Risks of Single‑Vendor Dependence",
+    "description": "A week‑long outage of Microsoft 365 services exposed the fragility of relying on one cloud provider for critical business operations.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "A week‑long outage of Microsoft 365 services exposed the fragility of relying on one cloud provider for critical business operations.",
+    "page": "articles/microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
+    ]
+  },
+  {
     "id": "amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14",
     "title": "Amazon Unveils Lightweight Kindle Colorsoft with Edge‑to‑Edge Display",
     "description": "Amazon’s new Kindle Colorsoft offers a slimmer design and full‑edge screen, but existing owners may find little incentive to upgrade.",
@@ -1785,24 +1803,6 @@
     "page": "articles/data-center-landscape-shifts-as-midterms-redefine-tech-investment-2026-11-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-    ]
-  },
-  {
-    "id": "samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08",
-    "title": "Samsung Prepares One UI 9.5 Beta Ahead of 2027 Launch",
-    "description": "Samsung is opening its One UI 9.5 beta program, giving early testers a chance to experience the next major Android skin before the 2027 release.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Samsung is opening its One UI 9.5 beta program, giving early testers a chance to experience the next major Android skin before the 2027 release.",
-    "page": "articles/samsung-prepares-one-ui-9-5-beta-ahead-of-2027-launch-2026-11-08.html",
-    "source_urls": [
-      "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/"
     ]
   }
 ]
