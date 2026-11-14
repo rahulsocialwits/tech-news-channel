@@ -1,5 +1,23 @@
 [
   {
+    "id": "pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14",
+    "title": "Pixel 11 Pro Adds Hilight to WhatsApp Messages",
+    "description": "Google expands the Pixel 11 Pro’s Hilight feature to highlight important WhatsApp messages, improving user focus on key conversations.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "Google expands the Pixel 11 Pro’s Hilight feature to highlight important WhatsApp messages, improving user focus on key conversations.",
+    "page": "articles/pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/"
+    ]
+  },
+  {
     "id": "nvidia-s-leadership-shake-up-signals-a-shift-in-ai-startup-funding-and-chip-tracking-2026-11-14",
     "title": "Nvidia’s Leadership Shake‑Up Signals a Shift in AI Startup Funding and Chip Tracking",
     "description": "The departure of Jensen Huang has left Nvidia scrambling to fill a massive void, prompting a reevaluation of AI startup investments and a new focus on chip supply chain transparency.",
@@ -1786,24 +1804,6 @@
     "page": "articles/free-open-source-utility-lets-mac-users-reclaim-gigabytes-of-hidden-space-2026-11-08.html",
     "source_urls": [
       "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/"
-    ]
-  },
-  {
-    "id": "microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08",
-    "title": "Microsoft to Wind Down Oracle Deal for AI Cloud Capacity",
-    "description": "Microsoft is ending its partnership with Oracle to lease AI cloud infrastructure, shifting focus to its own cloud services.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft is ending its partnership with Oracle to lease AI cloud infrastructure, shifting focus to its own cloud services.",
-    "page": "articles/microsoft-to-wind-down-oracle-deal-for-ai-cloud-capacity-2026-11-08.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-report-10955343/"
     ]
   }
 ]
