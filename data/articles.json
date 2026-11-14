@@ -1,5 +1,23 @@
 [
   {
+    "id": "workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14",
+    "title": "Workday Outage Leaves Millions of Employees Locked Out of Their Accounts",
+    "description": "A widespread outage at HR platform Workday has prevented employees across thousands of businesses from accessing workplace tasks and payroll information.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "A widespread outage at HR platform Workday has prevented employees across thousands of businesses from accessing workplace tasks and payroll information.",
+    "page": "articles/workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14.html",
+    "source_urls": [
+      "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/"
+    ]
+  },
+  {
     "id": "dell-offers-20-off-on-laptops-and-monitors-this-november-2026-11-14",
     "title": "Dell Offers 20% Off on Laptops and Monitors This November",
     "description": "Dell is giving customers a 20% discount on laptops, Alienware monitors, and other tech items during its November promotion.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-messages-unveils-bold-new-home-page-design-2026-11-08.html",
     "source_urls": [
       "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/"
-    ]
-  },
-  {
-    "id": "wandrd-s-magnetic-camera-straps-a-game-changing-accessory-for-mobile-photography-2026-11-08",
-    "title": "Wandrd’s Magnetic Camera Straps: A Game‑Changing Accessory for Mobile Photography",
-    "description": "Wandrd’s new magnetic camera straps offer a lightweight, secure way to carry smartphones for photography enthusiasts.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Wandrd’s new magnetic camera straps offer a lightweight, secure way to carry smartphones for photography enthusiasts.",
-    "page": "articles/wandrd-s-magnetic-camera-straps-a-game-changing-accessory-for-mobile-photography-2026-11-08.html",
-    "source_urls": [
-      "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/"
     ]
   }
 ]
