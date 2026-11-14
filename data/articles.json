@@ -1,5 +1,23 @@
 [
   {
+    "id": "audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14",
+    "title": "Audit Your Cloud Storage Links Before They Become Security Risks",
+    "description": "A recent Wired guide warns that old cloud links can still be live and may expose sensitive data to unwanted visitors.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "A recent Wired guide warns that old cloud links can still be live and may expose sensitive data to unwanted visitors.",
+    "page": "articles/audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14.html",
+    "source_urls": [
+      "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/"
+    ]
+  },
+  {
     "id": "workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14",
     "title": "Workday Outage Leaves Millions of Employees Locked Out of Their Accounts",
     "description": "A widespread outage at HR platform Workday has prevented employees across thousands of businesses from accessing workplace tasks and payroll information.",
@@ -1787,24 +1805,6 @@
     "page": "articles/microsoft-unveils-open-source-gpu-task-manager-to-reveal-vram-usage-2026-11-08.html",
     "source_urls": [
       "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads"
-    ]
-  },
-  {
-    "id": "google-messages-unveils-bold-new-home-page-design-2026-11-08",
-    "title": "Google Messages Unveils Bold New Home Page Design",
-    "description": "Google Messages introduces pinned chat avatars, a bottom search bar and a corner Gemini widget in a fresh redesign tested on Android.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "Google Messages introduces pinned chat avatars, a bottom search bar and a corner Gemini widget in a fresh redesign tested on Android.",
-    "page": "articles/google-messages-unveils-bold-new-home-page-design-2026-11-08.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/"
     ]
   }
 ]
