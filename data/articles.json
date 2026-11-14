@@ -1,5 +1,23 @@
 [
   {
+    "id": "ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14",
+    "title": "UGREEN Launches HomeAgent: A Local‑First Smart Home Hub",
+    "description": "UGREEN’s new HomeAgent collection brings cameras, speakers and more to the home with local processing, reducing reliance on cloud services.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-14",
+    "readTime": "3 min read",
+    "excerpt": "UGREEN’s new HomeAgent collection brings cameras, speakers and more to the home with local processing, reducing reliance on cloud services.",
+    "page": "articles/ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/"
+    ]
+  },
+  {
     "id": "google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14",
     "title": "Google’s New Intelligent Eyewear Faces Privacy Hurdles in Latest Review",
     "description": "A recent review of Google’s Intelligent Eyewear highlights performance strengths and privacy concerns that could shape the smart glasses market.",
@@ -1786,24 +1804,6 @@
     "page": "articles/new-kid-focused-phones-aim-to-give-parents-peace-of-mind-2026-11-08.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
-    ]
-  },
-  {
-    "id": "ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08",
-    "title": "AI‑Powered Smartphones Could Push Prices Up to ₹3,000 in India",
-    "description": "India’s smartphone market may see a 10% price hike after Diwali as AI features and supply constraints drive costs higher.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-08",
-    "readTime": "3 min read",
-    "excerpt": "India’s smartphone market may see a 10% price hike after Diwali as AI features and supply constraints drive costs higher.",
-    "page": "articles/ai-powered-smartphones-could-push-prices-up-to-3-000-in-india-2026-11-08.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/ai-smartphone-to-increase-smartphone-prices-by-up-to-3000/article71674050.ece"
     ]
   }
 ]
