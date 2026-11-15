@@ -1,5 +1,23 @@
 [
   {
+    "id": "how-long-will-your-nvidia-gpu-be-supported-a-practical-guide-2026-11-15",
+    "title": "How Long Will Your NVIDIA GPU Be Supported? A Practical Guide",
+    "description": "Find out how long NVIDIA GPUs stay relevant and what factors influence their support lifecycle.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Find out how long NVIDIA GPUs stay relevant and what factors influence their support lifecycle.",
+    "page": "articles/how-long-will-your-nvidia-gpu-be-supported-a-practical-guide-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/"
+    ]
+  },
+  {
     "id": "samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15",
     "title": "Samsung Galaxy Watch 9 Delivers Unexpected Highlights After Three Months",
     "description": "After three months of use, users report battery life is fine but other features shine on the Galaxy Watch 9.",
@@ -1788,24 +1806,6 @@
     "page": "articles/google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09.html",
     "source_urls": [
       "https://9to5google.com/2026/11/09/google-gemini-memory-summary/"
-    ]
-  },
-  {
-    "id": "meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09",
-    "title": "Meta Expands Instagram’s AI Age‑Guessing Tool to Global Markets",
-    "description": "Meta is rolling out its AI‑driven age‑guessing feature on Instagram worldwide, targeting users who may misrepresent their age.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Meta is rolling out its AI‑driven age‑guessing feature on Instagram worldwide, targeting users who may misrepresent their age.",
-    "page": "articles/meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
     ]
   }
 ]
