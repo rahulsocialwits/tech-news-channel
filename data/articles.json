@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15",
+    "title": "NVIDIA’s New GPU Bridges the Gap Between PS5 and PC Gaming",
+    "description": "NVIDIA’s latest graphics card delivers performance close to the PlayStation 5, offering gamers a compelling PC alternative.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "NVIDIA’s latest graphics card delivers performance close to the PlayStation 5, offering gamers a compelling PC alternative.",
+    "page": "articles/nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/"
+    ]
+  },
+  {
     "id": "nvidia-s-security-vacuum-how-jensen-huang-s-exit-exposes-a-critical-gap-2026-11-15",
     "title": "Nvidia’s Security Vacuum: How Jensen Huang’s Exit Exposes a Critical Gap",
     "description": "After Nvidia CEO Jensen Huang stepped down, the company’s security team vanished, raising concerns about how the tech giant will protect its AI assets and supply chain. The story examines the implications for the industry.",
@@ -1788,24 +1806,6 @@
     "page": "articles/new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09.html",
     "source_urls": [
       "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
-    ]
-  },
-  {
-    "id": "top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09",
-    "title": "Top 8 Computer Speakers of 2026: From Stereo to Surround Sound",
-    "description": "A roundup of the best computer speakers tested in 2026, covering stereo sets, subwoofers, and surround sound systems.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "A roundup of the best computer speakers tested in 2026, covering stereo sets, subwoofers, and surround sound systems.",
-    "page": "articles/top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09.html",
-    "source_urls": [
-      "https://www.wired.com/gallery/best-computer-speakers/"
     ]
   }
 ]
