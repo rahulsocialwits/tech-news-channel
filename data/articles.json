@@ -1,5 +1,23 @@
 [
   {
+    "id": "old-android-phones-can-be-reborn-as-computer-speakers-2026-11-15",
+    "title": "Old Android Phones Can Be Reborn as Computer Speakers",
+    "description": "Discover how a simple app turns an unused Android phone into a wireless speaker for your PC, extending the life of old devices.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Discover how a simple app turns an unused Android phone into a wireless speaker for your PC, extending the life of old devices.",
+    "page": "articles/old-android-phones-can-be-reborn-as-computer-speakers-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/"
+    ]
+  },
+  {
     "id": "how-long-will-your-nvidia-gpu-be-supported-a-practical-guide-2026-11-15",
     "title": "How Long Will Your NVIDIA GPU Be Supported? A Practical Guide",
     "description": "Find out how long NVIDIA GPUs stay relevant and what factors influence their support lifecycle.",
@@ -1788,24 +1806,6 @@
     "page": "articles/meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-    ]
-  },
-  {
-    "id": "google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09",
-    "title": "Google Gemini Adds ‘Memory Summary’ to Let Users View, Edit, and Delete Personal Data",
-    "description": "Google Gemini now offers a new Memory Summary feature that lets users see, edit, and delete what the AI remembers about them.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Google Gemini now offers a new Memory Summary feature that lets users see, edit, and delete what the AI remembers about them.",
-    "page": "articles/google-gemini-adds-memory-summary-to-let-users-view-edit-and-delete-personal-data-2026-11-09.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/09/google-gemini-memory-summary/"
     ]
   }
 ]
