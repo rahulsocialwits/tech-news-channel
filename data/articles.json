@@ -1,5 +1,23 @@
 [
   {
+    "id": "evercade-nexus-the-retro-handheld-that-just-got-a-major-upgrade-2026-11-15",
+    "title": "Evercade Nexus: The Retro Handheld That Just Got a Major Upgrade",
+    "description": "Evercade’s latest handheld, the Nexus, delivers a fresh retro gaming experience with a new cartridge system, improved hardware and a sleek design.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Evercade’s latest handheld, the Nexus, delivers a fresh retro gaming experience with a new cartridge system, improved hardware and a sleek design.",
+    "page": "articles/evercade-nexus-the-retro-handheld-that-just-got-a-major-upgrade-2026-11-15.html",
+    "source_urls": [
+      "https://www.wired.com/review/evercade-nexus/"
+    ]
+  },
+  {
     "id": "krita-s-new-ai-diffusion-plugin-lets-artists-keep-generative-fill-local-2026-11-15",
     "title": "Krita’s New AI Diffusion Plugin Lets Artists Keep Generative Fill Local",
     "description": "Krita now offers a local AI diffusion plugin that replaces Photoshop’s cloud‑based generative fill, keeping all model inference on the user’s GPU.",
@@ -1788,24 +1806,6 @@
     "page": "articles/anthropic-secures-1-7gw-of-gas-turbine-power-for-ai-data-centers-2026-11-09.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
-    ]
-  },
-  {
-    "id": "samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09",
-    "title": "Samsung Eyes $4.99 Galaxy AI Premium for S27 Users",
-    "description": "Samsung plans to test a paid Galaxy AI Premium tier on the Galaxy S27, offering advanced AI features for a monthly fee.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Samsung plans to test a paid Galaxy AI Premium tier on the Galaxy S27, offering advanced AI features for a monthly fee.",
-    "page": "articles/samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/"
     ]
   }
 ]
