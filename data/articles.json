@@ -1,5 +1,23 @@
 [
   {
+    "id": "egpu-vs-onboard-graphics-when-extra-power-is-worth-the-cost-2026-11-15",
+    "title": "eGPU vs Onboard Graphics: When Extra Power Is Worth the Cost",
+    "description": "A deep dive into the real benefits and limits of external GPUs for laptops, helping buyers decide if the upgrade is worth it.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "A deep dive into the real benefits and limits of external GPUs for laptops, helping buyers decide if the upgrade is worth it.",
+    "page": "articles/egpu-vs-onboard-graphics-when-extra-power-is-worth-the-cost-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/"
+    ]
+  },
+  {
     "id": "sony-eyes-credit-card-enabled-playstation-controllers-for-digital-only-future-2026-11-15",
     "title": "Sony Eyes Credit‑Card‑Enabled PlayStation Controllers for Digital‑Only Future",
     "description": "Sony’s new patent could let PlayStation controllers read credit cards, streamlining in‑game purchases as the company shifts toward a digital‑only model.",
@@ -1787,24 +1805,6 @@
     "page": "articles/samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09.html",
     "source_urls": [
       "https://www.androidauthority.com/galaxy-watch-8-one-ui-9-wear-os-7-stable-update-3732792/"
-    ]
-  },
-  {
-    "id": "azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09",
-    "title": "Azahar 3DS Emulator Receives Major Performance Boost and Per‑Game Settings",
-    "description": "The latest update to the Azahar 3DS emulator brings significant speed improvements and customizable options for each game, according to the developers.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "The latest update to the Azahar 3DS emulator brings significant speed improvements and customizable options for each game, according to the developers.",
-    "page": "articles/azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09.html",
-    "source_urls": [
-      "https://www.androidauthority.com/azahar-3ds-emulator-android-biggest-update-3732766/"
     ]
   }
 ]
