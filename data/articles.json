@@ -1,5 +1,23 @@
 [
   {
+    "id": "open-ear-vs-in-ear-earbuds-which-design-is-better-for-your-ears-2026-11-15",
+    "title": "Open‑Ear vs. In‑Ear Earbuds: Which Design Is Better for Your Ears?",
+    "description": "A side‑by‑side look at open‑ear and in‑ear earbuds shows how design differences affect comfort, hearing health and daily use.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "A side‑by‑side look at open‑ear and in‑ear earbuds shows how design differences affect comfort, hearing health and daily use.",
+    "page": "articles/open-ear-vs-in-ear-earbuds-which-design-is-better-for-your-ears-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/"
+    ]
+  },
+  {
     "id": "old-android-phones-can-be-reborn-as-computer-speakers-2026-11-15",
     "title": "Old Android Phones Can Be Reborn as Computer Speakers",
     "description": "Discover how a simple app turns an unused Android phone into a wireless speaker for your PC, extending the life of old devices.",
@@ -1788,24 +1806,6 @@
     "page": "articles/anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-    ]
-  },
-  {
-    "id": "meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09",
-    "title": "Meta Unveils Muse Ember, a Low‑Cost AI Model for Agent Execution",
-    "description": "Meta’s new Muse Ember model offers a lightweight, inexpensive option for AI agents, priced at 10 cents per million input tokens.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Meta’s new Muse Ember model offers a lightweight, inexpensive option for AI agents, priced at 10 cents per million input tokens.",
-    "page": "articles/meta-unveils-muse-ember-a-low-cost-ai-model-for-agent-execution-2026-11-09.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
     ]
   }
 ]
