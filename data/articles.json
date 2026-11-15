@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15",
+    "title": "Samsung Galaxy Watch 9 Delivers Unexpected Highlights After Three Months",
+    "description": "After three months of use, users report battery life is fine but other features shine on the Galaxy Watch 9.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "After three months of use, users report battery life is fine but other features shine on the Galaxy Watch 9.",
+    "page": "articles/samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15.html",
+    "source_urls": [
+      "https://www.androidauthority.com/favorite-samsung-galaxy-watch-9-features-3734323/"
+    ]
+  },
+  {
     "id": "coway-air-purifier-goes-offline-a-diy-cloud-free-home-assistant-hack-2026-11-15",
     "title": "Coway Air Purifier Goes Offline: A DIY Cloud‑Free Home Assistant Hack",
     "description": "A developer reverse‑engineered the Coway Airmega IconS to run locally in Home Assistant, cutting out the manufacturer’s cloud and exposing a plain‑HTTP certificate download.",
@@ -1788,24 +1806,6 @@
     "page": "articles/meta-expands-instagram-s-ai-age-guessing-tool-to-global-markets-2026-11-09.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
-    ]
-  },
-  {
-    "id": "cloud-giants-rush-to-buy-memory-as-ai-demands-surge-2026-11-09",
-    "title": "Cloud Giants Rush to Buy Memory as AI Demands Surge",
-    "description": "Cloud providers are accelerating memory purchases amid growing AI workloads, sparking community pushback and raising questions about the true cloud footprint of AI.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Cloud providers are accelerating memory purchases amid growing AI workloads, sparking community pushback and raising questions about the true cloud footprint of AI.",
-    "page": "articles/cloud-giants-rush-to-buy-memory-as-ai-demands-surge-2026-11-09.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/gridlock-and-gigawatts-the-post-midterm-reckoning-for-the-ai-buildout-180721.html?rss=1"
     ]
   }
 ]
