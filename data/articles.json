@@ -1,5 +1,24 @@
 [
   {
+    "id": "nvidia-s-security-vacuum-how-jensen-huang-s-exit-exposes-a-critical-gap-2026-11-15",
+    "title": "Nvidia’s Security Vacuum: How Jensen Huang’s Exit Exposes a Critical Gap",
+    "description": "After Nvidia CEO Jensen Huang stepped down, the company’s security team vanished, raising concerns about how the tech giant will protect its AI assets and supply chain. The story examines the implications for the industry.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "4 min read",
+    "excerpt": "After Nvidia CEO Jensen Huang stepped down, the company’s security team vanished, raising concerns about how the tech giant will protect its AI assets and supply chain. The story examines the implications for the industry.",
+    "page": "articles/nvidia-s-security-vacuum-how-jensen-huang-s-exit-exposes-a-critical-gap-2026-11-15.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+      "https://indianexpress.com/article/technology/artificial-intelligence/jensen-huangs-exit-nvidias-open-source-ai-ambitions-10963100/"
+    ]
+  },
+  {
     "id": "free-up-36gb-of-android-storage-without-deleting-photos-2026-11-15",
     "title": "Free Up 36GB of Android Storage Without Deleting Photos",
     "description": "Learn how to reclaim 36GB of space on an Android phone using built‑in tools and smart settings, all without deleting any photos.",
@@ -1787,24 +1806,6 @@
     "page": "articles/top-8-computer-speakers-of-2026-from-stereo-to-surround-sound-2026-11-09.html",
     "source_urls": [
       "https://www.wired.com/gallery/best-computer-speakers/"
-    ]
-  },
-  {
-    "id": "usb-devices-gone-missing-on-macbooks-here-s-how-to-fix-the-problem-2026-11-09",
-    "title": "USB Devices Gone Missing on MacBooks? Here’s How to Fix the Problem",
-    "description": "MacBook users can now troubleshoot common USB connectivity issues with simple steps, from checking cables to updating drivers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "MacBook users can now troubleshoot common USB connectivity issues with simple steps, from checking cables to updating drivers.",
-    "page": "articles/usb-devices-gone-missing-on-macbooks-here-s-how-to-fix-the-problem-2026-11-09.html",
-    "source_urls": [
-      "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/"
     ]
   }
 ]
