@@ -1,5 +1,23 @@
 [
   {
+    "id": "unlock-android-s-hidden-running-services-menu-to-spot-battery-draining-apps-2026-11-15",
+    "title": "Unlock Android’s Hidden Running Services Menu to Spot Battery‑Draining Apps",
+    "description": "Learn how to access Android’s hidden Running Services screen and monitor background apps that drain battery and memory.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Learn how to access Android’s hidden Running Services screen and monitor background apps that drain battery and memory.",
+    "page": "articles/unlock-android-s-hidden-running-services-menu-to-spot-battery-draining-apps-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/"
+    ]
+  },
+  {
     "id": "tiny-tech-11-everyday-gadgets-under-10-that-actually-deliver-2026-11-15",
     "title": "Tiny Tech: 11 Everyday Gadgets Under $10 That Actually Deliver",
     "description": "A roundup of budget-friendly gadgets that solve common problems without breaking the bank.",
@@ -1787,24 +1805,6 @@
     "page": "articles/ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
-    ]
-  },
-  {
-    "id": "samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09",
-    "title": "Samsung’s Leaked Memory App Could Bring Pixel‑Style Screenshot Features to Galaxy Phones",
-    "description": "Samsung may soon offer a new Memory app that lets Galaxy users capture and organize screenshots, mirroring Google’s Pixel feature set.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Samsung may soon offer a new Memory app that lets Galaxy users capture and organize screenshots, mirroring Google’s Pixel feature set.",
-    "page": "articles/samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/"
     ]
   }
 ]
