@@ -1,5 +1,23 @@
 [
   {
+    "id": "sony-eyes-credit-card-enabled-playstation-controllers-for-digital-only-future-2026-11-15",
+    "title": "Sony Eyes Credit‑Card‑Enabled PlayStation Controllers for Digital‑Only Future",
+    "description": "Sony’s new patent could let PlayStation controllers read credit cards, streamlining in‑game purchases as the company shifts toward a digital‑only model.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Sony’s new patent could let PlayStation controllers read credit cards, streamlining in‑game purchases as the company shifts toward a digital‑only model.",
+    "page": "articles/sony-eyes-credit-card-enabled-playstation-controllers-for-digital-only-future-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/"
+    ]
+  },
+  {
     "id": "microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15",
     "title": "Microsoft’s Global Outage Highlights the Fragility of Cloud‑Based Productivity",
     "description": "A worldwide outage of Microsoft services exposed the risks of relying on cloud infrastructure for essential business operations.",
@@ -1787,24 +1805,6 @@
     "page": "articles/azahar-3ds-emulator-receives-major-performance-boost-and-per-game-settings-2026-11-09.html",
     "source_urls": [
       "https://www.androidauthority.com/azahar-3ds-emulator-android-biggest-update-3732766/"
-    ]
-  },
-  {
-    "id": "canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09",
-    "title": "Canon’s Free 3D Photo Software Now Supports a New Wave of Cameras",
-    "description": "Canon expands its free 3D photo software to work with a broader selection of cameras, making 3D photography more accessible to hobbyists and professionals alike.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Canon expands its free 3D photo software to work with a broader selection of cameras, making 3D photography more accessible to hobbyists and professionals alike.",
-    "page": "articles/canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09.html",
-    "source_urls": [
-      "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/"
     ]
   }
 ]
