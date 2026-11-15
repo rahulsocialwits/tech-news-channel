@@ -1,5 +1,22 @@
 [
   {
+    "id": "microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15",
+    "title": "Microsoft’s Global Outage Highlights the Fragility of Cloud‑Based Productivity",
+    "description": "A worldwide outage of Microsoft services exposed the risks of relying on cloud infrastructure for essential business operations.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "A worldwide outage of Microsoft services exposed the risks of relying on cloud infrastructure for essential business operations.",
+    "page": "articles/microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece"
+    ]
+  },
+  {
     "id": "nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15",
     "title": "NVIDIA’s New GPU Bridges the Gap Between PS5 and PC Gaming",
     "description": "NVIDIA’s latest graphics card delivers performance close to the PlayStation 5, offering gamers a compelling PC alternative.",
@@ -1788,24 +1805,6 @@
     "page": "articles/canon-s-free-3d-photo-software-now-supports-a-new-wave-of-cameras-2026-11-09.html",
     "source_urls": [
       "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/"
-    ]
-  },
-  {
-    "id": "new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09",
-    "title": "New York Times Cooking Adds AI‑Powered Recipe Modifier to Help Home Cooks",
-    "description": "The New York Times’ Cooking app now offers a beta feature that lets users swap ingredients and adjust recipes using AI, improving accessibility and personalization.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "The New York Times’ Cooking app now offers a beta feature that lets users swap ingredients and adjust recipes using AI, improving accessibility and personalization.",
-    "page": "articles/new-york-times-cooking-adds-ai-powered-recipe-modifier-to-help-home-cooks-2026-11-09.html",
-    "source_urls": [
-      "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
     ]
   }
 ]
