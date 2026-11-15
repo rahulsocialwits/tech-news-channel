@@ -1,5 +1,23 @@
 [
   {
+    "id": "krita-s-new-ai-diffusion-plugin-lets-artists-keep-generative-fill-local-2026-11-15",
+    "title": "Krita’s New AI Diffusion Plugin Lets Artists Keep Generative Fill Local",
+    "description": "Krita now offers a local AI diffusion plugin that replaces Photoshop’s cloud‑based generative fill, keeping all model inference on the user’s GPU.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "Krita now offers a local AI diffusion plugin that replaces Photoshop’s cloud‑based generative fill, keeping all model inference on the user’s GPU.",
+    "page": "articles/krita-s-new-ai-diffusion-plugin-lets-artists-keep-generative-fill-local-2026-11-15.html",
+    "source_urls": [
+      "https://www.xda-developers.com/i-replaced-photoshops-generative-fill-for-a-local-model-inside-krita/"
+    ]
+  },
+  {
     "id": "from-sticky-to-sleek-how-a-diy-e-ink-apple-tv-remote-is-turning-heads-2026-11-15",
     "title": "From Sticky to Sleek: How a DIY E‑Ink Apple TV Remote Is Turning Heads",
     "description": "A hobbyist has transformed a reTerminal Sticky into a stylish e‑ink remote for Apple TV, showcasing the growing trend of custom gadget hacks.",
@@ -1788,23 +1806,6 @@
     "page": "articles/samsung-eyes-4-99-galaxy-ai-premium-for-s27-users-2026-11-09.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/"
-    ]
-  },
-  {
-    "id": "tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09",
-    "title": "Tesla Expands Robotaxi Service to San Antonio, Marking Fourth Texas City Launch",
-    "description": "Tesla rolls out its autonomous ride‑hailing fleet to San Antonio, expanding its robotaxi network across Texas.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Tesla rolls out its autonomous ride‑hailing fleet to San Antonio, expanding its robotaxi network across Texas.",
-    "page": "articles/tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
     ]
   }
 ]
