@@ -1,5 +1,23 @@
 [
   {
+    "id": "tiny-tech-11-everyday-gadgets-under-10-that-actually-deliver-2026-11-15",
+    "title": "Tiny Tech: 11 Everyday Gadgets Under $10 That Actually Deliver",
+    "description": "A roundup of budget-friendly gadgets that solve common problems without breaking the bank.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "4 min read",
+    "excerpt": "A roundup of budget-friendly gadgets that solve common problems without breaking the bank.",
+    "page": "articles/tiny-tech-11-everyday-gadgets-under-10-that-actually-deliver-2026-11-15.html",
+    "source_urls": [
+      "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/"
+    ]
+  },
+  {
     "id": "egpu-vs-onboard-graphics-when-extra-power-is-worth-the-cost-2026-11-15",
     "title": "eGPU vs Onboard Graphics: When Extra Power Is Worth the Cost",
     "description": "A deep dive into the real benefits and limits of external GPUs for laptops, helping buyers decide if the upgrade is worth it.",
@@ -1787,24 +1805,6 @@
     "page": "articles/samsung-s-leaked-memory-app-could-bring-pixel-style-screenshot-features-to-galaxy-phones-2026-11-09.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/"
-    ]
-  },
-  {
-    "id": "samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09",
-    "title": "Samsung Rolls Out One UI 9 and Wear OS 7 to Galaxy Watch 8 Series",
-    "description": "Samsung delivers its first major OS upgrade for the Galaxy Watch 8, bringing One UI 9 and Wear OS 7 to the smartwatch lineup.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "Samsung delivers its first major OS upgrade for the Galaxy Watch 8, bringing One UI 9 and Wear OS 7 to the smartwatch lineup.",
-    "page": "articles/samsung-rolls-out-one-ui-9-and-wear-os-7-to-galaxy-watch-8-series-2026-11-09.html",
-    "source_urls": [
-      "https://www.androidauthority.com/galaxy-watch-8-one-ui-9-wear-os-7-stable-update-3732792/"
     ]
   }
 ]
