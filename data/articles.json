@@ -1,5 +1,23 @@
 [
   {
+    "id": "from-sticky-to-sleek-how-a-diy-e-ink-apple-tv-remote-is-turning-heads-2026-11-15",
+    "title": "From Sticky to Sleek: How a DIY E‑Ink Apple TV Remote Is Turning Heads",
+    "description": "A hobbyist has transformed a reTerminal Sticky into a stylish e‑ink remote for Apple TV, showcasing the growing trend of custom gadget hacks.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-15",
+    "readTime": "3 min read",
+    "excerpt": "A hobbyist has transformed a reTerminal Sticky into a stylish e‑ink remote for Apple TV, showcasing the growing trend of custom gadget hacks.",
+    "page": "articles/from-sticky-to-sleek-how-a-diy-e-ink-apple-tv-remote-is-turning-heads-2026-11-15.html",
+    "source_urls": [
+      "https://www.xda-developers.com/someone-turned-their-reterminal-sticky-into-a-sleek-e-ink-apple-tv-remote/"
+    ]
+  },
+  {
     "id": "unlock-android-s-hidden-running-services-menu-to-spot-battery-draining-apps-2026-11-15",
     "title": "Unlock Android’s Hidden Running Services Menu to Spot Battery‑Draining Apps",
     "description": "Learn how to access Android’s hidden Running Services screen and monitor background apps that drain battery and memory.",
@@ -1787,24 +1805,6 @@
     "page": "articles/tesla-expands-robotaxi-service-to-san-antonio-marking-fourth-texas-city-launch-2026-11-09.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
-    ]
-  },
-  {
-    "id": "ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09",
-    "title": "AI’s Climate Case Still Missing, Says MIT Technology Review",
-    "description": "MIT Technology Review argues that the environmental benefits of artificial intelligence have yet to be convincingly demonstrated, amid global climate talks.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-09",
-    "readTime": "3 min read",
-    "excerpt": "MIT Technology Review argues that the environmental benefits of artificial intelligence have yet to be convincingly demonstrated, amid global climate talks.",
-    "page": "articles/ai-s-climate-case-still-missing-says-mit-technology-review-2026-11-09.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
     ]
   }
 ]
