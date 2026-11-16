@@ -1,5 +1,22 @@
 [
   {
+    "id": "volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16",
+    "title": "Volunteers Push for Greater Autonomy in Brain‑Implant Trials",
+    "description": "Researchers seek to reduce NDAs and increase participant control in neural‑interface studies.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Researchers seek to reduce NDAs and increase participant control in neural‑interface studies.",
+    "page": "articles/volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+    ]
+  },
+  {
     "id": "export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16",
     "title": "Export‑Banned Nvidia Chips Find Their Way into Chinese AI Models",
     "description": "Chinese AI developers are using Nvidia’s Blackwell GPUs despite export bans, according to new findings.",
@@ -1787,24 +1804,6 @@
     "page": "articles/google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10.html",
     "source_urls": [
       "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/"
-    ]
-  },
-  {
-    "id": "google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10",
-    "title": "Google’s 2027 Foldable App Push Sparks Hope and Skepticism",
-    "description": "Google plans to optimize apps for foldable phones in 2027, but users remain uncertain about the rollout.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Google plans to optimize apps for foldable phones in 2027, but users remain uncertain about the rollout.",
-    "page": "articles/google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/"
     ]
   }
 ]
