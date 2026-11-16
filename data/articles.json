@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-maps-adds-real-time-trip-itineraries-ahead-of-holiday-rush-2026-11-16",
+    "title": "Google Maps Adds Real‑Time Trip Itineraries Ahead of Holiday Rush",
+    "description": "Google Maps now builds detailed itineraries with live updates for each stop, helping travelers plan multi‑day road trips and daily outings.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Google Maps now builds detailed itineraries with live updates for each stop, helping travelers plan multi‑day road trips and daily outings.",
+    "page": "articles/google-maps-adds-real-time-trip-itineraries-ahead-of-holiday-rush-2026-11-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "https://9to5google.com/2026/11/16/google-ask-maps-itineraries/"
+    ]
+  },
+  {
     "id": "amazon-s-starlink-rival-loses-40-satellites-in-failed-rocket-launch-2026-11-16",
     "title": "Amazon’s Starlink Rival Loses 40 Satellites in Failed Rocket Launch",
     "description": "A failed Vulcan launch destroyed 40 satellites intended for Amazon’s low‑Earth‑orbit broadband network, delaying the company’s Starlink‑style service.",
@@ -1783,25 +1802,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
       "https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179"
-    ]
-  },
-  {
-    "id": "reddit-turns-user-chats-into-ai-generated-product-reviews-2026-11-10",
-    "title": "Reddit Turns User Chats Into AI‑Generated Product Reviews",
-    "description": "Reddit’s new AI tool turns thousands of user conversations into concise product reviews, helping shoppers research before the holiday rush.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Reddit’s new AI tool turns thousands of user conversations into concise product reviews, helping shoppers research before the holiday rush.",
-    "page": "articles/reddit-turns-user-chats-into-ai-generated-product-reviews-2026-11-10.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/"
     ]
   }
 ]
