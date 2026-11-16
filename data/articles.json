@@ -1,5 +1,22 @@
 [
   {
+    "id": "export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16",
+    "title": "Export‑Banned Nvidia Chips Find Their Way into Chinese AI Models",
+    "description": "Chinese AI developers are using Nvidia’s Blackwell GPUs despite export bans, according to new findings.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Chinese AI developers are using Nvidia’s Blackwell GPUs despite export bans, according to new findings.",
+    "page": "articles/export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-banned-gpus-training-chinese-ai-models-key-findings-10964970/"
+    ]
+  },
+  {
     "id": "apple-unveils-research-app-to-make-ai-health-tools-more-user-friendly-2026-11-16",
     "title": "Apple Unveils Research App to Make AI Health Tools More User‑Friendly",
     "description": "Apple launches a new research study to understand how people use AI‑powered health tools and improve their design.",
@@ -1788,24 +1805,6 @@
     "page": "articles/google-s-2027-foldable-app-push-sparks-hope-and-skepticism-2026-11-10.html",
     "source_urls": [
       "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/"
-    ]
-  },
-  {
-    "id": "uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10",
-    "title": "UK Government Sites Exposed to ‘God‑Tier’ Security Flaws, Researcher Finds",
-    "description": "A researcher uncovered private data risks across multiple UK government departments, highlighting urgent security gaps.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "A researcher uncovered private data risks across multiple UK government departments, highlighting urgent security gaps.",
-    "page": "articles/uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10.html",
-    "source_urls": [
-      "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
     ]
   }
 ]
