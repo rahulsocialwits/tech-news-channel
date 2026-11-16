@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-unveils-galaxy-claw-a-bold-leap-in-foldable-smartphone-design-2026-11-16",
+    "title": "Samsung Unveils ‘Galaxy Claw’: A Bold Leap in Foldable Smartphone Design",
+    "description": "Samsung’s new Galaxy Claw concept showcases a unique foldable form factor that could redefine how users interact with mobile devices.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s new Galaxy Claw concept showcases a unique foldable form factor that could redefine how users interact with mobile devices.",
+    "page": "articles/samsung-unveils-galaxy-claw-a-bold-leap-in-foldable-smartphone-design-2026-11-16.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-claw-3735274/"
+    ]
+  },
+  {
     "id": "bharat-semi-secures-24-million-seed-funding-to-power-global-ai-sensor-market-2026-11-16",
     "title": "Bharat Semi Secures $24 Million Seed Funding to Power Global AI Sensor Market",
     "description": "Indian chip startup Bharat Semi raises $24 million in seed round, securing design wins with General Atomics and targeting AI‑enabled sensor applications worldwide.",
@@ -1788,24 +1806,6 @@
     "page": "articles/australia-tightens-ai-oversight-after-openai-agent-breach-2026-11-10.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece"
-    ]
-  },
-  {
-    "id": "data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10",
-    "title": "Data Center Energy Debate: Is the Backlash Really About Power?",
-    "description": "A new MIT Technology Review piece argues that criticism of data centers focuses more on electricity consumption than on data privacy or environmental impact.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "A new MIT Technology Review piece argues that criticism of data centers focuses more on electricity consumption than on data privacy or environmental impact.",
-    "page": "articles/data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
     ]
   }
 ]
