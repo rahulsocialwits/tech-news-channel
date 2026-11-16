@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-unveils-new-image-classifier-to-flag-csam-and-enforces-temporary-bans-2026-11-16",
+    "title": "OpenAI Unveils New Image Classifier to Flag CSAM and Enforces Temporary Bans",
+    "description": "OpenAI launches an image‑recognition tool that automatically flags child sexual abuse material and imposes 24‑hour account bans as a warning.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI launches an image‑recognition tool that automatically flags child sexual abuse material and imposes 24‑hour account bans as a warning.",
+    "page": "articles/openai-unveils-new-image-classifier-to-flag-csam-and-enforces-temporary-bans-2026-11-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+    ]
+  },
+  {
     "id": "top-digital-photo-frames-of-2026-from-aura-to-amazon-s-latest-models-2026-11-16",
     "title": "Top Digital Photo Frames of 2026: From Aura to Amazon’s Latest Models",
     "description": "Explore the best digital photo frames of 2026, featuring Aura, Skylight, and Amazon’s newest options for showcasing memories on your wall.",
@@ -1783,24 +1801,6 @@
     "page": "articles/anthropic-unveils-claude-meetings-to-turn-workplace-discussions-into-actionable-plans-2026-11-10.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    ]
-  },
-  {
-    "id": "sundrop-turns-endless-baby-photos-into-keepsakes-without-cloud-uploads-2026-11-10",
-    "title": "Sundrop Turns Endless Baby Photos Into Keepsakes Without Cloud Uploads",
-    "description": "New iPhone app Sundrop uses on‑device AI to help parents create photo recaps, time‑lapses and more, keeping images local and private.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "New iPhone app Sundrop uses on‑device AI to help parents create photo recaps, time‑lapses and more, keeping images local and private.",
-    "page": "articles/sundrop-turns-endless-baby-photos-into-keepsakes-without-cloud-uploads-2026-11-10.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
     ]
   }
 ]
