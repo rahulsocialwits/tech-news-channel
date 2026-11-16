@@ -1,5 +1,22 @@
 [
   {
+    "id": "air-india-launches-uatp-powered-partner-pay-to-simplify-travel-agency-bookings-2026-11-16",
+    "title": "Air India Launches UATP‑Powered Partner Pay to Simplify Travel Agency Bookings",
+    "description": "Air India introduces a UATP‑managed payment program that lets travel agencies and corporate partners book flights across multiple distribution channels with a single payment method.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Air India introduces a UATP‑managed payment program that lets travel agencies and corporate partners book flights across multiple distribution channels with a single payment method.",
+    "page": "articles/air-india-launches-uatp-powered-partner-pay-to-simplify-travel-agency-bookings-2026-11-16.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/air-india-partners-with-uatp-to-launch-partner-pay-simplifying-payments-for-travel-agencies-and-corporate-customers/"
+    ]
+  },
+  {
     "id": "fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16",
     "title": "Fable 5.2 Delivers a 96‑KB Browser‑Based Underwater World",
     "description": "A new demo shows how a 96‑KB web app can render a high‑framerate underwater environment using only 40 lines of code.",
@@ -1786,24 +1803,6 @@
     "page": "articles/ring-revives-indoor-drone-camera-now-powered-by-ai-2026-11-10.html",
     "source_urls": [
       "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/"
-    ]
-  },
-  {
-    "id": "cyberattacks-threaten-to-make-open-source-ai-less-open-hugging-face-executive-warns-2026-11-10",
-    "title": "Cyberattacks Threaten to Make Open-Source AI Less Open, Hugging Face Executive Warns",
-    "description": "Hugging Face executive warns that rising cyberattacks on open‑source AI platforms could force tighter security, potentially limiting developer access.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Hugging Face executive warns that rising cyberattacks on open‑source AI platforms could force tighter security, potentially limiting developer access.",
-    "page": "articles/cyberattacks-threaten-to-make-open-source-ai-less-open-hugging-face-executive-warns-2026-11-10.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
     ]
   }
 ]
