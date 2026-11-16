@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-health-focused-ai-study-app-2026-11-16",
+    "title": "Apple Unveils Health‑Focused AI Study App",
+    "description": "Apple launches a new app to gather data on how users employ AI for everyday medical questions",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Apple launches a new app to gather data on how users employ AI for everyday medical questions",
+    "page": "articles/apple-unveils-health-focused-ai-study-app-2026-11-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    ]
+  },
+  {
     "id": "open-ear-vs-in-ear-earbuds-which-design-is-better-for-your-ears-2026-11-15",
     "title": "Open‑Ear vs. In‑Ear Earbuds: Which Design Is Better for Your Ears?",
     "description": "A side‑by‑side look at open‑ear and in‑ear earbuds shows how design differences affect comfort, hearing health and daily use.",
@@ -1788,24 +1806,6 @@
     "page": "articles/anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
-    ]
-  },
-  {
-    "id": "anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10",
-    "title": "Anthropic Eyes IPO as Valuation Range Set for 2026",
-    "description": "Anthropic is moving forward with an initial public offering, with its valuation range expected to be announced this week.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic is moving forward with an initial public offering, with its valuation range expected to be announced this week.",
-    "page": "articles/anthropic-eyes-ipo-as-valuation-range-set-for-2026-2026-11-10.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
     ]
   }
 ]
