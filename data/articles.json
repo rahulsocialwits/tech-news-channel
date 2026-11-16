@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-research-app-to-make-ai-health-tools-more-user-friendly-2026-11-16",
+    "title": "Apple Unveils Research App to Make AI Health Tools More User‑Friendly",
+    "description": "Apple launches a new research study to understand how people use AI‑powered health tools and improve their design.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Apple launches a new research study to understand how people use AI‑powered health tools and improve their design.",
+    "page": "articles/apple-unveils-research-app-to-make-ai-health-tools-more-user-friendly-2026-11-16.html",
+    "source_urls": [
+      "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/"
+    ]
+  },
+  {
     "id": "european-vc-plural-secures-1-b-to-fuel-next-generation-moonshots-2026-11-16",
     "title": "European VC Plural Secures €1 B to Fuel Next Generation Moonshots",
     "description": "Operator‑led venture firm Plural raises €1 B in fresh capital to back ambitious European tech startups.",
@@ -1788,24 +1806,6 @@
     "page": "articles/uk-government-sites-exposed-to-god-tier-security-flaws-researcher-finds-2026-11-10.html",
     "source_urls": [
       "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/"
-    ]
-  },
-  {
-    "id": "hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10",
-    "title": "HoverAir Versa: A Hybrid Flying Desk That Keeps You Grounded",
-    "description": "The HoverAir Versa blends a hoverboard and a laptop stand, offering a portable workspace that flies but still feels like a desk.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "The HoverAir Versa blends a hoverboard and a laptop stand, offering a portable workspace that flies but still feels like a desk.",
-    "page": "articles/hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10.html",
-    "source_urls": [
-      "https://www.engadget.com/2311413/hoverair-versa-review/"
     ]
   }
 ]
