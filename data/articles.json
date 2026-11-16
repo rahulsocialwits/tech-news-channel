@@ -1,5 +1,23 @@
 [
   {
+    "id": "fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16",
+    "title": "Fable 5.2 Delivers a 96‑KB Browser‑Based Underwater World",
+    "description": "A new demo shows how a 96‑KB web app can render a high‑framerate underwater environment using only 40 lines of code.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "A new demo shows how a 96‑KB web app can render a high‑framerate underwater environment using only 40 lines of code.",
+    "page": "articles/fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps"
+    ]
+  },
+  {
     "id": "aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16",
     "title": "AAA Technologies Expands Global Footprint with New Subsidiaries and AI Chip R&D",
     "description": "India’s AAA Technologies launches subsidiaries in Singapore, Mauritius, and Dubai to grow its cybersecurity and semiconductor design businesses.",
@@ -1786,24 +1804,6 @@
     "page": "articles/cyberattacks-threaten-to-make-open-source-ai-less-open-hugging-face-executive-warns-2026-11-10.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
-    ]
-  },
-  {
-    "id": "steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10",
-    "title": "Steam Adds Anonymous Average FPS Data to Help Gamers Choose Wisely",
-    "description": "Valve now shows average FPS for thousands of Steam Deck games, giving buyers a clearer view of performance on their hardware.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Valve now shows average FPS for thousands of Steam Deck games, giving buyers a clearer view of performance on their hardware.",
-    "page": "articles/steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10.html",
-    "source_urls": [
-      "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned"
     ]
   }
 ]
