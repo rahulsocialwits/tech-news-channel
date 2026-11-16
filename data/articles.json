@@ -1,5 +1,23 @@
 [
   {
+    "id": "lenovo-s-next-gen-detachable-chromebook-set-to-debut-in-2027-2026-11-16",
+    "title": "Lenovo’s Next‑Gen Detachable Chromebook Set to Debut in 2027",
+    "description": "Lenovo is preparing a new detachable Chromebook that could reshape the tablet‑laptop market, with a launch slated for January 2027.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Lenovo is preparing a new detachable Chromebook that could reshape the tablet‑laptop market, with a launch slated for January 2027.",
+    "page": "articles/lenovo-s-next-gen-detachable-chromebook-set-to-debut-in-2027-2026-11-16.html",
+    "source_urls": [
+      "https://www.androidauthority.com/lenovo-googlebook-duet-13-launch-date-leak-3735290/"
+    ]
+  },
+  {
     "id": "lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16",
     "title": "Lenovo Googlebook Duet 13 Leak Reveals Design Ahead of January Launch",
     "description": "A leaked image of the Lenovo Googlebook Duet 13 shows a sleek detachable design that could hit shelves in January.",
@@ -1788,24 +1806,6 @@
     "page": "articles/otter-ai-expands-multilingual-support-to-30-languages-2026-11-10.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
-    ]
-  },
-  {
-    "id": "apple-watch-health-alerts-a-lifeline-for-seniors-living-alone-2026-11-10",
-    "title": "Apple Watch Health Alerts: A Lifeline for Seniors Living Alone",
-    "description": "Apple Watch now offers medication reminders, fall detection and other alerts that can help seniors stay safe and healthy.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Apple Watch now offers medication reminders, fall detection and other alerts that can help seniors stay safe and healthy.",
-    "page": "articles/apple-watch-health-alerts-a-lifeline-for-seniors-living-alone-2026-11-10.html",
-    "source_urls": [
-      "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/"
     ]
   }
 ]
