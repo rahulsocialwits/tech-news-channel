@@ -1,5 +1,23 @@
 [
   {
+    "id": "bharat-semi-secures-24-million-seed-funding-to-power-global-ai-sensor-market-2026-11-16",
+    "title": "Bharat Semi Secures $24 Million Seed Funding to Power Global AI Sensor Market",
+    "description": "Indian chip startup Bharat Semi raises $24 million in seed round, securing design wins with General Atomics and targeting AI‑enabled sensor applications worldwide.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Indian chip startup Bharat Semi raises $24 million in seed round, securing design wins with General Atomics and targeting AI‑enabled sensor applications worldwide.",
+    "page": "articles/bharat-semi-secures-24-million-seed-funding-to-power-global-ai-sensor-market-2026-11-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    ]
+  },
+  {
     "id": "apple-unveils-health-focused-ai-study-app-2026-11-16",
     "title": "Apple Unveils Health‑Focused AI Study App",
     "description": "Apple launches a new app to gather data on how users employ AI for everyday medical questions",
@@ -1788,24 +1806,6 @@
     "page": "articles/data-center-energy-debate-is-the-backlash-really-about-power-2026-11-10.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-    ]
-  },
-  {
-    "id": "anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10",
-    "title": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2 Ahead of Potential IPO",
-    "description": "Anthropic announced new versions of its Claude AI models, Claude Fable 5.2 and Mythos 5.2, as it prepares for a possible initial public offering.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Anthropic announced new versions of its Claude AI models, Claude Fable 5.2 and Mythos 5.2, as it prepares for a possible initial public offering.",
-    "page": "articles/anthropic-unveils-claude-fable-5-2-and-mythos-5-2-ahead-of-potential-ipo-2026-11-10.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
     ]
   }
 ]
