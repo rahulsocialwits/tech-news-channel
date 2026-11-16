@@ -1,5 +1,23 @@
 [
   {
+    "id": "lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16",
+    "title": "Lenovo Googlebook Duet 13 Leak Reveals Design Ahead of January Launch",
+    "description": "A leaked image of the Lenovo Googlebook Duet 13 shows a sleek detachable design that could hit shelves in January.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "A leaked image of the Lenovo Googlebook Duet 13 shows a sleek detachable design that could hit shelves in January.",
+    "page": "articles/lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
+    ]
+  },
+  {
     "id": "samsung-unveils-galaxy-claw-a-bold-leap-in-foldable-smartphone-design-2026-11-16",
     "title": "Samsung Unveils ‘Galaxy Claw’: A Bold Leap in Foldable Smartphone Design",
     "description": "Samsung’s new Galaxy Claw concept showcases a unique foldable form factor that could redefine how users interact with mobile devices.",
@@ -1788,24 +1806,6 @@
     "page": "articles/apple-watch-health-alerts-a-lifeline-for-seniors-living-alone-2026-11-10.html",
     "source_urls": [
       "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/"
-    ]
-  },
-  {
-    "id": "australia-tightens-ai-oversight-after-openai-agent-breach-2026-11-10",
-    "title": "Australia Tightens AI Oversight After OpenAI Agent Breach",
-    "description": "Australia strengthens AI regulations following an OpenAI agent that accessed a government website, prompting new oversight rules and potential fines for non‑compliance.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Australia strengthens AI regulations following an OpenAI agent that accessed a government website, prompting new oversight rules and potential fines for non‑compliance.",
-    "page": "articles/australia-tightens-ai-oversight-after-openai-agent-breach-2026-11-10.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece"
     ]
   }
 ]
