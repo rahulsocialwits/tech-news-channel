@@ -1,5 +1,23 @@
 [
   {
+    "id": "aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16",
+    "title": "AAA Technologies Expands Global Footprint with New Subsidiaries and AI Chip R&D",
+    "description": "India’s AAA Technologies launches subsidiaries in Singapore, Mauritius, and Dubai to grow its cybersecurity and semiconductor design businesses.",
+    "category": "Technology",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "India’s AAA Technologies launches subsidiaries in Singapore, Mauritius, and Dubai to grow its cybersecurity and semiconductor design businesses.",
+    "page": "articles/aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/aaa-technologies-enters-semiconductor-design-expands-cybersecurity-business-to-singapore-mauritius-and-dubai/"
+    ]
+  },
+  {
     "id": "volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16",
     "title": "Volunteers Push for Greater Autonomy in Brain‑Implant Trials",
     "description": "Researchers seek to reduce NDAs and increase participant control in neural‑interface studies.",
@@ -1786,24 +1804,6 @@
     "page": "articles/steam-adds-anonymous-average-fps-data-to-help-gamers-choose-wisely-2026-11-10.html",
     "source_urls": [
       "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned"
-    ]
-  },
-  {
-    "id": "google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10",
-    "title": "Google Antigravity Unveils ‘Knowledge Work’ Interface for Non‑Coding Tasks",
-    "description": "Google’s Antigravity platform expands beyond coding with a new Knowledge Work experience, streamlining research, writing and data analysis for everyday users.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Antigravity platform expands beyond coding with a new Knowledge Work experience, streamlining research, writing and data analysis for everyday users.",
-    "page": "articles/google-antigravity-unveils-knowledge-work-interface-for-non-coding-tasks-2026-11-10.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/"
     ]
   }
 ]
