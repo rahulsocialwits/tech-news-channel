@@ -1,5 +1,23 @@
 [
   {
+    "id": "european-vc-plural-secures-1-b-to-fuel-next-generation-moonshots-2026-11-16",
+    "title": "European VC Plural Secures €1 B to Fuel Next Generation Moonshots",
+    "description": "Operator‑led venture firm Plural raises €1 B in fresh capital to back ambitious European tech startups.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-16",
+    "readTime": "3 min read",
+    "excerpt": "Operator‑led venture firm Plural raises €1 B in fresh capital to back ambitious European tech startups.",
+    "page": "articles/european-vc-plural-secures-1-b-to-fuel-next-generation-moonshots-2026-11-16.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/"
+    ]
+  },
+  {
     "id": "lenovo-s-next-gen-detachable-chromebook-set-to-debut-in-2027-2026-11-16",
     "title": "Lenovo’s Next‑Gen Detachable Chromebook Set to Debut in 2027",
     "description": "Lenovo is preparing a new detachable Chromebook that could reshape the tablet‑laptop market, with a launch slated for January 2027.",
@@ -1788,24 +1806,6 @@
     "page": "articles/hoverair-versa-a-hybrid-flying-desk-that-keeps-you-grounded-2026-11-10.html",
     "source_urls": [
       "https://www.engadget.com/2311413/hoverair-versa-review/"
-    ]
-  },
-  {
-    "id": "otter-ai-expands-multilingual-support-to-30-languages-2026-11-10",
-    "title": "Otter AI Expands Multilingual Support to 30+ Languages",
-    "description": "Otter AI adds 27 new languages and announces a feature that tracks conversations as speakers switch between languages.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-10",
-    "readTime": "3 min read",
-    "excerpt": "Otter AI adds 27 new languages and announces a feature that tracks conversations as speakers switch between languages.",
-    "page": "articles/otter-ai-expands-multilingual-support-to-30-languages-2026-11-10.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     ]
   }
 ]
