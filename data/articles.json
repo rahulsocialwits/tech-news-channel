@@ -1,5 +1,23 @@
 [
   {
+    "id": "us-hyperscale-data-centers-consumed-82-twh-of-power-in-2025-surpassing-80-of-michigan-s-an-2026-11-17",
+    "title": "US Hyperscale Data Centers Consumed 82 TWh of Power in 2025, Surpassing 80% of Michigan’s Annual Consumption",
+    "description": "A Harvard-led study finds 403 US hyperscale data centers used 82 terawatt‑hours of electricity in 2025, generating 26 million tons of CO₂ and exceeding 80% of Michigan’s total power use.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "A Harvard-led study finds 403 US hyperscale data centers used 82 terawatt‑hours of electricity in 2025, generating 26 million tons of CO₂ and exceeding 80% of Michigan’s total power use.",
+    "page": "articles/us-hyperscale-data-centers-consumed-82-twh-of-power-in-2025-surpassing-80-of-michigan-s-an-2026-11-17.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates"
+    ]
+  },
+  {
     "id": "google-gemini-skills-get-file-attachment-and-sharing-support-as-gems-phase-out-2026-11-17",
     "title": "Google Gemini Skills Get File Attachment and Sharing Support as Gems Phase Out",
     "description": "Google expands Gemini Skills with file attachment and sharing features, marking the end of Gems in personal accounts.",
@@ -1783,24 +1801,6 @@
     "page": "articles/amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11.html",
     "source_urls": [
       "https://www.technewsworld.com/story/amds-silicon-power-play-for-the-agentic-ai-era-180723.html?rss=1"
-    ]
-  },
-  {
-    "id": "apple-to-shut-down-online-support-community-on-november-20-2026-11-11",
-    "title": "Apple to Shut Down Online Support Community on November 20",
-    "description": "Apple will permanently close its online Support Community forum, ending a key resource for users and developers.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Apple will permanently close its online Support Community forum, ending a key resource for users and developers.",
-    "page": "articles/apple-to-shut-down-online-support-community-on-november-20-2026-11-11.html",
-    "source_urls": [
-      "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/"
     ]
   }
 ]
