@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17",
+    "title": "OpenAI Deploys Image Classifier to Curb CSAM on ChatGPT",
+    "description": "OpenAI has added a new image‑classification system and warning screens to its ChatGPT platform to detect and block child sexual abuse material.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI has added a new image‑classification system and warning screens to its ChatGPT platform to detect and block child sexual abuse material.",
+    "page": "articles/openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/openai-new-image-classifier-csam-chatgpt-10966342/"
+    ]
+  },
+  {
     "id": "microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17",
     "title": "Microsoft 365 Global Outage Traced to Three Combined Failures",
     "description": "Microsoft explains how a hidden bug, traffic shift and capacity drop caused a worldwide Microsoft 365 outage.",
@@ -1783,24 +1801,6 @@
     "page": "articles/adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/adobe-max-2026-firefly-ai-creative-studio-adobe-creative-agent-updates-10958662/"
-    ]
-  },
-  {
-    "id": "samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11",
-    "title": "Samsung Gallery Now Syncs Photos to Google, Expanding Cloud Backup Options",
-    "description": "Samsung users can now back up photos and videos from select devices to their Google accounts, adding flexibility to the company’s cloud strategy.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Samsung users can now back up photos and videos from select devices to their Google accounts, adding flexibility to the company’s cloud strategy.",
-    "page": "articles/samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11.html",
-    "source_urls": [
-      "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/"
     ]
   }
 ]
