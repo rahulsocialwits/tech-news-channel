@@ -1,5 +1,23 @@
 [
   {
+    "id": "trmnl-unveils-1-300-full-color-e-paper-frame-that-looks-like-real-art-2026-11-17",
+    "title": "TRMNL Unveils $1,300 Full‑Color E‑Paper Frame That Looks Like Real Art",
+    "description": "TRMNL launches its most colorful e‑paper display yet, a $1,300 frame that renders full‑color images with paper‑like quality.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "TRMNL launches its most colorful e‑paper display yet, a $1,300 frame that renders full‑color images with paper‑like quality.",
+    "page": "articles/trmnl-unveils-1-300-full-color-e-paper-frame-that-looks-like-real-art-2026-11-17.html",
+    "source_urls": [
+      "https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art/"
+    ]
+  },
+  {
     "id": "hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17",
     "title": "Hyperscale Data Centers Consume 2% of U.S. Electricity, Study Finds",
     "description": "A new study shows that hyperscale data centers account for about 2% of total U.S. electricity use, highlighting the growing energy demands of large cloud operators.",
@@ -1783,24 +1801,6 @@
     "page": "articles/meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11.html",
     "source_urls": [
       "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"
-    ]
-  },
-  {
-    "id": "samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11",
-    "title": "Samsung Revamps Galaxy Enhance‑X Image Editor in One UI 9.5",
-    "description": "Samsung updates its Galaxy Enhance‑X photo‑editing app with a new interface and improved tools as part of the One UI 9.5 rollout.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Samsung updates its Galaxy Enhance‑X photo‑editing app with a new interface and improved tools as part of the One UI 9.5 rollout.",
-    "page": "articles/samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/"
     ]
   }
 ]
