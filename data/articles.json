@@ -1,5 +1,23 @@
 [
   {
+    "id": "infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17",
+    "title": "Infoblox Faces Security Breach After Hackers Access Company Data",
+    "description": "Cybersecurity firm Infoblox reports a breach where attackers accessed internal information, prompting an investigation.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Cybersecurity firm Infoblox reports a breach where attackers accessed internal information, prompting an investigation.",
+    "page": "articles/infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+    ]
+  },
+  {
     "id": "cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17",
     "title": "Cybersecurity AI Startup Corma Hits $1 B Valuation in Just Three Months",
     "description": "Corma, a cybersecurity AI firm, raised $125 million in a Series A that values the company at $1 billion after only three months of product launch.",
@@ -1783,24 +1801,6 @@
     "page": "articles/openai-acquires-odessia-expanding-into-travel-tech-2026-11-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-    ]
-  },
-  {
-    "id": "x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11",
-    "title": "X Introduces Clipping Feature to Boost Influencer Engagement",
-    "description": "X launches a new clipping tool that lets users create short, shareable video snippets, aiming to increase influencer interaction and viral reach.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "X launches a new clipping tool that lets users create short, shareable video snippets, aiming to increase influencer interaction and viral reach.",
-    "page": "articles/x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
     ]
   }
 ]
