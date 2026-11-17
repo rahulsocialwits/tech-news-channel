@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-gemini-skills-get-file-attachment-and-sharing-support-as-gems-phase-out-2026-11-17",
+    "title": "Google Gemini Skills Get File Attachment and Sharing Support as Gems Phase Out",
+    "description": "Google expands Gemini Skills with file attachment and sharing features, marking the end of Gems in personal accounts.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Google expands Gemini Skills with file attachment and sharing features, marking the end of Gems in personal accounts.",
+    "page": "articles/google-gemini-skills-get-file-attachment-and-sharing-support-as-gems-phase-out-2026-11-17.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-gemini-skills-file-attachments-sharing-gems-retire-3735963/"
+    ]
+  },
+  {
     "id": "trmnl-unveils-1-300-full-color-e-paper-frame-that-looks-like-real-art-2026-11-17",
     "title": "TRMNL Unveils $1,300 Full‑Color E‑Paper Frame That Looks Like Real Art",
     "description": "TRMNL launches its most colorful e‑paper display yet, a $1,300 frame that renders full‑color images with paper‑like quality.",
@@ -1783,24 +1801,6 @@
     "page": "articles/apple-to-shut-down-online-support-community-on-november-20-2026-11-11.html",
     "source_urls": [
       "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/"
-    ]
-  },
-  {
-    "id": "meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11",
-    "title": "Meta’s Muse AI Now Runs on Wear OS, Bringing Smart Assistant to Your Wrist",
-    "description": "Meta launches Muse AI agent for Wear OS, enabling on-device smart assistant features that still rely on the phone for heavy processing.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Meta launches Muse AI agent for Wear OS, enabling on-device smart assistant features that still rely on the phone for heavy processing.",
-    "page": "articles/meta-s-muse-ai-now-runs-on-wear-os-bringing-smart-assistant-to-your-wrist-2026-11-11.html",
-    "source_urls": [
-      "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"
     ]
   }
 ]
