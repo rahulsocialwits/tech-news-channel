@@ -1,5 +1,23 @@
 [
   {
+    "id": "spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17",
+    "title": "Spotify Launches AI Tool to Combat Deepfake Music Attribution",
+    "description": "Spotify introduces a new AI-powered system designed to detect and remove deepfake songs that falsely credit real artists, following a surge in counterfeit tracks on streaming platforms.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Spotify introduces a new AI-powered system designed to detect and remove deepfake songs that falsely credit real artists, following a surge in counterfeit tracks on streaming platforms.",
+    "page": "articles/spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
+    ]
+  },
+  {
     "id": "us-blocks-china-s-remote-access-to-nvidia-ai-chips-amid-scandal-2026-11-17",
     "title": "US Blocks China’s Remote Access to Nvidia AI Chips Amid Scandal",
     "description": "The U.S. government has barred Chinese firms from remotely accessing Nvidia’s AI chips after a controversy involving the company’s CEO, raising concerns over supply chain security and geopolitical tensions.",
@@ -1784,24 +1802,6 @@
     "page": "articles/ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11.html",
     "source_urls": [
       "https://www.technewsworld.com/story/amazons-ring-unveils-home-security-drone-roving-guard-cam-180729.html?rss=1"
-    ]
-  },
-  {
-    "id": "deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11",
-    "title": "DeepMind Uses AI to Mathematically Verify Signal’s Encryption",
-    "description": "Google DeepMind has applied AI to perform a formal verification of key components of Signal’s end‑to‑end encryption, demonstrating a new approach to security assurance.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Google DeepMind has applied AI to perform a formal verification of key components of Signal’s end‑to‑end encryption, demonstrating a new approach to security assurance.",
-    "page": "articles/deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11.html",
-    "source_urls": [
-      "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
     ]
   }
 ]
