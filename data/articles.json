@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17",
+    "title": "Google Rollout of Pixel Virtual Gamepad Brings Foldable Gaming Mode to Pixel Fold",
+    "description": "Google is expanding its Foldable Gaming Mode by adding a virtual gamepad to the Pixel Fold lineup, enhancing the gaming experience on Android 17.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Google is expanding its Foldable Gaming Mode by adding a virtual gamepad to the Pixel Fold lineup, enhancing the gaming experience on Android 17.",
+    "page": "articles/google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/16/november-2026-google-system-updates/"
+    ]
+  },
+  {
     "id": "robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17",
     "title": "Robo‑Soldier Startup Faces Collapse After Payroll Misses",
     "description": "A robotics venture backed by Eric Trump struggles to pay staff, raising doubts about its future.",
@@ -1783,24 +1801,6 @@
     "page": "articles/new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-    ]
-  },
-  {
-    "id": "seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11",
-    "title": "Seagate Revives SSD‑HDD Hybrid with FireCuda Forge, Raising Classic Questions",
-    "description": "Seagate’s new FireCuda Forge hybrid drive blends flash and spinning media, sparking debate over performance, endurance and market fit.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Seagate’s new FireCuda Forge hybrid drive blends flash and spinning media, sparking debate over performance, endurance and market fit.",
-    "page": "articles/seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
     ]
   }
 ]
