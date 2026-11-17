@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17",
+    "title": "Microsoft 365 Global Outage Traced to Three Combined Failures",
+    "description": "Microsoft explains how a hidden bug, traffic shift and capacity drop caused a worldwide Microsoft 365 outage.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft explains how a hidden bug, traffic shift and capacity drop caused a worldwide Microsoft 365 outage.",
+    "page": "articles/microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17.html",
+    "source_urls": [
+      "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+    ]
+  },
+  {
     "id": "google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17",
     "title": "Google Rollout of Pixel Virtual Gamepad Brings Foldable Gaming Mode to Pixel Fold",
     "description": "Google is expanding its Foldable Gaming Mode by adding a virtual gamepad to the Pixel Fold lineup, enhancing the gaming experience on Android 17.",
@@ -1783,24 +1801,6 @@
     "page": "articles/samsung-gallery-now-syncs-photos-to-google-expanding-cloud-backup-options-2026-11-11.html",
     "source_urls": [
       "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/"
-    ]
-  },
-  {
-    "id": "new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11",
-    "title": "New York’s AI Safety Law Enters Full Effect, Mandating Oversight for Major Developers",
-    "description": "New York’s sweeping AI safety law now requires OpenAI, Anthropic, and other large developers to register, disclose safety practices, and report incidents, or face fines.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "New York’s sweeping AI safety law now requires OpenAI, Anthropic, and other large developers to register, disclose safety practices, and report incidents, or face fines.",
-    "page": "articles/new-york-s-ai-safety-law-enters-full-effect-mandating-oversight-for-major-developers-2026-11-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
     ]
   }
 ]
