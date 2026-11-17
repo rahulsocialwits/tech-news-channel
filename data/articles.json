@@ -1,5 +1,23 @@
 [
   {
+    "id": "robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17",
+    "title": "Robo‑Soldier Startup Faces Collapse After Payroll Misses",
+    "description": "A robotics venture backed by Eric Trump struggles to pay staff, raising doubts about its future.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "A robotics venture backed by Eric Trump struggles to pay staff, raising doubts about its future.",
+    "page": "articles/robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17.html",
+    "source_urls": [
+      "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+    ]
+  },
+  {
     "id": "infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17",
     "title": "Infoblox Faces Security Breach After Hackers Access Company Data",
     "description": "Cybersecurity firm Infoblox reports a breach where attackers accessed internal information, prompting an investigation.",
@@ -1783,24 +1801,6 @@
     "page": "articles/seagate-revives-ssd-hdd-hybrid-with-firecuda-forge-raising-classic-questions-2026-11-11.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
-    ]
-  },
-  {
-    "id": "openai-acquires-odessia-expanding-into-travel-tech-2026-11-11",
-    "title": "OpenAI Acquires Odessia, Expanding Into Travel Tech",
-    "description": "OpenAI has announced the purchase of Odessia, a travel startup founded by Sonder co‑founder Francis Davidson, marking a new venture into the travel industry.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI has announced the purchase of Odessia, a travel startup founded by Sonder co‑founder Francis Davidson, marking a new venture into the travel industry.",
-    "page": "articles/openai-acquires-odessia-expanding-into-travel-tech-2026-11-11.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
     ]
   }
 ]
