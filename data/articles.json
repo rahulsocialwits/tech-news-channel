@@ -1,5 +1,23 @@
 [
   {
+    "id": "cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17",
+    "title": "Cybersecurity AI Startup Corma Hits $1 B Valuation in Just Three Months",
+    "description": "Corma, a cybersecurity AI firm, raised $125 million in a Series A that values the company at $1 billion after only three months of product launch.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Corma, a cybersecurity AI firm, raised $125 million in a Series A that values the company at $1 billion after only three months of product launch.",
+    "page": "articles/cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    ]
+  },
+  {
     "id": "cmf-buds-pro-2-hit-record-low-price-offering-premium-anc-at-a-steal-2026-11-16",
     "title": "CMF Buds Pro 2 Hit Record Low Price, Offering Premium ANC at a Steal",
     "description": "CMF’s ANC earbuds, the Buds Pro 2, drop 29% to $14 off on Amazon, delivering LDAC and a smart dial case for budget‑savvy listeners.",
@@ -1783,24 +1801,6 @@
     "page": "articles/x-introduces-clipping-feature-to-boost-influencer-engagement-2026-11-11.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
-    ]
-  },
-  {
-    "id": "microsoft-urges-fcc-to-keep-chinese-optical-gear-in-data-centers-2026-11-11",
-    "title": "Microsoft Urges FCC to Keep Chinese Optical Gear in Data Centers",
-    "description": "Microsoft lobbies to prevent a potential ban on Chinese optical transceivers critical for AI data centers, warning it could halt rollout of new facilities.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft lobbies to prevent a potential ban on Chinese optical transceivers critical for AI data centers, warning it could halt rollout of new facilities.",
-    "page": "articles/microsoft-urges-fcc-to-keep-chinese-optical-gear-in-data-centers-2026-11-11.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt"
     ]
   }
 ]
