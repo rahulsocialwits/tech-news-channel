@@ -1,5 +1,23 @@
 [
   {
+    "id": "hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17",
+    "title": "Hyperscale Data Centers Consume 2% of U.S. Electricity, Study Finds",
+    "description": "A new study shows that hyperscale data centers account for about 2% of total U.S. electricity use, highlighting the growing energy demands of large cloud operators.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "A new study shows that hyperscale data centers account for about 2% of total U.S. electricity use, highlighting the growing energy demands of large cloud operators.",
+    "page": "articles/hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17.html",
+    "source_urls": [
+      "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    ]
+  },
+  {
     "id": "openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17",
     "title": "OpenAI Deploys Image Classifier to Curb CSAM on ChatGPT",
     "description": "OpenAI has added a new image‑classification system and warning screens to its ChatGPT platform to detect and block child sexual abuse material.",
@@ -1783,24 +1801,6 @@
     "page": "articles/samsung-revamps-galaxy-enhance-x-image-editor-in-one-ui-9-5-2026-11-11.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/"
-    ]
-  },
-  {
-    "id": "adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11",
-    "title": "Adobe Unveils AI Agents and Creative Tools, Deepening Google and Microsoft Integration",
-    "description": "Adobe announced new AI agents and creative tools at its 2026 event, expanding integration with Google and Microsoft services.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Adobe announced new AI agents and creative tools at its 2026 event, expanding integration with Google and Microsoft services.",
-    "page": "articles/adobe-unveils-ai-agents-and-creative-tools-deepening-google-and-microsoft-integration-2026-11-11.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/adobe-max-2026-firefly-ai-creative-studio-adobe-creative-agent-updates-10958662/"
     ]
   }
 ]
