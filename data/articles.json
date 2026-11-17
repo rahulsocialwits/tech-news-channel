@@ -1,5 +1,23 @@
 [
   {
+    "id": "india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17",
+    "title": "India’s Cloud Providers Face New Accountability Rules After Recent Outage",
+    "description": "India’s data‑center outage prompts lawmakers to tighten reporting requirements for cloud services.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "India’s data‑center outage prompts lawmakers to tighten reporting requirements for cloud services.",
+    "page": "articles/india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
+    ]
+  },
+  {
     "id": "spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17",
     "title": "Spotify Launches AI Tool to Combat Deepfake Music Attribution",
     "description": "Spotify introduces a new AI-powered system designed to detect and remove deepfake songs that falsely credit real artists, following a surge in counterfeit tracks on streaming platforms.",
@@ -1784,24 +1802,6 @@
     "page": "articles/google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11.html",
     "source_urls": [
       "https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/"
-    ]
-  },
-  {
-    "id": "ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11",
-    "title": "Ring Unveils Indoor Drone and Roving Guard Cam for Home and Business Security",
-    "description": "Amazon’s Ring introduces a new indoor drone that can investigate alarms and a wheeled robot that patrols commercial spaces after hours.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Amazon’s Ring introduces a new indoor drone that can investigate alarms and a wheeled robot that patrols commercial spaces after hours.",
-    "page": "articles/ring-unveils-indoor-drone-and-roving-guard-cam-for-home-and-business-security-2026-11-11.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/amazons-ring-unveils-home-security-drone-roving-guard-cam-180729.html?rss=1"
     ]
   }
 ]
