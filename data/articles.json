@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-gemini-adds-separate-privacy-toggles-for-ai-training-and-chat-history-2026-11-17",
+    "title": "Google Gemini Adds Separate Privacy Toggles for AI Training and Chat History",
+    "description": "Google now lets users opt out of Gemini’s AI training while keeping their chat history, giving clearer control over personal data.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Google now lets users opt out of Gemini’s AI training while keeping their chat history, giving clearer control over personal data.",
+    "page": "articles/google-gemini-adds-separate-privacy-toggles-for-ai-training-and-chat-history-2026-11-17.html",
+    "source_urls": [
+      "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "https://9to5google.com/2026/11/17/email-text-with-gemini/"
+    ]
+  },
+  {
     "id": "xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17",
     "title": "Xreal Aura: Comfortable AR Glasses with a Control‑Pain Point",
     "description": "Xreal’s Aura AR glasses offer a lightweight, high‑resolution experience, but users report frustrating controls that could limit adoption.",
@@ -1784,24 +1803,6 @@
     "page": "articles/google-wallet-adds-digital-home-keys-for-nfc-enabled-smart-locks-2026-11-12.html",
     "source_urls": [
       "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/"
-    ]
-  },
-  {
-    "id": "roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11",
-    "title": "Roku Shifts Focus: Ending Smart‑Home Line to Double Down on Streaming",
-    "description": "Roku will stop selling video doorbells and other smart‑home devices, redirecting resources to its core streaming business.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Roku will stop selling video doorbells and other smart‑home devices, redirecting resources to its core streaming business.",
-    "page": "articles/roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11.html",
-    "source_urls": [
-      "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/"
     ]
   }
 ]
