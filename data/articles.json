@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17",
+    "title": "Apple Watch’s Live Rewind Turns Conversations into Audio Memories",
+    "description": "Apple’s new Live Rewind feature on the Apple Watch can record and rewind spoken conversations, offering a novel way to capture missed moments, but it raises privacy and social concerns.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s new Live Rewind feature on the Apple Watch can record and rewind spoken conversations, offering a novel way to capture missed moments, but it raises privacy and social concerns.",
+    "page": "articles/apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17.html",
+    "source_urls": [
+      "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/"
+    ]
+  },
+  {
     "id": "us-hyperscale-data-centers-consumed-82-twh-of-power-in-2025-surpassing-80-of-michigan-s-an-2026-11-17",
     "title": "US Hyperscale Data Centers Consumed 82 TWh of Power in 2025, Surpassing 80% of Michigan’s Annual Consumption",
     "description": "A Harvard-led study finds 403 US hyperscale data centers used 82 terawatt‑hours of electricity in 2025, generating 26 million tons of CO₂ and exceeding 80% of Michigan’s total power use.",
@@ -1783,24 +1801,6 @@
     "page": "articles/microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11.html",
     "source_urls": [
       "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
-    ]
-  },
-  {
-    "id": "amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11",
-    "title": "AMD Bets on Server CPUs as AI Agents Shift Workload Away from GPUs",
-    "description": "AMD’s latest strategy positions server CPUs to handle more AI agent tasks, aiming to balance the workload traditionally dominated by GPUs.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "AMD’s latest strategy positions server CPUs to handle more AI agent tasks, aiming to balance the workload traditionally dominated by GPUs.",
-    "page": "articles/amd-bets-on-server-cpus-as-ai-agents-shift-workload-away-from-gpus-2026-11-11.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/amds-silicon-power-play-for-the-agentic-ai-era-180723.html?rss=1"
     ]
   }
 ]
