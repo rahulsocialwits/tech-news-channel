@@ -1,5 +1,23 @@
 [
   {
+    "id": "xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17",
+    "title": "Xreal Aura: Comfortable AR Glasses with a Control‑Pain Point",
+    "description": "Xreal’s Aura AR glasses offer a lightweight, high‑resolution experience, but users report frustrating controls that could limit adoption.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "3 min read",
+    "excerpt": "Xreal’s Aura AR glasses offer a lightweight, high‑resolution experience, but users report frustrating controls that could limit adoption.",
+    "page": "articles/xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17.html",
+    "source_urls": [
+      "https://www.wired.com/review/xreal-aura/"
+    ]
+  },
+  {
     "id": "india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17",
     "title": "India’s Cloud Providers Face New Accountability Rules After Recent Outage",
     "description": "India’s data‑center outage prompts lawmakers to tighten reporting requirements for cloud services.",
@@ -1784,24 +1802,6 @@
     "page": "articles/roku-shifts-focus-ending-smart-home-line-to-double-down-on-streaming-2026-11-11.html",
     "source_urls": [
       "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/"
-    ]
-  },
-  {
-    "id": "google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11",
-    "title": "Google Home Bug Leaves Nest Camera Alerts Without Video Previews",
-    "description": "A recent flaw in Google Home’s integration with Nest cameras means users receive only text notifications, missing the expected video preview.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "A recent flaw in Google Home’s integration with Nest cameras means users receive only text notifications, missing the expected video preview.",
-    "page": "articles/google-home-bug-leaves-nest-camera-alerts-without-video-previews-2026-11-11.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/"
     ]
   }
 ]
