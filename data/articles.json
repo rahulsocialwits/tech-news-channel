@@ -1,5 +1,24 @@
 [
   {
+    "id": "us-blocks-china-s-remote-access-to-nvidia-ai-chips-amid-scandal-2026-11-17",
+    "title": "US Blocks China’s Remote Access to Nvidia AI Chips Amid Scandal",
+    "description": "The U.S. government has barred Chinese firms from remotely accessing Nvidia’s AI chips after a controversy involving the company’s CEO, raising concerns over supply chain security and geopolitical tensions.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-17",
+    "readTime": "4 min read",
+    "excerpt": "The U.S. government has barred Chinese firms from remotely accessing Nvidia’s AI chips after a controversy involving the company’s CEO, raising concerns over supply chain security and geopolitical tensions.",
+    "page": "articles/us-blocks-china-s-remote-access-to-nvidia-ai-chips-amid-scandal-2026-11-17.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
+    ]
+  },
+  {
     "id": "apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17",
     "title": "Apple Watch’s Live Rewind Turns Conversations into Audio Memories",
     "description": "Apple’s new Live Rewind feature on the Apple Watch can record and rewind spoken conversations, offering a novel way to capture missed moments, but it raises privacy and social concerns.",
@@ -1783,24 +1802,6 @@
     "page": "articles/deepmind-uses-ai-to-mathematically-verify-signal-s-encryption-2026-11-11.html",
     "source_urls": [
       "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
-    ]
-  },
-  {
-    "id": "microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11",
-    "title": "Microsoft’s Automatic Super Resolution Now Powers Xbox Ally X and Select Copilot+ PCs",
-    "description": "Microsoft’s upscaling technology, Automatic Super Resolution, has been released for the ROG Xbox Ally X and a handful of Copilot+ PCs, boosting game visuals on handheld devices.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-11",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft’s upscaling technology, Automatic Super Resolution, has been released for the ROG Xbox Ally X and a handful of Copilot+ PCs, boosting game visuals on handheld devices.",
-    "page": "articles/microsoft-s-automatic-super-resolution-now-powers-xbox-ally-x-and-select-copilot-pcs-2026-11-11.html",
-    "source_urls": [
-      "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
     ]
   }
 ]
