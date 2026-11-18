@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-faces-talent-exodus-as-ceo-dispute-intensifies-2026-11-18",
+    "title": "Nvidia Faces Talent Exodus as CEO Dispute Intensifies",
+    "description": "Internal letter warns that key Nvidia employees may leave if Jensen Huang is not reinstated as CEO, amid revenue growth concerns.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Internal letter warns that key Nvidia employees may leave if Jensen Huang is not reinstated as CEO, amid revenue growth concerns.",
+    "page": "articles/nvidia-faces-talent-exodus-as-ceo-dispute-intensifies-2026-11-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
+      "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    ]
+  },
+  {
     "id": "budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18",
     "title": "Budget‑Friendly Gaming Gear Hits the Market as $80 Gift Guide Goes Live",
     "description": "Gamers can score keyboards, mice, headsets and more for under $80 this holiday season, according to Tom's Hardware's latest gift guide.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12.html",
     "source_urls": [
       "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
-    ]
-  },
-  {
-    "id": "google-health-fixes-missing-daily-vitals-bug-2026-11-12",
-    "title": "Google Health Fixes Missing Daily Vitals Bug",
-    "description": "Google Health users report missing daily vitals; the company confirms a fix is underway.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Google Health users report missing daily vitals; the company confirms a fix is underway.",
-    "page": "articles/google-health-fixes-missing-daily-vitals-bug-2026-11-12.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/"
     ]
   }
 ]
