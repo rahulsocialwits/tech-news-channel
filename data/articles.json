@@ -1,5 +1,23 @@
 [
   {
+    "id": "xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18",
+    "title": "Xiaomi Unveils 18 Pro Series with Back‑Display Innovation",
+    "description": "Xiaomi launches the 18 Pro and 18 Pro Max featuring a rear display, Leica‑tuned cameras and Qualcomm’s latest chipset.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Xiaomi launches the 18 Pro and 18 Pro Max featuring a rear display, Leica‑tuned cameras and Qualcomm’s latest chipset.",
+    "page": "articles/xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-18-pro-and-xiaomi-18-pro-max-launched-with-a-back-display/article71715318.ece"
+    ]
+  },
+  {
     "id": "nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18",
     "title": "Nvidia Clarifies Its Role in Financing New Cloud Data Centers",
     "description": "Nvidia confirms it will only back data center loans if the project has independent financing and the facility is built with Nvidia hardware installed.",
@@ -1786,25 +1804,6 @@
     "page": "articles/apple-opens-pre-orders-for-new-home-collection-devices-on-november-13-2026-11-12.html",
     "source_urls": [
       "https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/"
-    ]
-  },
-  {
-    "id": "google-samsung-gentle-monster-and-warby-parker-team-up-on-privacy-focused-gemini-smartglas-2026-11-12",
-    "title": "Google, Samsung, Gentle Monster and Warby Parker Team Up on Privacy‑Focused Gemini Smartglasses",
-    "description": "The first Gemini‑powered smartglasses hit the market at $395, blending AR, privacy controls and a sleek design from a four‑company partnership.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "The first Gemini‑powered smartglasses hit the market at $395, blending AR, privacy controls and a sleek design from a four‑company partnership.",
-    "page": "articles/google-samsung-gentle-monster-and-warby-parker-team-up-on-privacy-focused-gemini-smartglas-2026-11-12.html",
-    "source_urls": [
-      "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "https://9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy/"
     ]
   }
 ]
