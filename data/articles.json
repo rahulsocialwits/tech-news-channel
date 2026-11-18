@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18",
+    "title": "Nvidia Clarifies Its Role in Financing New Cloud Data Centers",
+    "description": "Nvidia confirms it will only back data center loans if the project has independent financing and the facility is built with Nvidia hardware installed.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia confirms it will only back data center loans if the project has independent financing and the facility is built with Nvidia hardware installed.",
+    "page": "articles/nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+    ]
+  },
+  {
     "id": "cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18",
     "title": "Cloud.in Partners with OpenAI to Accelerate Enterprise AI in India",
     "description": "Cloud.in, a Hostin Services subsidiary, has joined OpenAI’s Select Partner program, combining OpenAI capabilities with AWS Premier Tier expertise to boost enterprise AI adoption in India.",
@@ -1787,24 +1805,6 @@
     "source_urls": [
       "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "https://9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy/"
-    ]
-  },
-  {
-    "id": "fairphone-partners-with-boost-mobile-to-bring-repairable-smartphones-to-the-u-s-market-2026-11-12",
-    "title": "Fairphone Partners with Boost Mobile to Bring Repairable Smartphones to the U.S. Market",
-    "description": "Fairphone, the sustainable phone maker, has secured its first U.S. carrier partnership with Boost Mobile, offering repairable smartphones and wireless plans to American consumers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Fairphone, the sustainable phone maker, has secured its first U.S. carrier partnership with Boost Mobile, offering repairable smartphones and wireless plans to American consumers.",
-    "page": "articles/fairphone-partners-with-boost-mobile-to-bring-repairable-smartphones-to-the-u-s-market-2026-11-12.html",
-    "source_urls": [
-      "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/"
     ]
   }
 ]
