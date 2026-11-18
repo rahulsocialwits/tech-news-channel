@@ -1,5 +1,23 @@
 [
   {
+    "id": "loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18",
+    "title": "Loop Earplugs Offer 25% Off to Boost Sleep, Focus and Comfort",
+    "description": "Loop Earplugs now available at a 25% discount, featuring Quiet 2 and gift sets for better sleep and concentration.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Loop Earplugs now available at a 25% discount, featuring Quiet 2 and gift sets for better sleep and concentration.",
+    "page": "articles/loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18.html",
+    "source_urls": [
+      "https://www.wired.com/story/loop-earplugs-discount-code/"
+    ]
+  },
+  {
     "id": "google-keep-adds-filters-to-streamline-note-search-2026-11-18",
     "title": "Google Keep Adds Filters to Streamline Note Search",
     "description": "Google Keep is set to launch new filter options that will help users quickly locate notes by date, color, and label.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc"
-    ]
-  },
-  {
-    "id": "openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12",
-    "title": "OpenAI Launches India‑Localized GPT‑6 Luna API to Meet Enterprise Data‑Localisation Needs",
-    "description": "OpenAI now lets Indian enterprises run GPT‑6 Luna requests inside India, addressing data‑localisation regulations and reducing latency.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI now lets Indian enterprises run GPT‑6 Luna requests inside India, addressing data‑localisation regulations and reducing latency.",
-    "page": "articles/openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12.html",
-    "source_urls": [
-      "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece"
     ]
   }
 ]
