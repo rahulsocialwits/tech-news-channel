@@ -1,5 +1,23 @@
 [
   {
+    "id": "cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18",
+    "title": "Cloud.in Partners with OpenAI to Accelerate Enterprise AI in India",
+    "description": "Cloud.in, a Hostin Services subsidiary, has joined OpenAI’s Select Partner program, combining OpenAI capabilities with AWS Premier Tier expertise to boost enterprise AI adoption in India.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Cloud.in, a Hostin Services subsidiary, has joined OpenAI’s Select Partner program, combining OpenAI capabilities with AWS Premier Tier expertise to boost enterprise AI adoption in India.",
+    "page": "articles/cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/cloud-in-named-an-openai-select-partner-combining-openai-capabilities-with-aws-premier-tier-expertise-to-accelerate-enterprise-ai-in-india/"
+    ]
+  },
+  {
     "id": "java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18",
     "title": "Java 4Shell Vulnerability Sparks Global Security Advisories",
     "description": "A critical flaw in Java, dubbed 4Shell, has prompted urgent security alerts worldwide, affecting millions of systems.",
@@ -1787,24 +1805,6 @@
     "page": "articles/fairphone-partners-with-boost-mobile-to-bring-repairable-smartphones-to-the-u-s-market-2026-11-12.html",
     "source_urls": [
       "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/"
-    ]
-  },
-  {
-    "id": "apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12",
-    "title": "Apple’s M6 iMac: A Clean‑Desk Powerhouse That Keeps the Status Quo",
-    "description": "Apple’s latest iMac, powered by the M6 chip, offers solid performance and a sleek design, though its price remains a consideration for buyers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s latest iMac, powered by the M6 chip, offers solid performance and a sleek design, though its price remains a consideration for buyers.",
-    "page": "articles/apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12.html",
-    "source_urls": [
-      "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
     ]
   }
 ]
