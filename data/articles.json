@@ -1,5 +1,22 @@
 [
   {
+    "id": "new-ai-powered-hacking-tool-makes-penetration-testing-accessible-to-novice-attackers-2026-11-18",
+    "title": "New AI‑Powered Hacking Tool Makes Penetration Testing Accessible to Novice Attackers",
+    "description": "Artex, a point‑and‑shoot AI hacking platform, lets users launch automated attacks by feeding prompts to chatbots, raising concerns about the democratization of cybercrime.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Artex, a point‑and‑shoot AI hacking platform, lets users launch automated attacks by feeding prompts to chatbots, raising concerns about the democratization of cybercrime.",
+    "page": "articles/new-ai-powered-hacking-tool-makes-penetration-testing-accessible-to-novice-attackers-2026-11-18.html",
+    "source_urls": [
+      "https://www.wired.com/story/artex-ai-hacking-tools/"
+    ]
+  },
+  {
     "id": "ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18",
     "title": "Ohio Bill Could Grant Data Centers Eminent Domain Power",
     "description": "A leaked Ohio proposal would let AI data‑center operators seize private land under eminent domain, expanding the list of public utilities.",
@@ -1786,24 +1803,6 @@
     "page": "articles/pixel-cameras-darken-after-november-update-but-fix-is-simple-2026-11-12.html",
     "source_urls": [
       "https://www.androidauthority.com/pixel-camera-not-working-after-november-update-3734529/"
-    ]
-  },
-  {
-    "id": "tcl-s-nxtpaper-14-tablet-drops-22-in-amazon-lightning-deal-2026-11-12",
-    "title": "TCL’s NXTPAPER 14 Tablet Drops 22% in Amazon Lightning Deal",
-    "description": "TCL’s large‑screen Android tablet with a paper‑like display is now available at a 22% discount on Amazon, slashing the price to $100.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "TCL’s large‑screen Android tablet with a paper‑like display is now available at a 22% discount on Amazon, slashing the price to $100.",
-    "page": "articles/tcl-s-nxtpaper-14-tablet-drops-22-in-amazon-lightning-deal-2026-11-12.html",
-    "source_urls": [
-      "https://www.androidauthority.com/tcl-nxtpaper-14-tablet-deal-3734603/"
     ]
   }
 ]
