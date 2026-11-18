@@ -1,5 +1,23 @@
 [
   {
+    "id": "oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18",
+    "title": "Oakland Startup Aims to End China’s Graphite Monopoly",
+    "description": "Molten Industries plans a new Oakland factory that could challenge China’s near‑total control of battery graphite supply.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Startups"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Molten Industries plans a new Oakland factory that could challenge China’s near‑total control of battery graphite supply.",
+    "page": "articles/oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/"
+    ]
+  },
+  {
     "id": "loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18",
     "title": "Loop Earplugs Offer 25% Off to Boost Sleep, Focus and Comfort",
     "description": "Loop Earplugs now available at a 25% discount, featuring Quiet 2 and gift sets for better sleep and concentration.",
@@ -1787,24 +1805,6 @@
     "page": "articles/nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12.html",
     "source_urls": [
       "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/"
-    ]
-  },
-  {
-    "id": "google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12",
-    "title": "Google Unveils TPU 8i Max and TPU 8tx for Long‑Context AI Agents and Secure Inference",
-    "description": "Google expands its TPU lineup with two new chips that combine long‑context processing and confidential inference, targeting AI agents and security workloads.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Google expands its TPU lineup with two new chips that combine long‑context processing and confidential inference, targeting AI agents and security workloads.",
-    "page": "articles/google-unveils-tpu-8i-max-and-tpu-8tx-for-long-context-ai-agents-and-secure-inference-2026-11-12.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc"
     ]
   }
 ]
