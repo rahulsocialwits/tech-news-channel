@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18",
+    "title": "Nvidia’s Startup Portfolio Surges to $65 B as Jensen Huang Steps Down",
+    "description": "Nvidia’s private investments have nearly tripled, reaching $65 B, but the CEO’s exit raises questions about future deals.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s private investments have nearly tripled, reaching $65 B, but the CEO’s exit raises questions about future deals.",
+    "page": "articles/nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    ]
+  },
+  {
     "id": "security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18",
     "title": "Security Teams Struggle to Keep Software Flaws in Check",
     "description": "Backlog of software security findings grows as teams debate prioritization, according to Black Duck report.",
@@ -1786,23 +1804,6 @@
     "page": "articles/united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12.html",
     "source_urls": [
       "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
-    ]
-  },
-  {
-    "id": "united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12",
-    "title": "United Airlines Blocks AI Agents Over Security Concerns",
-    "description": "United Airlines has moved to prevent AI agents from booking flights, citing security risks and potential regulatory violations.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "United Airlines has moved to prevent AI agents from booking flights, citing security risks and potential regulatory violations.",
-    "page": "articles/united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/"
     ]
   }
 ]
