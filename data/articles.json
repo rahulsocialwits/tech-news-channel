@@ -1,5 +1,23 @@
 [
   {
+    "id": "ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18",
+    "title": "Ohio Bill Could Grant Data Centers Eminent Domain Power",
+    "description": "A leaked Ohio proposal would let AI data‑center operators seize private land under eminent domain, expanding the list of public utilities.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "A leaked Ohio proposal would let AI data‑center operators seize private land under eminent domain, expanding the list of public utilities.",
+    "page": "articles/ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries"
+    ]
+  },
+  {
     "id": "xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18",
     "title": "Xiaomi Unveils 18 Pro Series with Back‑Display Innovation",
     "description": "Xiaomi launches the 18 Pro and 18 Pro Max featuring a rear display, Leica‑tuned cameras and Qualcomm’s latest chipset.",
@@ -1786,24 +1804,6 @@
     "page": "articles/tcl-s-nxtpaper-14-tablet-drops-22-in-amazon-lightning-deal-2026-11-12.html",
     "source_urls": [
       "https://www.androidauthority.com/tcl-nxtpaper-14-tablet-deal-3734603/"
-    ]
-  },
-  {
-    "id": "apple-opens-pre-orders-for-new-home-collection-devices-on-november-13-2026-11-12",
-    "title": "Apple Opens Pre‑Orders for New Home Collection Devices on November 13",
-    "description": "Apple will let customers lock in orders for two LG cameras and a video doorbell as part of its Home Collection launch.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Apple will let customers lock in orders for two LG cameras and a video doorbell as part of its Home Collection launch.",
-    "page": "articles/apple-opens-pre-orders-for-new-home-collection-devices-on-november-13-2026-11-12.html",
-    "source_urls": [
-      "https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/"
     ]
   }
 ]
