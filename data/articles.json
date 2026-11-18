@@ -1,5 +1,23 @@
 [
   {
+    "id": "java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18",
+    "title": "Java 4Shell Vulnerability Sparks Global Security Advisories",
+    "description": "A critical flaw in Java, dubbed 4Shell, has prompted urgent security alerts worldwide, affecting millions of systems.",
+    "category": "Cybersecurity",
+    "labels": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "A critical flaw in Java, dubbed 4Shell, has prompted urgent security alerts worldwide, affecting millions of systems.",
+    "page": "articles/java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/java4shell-critical-java-security-flaw-explained-10968343/"
+    ]
+  },
+  {
     "id": "oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18",
     "title": "Oakland Startup Aims to End China’s Graphite Monopoly",
     "description": "Molten Industries plans a new Oakland factory that could challenge China’s near‑total control of battery graphite supply.",
@@ -1787,24 +1805,6 @@
     "page": "articles/apple-s-m6-imac-a-clean-desk-powerhouse-that-keeps-the-status-quo-2026-11-12.html",
     "source_urls": [
       "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
-    ]
-  },
-  {
-    "id": "nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12",
-    "title": "Nintendo to Drop Google and Apple Sign‑Ins for Its Services Next Year",
-    "description": "Nintendo will no longer allow users to log in with Google or Apple accounts, shifting to its own authentication system by early 2027.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Nintendo will no longer allow users to log in with Google or Apple accounts, shifting to its own authentication system by early 2027.",
-    "page": "articles/nintendo-to-drop-google-and-apple-sign-ins-for-its-services-next-year-2026-11-12.html",
-    "source_urls": [
-      "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/"
     ]
   }
 ]
