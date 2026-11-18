@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-keep-adds-filters-to-streamline-note-search-2026-11-18",
+    "title": "Google Keep Adds Filters to Streamline Note Search",
+    "description": "Google Keep is set to launch new filter options that will help users quickly locate notes by date, color, and label.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Google Keep is set to launch new filter options that will help users quickly locate notes by date, color, and label.",
+    "page": "articles/google-keep-adds-filters-to-streamline-note-search-2026-11-18.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-keep-notes-filters-apk-teardown-3736360/"
+    ]
+  },
+  {
     "id": "nvidia-faces-talent-exodus-as-ceo-dispute-intensifies-2026-11-18",
     "title": "Nvidia Faces Talent Exodus as CEO Dispute Intensifies",
     "description": "Internal letter warns that key Nvidia employees may leave if Jensen Huang is not reinstated as CEO, amid revenue growth concerns.",
@@ -1787,24 +1805,6 @@
     "page": "articles/openai-launches-india-localized-gpt-6-luna-api-to-meet-enterprise-data-localisation-needs-2026-11-12.html",
     "source_urls": [
       "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece"
-    ]
-  },
-  {
-    "id": "google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12",
-    "title": "Google Expands Gemini to Apple CarPlay, Bringing AI Chat to the Road",
-    "description": "Google’s Gemini chatbot is now available on Apple CarPlay, letting drivers access the AI assistant directly from their car’s infotainment system.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Gemini chatbot is now available on Apple CarPlay, letting drivers access the AI assistant directly from their car’s infotainment system.",
-    "page": "articles/google-expands-gemini-to-apple-carplay-bringing-ai-chat-to-the-road-2026-11-12.html",
-    "source_urls": [
-      "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
     ]
   }
 ]
