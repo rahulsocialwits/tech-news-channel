@@ -1,5 +1,23 @@
 [
   {
+    "id": "whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18",
+    "title": "WhatsApp Adds Free 2GB Cloud Backup for Android Users",
+    "description": "WhatsApp now offers Android users a free 2GB cloud backup option, eliminating the need for Google Drive integration.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "WhatsApp now offers Android users a free 2GB cloud backup option, eliminating the need for Google Drive integration.",
+    "page": "articles/whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18.html",
+    "source_urls": [
+      "https://www.androidauthority.com/whatsapp-cloud-backup-3736332/"
+    ]
+  },
+  {
     "id": "nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18",
     "title": "Nvidia’s Startup Portfolio Surges to $65 B as Jensen Huang Steps Down",
     "description": "Nvidia’s private investments have nearly tripled, reaching $65 B, but the CEO’s exit raises questions about future deals.",
@@ -1787,23 +1805,6 @@
     "page": "articles/chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece"
-    ]
-  },
-  {
-    "id": "united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12",
-    "title": "United Airlines Limits AI Agents From Booking Flights Amid Security Concerns",
-    "description": "United Airlines has announced a ban on AI agents booking flights, citing security risks and potential regulatory violations.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "United Airlines has announced a ban on AI agents booking flights, citing security risks and potential regulatory violations.",
-    "page": "articles/united-airlines-limits-ai-agents-from-booking-flights-amid-security-concerns-2026-11-12.html",
-    "source_urls": [
-      "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
     ]
   }
 ]
