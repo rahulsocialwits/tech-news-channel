@@ -1,5 +1,23 @@
 [
   {
+    "id": "budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18",
+    "title": "Budget‑Friendly Gaming Gear Hits the Market as $80 Gift Guide Goes Live",
+    "description": "Gamers can score keyboards, mice, headsets and more for under $80 this holiday season, according to Tom's Hardware's latest gift guide.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Gamers can score keyboards, mice, headsets and more for under $80 this holiday season, according to Tom's Hardware's latest gift guide.",
+    "page": "articles/budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18.html",
+    "source_urls": [
+      "https://www.tomshardware.com/gift-guides-seasonal-sales/budget-friendly-gifts-for-gamers-keyboards-mice-headsets-and-more-under-usd80"
+    ]
+  },
+  {
     "id": "whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18",
     "title": "WhatsApp Adds Free 2GB Cloud Backup for Android Users",
     "description": "WhatsApp now offers Android users a free 2GB cloud backup option, eliminating the need for Google Drive integration.",
@@ -1787,24 +1805,6 @@
     "page": "articles/google-health-fixes-missing-daily-vitals-bug-2026-11-12.html",
     "source_urls": [
       "https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/"
-    ]
-  },
-  {
-    "id": "chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12",
-    "title": "Chinese Cloud Providers Rush to Secure Nvidia GPUs Amid U.S. Curbs Concerns",
-    "description": "Chinese AI firms are scrambling to lock in Nvidia chip capacity as a spy scandal fuels fears of new U.S. export restrictions.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Chinese AI firms are scrambling to lock in Nvidia chip capacity as a spy scandal fuels fears of new U.S. export restrictions.",
-    "page": "articles/chinese-cloud-providers-rush-to-secure-nvidia-gpus-amid-u-s-curbs-concerns-2026-11-12.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece"
     ]
   }
 ]
