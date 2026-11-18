@@ -1,5 +1,23 @@
 [
   {
+    "id": "security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18",
+    "title": "Security Teams Struggle to Keep Software Flaws in Check",
+    "description": "Backlog of software security findings grows as teams debate prioritization, according to Black Duck report.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-18",
+    "readTime": "3 min read",
+    "excerpt": "Backlog of software security findings grows as teams debate prioritization, according to Black Duck report.",
+    "page": "articles/security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/security-teams-falling-further-behind-on-fixing-software-flaws-180734.html?rss=1"
+    ]
+  },
+  {
     "id": "microsoft-s-copilot-reimagines-office-as-a-new-operating-system-for-work-2026-11-18",
     "title": "Microsoft’s Copilot Reimagines Office as a New Operating System for Work",
     "description": "Microsoft has announced that Word, Excel and PowerPoint now run inside its Copilot platform, positioning the AI assistant as the next generation operating system for productivity.",
@@ -1785,24 +1803,6 @@
     "page": "articles/united-airlines-blocks-ai-agents-over-security-concerns-2026-11-12.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-10959803/"
-    ]
-  },
-  {
-    "id": "nintendo-switch-2-hits-lowest-price-of-the-season-at-459-2026-11-12",
-    "title": "Nintendo Switch 2 Hits Lowest Price of the Season at $459",
-    "description": "Nintendo’s latest handheld console drops to a record low of $459, offering gamers a fresh deal amid a competitive market.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-12",
-    "readTime": "3 min read",
-    "excerpt": "Nintendo’s latest handheld console drops to a record low of $459, offering gamers a fresh deal amid a competitive market.",
-    "page": "articles/nintendo-switch-2-hits-lowest-price-of-the-season-at-459-2026-11-12.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/"
     ]
   }
 ]
