@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19",
+    "title": "Google Partners with Blue Origin to Launch Satellite Data Centers for Space‑Based AI",
+    "description": "Google’s Project Suncatcher will deploy AI‑enabled data centers in orbit, expanding cloud infrastructure beyond Earth.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Project Suncatcher will deploy AI‑enabled data centers in orbit, expanding cloud infrastructure beyond Earth.",
+    "page": "articles/google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19.html",
+    "source_urls": [
+      "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/"
+    ]
+  },
+  {
     "id": "everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19",
     "title": "Everful Secures $48.5M to Expand Factory‑Direct Sourcing Platform",
     "description": "Former Alibaba executive launches Everful, raising $48.5 million to help retailers source products directly from Chinese factories.",
@@ -1777,24 +1795,6 @@
     "page": "articles/amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
-    ]
-  },
-  {
-    "id": "microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13",
-    "title": "Microsoft’s 20‑Hour Outage Highlights Cloud Dependency Risks",
-    "description": "A global outage that knocked out Outlook and other services for 20 hours exposed how businesses rely on a single cloud provider.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "A global outage that knocked out Outlook and other services for 20 hours exposed how businesses rely on a single cloud provider.",
-    "page": "articles/microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13.html",
-    "source_urls": [
-      "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/"
     ]
   }
 ]
