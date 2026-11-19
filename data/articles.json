@@ -1,5 +1,22 @@
 [
   {
+    "id": "microsoft-s-60-000-employee-buyout-a-strategic-shift-driven-by-ai-2026-11-19",
+    "title": "Microsoft’s 60,000‑Employee Buyout: A Strategic Shift Driven by AI",
+    "description": "Microsoft CEO Satya Nadella explains why the company offered buyouts to 60,000 employees, citing AI as the key factor behind the workforce realignment.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft CEO Satya Nadella explains why the company offered buyouts to 60,000 employees, citing AI as the key factor behind the workforce realignment.",
+    "page": "articles/microsoft-s-60-000-employee-buyout-a-strategic-shift-driven-by-ai-2026-11-19.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    ]
+  },
+  {
     "id": "black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19",
     "title": "Black Friday Laptop Deals Heat Up as Prices Drop Ahead of the Shopping Day",
     "description": "Early Black Friday laptop discounts are already hitting the market, offering buyers a chance to snag high‑end models at steep markdowns before the holiday rush.",
@@ -1785,24 +1802,6 @@
     "page": "articles/nvidia-confirms-feasibility-of-chip-tracking-technology-amid-smuggling-crackdown-2026-11-13.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-    ]
-  },
-  {
-    "id": "meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13",
-    "title": "Meta’s Muse Turns AI Agent Into Your Personal Call Concierge",
-    "description": "Meta’s new Muse feature lets paid subscribers schedule appointments, make reservations and even wait on hold for you, turning the AI assistant into a hands‑free call handler.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Meta’s new Muse feature lets paid subscribers schedule appointments, make reservations and even wait on hold for you, turning the AI assistant into a hands‑free call handler.",
-    "page": "articles/meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13.html",
-    "source_urls": [
-      "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/"
     ]
   }
 ]
