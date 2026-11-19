@@ -1,5 +1,23 @@
 [
   {
+    "id": "gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19",
+    "title": "GameNative Fixes PC Gaming on Pixels and Exynos‑Powered Galaxy Phones",
+    "description": "GameNative’s latest update brings major PC gaming fixes to Google Pixel and Exynos Galaxy devices, expanding the platform’s reach beyond Snapdragon hardware.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "GameNative’s latest update brings major PC gaming fixes to Google Pixel and Exynos Galaxy devices, expanding the platform’s reach beyond Snapdragon hardware.",
+    "page": "articles/gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19.html",
+    "source_urls": [
+      "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/"
+    ]
+  },
+  {
     "id": "samsung-unveils-feature-rich-galaxy-studio-headphones-in-latest-leak-2026-11-19",
     "title": "Samsung Unveils Feature‑Rich Galaxy Studio Headphones in Latest Leak",
     "description": "A recent leak shows Samsung’s new Galaxy Studio headphones will include a headphone jack, larger battery and other gamer‑friendly features.",
@@ -1780,24 +1798,6 @@
     "page": "articles/pixel-november-update-unveils-persistent-aod-and-notification-bugs-2026-11-13.html",
     "source_urls": [
       "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/"
-    ]
-  },
-  {
-    "id": "newegg-unveils-1-250-gaming-pc-combo-with-32gb-ddr5-and-ryzen-7-9800x3d-2026-11-13",
-    "title": "Newegg Unveils $1,250 Gaming PC Combo with 32GB DDR5 and Ryzen 7 9800X3D",
-    "description": "Newegg’s latest bundle offers a high‑end gaming rig featuring 32GB of Corsair Vengeance DDR5‑6000, a Ryzen 7 9800X3D CPU, MSI X870E Carbon Wifi motherboard and a free Rosewill Frostmax 360mm AIO for $1,250, saving $119 over retail.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Newegg’s latest bundle offers a high‑end gaming rig featuring 32GB of Corsair Vengeance DDR5‑6000, a Ryzen 7 9800X3D CPU, MSI X870E Carbon Wifi motherboard and a free Rosewill Frostmax 360mm AIO for $1,250, saving $119 over retail.",
-    "page": "articles/newegg-unveils-1-250-gaming-pc-combo-with-32gb-ddr5-and-ryzen-7-9800x3d-2026-11-13.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250"
     ]
   }
 ]
