@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-electronics-downplays-neocloud-concerns-amid-ai-driven-data-center-expansion-2026-11-19",
+    "title": "Samsung Electronics Downplays Neocloud Concerns Amid AI‑Driven Data Center Expansion",
+    "description": "Samsung Electronics reassures investors that its stance on neocloud firms and AI market volatility remains steady, despite recent debt‑fueled data center expansions by rivals.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Samsung Electronics reassures investors that its stance on neocloud firms and AI market volatility remains steady, despite recent debt‑fueled data center expansions by rivals.",
+    "page": "articles/samsung-electronics-downplays-neocloud-concerns-amid-ai-driven-data-center-expansion-2026-11-19.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble/article71718769.ece"
+    ]
+  },
+  {
     "id": "google-ai-ultra-upgrade-adds-youtube-premium-family-for-up-to-six-members-2026-11-19",
     "title": "Google AI Ultra Upgrade Adds YouTube Premium Family for Up to Six Members",
     "description": "Google’s AI Ultra tier now includes YouTube Premium Family, letting households enjoy ad‑free videos without extra cost.",
@@ -1780,27 +1798,6 @@
     "page": "articles/google-sheets-adds-canvas-sharing-to-let-viewers-explore-data-without-full-access-2026-11-13.html",
     "source_urls": [
       "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/"
-    ]
-  },
-  {
-    "id": "microsoft-365-faces-global-outage-amid-elevated-load-issues-2026-11-13",
-    "title": "Microsoft 365 Faces Global Outage Amid Elevated Load Issues",
-    "description": "Microsoft 365 services including Outlook, Teams, and Copilot are down worldwide as the company works to resolve elevated load problems.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft 365 services including Outlook, Teams, and Copilot are down worldwide as the company works to resolve elevated load problems.",
-    "page": "articles/microsoft-365-faces-global-outage-amid-elevated-load-issues-2026-11-13.html",
-    "source_urls": [
-      "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
-      "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
-      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "https://indianexpress.com/article/technology/outlook-teams-co-pilot-global-outage-microsoft-attempts-to-fix-10961200/"
     ]
   }
 ]
