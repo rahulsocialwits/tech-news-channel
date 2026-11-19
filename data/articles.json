@@ -1,5 +1,23 @@
 [
   {
+    "id": "everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19",
+    "title": "Everful Secures $48.5M to Expand Factory‑Direct Sourcing Platform",
+    "description": "Former Alibaba executive launches Everful, raising $48.5 million to help retailers source products directly from Chinese factories.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Former Alibaba executive launches Everful, raising $48.5 million to help retailers source products directly from Chinese factories.",
+    "page": "articles/everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    ]
+  },
+  {
     "id": "us-commerce-department-expands-ai-chip-export-controls-to-24-countries-2026-11-19",
     "title": "US Commerce Department Expands AI Chip Export Controls to 24 Countries",
     "description": "The new rule bars data‑center operators outside the U.S. from using advanced American AI chips to serve clients in 24 nations, including China, Iran and Russia.",
@@ -1777,25 +1795,6 @@
     "page": "articles/microsoft-s-20-hour-outage-highlights-cloud-dependency-risks-2026-11-13.html",
     "source_urls": [
       "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/"
-    ]
-  },
-  {
-    "id": "microsoft-s-20-hour-outage-leaves-global-businesses-in-turmoil-2026-11-13",
-    "title": "Microsoft’s 20‑Hour Outage Leaves Global Businesses in Turmoil",
-    "description": "A worldwide outage of Microsoft’s cloud services, including Outlook and Teams, disrupted businesses and public services for nearly a day.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "A worldwide outage of Microsoft’s cloud services, including Outlook and Teams, disrupted businesses and public services for nearly a day.",
-    "page": "articles/microsoft-s-20-hour-outage-leaves-global-businesses-in-turmoil-2026-11-13.html",
-    "source_urls": [
-      "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
-      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece"
     ]
   }
 ]
