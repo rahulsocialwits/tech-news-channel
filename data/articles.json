@@ -1,5 +1,23 @@
 [
   {
+    "id": "black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19",
+    "title": "Black Friday Laptop Deals Heat Up as Prices Drop Ahead of the Shopping Day",
+    "description": "Early Black Friday laptop discounts are already hitting the market, offering buyers a chance to snag high‑end models at steep markdowns before the holiday rush.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Early Black Friday laptop discounts are already hitting the market, offering buyers a chance to snag high‑end models at steep markdowns before the holiday rush.",
+    "page": "articles/black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19.html",
+    "source_urls": [
+      "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/"
+    ]
+  },
+  {
     "id": "banks-warn-customers-using-ai-personal-finance-agents-are-on-their-own-2026-11-18",
     "title": "Banks Warn Customers Using AI Personal Finance Agents Are on Their Own",
     "description": "Major banks caution users that AI-driven personal finance tools may expose them to security risks and lack protective oversight.",
@@ -1785,24 +1803,6 @@
     "page": "articles/meta-s-muse-turns-ai-agent-into-your-personal-call-concierge-2026-11-13.html",
     "source_urls": [
       "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/"
-    ]
-  },
-  {
-    "id": "yandex-cloud-recovers-97-of-customer-data-after-ukrainian-drone-strike-2026-11-13",
-    "title": "Yandex Cloud Recovers 97% of Customer Data After Ukrainian Drone Strike",
-    "description": "Yandex Cloud reports restoring the majority of customer data following a drone attack that caused significant data loss.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Yandex Cloud reports restoring the majority of customer data following a drone attack that caused significant data loss.",
-    "page": "articles/yandex-cloud-recovers-97-of-customer-data-after-ukrainian-drone-strike-2026-11-13.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default"
     ]
   }
 ]
