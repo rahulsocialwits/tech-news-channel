@@ -1,5 +1,23 @@
 [
   {
+    "id": "nimble-launches-eco-friendly-luggage-tags-and-keychains-to-capture-the-item-tracking-marke-2026-11-19",
+    "title": "Nimble Launches Eco‑Friendly Luggage Tags and Keychains to Capture the Item‑Tracking Market",
+    "description": "Nimble introduces sustainable, trackable luggage tags, keychains, wallets and passport covers as it enters the growing item‑tracking industry.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Nimble introduces sustainable, trackable luggage tags, keychains, wallets and passport covers as it enters the growing item‑tracking industry.",
+    "page": "articles/nimble-launches-eco-friendly-luggage-tags-and-keychains-to-capture-the-item-tracking-marke-2026-11-19.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/"
+    ]
+  },
+  {
     "id": "pakistan-undersea-cable-fault-triggers-nationwide-internet-outage-2026-11-19",
     "title": "Pakistan Undersea Cable Fault Triggers Nationwide Internet Outage",
     "description": "A fault in a key undersea cable near the Strait of Hormuz has caused widespread internet disruptions across Pakistan, prompting authorities to reroute traffic and investigate the cause.",
@@ -1778,24 +1796,6 @@
     "page": "articles/uber-driver-license-breach-highlights-risks-of-cloud-based-data-storage-2026-11-13.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
-    ]
-  },
-  {
-    "id": "microsoft-s-global-cloud-crisis-from-email-outage-to-service-wide-downtime-2026-11-13",
-    "title": "Microsoft’s Global Cloud Crisis: From Email Outage to Service-Wide Downtime",
-    "description": "Microsoft’s day‑long outage began with Outlook and Teams and escalated into a worldwide cloud service disruption, prompting a gradual restoration effort.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft’s day‑long outage began with Outlook and Teams and escalated into a worldwide cloud service disruption, prompting a gradual restoration effort.",
-    "page": "articles/microsoft-s-global-cloud-crisis-from-email-outage-to-service-wide-downtime-2026-11-13.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
     ]
   }
 ]
