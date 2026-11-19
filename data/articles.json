@@ -1,5 +1,23 @@
 [
   {
+    "id": "pakistan-undersea-cable-fault-triggers-nationwide-internet-outage-2026-11-19",
+    "title": "Pakistan Undersea Cable Fault Triggers Nationwide Internet Outage",
+    "description": "A fault in a key undersea cable near the Strait of Hormuz has caused widespread internet disruptions across Pakistan, prompting authorities to reroute traffic and investigate the cause.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Networking"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "A fault in a key undersea cable near the Strait of Hormuz has caused widespread internet disruptions across Pakistan, prompting authorities to reroute traffic and investigate the cause.",
+    "page": "articles/pakistan-undersea-cable-fault-triggers-nationwide-internet-outage-2026-11-19.html",
+    "source_urls": [
+      "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region"
+    ]
+  },
+  {
     "id": "sila-s-silicon-carbon-anode-deal-with-panasonic-signals-a-shift-in-u-s-battery-innovation-2026-11-19",
     "title": "Sila’s Silicon‑Carbon Anode Deal with Panasonic Signals a Shift in U.S. Battery Innovation",
     "description": "Sila Nanotechnologies has signed a multi‑year agreement with Panasonic Energy to supply silicon‑carbon anode material, a move that could enable lighter, higher‑capacity batteries for the U.S. market.",
@@ -1778,24 +1796,6 @@
     "page": "articles/microsoft-s-global-cloud-crisis-from-email-outage-to-service-wide-downtime-2026-11-13.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
-    ]
-  },
-  {
-    "id": "china-s-access-to-nvidia-chips-in-jeopardy-as-u-s-curbs-tighten-2026-11-13",
-    "title": "China’s Access to Nvidia Chips in Jeopardy as U.S. Curbs Tighten",
-    "description": "U.S. export restrictions threaten Chinese firms’ ability to obtain Nvidia GPUs, raising concerns for AI development in China.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "U.S. export restrictions threaten Chinese firms’ ability to obtain Nvidia GPUs, raising concerns for AI development in China.",
-    "page": "articles/china-s-access-to-nvidia-chips-in-jeopardy-as-u-s-curbs-tighten-2026-11-13.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece"
     ]
   }
 ]
