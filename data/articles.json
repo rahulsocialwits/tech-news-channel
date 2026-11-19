@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-ai-ultra-upgrade-adds-youtube-premium-family-for-up-to-six-members-2026-11-19",
+    "title": "Google AI Ultra Upgrade Adds YouTube Premium Family for Up to Six Members",
+    "description": "Google’s AI Ultra tier now includes YouTube Premium Family, letting households enjoy ad‑free videos without extra cost.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Gadgets"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Google’s AI Ultra tier now includes YouTube Premium Family, letting households enjoy ad‑free videos without extra cost.",
+    "page": "articles/google-ai-ultra-upgrade-adds-youtube-premium-family-for-up-to-six-members-2026-11-19.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
+      "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/"
+    ]
+  },
+  {
     "id": "samsung-unveils-lighter-horizontal-leveling-for-selfie-cameras-2026-11-19",
     "title": "Samsung Unveils Lighter Horizontal Leveling for Selfie Cameras",
     "description": "Samsung introduces a new horizontal leveling feature for its Galaxy S26 selfie cameras, aiming to stabilize videos during everyday use.",
@@ -1782,26 +1801,6 @@
       "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
       "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
       "https://indianexpress.com/article/technology/outlook-teams-co-pilot-global-outage-microsoft-attempts-to-fix-10961200/"
-    ]
-  },
-  {
-    "id": "nvidia-announces-ceo-transition-amid-internal-petition-for-jensen-huang-s-return-2026-11-13",
-    "title": "Nvidia Announces CEO Transition Amid Internal Petition for Jensen Huang’s Return",
-    "description": "Nvidia’s board names interim CEO Collette Kress and chair Harvey C. Jones as the company navigates a leadership change after Jensen Huang’s resignation.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s board names interim CEO Collette Kress and chair Harvey C. Jones as the company navigates a leadership change after Jensen Huang’s resignation.",
-    "page": "articles/nvidia-announces-ceo-transition-amid-internal-petition-for-jensen-huang-s-return-2026-11-13.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
-      "https://indiatechnologynews.in/nvidia-announces-ceo-transition/"
     ]
   }
 ]
