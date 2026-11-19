@@ -1,5 +1,22 @@
 [
   {
+    "id": "nvidia-halts-ai-chip-shipments-to-china-as-export-controls-tighten-2026-11-19",
+    "title": "Nvidia Halts AI Chip Shipments to China as Export Controls Tighten",
+    "description": "Nvidia has stopped shipping its AI chips to China amid growing U.S. export control pressure, impacting the global AI hardware market.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia has stopped shipping its AI chips to China amid growing U.S. export control pressure, impacting the global AI hardware market.",
+    "page": "articles/nvidia-halts-ai-chip-shipments-to-china-as-export-controls-tighten-2026-11-19.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-stops-ai-chips-china-us-export-controls-10969783/"
+    ]
+  },
+  {
     "id": "gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19",
     "title": "GameNative Fixes PC Gaming on Pixels and Exynos‑Powered Galaxy Phones",
     "description": "GameNative’s latest update brings major PC gaming fixes to Google Pixel and Exynos Galaxy devices, expanding the platform’s reach beyond Snapdragon hardware.",
@@ -1780,24 +1797,6 @@
     "page": "articles/8bitdo-ultimate-2-gamepad-hits-record-low-price-on-amazon-2026-11-13.html",
     "source_urls": [
       "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-8bitdo-wireless-controller-for-your-gaming-pc-and-switch-2-at-its-lowest-ever-price-now-usd51-12-27-percent-off-this-fully-customizable-ultimate-2-gamepad-with-tmr-joysticks-dual-triggers-and-remappable-buttons"
-    ]
-  },
-  {
-    "id": "pixel-november-update-unveils-persistent-aod-and-notification-bugs-2026-11-13",
-    "title": "Pixel November Update Unveils Persistent AOD and Notification Bugs",
-    "description": "Google’s latest Pixel November 2026 update introduces new features but also brings a wave of bugs affecting always‑on‑display, lock screen and notification handling.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Google’s latest Pixel November 2026 update introduces new features but also brings a wave of bugs affecting always‑on‑display, lock screen and notification handling.",
-    "page": "articles/pixel-november-update-unveils-persistent-aod-and-notification-bugs-2026-11-13.html",
-    "source_urls": [
-      "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/"
     ]
   }
 ]
