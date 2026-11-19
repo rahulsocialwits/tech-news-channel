@@ -1,5 +1,23 @@
 [
   {
+    "id": "us-commerce-department-expands-ai-chip-export-controls-to-24-countries-2026-11-19",
+    "title": "US Commerce Department Expands AI Chip Export Controls to 24 Countries",
+    "description": "The new rule bars data‑center operators outside the U.S. from using advanced American AI chips to serve clients in 24 nations, including China, Iran and Russia.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-19",
+    "readTime": "3 min read",
+    "excerpt": "The new rule bars data‑center operators outside the U.S. from using advanced American AI chips to serve clients in 24 nations, including China, Iran and Russia.",
+    "page": "articles/us-commerce-department-expands-ai-chip-export-controls-to-24-countries-2026-11-19.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece"
+    ]
+  },
+  {
     "id": "sony-wh-1000xm6-noise-cancelling-headphones-drop-to-348-in-black-friday-deal-2026-11-19",
     "title": "Sony WH‑1000XM6 Noise‑Cancelling Headphones Drop to $348 in Black Friday Deal",
     "description": "Sony’s flagship ANC headphones are now available for $348, a $30 discount from their recent price point, as part of the Black Friday 2026 sale.",
@@ -1778,24 +1796,6 @@
     "source_urls": [
       "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
       "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece"
-    ]
-  },
-  {
-    "id": "motorola-s-signature-27-a-beastly-phone-for-the-high-end-market-2026-11-13",
-    "title": "Motorola’s Signature 27: A Beastly Phone for the High‑End Market",
-    "description": "Motorola’s new Signature 27 sports a massive tandem OLED display, a 7,000 mAh battery, premium cameras and a $1,600 price tag, positioning it as a flagship for power users.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-13",
-    "readTime": "3 min read",
-    "excerpt": "Motorola’s new Signature 27 sports a massive tandem OLED display, a 7,000 mAh battery, premium cameras and a $1,600 price tag, positioning it as a flagship for power users.",
-    "page": "articles/motorola-s-signature-27-a-beastly-phone-for-the-high-end-market-2026-11-13.html",
-    "source_urls": [
-      "https://www.engadget.com/2315452/motorola-signature-27-hands-on/"
     ]
   }
 ]
