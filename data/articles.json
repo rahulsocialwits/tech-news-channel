@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20",
+    "title": "OpenAI’s GPT Models Boost AMD’s Upcoming Flagship GPU Design by 14%",
+    "description": "OpenAI’s language models helped AMD improve the performance‑per‑watt of its next‑generation GPU, raising efficiency by 14% and accelerating CPU design gains.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI’s language models helped AMD improve the performance‑per‑watt of its next‑generation GPU, raising efficiency by 14% and accelerating CPU design gains.",
+    "page": "articles/openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus"
+    ]
+  },
+  {
     "id": "pixel-11-buyers-face-black-friday-discount-glitch-2026-11-20",
     "title": "Pixel 11 Buyers Face Black Friday Discount Glitch",
     "description": "Some Pixel 11 shoppers are losing access to the $225 Black Friday discount due to a Play Pass subscription issue.",
@@ -1777,24 +1795,6 @@
     "page": "articles/workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14.html",
     "source_urls": [
       "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/"
-    ]
-  },
-  {
-    "id": "dell-offers-20-off-on-laptops-and-monitors-this-november-2026-11-14",
-    "title": "Dell Offers 20% Off on Laptops and Monitors This November",
-    "description": "Dell is giving customers a 20% discount on laptops, Alienware monitors, and other tech items during its November promotion.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "Dell is giving customers a 20% discount on laptops, Alienware monitors, and other tech items during its November promotion.",
-    "page": "articles/dell-offers-20-off-on-laptops-and-monitors-this-november-2026-11-14.html",
-    "source_urls": [
-      "https://www.wired.com/story/dell-coupon-code/"
     ]
   }
 ]
