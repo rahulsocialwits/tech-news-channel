@@ -1,5 +1,23 @@
 [
   {
+    "id": "whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20",
+    "title": "WhatsApp Expands Group Chat Capacity to 1,500 Members",
+    "description": "WhatsApp lifts its group chat limit, allowing up to 1,500 participants per conversation.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "WhatsApp lifts its group chat limit, allowing up to 1,500 participants per conversation.",
+    "page": "articles/whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20.html",
+    "source_urls": [
+      "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/"
+    ]
+  },
+  {
     "id": "openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20",
     "title": "OpenAI’s GPT Models Boost AMD’s Upcoming Flagship GPU Design by 14%",
     "description": "OpenAI’s language models helped AMD improve the performance‑per‑watt of its next‑generation GPU, raising efficiency by 14% and accelerating CPU design gains.",
@@ -1777,24 +1795,6 @@
     "page": "articles/audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14.html",
     "source_urls": [
       "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/"
-    ]
-  },
-  {
-    "id": "workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14",
-    "title": "Workday Outage Leaves Millions of Employees Locked Out of Their Accounts",
-    "description": "A widespread outage at HR platform Workday has prevented employees across thousands of businesses from accessing workplace tasks and payroll information.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "A widespread outage at HR platform Workday has prevented employees across thousands of businesses from accessing workplace tasks and payroll information.",
-    "page": "articles/workday-outage-leaves-millions-of-employees-locked-out-of-their-accounts-2026-11-14.html",
-    "source_urls": [
-      "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/"
     ]
   }
 ]
