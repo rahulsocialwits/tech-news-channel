@@ -1,5 +1,23 @@
 [
   {
+    "id": "lava-unveils-smart-4-pro-4g-phone-with-7-000-mah-battery-for-offline-buyers-2026-11-20",
+    "title": "Lava Unveils Smart 4 Pro 4G Phone with 7,000‑mAh Battery for Offline Buyers",
+    "description": "Lava’s new Smart 4 Pro 4G smartphone features a massive 7,000‑mAh battery and 18W Type‑C charging, targeting users who need long‑lasting power without constant connectivity.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Lava’s new Smart 4 Pro 4G smartphone features a massive 7,000‑mAh battery and 18W Type‑C charging, targeting users who need long‑lasting power without constant connectivity.",
+    "page": "articles/lava-unveils-smart-4-pro-4g-phone-with-7-000-mah-battery-for-offline-buyers-2026-11-20.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-smart-4-pro-4g-phone-for-offline-buyers-in-india/article71723467.ece"
+    ]
+  },
+  {
     "id": "uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20",
     "title": "Uber Tests Rides for 10‑ to 12‑Year‑Olds, Offering Drivers Extra Pay",
     "description": "Uber is piloting a new service that lets parents book rides for children aged 10 to 12, with drivers receiving higher compensation for the trips.",
@@ -1778,24 +1796,6 @@
     "source_urls": [
       "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
       "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece"
-    ]
-  },
-  {
-    "id": "ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14",
-    "title": "UGREEN Launches HomeAgent: A Local‑First Smart Home Hub",
-    "description": "UGREEN’s new HomeAgent collection brings cameras, speakers and more to the home with local processing, reducing reliance on cloud services.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "UGREEN’s new HomeAgent collection brings cameras, speakers and more to the home with local processing, reducing reliance on cloud services.",
-    "page": "articles/ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/"
     ]
   }
 ]
