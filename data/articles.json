@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-gains-u-s-smartphone-market-share-as-samsung-and-motorola-slip-2026-11-20",
+    "title": "Google Gains U.S. Smartphone Market Share as Samsung and Motorola Slip",
+    "description": "Google’s Pixel 11 series pushes the company ahead of Samsung and Motorola in U.S. market share for Q3 2026.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Pixel 11 series pushes the company ahead of Samsung and Motorola in U.S. market share for Q3 2026.",
+    "page": "articles/google-gains-u-s-smartphone-market-share-as-samsung-and-motorola-slip-2026-11-20.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-pixel-11-us-market-share-q3-2026-3737766/"
+    ]
+  },
+  {
     "id": "microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20",
     "title": "Microsoft to Shut Down To Do App, Leaving Users Without a Direct Replacement",
     "description": "Microsoft announced the discontinuation of its To Do app, the successor to Wunderlist, with no immediate replacement in the works.",
@@ -1777,24 +1795,6 @@
     "page": "articles/asian-governments-scramble-to-secure-chip-supply-after-nvidia-ceo-s-exit-2026-11-14.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-    ]
-  },
-  {
-    "id": "elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14",
-    "title": "Elegoo M1 Ultra 3D Scanner Turns Household Items Into Print‑Ready Models",
-    "description": "The Elegoo M1 Ultra 3D scanner offers a fast, affordable way to digitize everyday objects for 3D printing, according to a recent review.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "The Elegoo M1 Ultra 3D scanner offers a fast, affordable way to digitize everyday objects for 3D printing, according to a recent review.",
-    "page": "articles/elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14.html",
-    "source_urls": [
-      "https://www.xda-developers.com/i-used-this-3d-scanner-for-my-functional-models/"
     ]
   }
 ]
