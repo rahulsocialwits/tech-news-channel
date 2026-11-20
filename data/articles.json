@@ -1,5 +1,23 @@
 [
   {
+    "id": "uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20",
+    "title": "Uber Tests Rides for 10‑ to 12‑Year‑Olds, Offering Drivers Extra Pay",
+    "description": "Uber is piloting a new service that lets parents book rides for children aged 10 to 12, with drivers receiving higher compensation for the trips.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Uber is piloting a new service that lets parents book rides for children aged 10 to 12, with drivers receiving higher compensation for the trips.",
+    "page": "articles/uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20.html",
+    "source_urls": [
+      "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/"
+    ]
+  },
+  {
     "id": "android-17-rollout-and-3d-emoji-specs-google-s-next-gen-mobile-push-2026-11-20",
     "title": "Android 17 Rollout and 3D Emoji Specs: Google’s Next‑Gen Mobile Push",
     "description": "Google is expanding Android 17 to 29 phones and tightening 3D emoji requirements, marking a significant shift in mobile OS and visual communication.",
@@ -1778,24 +1796,6 @@
     "page": "articles/ugreen-launches-homeagent-a-local-first-smart-home-hub-2026-11-14.html",
     "source_urls": [
       "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/"
-    ]
-  },
-  {
-    "id": "google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14",
-    "title": "Google’s New Intelligent Eyewear Faces Privacy Hurdles in Latest Review",
-    "description": "A recent review of Google’s Intelligent Eyewear highlights performance strengths and privacy concerns that could shape the smart glasses market.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "A recent review of Google’s Intelligent Eyewear highlights performance strengths and privacy concerns that could shape the smart glasses market.",
-    "page": "articles/google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/"
     ]
   }
 ]
