@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20",
+    "title": "Amazon Deploys Political Banner on Shopping Site Amid NYC Delivery Bill Fight",
+    "description": "Amazon uses its e‑commerce platform to push a political message against the Delivery Protection Act, sparking debate over corporate influence on consumer sites.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Amazon uses its e‑commerce platform to push a political message against the Delivery Protection Act, sparking debate over corporate influence on consumer sites.",
+    "page": "articles/amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20.html",
+    "source_urls": [
+      "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+    ]
+  },
+  {
     "id": "apple-eyes-agentic-ai-for-mac-new-hiring-signals-a-shift-2026-11-20",
     "title": "Apple Eyes Agentic AI for Mac: New Hiring Signals a Shift",
     "description": "Apple is reportedly building its own AI agent for macOS, hiring senior engineering managers to develop reliable, safe tools that could rival Meta Muse and OpenAI’s assistants.",
@@ -1778,24 +1796,6 @@
       "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
       "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
-    ]
-  },
-  {
-    "id": "microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14",
-    "title": "Microsoft’s Global Outage Highlights Risks of Single‑Vendor Dependence",
-    "description": "A week‑long outage of Microsoft 365 services exposed the fragility of relying on one cloud provider for critical business operations.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "A week‑long outage of Microsoft 365 services exposed the fragility of relying on one cloud provider for critical business operations.",
-    "page": "articles/microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
     ]
   }
 ]
