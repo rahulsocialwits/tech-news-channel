@@ -1,5 +1,24 @@
 [
   {
+    "id": "android-17-rollout-and-3d-emoji-specs-google-s-next-gen-mobile-push-2026-11-20",
+    "title": "Android 17 Rollout and 3D Emoji Specs: Google’s Next‑Gen Mobile Push",
+    "description": "Google is expanding Android 17 to 29 phones and tightening 3D emoji requirements, marking a significant shift in mobile OS and visual communication.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Google is expanding Android 17 to 29 phones and tightening 3D emoji requirements, marking a significant shift in mobile OS and visual communication.",
+    "page": "articles/android-17-rollout-and-3d-emoji-specs-google-s-next-gen-mobile-push-2026-11-20.html",
+    "source_urls": [
+      "https://www.androidauthority.com/motorola-android-17-update-rollout-status-3737510/",
+      "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/"
+    ]
+  },
+  {
     "id": "samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20",
     "title": "Samsung Names New Mobile Division Head as Galaxy Z Fold 8 Debuts",
     "description": "Samsung’s mobile division welcomes Choi Won-Joon as chief, following the launch of the Galaxy Z Fold 8.",
@@ -1777,24 +1796,6 @@
     "page": "articles/google-s-new-intelligent-eyewear-faces-privacy-hurdles-in-latest-review-2026-11-14.html",
     "source_urls": [
       "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/"
-    ]
-  },
-  {
-    "id": "pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14",
-    "title": "Pixel 11 Pro Adds Hilight to WhatsApp Messages",
-    "description": "Google expands the Pixel 11 Pro’s Hilight feature to highlight important WhatsApp messages, improving user focus on key conversations.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "Google expands the Pixel 11 Pro’s Hilight feature to highlight important WhatsApp messages, improving user focus on key conversations.",
-    "page": "articles/pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/"
     ]
   }
 ]
