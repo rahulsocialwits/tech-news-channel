@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20",
+    "title": "Samsung Names New Mobile Division Head as Galaxy Z Fold 8 Debuts",
+    "description": "Samsung’s mobile division welcomes Choi Won-Joon as chief, following the launch of the Galaxy Z Fold 8.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s mobile division welcomes Choi Won-Joon as chief, following the launch of the Galaxy Z Fold 8.",
+    "page": "articles/samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/"
+    ]
+  },
+  {
     "id": "amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20",
     "title": "Amazon Deploys Political Banner on Shopping Site Amid NYC Delivery Bill Fight",
     "description": "Amazon uses its e‑commerce platform to push a political message against the Delivery Protection Act, sparking debate over corporate influence on consumer sites.",
@@ -1777,25 +1795,6 @@
     "page": "articles/pixel-11-pro-adds-hilight-to-whatsapp-messages-2026-11-14.html",
     "source_urls": [
       "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/"
-    ]
-  },
-  {
-    "id": "nvidia-s-leadership-shake-up-signals-a-shift-in-ai-startup-funding-and-chip-tracking-2026-11-14",
-    "title": "Nvidia’s Leadership Shake‑Up Signals a Shift in AI Startup Funding and Chip Tracking",
-    "description": "The departure of Jensen Huang has left Nvidia scrambling to fill a massive void, prompting a reevaluation of AI startup investments and a new focus on chip supply chain transparency.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "The departure of Jensen Huang has left Nvidia scrambling to fill a massive void, prompting a reevaluation of AI startup investments and a new focus on chip supply chain transparency.",
-    "page": "articles/nvidia-s-leadership-shake-up-signals-a-shift-in-ai-startup-funding-and-chip-tracking-2026-11-14.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-      "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     ]
   }
 ]
