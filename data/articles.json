@@ -1,5 +1,24 @@
 [
   {
+    "id": "apple-eyes-agentic-ai-for-mac-new-hiring-signals-a-shift-2026-11-20",
+    "title": "Apple Eyes Agentic AI for Mac: New Hiring Signals a Shift",
+    "description": "Apple is reportedly building its own AI agent for macOS, hiring senior engineering managers to develop reliable, safe tools that could rival Meta Muse and OpenAI’s assistants.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "AI"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Apple is reportedly building its own AI agent for macOS, hiring senior engineering managers to develop reliable, safe tools that could rival Meta Muse and OpenAI’s assistants.",
+    "page": "articles/apple-eyes-agentic-ai-for-mac-new-hiring-signals-a-shift-2026-11-20.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/"
+    ]
+  },
+  {
     "id": "google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19",
     "title": "Google Partners with Blue Origin to Launch Satellite Data Centers for Space‑Based AI",
     "description": "Google’s Project Suncatcher will deploy AI‑enabled data centers in orbit, expanding cloud infrastructure beyond Earth.",
@@ -1777,24 +1796,6 @@
     "page": "articles/microsoft-s-global-outage-highlights-risks-of-single-vendor-dependence-2026-11-14.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
-    ]
-  },
-  {
-    "id": "amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14",
-    "title": "Amazon Unveils Lightweight Kindle Colorsoft with Edge‑to‑Edge Display",
-    "description": "Amazon’s new Kindle Colorsoft offers a slimmer design and full‑edge screen, but existing owners may find little incentive to upgrade.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "Amazon’s new Kindle Colorsoft offers a slimmer design and full‑edge screen, but existing owners may find little incentive to upgrade.",
-    "page": "articles/amazon-unveils-lightweight-kindle-colorsoft-with-edge-to-edge-display-2026-11-14.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
     ]
   }
 ]
