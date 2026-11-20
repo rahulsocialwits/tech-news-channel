@@ -1,5 +1,23 @@
 [
   {
+    "id": "bose-quietcomfort-ultra-2nd-gen-headphones-drop-to-369-in-latest-deal-2026-11-20",
+    "title": "Bose QuietComfort Ultra 2nd‑Gen Headphones Drop to $369 in Latest Deal",
+    "description": "Bose’s flagship noise‑canceling headphones hit a new low price of $369, offering lossless USB‑C audio and advanced comfort features for music lovers and commuters.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Bose’s flagship noise‑canceling headphones hit a new low price of $369, offering lossless USB‑C audio and advanced comfort features for music lovers and commuters.",
+    "page": "articles/bose-quietcomfort-ultra-2nd-gen-headphones-drop-to-369-in-latest-deal-2026-11-20.html",
+    "source_urls": [
+      "https://www.androidauthority.com/bose-qc-ultra-headphones-2nd-gen-deal-3737401/"
+    ]
+  },
+  {
     "id": "whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20",
     "title": "WhatsApp Expands Group Chat Capacity to 1,500 Members",
     "description": "WhatsApp lifts its group chat limit, allowing up to 1,500 participants per conversation.",
@@ -1777,24 +1795,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
       "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
-    ]
-  },
-  {
-    "id": "audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14",
-    "title": "Audit Your Cloud Storage Links Before They Become Security Risks",
-    "description": "A recent Wired guide warns that old cloud links can still be live and may expose sensitive data to unwanted visitors.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "A recent Wired guide warns that old cloud links can still be live and may expose sensitive data to unwanted visitors.",
-    "page": "articles/audit-your-cloud-storage-links-before-they-become-security-risks-2026-11-14.html",
-    "source_urls": [
-      "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/"
     ]
   }
 ]
