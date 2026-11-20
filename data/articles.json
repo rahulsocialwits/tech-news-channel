@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20",
+    "title": "Microsoft to Shut Down To Do App, Leaving Users Without a Direct Replacement",
+    "description": "Microsoft announced the discontinuation of its To Do app, the successor to Wunderlist, with no immediate replacement in the works.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-20",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft announced the discontinuation of its To Do app, the successor to Wunderlist, with no immediate replacement in the works.",
+    "page": "articles/microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/"
+    ]
+  },
+  {
     "id": "six-ai-powered-gadgets-set-to-transform-home-offices-2026-11-20",
     "title": "Six AI‑Powered Gadgets Set to Transform Home Offices",
     "description": "A roundup of the latest AI‑enabled devices that promise smarter, more efficient workspaces for remote workers.",
@@ -1777,24 +1795,6 @@
     "page": "articles/elegoo-m1-ultra-3d-scanner-turns-household-items-into-print-ready-models-2026-11-14.html",
     "source_urls": [
       "https://www.xda-developers.com/i-used-this-3d-scanner-for-my-functional-models/"
-    ]
-  },
-  {
-    "id": "langchain-surges-to-3-b-valuation-securing-7-000-customers-2026-11-14",
-    "title": "LangChain Surges to $3 B Valuation, Securing 7,000 Customers",
-    "description": "AI‑agent startup LangChain reaches $3 B valuation after adding 7,000 customers to its LangSmith platform.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "AI‑agent startup LangChain reaches $3 B valuation after adding 7,000 customers to its LangSmith platform.",
-    "page": "articles/langchain-surges-to-3-b-valuation-securing-7-000-customers-2026-11-14.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
     ]
   }
 ]
