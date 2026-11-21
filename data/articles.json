@@ -1,5 +1,22 @@
 [
   {
+    "id": "south-korea-deploys-ai-driven-surveillance-to-stop-college-exam-cheating-2026-11-21",
+    "title": "South Korea Deploys AI‑Driven Surveillance to Stop College Exam Cheating",
+    "description": "South Korea used AI micro‑cameras and emergency alerts to catch 54 students cheating on the national college entrance exam.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "South Korea used AI micro‑cameras and emergency alerts to catch 54 students cheating on the national college entrance exam.",
+    "page": "articles/south-korea-deploys-ai-driven-surveillance-to-stop-college-exam-cheating-2026-11-21.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown"
+    ]
+  },
+  {
     "id": "spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21",
     "title": "Spotify Founder Daniel Ek Invests in AI‑Driven Fusion Power Startup",
     "description": "Spotify co‑founder Daniel Ek backs Europa Fusion, a startup founded by an AI researcher aiming to commercialize fusion energy.",
@@ -1777,23 +1794,6 @@
     "page": "articles/sony-eyes-credit-card-enabled-playstation-controllers-for-digital-only-future-2026-11-15.html",
     "source_urls": [
       "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/"
-    ]
-  },
-  {
-    "id": "microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15",
-    "title": "Microsoft’s Global Outage Highlights the Fragility of Cloud‑Based Productivity",
-    "description": "A worldwide outage of Microsoft services exposed the risks of relying on cloud infrastructure for essential business operations.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "A worldwide outage of Microsoft services exposed the risks of relying on cloud infrastructure for essential business operations.",
-    "page": "articles/microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece"
     ]
   }
 ]
