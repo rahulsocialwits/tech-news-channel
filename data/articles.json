@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-unveils-pixel-dro-p-a-new-ai-centric-update-for-pixel-10-2026-11-21",
+    "title": "Google Unveils Pixel Dro p: A New AI‑Centric Update for Pixel 10",
+    "description": "Google’s latest Pixel Dro p brings AI‑powered features to the Pixel 10, including a revamped HiLight, custom widgets, and Wallet support on iPhone.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Pixel Dro p brings AI‑powered features to the Pixel 10, including a revamped HiLight, custom widgets, and Wallet support on iPhone.",
+    "page": "articles/google-unveils-pixel-dro-p-a-new-ai-centric-update-for-pixel-10-2026-11-21.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/"
+    ]
+  },
+  {
     "id": "soundpeats-q40-hd-neckband-earbuds-drop-35-ahead-of-black-friday-2026-11-20",
     "title": "SoundPEATS Q40 HD Neckband Earbuds Drop 35% Ahead of Black Friday",
     "description": "SoundPEATS Q40 HD neckband earbuds are now 35% off for Prime members, offering LDAC support and sports‑ready design.",
@@ -1777,24 +1795,6 @@
     "page": "articles/free-up-36gb-of-android-storage-without-deleting-photos-2026-11-15.html",
     "source_urls": [
       "https://www.androidauthority.com/free-up-android-storage-tips-3734228/"
-    ]
-  },
-  {
-    "id": "samsung-s-1tb-990-ssd-slashes-prices-to-19-per-gb-amid-memory-crunch-2026-11-14",
-    "title": "Samsung’s 1TB 990 SSD Slashes Prices to 19¢ per GB Amid Memory Crunch",
-    "description": "Samsung’s 990 PCIe 4.0 SSD hits a new low, offering high‑speed storage for under $40 as memory prices fall.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-11-14",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s 990 PCIe 4.0 SSD hits a new low, offering high‑speed storage for under $40 as memory prices fall.",
-    "page": "articles/samsung-s-1tb-990-ssd-slashes-prices-to-19-per-gb-amid-memory-crunch-2026-11-14.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off"
     ]
   }
 ]
