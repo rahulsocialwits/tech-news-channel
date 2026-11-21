@@ -1,5 +1,22 @@
 [
   {
+    "id": "pci-ssc-asia-pacific-event-highlights-new-directions-for-payment-security-2026-11-21",
+    "title": "PCI SSC Asia‑Pacific Event Highlights New Directions for Payment Security",
+    "description": "Industry leaders gather in New Delhi to discuss evolving payment security standards and emerging threats at the PCI Security Standards Council Asia‑Pacific event.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Industry leaders gather in New Delhi to discuss evolving payment security standards and emerging threats at the PCI Security Standards Council Asia‑Pacific event.",
+    "page": "articles/pci-ssc-asia-pacific-event-highlights-new-directions-for-payment-security-2026-11-21.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/5tattva-joins-industry-leaders-to-discuss-the-future-of-payment-security-at-pci-ssc-asia-pacific-event-2026/"
+    ]
+  },
+  {
     "id": "deepfake-driven-investment-scams-on-the-rise-experts-warn-2026-11-21",
     "title": "Deepfake‑Driven Investment Scams on the Rise, Experts Warn",
     "description": "Cybercriminals increasingly use deepfakes to lure investors into fraudulent schemes, according to a recent Indian Express investigation.",
@@ -1775,24 +1792,6 @@
     "page": "articles/evercade-nexus-the-retro-handheld-that-just-got-a-major-upgrade-2026-11-15.html",
     "source_urls": [
       "https://www.wired.com/review/evercade-nexus/"
-    ]
-  },
-  {
-    "id": "krita-s-new-ai-diffusion-plugin-lets-artists-keep-generative-fill-local-2026-11-15",
-    "title": "Krita’s New AI Diffusion Plugin Lets Artists Keep Generative Fill Local",
-    "description": "Krita now offers a local AI diffusion plugin that replaces Photoshop’s cloud‑based generative fill, keeping all model inference on the user’s GPU.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "Krita now offers a local AI diffusion plugin that replaces Photoshop’s cloud‑based generative fill, keeping all model inference on the user’s GPU.",
-    "page": "articles/krita-s-new-ai-diffusion-plugin-lets-artists-keep-generative-fill-local-2026-11-15.html",
-    "source_urls": [
-      "https://www.xda-developers.com/i-replaced-photoshops-generative-fill-for-a-local-model-inside-krita/"
     ]
   }
 ]
