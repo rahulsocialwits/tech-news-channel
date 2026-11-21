@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-unveils-gemini-4-neon-a-new-benchmark-for-enterprise-ai-workflows-2026-11-21",
+    "title": "Google Unveils Gemini 4 Neon, A New Benchmark for Enterprise AI Workflows",
+    "description": "Google’s latest Gemini 4 Neon model promises advanced coding, analytical reasoning, and enterprise‑ready features, positioning it as a direct competitor to Claude Opus 5.5 and GPT‑6.2 Sol.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Gemini 4 Neon model promises advanced coding, analytical reasoning, and enterprise‑ready features, positioning it as a direct competitor to Claude Opus 5.5 and GPT‑6.2 Sol.",
+    "page": "articles/google-unveils-gemini-4-neon-a-new-benchmark-for-enterprise-ai-workflows-2026-11-21.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece"
+    ]
+  },
+  {
     "id": "icici-direct-unveils-ai-powered-trading-suite-to-boost-investor-experience-2026-11-21",
     "title": "ICICI Direct Unveils AI‑Powered Trading Suite to Boost Investor Experience",
     "description": "ICICI Direct rolls out new technology‑driven features that integrate analysis, execution and portfolio monitoring for traders and investors.",
@@ -1775,24 +1793,6 @@
     "page": "articles/from-sticky-to-sleek-how-a-diy-e-ink-apple-tv-remote-is-turning-heads-2026-11-15.html",
     "source_urls": [
       "https://www.xda-developers.com/someone-turned-their-reterminal-sticky-into-a-sleek-e-ink-apple-tv-remote/"
-    ]
-  },
-  {
-    "id": "unlock-android-s-hidden-running-services-menu-to-spot-battery-draining-apps-2026-11-15",
-    "title": "Unlock Android’s Hidden Running Services Menu to Spot Battery‑Draining Apps",
-    "description": "Learn how to access Android’s hidden Running Services screen and monitor background apps that drain battery and memory.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "Learn how to access Android’s hidden Running Services screen and monitor background apps that drain battery and memory.",
-    "page": "articles/unlock-android-s-hidden-running-services-menu-to-spot-battery-draining-apps-2026-11-15.html",
-    "source_urls": [
-      "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/"
     ]
   }
 ]
