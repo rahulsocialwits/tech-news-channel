@@ -1,5 +1,23 @@
 [
   {
+    "id": "u-s-startup-sues-apple-over-tap-to-share-contacts-feature-in-india-2026-11-21",
+    "title": "U.S. Startup Sues Apple Over Tap‑to‑Share Contacts Feature in India",
+    "description": "A U.S. startup seeks $162 million in damages and an injunction after Apple’s tap‑to‑share contacts feature is alleged to infringe its patent, potentially affecting iPhone and Apple Watch imports into India.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "A U.S. startup seeks $162 million in damages and an injunction after Apple’s tap‑to‑share contacts feature is alleged to infringe its patent, potentially affecting iPhone and Apple Watch imports into India.",
+    "page": "articles/u-s-startup-sues-apple-over-tap-to-share-contacts-feature-in-india-2026-11-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    ]
+  },
+  {
     "id": "honey-trap-threat-looms-over-ai-developers-as-new-report-highlights-vulnerability-2026-11-21",
     "title": "Honey‑Trap Threat Looms Over AI Developers as New Report Highlights Vulnerability",
     "description": "Experts warn that AI researchers and engineers are highly susceptible to honey‑trap schemes, urging tighter security practices across the industry.",
@@ -1776,25 +1794,6 @@
     "page": "articles/nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15.html",
     "source_urls": [
       "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/"
-    ]
-  },
-  {
-    "id": "nvidia-s-security-vacuum-how-jensen-huang-s-exit-exposes-a-critical-gap-2026-11-15",
-    "title": "Nvidia’s Security Vacuum: How Jensen Huang’s Exit Exposes a Critical Gap",
-    "description": "After Nvidia CEO Jensen Huang stepped down, the company’s security team vanished, raising concerns about how the tech giant will protect its AI assets and supply chain. The story examines the implications for the industry.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "4 min read",
-    "excerpt": "After Nvidia CEO Jensen Huang stepped down, the company’s security team vanished, raising concerns about how the tech giant will protect its AI assets and supply chain. The story examines the implications for the industry.",
-    "page": "articles/nvidia-s-security-vacuum-how-jensen-huang-s-exit-exposes-a-critical-gap-2026-11-15.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
-      "https://indianexpress.com/article/technology/artificial-intelligence/jensen-huangs-exit-nvidias-open-source-ai-ambitions-10963100/"
     ]
   }
 ]
