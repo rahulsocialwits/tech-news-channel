@@ -1,5 +1,23 @@
 [
   {
+    "id": "spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21",
+    "title": "Spotify Founder Daniel Ek Invests in AI‑Driven Fusion Power Startup",
+    "description": "Spotify co‑founder Daniel Ek backs Europa Fusion, a startup founded by an AI researcher aiming to commercialize fusion energy.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Spotify co‑founder Daniel Ek backs Europa Fusion, a startup founded by an AI researcher aiming to commercialize fusion energy.",
+    "page": "articles/spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    ]
+  },
+  {
     "id": "u-s-startup-sues-apple-over-tap-to-share-contacts-feature-in-india-2026-11-21",
     "title": "U.S. Startup Sues Apple Over Tap‑to‑Share Contacts Feature in India",
     "description": "A U.S. startup seeks $162 million in damages and an injunction after Apple’s tap‑to‑share contacts feature is alleged to infringe its patent, potentially affecting iPhone and Apple Watch imports into India.",
@@ -1776,24 +1794,6 @@
     "page": "articles/microsoft-s-global-outage-highlights-the-fragility-of-cloud-based-productivity-2026-11-15.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece"
-    ]
-  },
-  {
-    "id": "nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15",
-    "title": "NVIDIA’s New GPU Bridges the Gap Between PS5 and PC Gaming",
-    "description": "NVIDIA’s latest graphics card delivers performance close to the PlayStation 5, offering gamers a compelling PC alternative.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "NVIDIA’s latest graphics card delivers performance close to the PlayStation 5, offering gamers a compelling PC alternative.",
-    "page": "articles/nvidia-s-new-gpu-bridges-the-gap-between-ps5-and-pc-gaming-2026-11-15.html",
-    "source_urls": [
-      "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/"
     ]
   }
 ]
