@@ -1,5 +1,23 @@
 [
   {
+    "id": "grand-theft-auto-vi-breaks-record-with-3-79-billion-first-day-retail-sales-2026-11-21",
+    "title": "Grand Theft Auto VI Breaks Record with $3.79 Billion First‑Day Retail Sales",
+    "description": "Rockstar Games’ latest entry in the GTA series tops all expectations, pulling in $3.79 billion in retail revenue on its opening day.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Rockstar Games’ latest entry in the GTA series tops all expectations, pulling in $3.79 billion in retail revenue on its opening day.",
+    "page": "articles/grand-theft-auto-vi-breaks-record-with-3-79-billion-first-day-retail-sales-2026-11-21.html",
+    "source_urls": [
+      "https://www.thehindu.com/entertainment/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports/article71727468.ece"
+    ]
+  },
+  {
     "id": "pune-startup-unveils-atomic-clock-prototype-amid-export-curbs-2026-11-21",
     "title": "Pune Startup Unveils Atomic Clock Prototype Amid Export Curbs",
     "description": "A Pune‑based startup has announced a working atomic clock prototype, a critical technology for satellite navigation and telecommunications, as export restrictions tighten.",
@@ -1776,24 +1794,6 @@
     "page": "articles/tiny-tech-11-everyday-gadgets-under-10-that-actually-deliver-2026-11-15.html",
     "source_urls": [
       "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/"
-    ]
-  },
-  {
-    "id": "egpu-vs-onboard-graphics-when-extra-power-is-worth-the-cost-2026-11-15",
-    "title": "eGPU vs Onboard Graphics: When Extra Power Is Worth the Cost",
-    "description": "A deep dive into the real benefits and limits of external GPUs for laptops, helping buyers decide if the upgrade is worth it.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "A deep dive into the real benefits and limits of external GPUs for laptops, helping buyers decide if the upgrade is worth it.",
-    "page": "articles/egpu-vs-onboard-graphics-when-extra-power-is-worth-the-cost-2026-11-15.html",
-    "source_urls": [
-      "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/"
     ]
   }
 ]
