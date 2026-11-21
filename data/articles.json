@@ -1,5 +1,23 @@
 [
   {
+    "id": "alteryx-unveils-vura-governance-to-boost-trust-in-ai-workflows-2026-11-21",
+    "title": "Alteryx Unveils VURA Governance to Boost Trust in AI Workflows",
+    "description": "Alteryx’s new VURA Governance Experience gives enterprises a way to validate AI outputs, automate workflows, and maintain visibility into business logic and data.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Alteryx’s new VURA Governance Experience gives enterprises a way to validate AI outputs, automate workflows, and maintain visibility into business logic and data.",
+    "page": "articles/alteryx-unveils-vura-governance-to-boost-trust-in-ai-workflows-2026-11-21.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/alteryx-introduces-vura-governance-experience-to-help-enterprises-strengthen-trust-in-ai-outputs-and-automate-operations/"
+    ]
+  },
+  {
     "id": "pci-ssc-asia-pacific-event-highlights-new-directions-for-payment-security-2026-11-21",
     "title": "PCI SSC Asia‑Pacific Event Highlights New Directions for Payment Security",
     "description": "Industry leaders gather in New Delhi to discuss evolving payment security standards and emerging threats at the PCI Security Standards Council Asia‑Pacific event.",
@@ -1774,24 +1792,6 @@
     "page": "articles/coway-air-purifier-goes-offline-a-diy-cloud-free-home-assistant-hack-2026-11-15.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways"
-    ]
-  },
-  {
-    "id": "evercade-nexus-the-retro-handheld-that-just-got-a-major-upgrade-2026-11-15",
-    "title": "Evercade Nexus: The Retro Handheld That Just Got a Major Upgrade",
-    "description": "Evercade’s latest handheld, the Nexus, delivers a fresh retro gaming experience with a new cartridge system, improved hardware and a sleek design.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "Evercade’s latest handheld, the Nexus, delivers a fresh retro gaming experience with a new cartridge system, improved hardware and a sleek design.",
-    "page": "articles/evercade-nexus-the-retro-handheld-that-just-got-a-major-upgrade-2026-11-15.html",
-    "source_urls": [
-      "https://www.wired.com/review/evercade-nexus/"
     ]
   }
 ]
