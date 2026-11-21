@@ -1,5 +1,23 @@
 [
   {
+    "id": "honey-trap-threat-looms-over-ai-developers-as-new-report-highlights-vulnerability-2026-11-21",
+    "title": "Honey‑Trap Threat Looms Over AI Developers as New Report Highlights Vulnerability",
+    "description": "Experts warn that AI researchers and engineers are highly susceptible to honey‑trap schemes, urging tighter security practices across the industry.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Experts warn that AI researchers and engineers are highly susceptible to honey‑trap schemes, urging tighter security practices across the industry.",
+    "page": "articles/honey-trap-threat-looms-over-ai-developers-as-new-report-highlights-vulnerability-2026-11-21.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+    ]
+  },
+  {
     "id": "google-unveils-pixel-dro-p-a-new-ai-centric-update-for-pixel-10-2026-11-21",
     "title": "Google Unveils Pixel Dro p: A New AI‑Centric Update for Pixel 10",
     "description": "Google’s latest Pixel Dro p brings AI‑powered features to the Pixel 10, including a revamped HiLight, custom widgets, and Wallet support on iPhone.",
@@ -1777,24 +1795,6 @@
       "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
       "https://indianexpress.com/article/technology/artificial-intelligence/jensen-huangs-exit-nvidias-open-source-ai-ambitions-10963100/"
-    ]
-  },
-  {
-    "id": "free-up-36gb-of-android-storage-without-deleting-photos-2026-11-15",
-    "title": "Free Up 36GB of Android Storage Without Deleting Photos",
-    "description": "Learn how to reclaim 36GB of space on an Android phone using built‑in tools and smart settings, all without deleting any photos.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "Learn how to reclaim 36GB of space on an Android phone using built‑in tools and smart settings, all without deleting any photos.",
-    "page": "articles/free-up-36gb-of-android-storage-without-deleting-photos-2026-11-15.html",
-    "source_urls": [
-      "https://www.androidauthority.com/free-up-android-storage-tips-3734228/"
     ]
   }
 ]
