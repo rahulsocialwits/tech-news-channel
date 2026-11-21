@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-homeview-turns-your-kitchen-into-a-smart-cooking-studio-2026-11-21",
+    "title": "Apple HomeView Turns Your Kitchen Into a Smart Cooking Studio",
+    "description": "Apple’s new HomeView cooking feature lets users follow recipes, track ingredients, and get real‑time guidance on its smart display.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s new HomeView cooking feature lets users follow recipes, track ingredients, and get real‑time guidance on its smart display.",
+    "page": "articles/apple-homeview-turns-your-kitchen-into-a-smart-cooking-studio-2026-11-21.html",
+    "source_urls": [
+      "https://www.engadget.com/2318404/apple-homeview-cooking-feature/"
+    ]
+  },
+  {
     "id": "how-to-extend-your-fitbit-s-battery-life-simple-tweaks-that-add-months-2026-11-21",
     "title": "How to Extend Your Fitbit’s Battery Life: Simple Tweaks That Add Months",
     "description": "Discover easy ways to keep your Fitbit running longer, from adjusting settings to managing notifications, based on tips from Engadget.",
@@ -1773,24 +1791,6 @@
     "page": "articles/open-ear-vs-in-ear-earbuds-which-design-is-better-for-your-ears-2026-11-15.html",
     "source_urls": [
       "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/"
-    ]
-  },
-  {
-    "id": "old-android-phones-can-be-reborn-as-computer-speakers-2026-11-15",
-    "title": "Old Android Phones Can Be Reborn as Computer Speakers",
-    "description": "Discover how a simple app turns an unused Android phone into a wireless speaker for your PC, extending the life of old devices.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "Discover how a simple app turns an unused Android phone into a wireless speaker for your PC, extending the life of old devices.",
-    "page": "articles/old-android-phones-can-be-reborn-as-computer-speakers-2026-11-15.html",
-    "source_urls": [
-      "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/"
     ]
   }
 ]
