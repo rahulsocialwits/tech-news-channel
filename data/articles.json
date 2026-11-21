@@ -1,5 +1,22 @@
 [
   {
+    "id": "home-networks-go-dark-light-raspberry-pi-turns-dns-into-a-privacy-fortress-2026-11-21",
+    "title": "Home Networks Go Dark‑Light: Raspberry Pi Turns DNS Into a Privacy Fortress",
+    "description": "A DIY Raspberry Pi setup pairs Pi‑hole with Unbound to block trackers and resolve DNS locally, cutting out Google and Cloudflare.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "A DIY Raspberry Pi setup pairs Pi‑hole with Unbound to block trackers and resolve DNS locally, cutting out Google and Cloudflare.",
+    "page": "articles/home-networks-go-dark-light-raspberry-pi-turns-dns-into-a-privacy-fortress-2026-11-21.html",
+    "source_urls": [
+      "https://www.xda-developers.com/pair-pi-hole-with-unbound-on-a-raspberry-pi/"
+    ]
+  },
+  {
     "id": "anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21",
     "title": "Anker Unveils 13‑in‑1 Nano Docking Station with Pop‑Out Travel Hub",
     "description": "Anker’s new Nano Docking Station offers a 13‑in‑1 connectivity hub and a pop‑out travel hub, now discounted ahead of Black Friday.",
@@ -1774,24 +1791,6 @@
     "page": "articles/how-long-will-your-nvidia-gpu-be-supported-a-practical-guide-2026-11-15.html",
     "source_urls": [
       "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/"
-    ]
-  },
-  {
-    "id": "samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15",
-    "title": "Samsung Galaxy Watch 9 Delivers Unexpected Highlights After Three Months",
-    "description": "After three months of use, users report battery life is fine but other features shine on the Galaxy Watch 9.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "After three months of use, users report battery life is fine but other features shine on the Galaxy Watch 9.",
-    "page": "articles/samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15.html",
-    "source_urls": [
-      "https://www.androidauthority.com/favorite-samsung-galaxy-watch-9-features-3734323/"
     ]
   }
 ]
