@@ -1,5 +1,23 @@
 [
   {
+    "id": "anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21",
+    "title": "Anker Unveils 13‑in‑1 Nano Docking Station with Pop‑Out Travel Hub",
+    "description": "Anker’s new Nano Docking Station offers a 13‑in‑1 connectivity hub and a pop‑out travel hub, now discounted ahead of Black Friday.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-21",
+    "readTime": "3 min read",
+    "excerpt": "Anker’s new Nano Docking Station offers a 13‑in‑1 connectivity hub and a pop‑out travel hub, now discounted ahead of Black Friday.",
+    "page": "articles/anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21.html",
+    "source_urls": [
+      "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/"
+    ]
+  },
+  {
     "id": "alteryx-unveils-vura-governance-to-boost-trust-in-ai-workflows-2026-11-21",
     "title": "Alteryx Unveils VURA Governance to Boost Trust in AI Workflows",
     "description": "Alteryx’s new VURA Governance Experience gives enterprises a way to validate AI outputs, automate workflows, and maintain visibility into business logic and data.",
@@ -1774,24 +1792,6 @@
     "page": "articles/samsung-galaxy-watch-9-delivers-unexpected-highlights-after-three-months-2026-11-15.html",
     "source_urls": [
       "https://www.androidauthority.com/favorite-samsung-galaxy-watch-9-features-3734323/"
-    ]
-  },
-  {
-    "id": "coway-air-purifier-goes-offline-a-diy-cloud-free-home-assistant-hack-2026-11-15",
-    "title": "Coway Air Purifier Goes Offline: A DIY Cloud‑Free Home Assistant Hack",
-    "description": "A developer reverse‑engineered the Coway Airmega IconS to run locally in Home Assistant, cutting out the manufacturer’s cloud and exposing a plain‑HTTP certificate download.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Software"
-    ],
-    "feature_image": "",
-    "date": "2026-11-15",
-    "readTime": "3 min read",
-    "excerpt": "A developer reverse‑engineered the Coway Airmega IconS to run locally in Home Assistant, cutting out the manufacturer’s cloud and exposing a plain‑HTTP certificate download.",
-    "page": "articles/coway-air-purifier-goes-offline-a-diy-cloud-free-home-assistant-hack-2026-11-15.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways"
     ]
   }
 ]
