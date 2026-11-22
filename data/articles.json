@@ -1,5 +1,23 @@
 [
   {
+    "id": "stardock-s-start11-v3-brings-widgets-and-deep-customization-to-windows-11-2026-11-22",
+    "title": "Stardock’s Start11 v3 Brings Widgets and Deep Customization to Windows 11",
+    "description": "Stardock’s latest Start11 update adds native widgets, taskbar tweaks and a new customization engine for Windows 11 users.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Stardock’s latest Start11 update adds native widgets, taskbar tweaks and a new customization engine for Windows 11 users.",
+    "page": "articles/stardock-s-start11-v3-brings-widgets-and-deep-customization-to-windows-11-2026-11-22.html",
+    "source_urls": [
+      "https://www.xda-developers.com/start11-v3-gives-windows-11-widgets-customization-should-have-had-all-along/"
+    ]
+  },
+  {
     "id": "signal-blocks-in-app-screenshots-amid-ai-surveillance-concerns-2026-11-22",
     "title": "Signal Blocks In‑App Screenshots Amid AI Surveillance Concerns",
     "description": "Signal’s new policy bans screenshots on mobile devices as the messaging app warns of AI‑driven privacy threats.",
@@ -1775,23 +1793,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
       "https://9to5google.com/2026/11/16/google-ask-maps-itineraries/"
-    ]
-  },
-  {
-    "id": "amazon-s-starlink-rival-loses-40-satellites-in-failed-rocket-launch-2026-11-16",
-    "title": "Amazon’s Starlink Rival Loses 40 Satellites in Failed Rocket Launch",
-    "description": "A failed Vulcan launch destroyed 40 satellites intended for Amazon’s low‑Earth‑orbit broadband network, delaying the company’s Starlink‑style service.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "A failed Vulcan launch destroyed 40 satellites intended for Amazon’s low‑Earth‑orbit broadband network, delaying the company’s Starlink‑style service.",
-    "page": "articles/amazon-s-starlink-rival-loses-40-satellites-in-failed-rocket-launch-2026-11-16.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
     ]
   }
 ]
