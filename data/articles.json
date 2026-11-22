@@ -1,5 +1,22 @@
 [
   {
+    "id": "scientists-push-the-boundary-of-human-memory-with-brain-preservation-research-2026-11-22",
+    "title": "Scientists Push the Boundary of Human Memory with Brain‑Preservation Research",
+    "description": "Researchers explore ways to keep the human mind alive beyond biological limits, sparking debate on ethics and feasibility.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Researchers explore ways to keep the human mind alive beyond biological limits, sparking debate on ethics and feasibility.",
+    "page": "articles/scientists-push-the-boundary-of-human-memory-with-brain-preservation-research-2026-11-22.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+    ]
+  },
+  {
     "id": "suri-the-seventh-note-a-2d-rhythm-platformer-that-celebrates-india-s-cultural-tapestry-2026-11-22",
     "title": "Suri: The Seventh Note – A 2D Rhythm Platformer That Celebrates India’s Cultural Tapestry",
     "description": "Suri: The Seventh Note, a new 2D rhythm platformer from Tathvamasi Studios, blends music, mythology, and Indian heritage in a fresh gaming experience.",
@@ -1775,23 +1792,6 @@
     "page": "articles/volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
-    ]
-  },
-  {
-    "id": "export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16",
-    "title": "Export‑Banned Nvidia Chips Find Their Way into Chinese AI Models",
-    "description": "Chinese AI developers are using Nvidia’s Blackwell GPUs despite export bans, according to new findings.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Chinese AI developers are using Nvidia’s Blackwell GPUs despite export bans, according to new findings.",
-    "page": "articles/export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-banned-gpus-training-chinese-ai-models-key-findings-10964970/"
     ]
   }
 ]
