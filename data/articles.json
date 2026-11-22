@@ -1,5 +1,26 @@
 [
   {
+    "id": "tcl-s-paper-like-tablet-and-samsung-s-ultra-2-watch-show-how-low-cost-and-high-performance-2026-11-22",
+    "title": "TCL’s Paper‑Like Tablet and Samsung’s Ultra 2 Watch Show How Low‑Cost and High‑Performance Can Coexist",
+    "description": "TCL’s 12.2‑inch NXT‑Paper tablet hits a record low price, while Samsung’s Galaxy Watch Ultra 2 offers premium battery life and outdoor features that justify its higher cost.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "4 min read",
+    "excerpt": "TCL’s 12.2‑inch NXT‑Paper tablet hits a record low price, while Samsung’s Galaxy Watch Ultra 2 offers premium battery life and outdoor features that justify its higher cost.",
+    "page": "articles/tcl-s-paper-like-tablet-and-samsung-s-ultra-2-watch-show-how-low-cost-and-high-performance-2026-11-22.html",
+    "source_urls": [
+      "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
+      "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
+      "https://www.wired.com/gallery/best-travel-adapters/",
+      "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/"
+    ]
+  },
+  {
     "id": "stardock-s-start11-v3-brings-widgets-and-deep-customization-to-windows-11-2026-11-22",
     "title": "Stardock’s Start11 v3 Brings Widgets and Deep Customization to Windows 11",
     "description": "Stardock’s latest Start11 update adds native widgets, taskbar tweaks and a new customization engine for Windows 11 users.",
@@ -1774,25 +1795,6 @@
     "page": "articles/top-digital-photo-frames-of-2026-from-aura-to-amazon-s-latest-models-2026-11-16.html",
     "source_urls": [
       "https://www.wired.com/story/best-digital-photo-frames/"
-    ]
-  },
-  {
-    "id": "google-maps-adds-real-time-trip-itineraries-ahead-of-holiday-rush-2026-11-16",
-    "title": "Google Maps Adds Real‑Time Trip Itineraries Ahead of Holiday Rush",
-    "description": "Google Maps now builds detailed itineraries with live updates for each stop, helping travelers plan multi‑day road trips and daily outings.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Google Maps now builds detailed itineraries with live updates for each stop, helping travelers plan multi‑day road trips and daily outings.",
-    "page": "articles/google-maps-adds-real-time-trip-itineraries-ahead-of-holiday-rush-2026-11-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "https://9to5google.com/2026/11/16/google-ask-maps-itineraries/"
     ]
   }
 ]
