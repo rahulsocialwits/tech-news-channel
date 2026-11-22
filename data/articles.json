@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22",
+    "title": "AI’s Progress Chart Gets a Major Revision, Highlighting Coding Strengths and Judgment Gaps",
+    "description": "A new METR report updates the AI time‑horizon graph, showing rapid coding gains but slower progress on judgment tasks.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "A new METR report updates the AI time‑horizon graph, showing rapid coding gains but slower progress on judgment tasks.",
+    "page": "articles/ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    ]
+  },
+  {
     "id": "signal-blocks-mobile-screenshots-to-combat-ai-driven-surveillance-2026-11-22",
     "title": "Signal Blocks Mobile Screenshots to Combat AI‑Driven Surveillance",
     "description": "Signal limits screenshot capability on Android and iOS to protect user privacy from AI‑powered monitoring.",
@@ -1773,24 +1791,6 @@
     "page": "articles/lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16.html",
     "source_urls": [
       "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
-    ]
-  },
-  {
-    "id": "samsung-unveils-galaxy-claw-a-bold-leap-in-foldable-smartphone-design-2026-11-16",
-    "title": "Samsung Unveils ‘Galaxy Claw’: A Bold Leap in Foldable Smartphone Design",
-    "description": "Samsung’s new Galaxy Claw concept showcases a unique foldable form factor that could redefine how users interact with mobile devices.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s new Galaxy Claw concept showcases a unique foldable form factor that could redefine how users interact with mobile devices.",
-    "page": "articles/samsung-unveils-galaxy-claw-a-bold-leap-in-foldable-smartphone-design-2026-11-16.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-claw-3735274/"
     ]
   }
 ]
