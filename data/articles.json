@@ -1,5 +1,22 @@
 [
   {
+    "id": "energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22",
+    "title": "Energy Companies Deploy Power‑Line‑Charging Drones to Monitor the Grid",
+    "description": "Energy firms are testing drones that can land on live high‑voltage lines, draw power, and continue monitoring without returning to base.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Energy firms are testing drones that can land on live high‑voltage lines, draw power, and continue monitoring without returning to base.",
+    "page": "articles/energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home"
+    ]
+  },
+  {
     "id": "sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22",
     "title": "Sterilized Soil Holds Life‑Like Chemistry for Six Years, Hinting at Earth’s Origins",
     "description": "Scientists discovered that sterilized soil can retain biologically important chemical reactions for six years, offering clues about how life may have begun on Earth.",
@@ -1774,24 +1791,6 @@
     "page": "articles/air-india-launches-uatp-powered-partner-pay-to-simplify-travel-agency-bookings-2026-11-16.html",
     "source_urls": [
       "https://indiatechnologynews.in/air-india-partners-with-uatp-to-launch-partner-pay-simplifying-payments-for-travel-agencies-and-corporate-customers/"
-    ]
-  },
-  {
-    "id": "fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16",
-    "title": "Fable 5.2 Delivers a 96‑KB Browser‑Based Underwater World",
-    "description": "A new demo shows how a 96‑KB web app can render a high‑framerate underwater environment using only 40 lines of code.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "A new demo shows how a 96‑KB web app can render a high‑framerate underwater environment using only 40 lines of code.",
-    "page": "articles/fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps"
     ]
   }
 ]
