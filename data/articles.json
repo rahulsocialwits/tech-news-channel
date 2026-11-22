@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-gemini-gets-a-fresh-camera-redesign-on-android-2026-11-22",
+    "title": "Google Gemini Gets a Fresh Camera Redesign on Android",
+    "description": "Google’s Gemini app now features a streamlined in‑app camera for quick image prompts on Android devices.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Gemini app now features a streamlined in‑app camera for quick image prompts on Android devices.",
+    "page": "articles/google-gemini-gets-a-fresh-camera-redesign-on-android-2026-11-22.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/21/gemini-camera-redesign/"
+    ]
+  },
+  {
     "id": "tcl-s-paper-like-11-5-inch-tablet-hits-black-friday-with-38-off-for-prime-members-2026-11-21",
     "title": "TCL’s Paper‑Like 11.5‑inch Tablet Hits Black Friday with 38% Off for Prime Members",
     "description": "TCL’s NXTPAPER 11 Plus, a 11.5‑inch paper‑like tablet with stylus and flip case, is discounted 38% on Amazon for Prime members during Black Friday sales.",
@@ -1773,24 +1791,6 @@
     "page": "articles/bharat-semi-secures-24-million-seed-funding-to-power-global-ai-sensor-market-2026-11-16.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-    ]
-  },
-  {
-    "id": "apple-unveils-health-focused-ai-study-app-2026-11-16",
-    "title": "Apple Unveils Health‑Focused AI Study App",
-    "description": "Apple launches a new app to gather data on how users employ AI for everyday medical questions",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Apple launches a new app to gather data on how users employ AI for everyday medical questions",
-    "page": "articles/apple-unveils-health-focused-ai-study-app-2026-11-16.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
     ]
   }
 ]
