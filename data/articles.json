@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-home-app-replaces-nest-a-new-era-for-smart-home-control-2026-11-22",
+    "title": "Google Home App Replaces Nest: A New Era for Smart Home Control",
+    "description": "Google Home app now supersedes the old Nest app, offering a unified smart‑home experience with improved features and fewer bugs.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Google Home app now supersedes the old Nest app, offering a unified smart‑home experience with improved features and fewer bugs.",
+    "page": "articles/google-home-app-replaces-nest-a-new-era-for-smart-home-control-2026-11-22.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/"
+    ]
+  },
+  {
     "id": "nvidia-s-new-frame-generation-preset-promises-speed-but-comes-with-trade-offs-2026-11-22",
     "title": "Nvidia’s New Frame Generation Preset Promises Speed, But Comes With Trade‑Offs",
     "description": "Nvidia’s latest frame generation preset offers faster performance, yet users may notice reduced visual fidelity and increased GPU load.",
@@ -1777,24 +1795,6 @@
     "page": "articles/cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-    ]
-  },
-  {
-    "id": "cmf-buds-pro-2-hit-record-low-price-offering-premium-anc-at-a-steal-2026-11-16",
-    "title": "CMF Buds Pro 2 Hit Record Low Price, Offering Premium ANC at a Steal",
-    "description": "CMF’s ANC earbuds, the Buds Pro 2, drop 29% to $14 off on Amazon, delivering LDAC and a smart dial case for budget‑savvy listeners.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "CMF’s ANC earbuds, the Buds Pro 2, drop 29% to $14 off on Amazon, delivering LDAC and a smart dial case for budget‑savvy listeners.",
-    "page": "articles/cmf-buds-pro-2-hit-record-low-price-offering-premium-anc-at-a-steal-2026-11-16.html",
-    "source_urls": [
-      "https://www.androidauthority.com/cmf-buds-pro-2-deal-amazon-3735676/"
     ]
   }
 ]
