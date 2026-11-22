@@ -1,5 +1,23 @@
 [
   {
+    "id": "suri-the-seventh-note-a-2d-rhythm-platformer-that-celebrates-india-s-cultural-tapestry-2026-11-22",
+    "title": "Suri: The Seventh Note – A 2D Rhythm Platformer That Celebrates India’s Cultural Tapestry",
+    "description": "Suri: The Seventh Note, a new 2D rhythm platformer from Tathvamasi Studios, blends music, mythology, and Indian heritage in a fresh gaming experience.",
+    "category": "Gaming",
+    "labels": [
+      "Gaming",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Suri: The Seventh Note, a new 2D rhythm platformer from Tathvamasi Studios, blends music, mythology, and Indian heritage in a fresh gaming experience.",
+    "page": "articles/suri-the-seventh-note-a-2d-rhythm-platformer-that-celebrates-india-s-cultural-tapestry-2026-11-22.html",
+    "source_urls": [
+      "https://www.thehindu.com/life-and-style/this-2d-rhythm-platformer-video-game-is-an-ode-to-indias-multiplicities/article71697393.ece"
+    ]
+  },
+  {
     "id": "ai-driven-vulnerabilities-push-companies-into-a-new-era-of-rapid-patch-cycles-2026-11-22",
     "title": "AI‑Driven Vulnerabilities Push Companies Into a New Era of Rapid Patch Cycles",
     "description": "As AI accelerates the discovery of software flaws, firms are scrambling to patch systems faster, sparking widespread outages and a new cybersecurity challenge.",
@@ -1774,24 +1792,6 @@
     "page": "articles/export-banned-nvidia-chips-find-their-way-into-chinese-ai-models-2026-11-16.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-banned-gpus-training-chinese-ai-models-key-findings-10964970/"
-    ]
-  },
-  {
-    "id": "apple-unveils-research-app-to-make-ai-health-tools-more-user-friendly-2026-11-16",
-    "title": "Apple Unveils Research App to Make AI Health Tools More User‑Friendly",
-    "description": "Apple launches a new research study to understand how people use AI‑powered health tools and improve their design.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Apple launches a new research study to understand how people use AI‑powered health tools and improve their design.",
-    "page": "articles/apple-unveils-research-app-to-make-ai-health-tools-more-user-friendly-2026-11-16.html",
-    "source_urls": [
-      "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/"
     ]
   }
 ]
