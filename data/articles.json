@@ -1,5 +1,23 @@
 [
   {
+    "id": "glp-1-drugs-could-free-farmland-larger-than-italy-study-finds-2026-11-22",
+    "title": "GLP‑1 Drugs Could Free Farmland Larger Than Italy, Study Finds",
+    "description": "A new analysis shows GLP‑1 medications may cut food demand enough to release farmland comparable to Italy’s size.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Health"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "A new analysis shows GLP‑1 medications may cut food demand enough to release farmland comparable to Italy’s size.",
+    "page": "articles/glp-1-drugs-could-free-farmland-larger-than-italy-study-finds-2026-11-22.html",
+    "source_urls": [
+      "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+    ]
+  },
+  {
     "id": "tcl-s-paper-like-tablet-and-samsung-s-ultra-2-watch-show-how-low-cost-and-high-performance-2026-11-22",
     "title": "TCL’s Paper‑Like Tablet and Samsung’s Ultra 2 Watch Show How Low‑Cost and High‑Performance Can Coexist",
     "description": "TCL’s 12.2‑inch NXT‑Paper tablet hits a record low price, while Samsung’s Galaxy Watch Ultra 2 offers premium battery life and outdoor features that justify its higher cost.",
@@ -1777,24 +1795,6 @@
     "page": "articles/openai-unveils-new-image-classifier-to-flag-csam-and-enforces-temporary-bans-2026-11-16.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
-    ]
-  },
-  {
-    "id": "top-digital-photo-frames-of-2026-from-aura-to-amazon-s-latest-models-2026-11-16",
-    "title": "Top Digital Photo Frames of 2026: From Aura to Amazon’s Latest Models",
-    "description": "Explore the best digital photo frames of 2026, featuring Aura, Skylight, and Amazon’s newest options for showcasing memories on your wall.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Explore the best digital photo frames of 2026, featuring Aura, Skylight, and Amazon’s newest options for showcasing memories on your wall.",
-    "page": "articles/top-digital-photo-frames-of-2026-from-aura-to-amazon-s-latest-models-2026-11-16.html",
-    "source_urls": [
-      "https://www.wired.com/story/best-digital-photo-frames/"
     ]
   }
 ]
