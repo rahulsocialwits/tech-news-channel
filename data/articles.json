@@ -1,5 +1,23 @@
 [
   {
+    "id": "signal-blocks-in-app-screenshots-amid-ai-surveillance-concerns-2026-11-22",
+    "title": "Signal Blocks In‑App Screenshots Amid AI Surveillance Concerns",
+    "description": "Signal’s new policy bans screenshots on mobile devices as the messaging app warns of AI‑driven privacy threats.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Signal’s new policy bans screenshots on mobile devices as the messaging app warns of AI‑driven privacy threats.",
+    "page": "articles/signal-blocks-in-app-screenshots-amid-ai-surveillance-concerns-2026-11-22.html",
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVM0WGVYd0FwWkM5Y3ZuNmo0NHJpRVBBc2tzSXBfNVUwbG9vankwUnFaTFJ0Z2RNUEd1bzdGTTVrMkczR1VCQ2xjY3oyMk9iaW9QNV8xcjFDdkVpVEFjbl9GbjE4TEV0STJESFN5clo3VXhaWlpfb2pRMDNKdEc4dzlqWG5YaHNyUUs2NWZTRnJON254WDRVTDR2SDJYUXQxV3oybUh1REZydWFiRUxFLTV1UHByUnMxQnFVNmt1UkFnUQ?oc=5",
+      "https://indianexpress.com/article/technology/tech-news-technology/signal-blocks-screenshots-ai-agents-privacy-threat-10973703/"
+    ]
+  },
+  {
     "id": "energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22",
     "title": "Energy Companies Deploy Power‑Line‑Charging Drones to Monitor the Grid",
     "description": "Energy firms are testing drones that can land on live high‑voltage lines, draw power, and continue monitoring without returning to base.",
@@ -1774,23 +1792,6 @@
     "page": "articles/amazon-s-starlink-rival-loses-40-satellites-in-failed-rocket-launch-2026-11-16.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
-    ]
-  },
-  {
-    "id": "air-india-launches-uatp-powered-partner-pay-to-simplify-travel-agency-bookings-2026-11-16",
-    "title": "Air India Launches UATP‑Powered Partner Pay to Simplify Travel Agency Bookings",
-    "description": "Air India introduces a UATP‑managed payment program that lets travel agencies and corporate partners book flights across multiple distribution channels with a single payment method.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Air India introduces a UATP‑managed payment program that lets travel agencies and corporate partners book flights across multiple distribution channels with a single payment method.",
-    "page": "articles/air-india-launches-uatp-powered-partner-pay-to-simplify-travel-agency-bookings-2026-11-16.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/air-india-partners-with-uatp-to-launch-partner-pay-simplifying-payments-for-travel-agencies-and-corporate-customers/"
     ]
   }
 ]
