@@ -1,5 +1,23 @@
 [
   {
+    "id": "ugreen-dxp4800-gt-nas-enclosure-slashes-cloud-costs-with-20-black-friday-discount-2026-11-22",
+    "title": "UGreen DXP4800 GT NAS Enclosure Slashes Cloud Costs with 20% Black Friday Discount",
+    "description": "UGreen’s 4‑bay DXP4800 GT NAS drops 20% off on Amazon, offering dual 10GbE ports and up to 144TB of storage to help users cut cloud subscription fees.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "UGreen’s 4‑bay DXP4800 GT NAS drops 20% off on Amazon, offering dual 10GbE ports and up to 144TB of storage to help users cut cloud subscription fees.",
+    "page": "articles/ugreen-dxp4800-gt-nas-enclosure-slashes-cloud-costs-with-20-black-friday-discount-2026-11-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage"
+    ]
+  },
+  {
     "id": "scientists-push-the-boundary-of-human-memory-with-brain-preservation-research-2026-11-22",
     "title": "Scientists Push the Boundary of Human Memory with Brain‑Preservation Research",
     "description": "Researchers explore ways to keep the human mind alive beyond biological limits, sparking debate on ethics and feasibility.",
@@ -1775,23 +1793,6 @@
     "page": "articles/aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16.html",
     "source_urls": [
       "https://indiatechnologynews.in/aaa-technologies-enters-semiconductor-design-expands-cybersecurity-business-to-singapore-mauritius-and-dubai/"
-    ]
-  },
-  {
-    "id": "volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16",
-    "title": "Volunteers Push for Greater Autonomy in Brain‑Implant Trials",
-    "description": "Researchers seek to reduce NDAs and increase participant control in neural‑interface studies.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "Researchers seek to reduce NDAs and increase participant control in neural‑interface studies.",
-    "page": "articles/volunteers-push-for-greater-autonomy-in-brain-implant-trials-2026-11-16.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
     ]
   }
 ]
