@@ -1,5 +1,22 @@
 [
   {
+    "id": "sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22",
+    "title": "Sterilized Soil Holds Life‑Like Chemistry for Six Years, Hinting at Earth’s Origins",
+    "description": "Scientists discovered that sterilized soil can retain biologically important chemical reactions for six years, offering clues about how life may have begun on Earth.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Scientists discovered that sterilized soil can retain biologically important chemical reactions for six years, offering clues about how life may have begun on Earth.",
+    "page": "articles/sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22.html",
+    "source_urls": [
+      "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
+    ]
+  },
+  {
     "id": "ugreen-dxp4800-gt-nas-enclosure-slashes-cloud-costs-with-20-black-friday-discount-2026-11-22",
     "title": "UGreen DXP4800 GT NAS Enclosure Slashes Cloud Costs with 20% Black Friday Discount",
     "description": "UGreen’s 4‑bay DXP4800 GT NAS drops 20% off on Amazon, offering dual 10GbE ports and up to 144TB of storage to help users cut cloud subscription fees.",
@@ -1775,24 +1792,6 @@
     "page": "articles/fable-5-2-delivers-a-96-kb-browser-based-underwater-world-2026-11-16.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps"
-    ]
-  },
-  {
-    "id": "aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16",
-    "title": "AAA Technologies Expands Global Footprint with New Subsidiaries and AI Chip R&D",
-    "description": "India’s AAA Technologies launches subsidiaries in Singapore, Mauritius, and Dubai to grow its cybersecurity and semiconductor design businesses.",
-    "category": "Technology",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "India’s AAA Technologies launches subsidiaries in Singapore, Mauritius, and Dubai to grow its cybersecurity and semiconductor design businesses.",
-    "page": "articles/aaa-technologies-expands-global-footprint-with-new-subsidiaries-and-ai-chip-r-d-2026-11-16.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/aaa-technologies-enters-semiconductor-design-expands-cybersecurity-business-to-singapore-mauritius-and-dubai/"
     ]
   }
 ]
