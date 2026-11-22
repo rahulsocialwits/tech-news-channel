@@ -1,5 +1,25 @@
 [
   {
+    "id": "intel-s-core-i7-14700k-hits-record-low-while-google-and-samsung-push-mobile-innovation-2026-11-22",
+    "title": "Intel’s Core i7‑14700K Hits Record Low, While Google and Samsung Push Mobile Innovation",
+    "description": "Intel’s Core i7‑14700K drops to $249.99, and Google and Samsung release new Pixel 11 and Galaxy Z Fold 8 models that reshape the mid‑range and foldable markets.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-22",
+    "readTime": "3 min read",
+    "excerpt": "Intel’s Core i7‑14700K drops to $249.99, and Google and Samsung release new Pixel 11 and Galaxy Z Fold 8 models that reshape the mid‑range and foldable markets.",
+    "page": "articles/intel-s-core-i7-14700k-hits-record-low-while-google-and-samsung-push-mobile-innovation-2026-11-22.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
+      "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+      "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/"
+    ]
+  },
+  {
     "id": "ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22",
     "title": "AI’s Progress Chart Gets a Major Revision, Highlighting Coding Strengths and Judgment Gaps",
     "description": "A new METR report updates the AI time‑horizon graph, showing rapid coding gains but slower progress on judgment tasks.",
@@ -1773,24 +1793,6 @@
     "page": "articles/lenovo-s-next-gen-detachable-chromebook-set-to-debut-in-2027-2026-11-16.html",
     "source_urls": [
       "https://www.androidauthority.com/lenovo-googlebook-duet-13-launch-date-leak-3735290/"
-    ]
-  },
-  {
-    "id": "lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16",
-    "title": "Lenovo Googlebook Duet 13 Leak Reveals Design Ahead of January Launch",
-    "description": "A leaked image of the Lenovo Googlebook Duet 13 shows a sleek detachable design that could hit shelves in January.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-16",
-    "readTime": "3 min read",
-    "excerpt": "A leaked image of the Lenovo Googlebook Duet 13 shows a sleek detachable design that could hit shelves in January.",
-    "page": "articles/lenovo-googlebook-duet-13-leak-reveals-design-ahead-of-january-launch-2026-11-16.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
     ]
   }
 ]
