@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-echo-dot-max-hits-record-low-at-25-below-its-previous-lowest-price-2026-11-23",
+    "title": "Amazon Echo Dot Max Hits Record Low at $25 Below Its Previous Lowest Price",
+    "description": "Amazon’s Echo Dot Max smart speaker drops 58% off, offering a new Alexa+ hub for $25 less than its prior record low.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Amazon’s Echo Dot Max smart speaker drops 58% off, offering a new Alexa+ hub for $25 less than its prior record low.",
+    "page": "articles/amazon-echo-dot-max-hits-record-low-at-25-below-its-previous-lowest-price-2026-11-23.html",
+    "source_urls": [
+      "https://www.androidauthority.com/echo-dot-max-record-low-deal-3738393/"
+    ]
+  },
+  {
     "id": "sierra-doubles-valuation-to-30-b-as-ai-driven-customer-experience-gains-momentum-2026-11-23",
     "title": "Sierra Doubles Valuation to $30 B as AI‑Driven Customer Experience Gains Momentum",
     "description": "Enterprise CX firm Sierra raises $1.75 B in Series F, boosting valuation to $30 B amid growing demand for AI in customer service.",
@@ -1775,24 +1793,6 @@
     "page": "articles/xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17.html",
     "source_urls": [
       "https://www.wired.com/review/xreal-aura/"
-    ]
-  },
-  {
-    "id": "india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17",
-    "title": "India’s Cloud Providers Face New Accountability Rules After Recent Outage",
-    "description": "India’s data‑center outage prompts lawmakers to tighten reporting requirements for cloud services.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "India’s data‑center outage prompts lawmakers to tighten reporting requirements for cloud services.",
-    "page": "articles/india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
     ]
   }
 ]
