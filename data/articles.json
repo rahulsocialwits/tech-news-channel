@@ -1,5 +1,23 @@
 [
   {
+    "id": "pixel-weather-adds-report-current-weather-feature-to-sharpen-forecast-accuracy-2026-11-23",
+    "title": "Pixel Weather Adds ‘Report Current Weather’ Feature to Sharpen Forecast Accuracy",
+    "description": "Google’s Pixel Weather app now lets users submit real‑time weather reports, helping the service refine local predictions.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Google’s Pixel Weather app now lets users submit real‑time weather reports, helping the service refine local predictions.",
+    "page": "articles/pixel-weather-adds-report-current-weather-feature-to-sharpen-forecast-accuracy-2026-11-23.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/22/pixel-weather-report/"
+    ]
+  },
+  {
     "id": "grapheneos-launches-proof-of-concept-rcs-messaging-app-to-replace-google-messages-2026-11-23",
     "title": "GrapheneOS Launches Proof‑of‑Concept RCS Messaging App to Replace Google Messages",
     "description": "GrapheneOS has unveiled a new RCS messaging app that could eliminate the need for Google Messages on supported carriers.",
@@ -1776,24 +1794,6 @@
     "page": "articles/hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17.html",
     "source_urls": [
       "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
-    ]
-  },
-  {
-    "id": "openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17",
-    "title": "OpenAI Deploys Image Classifier to Curb CSAM on ChatGPT",
-    "description": "OpenAI has added a new image‑classification system and warning screens to its ChatGPT platform to detect and block child sexual abuse material.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI has added a new image‑classification system and warning screens to its ChatGPT platform to detect and block child sexual abuse material.",
-    "page": "articles/openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/openai-new-image-classifier-csam-chatgpt-10966342/"
     ]
   }
 ]
