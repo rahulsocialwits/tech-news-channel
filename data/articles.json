@@ -1,5 +1,22 @@
 [
   {
+    "id": "apple-mac-mini-m6-the-new-always-on-hub-for-ai-agents-2026-11-23",
+    "title": "Apple Mac Mini M6: The New Always‑On Hub for AI Agents",
+    "description": "Apple’s latest Mac Mini M6 offers a compact, powerful platform that turns the small desktop into a dedicated AI agent hub, according to a recent review.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s latest Mac Mini M6 offers a compact, powerful platform that turns the small desktop into a dedicated AI agent hub, according to a recent review.",
+    "page": "articles/apple-mac-mini-m6-the-new-always-on-hub-for-ai-agents-2026-11-23.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-reviews/mac-mini-m6-review-always-on-hub-ai-agents-10974432/"
+    ]
+  },
+  {
     "id": "venture-giants-bet-billions-on-anthropic-ahead-of-ipo-2026-11-23",
     "title": "Venture Giants Bet Billions on Anthropic Ahead of IPO",
     "description": "Notable Capital, GIC and Baillie Gifford invest heavily in Anthropic before its public debut.",
@@ -1777,24 +1794,6 @@
     "page": "articles/microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17.html",
     "source_urls": [
       "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
-    ]
-  },
-  {
-    "id": "google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17",
-    "title": "Google Rollout of Pixel Virtual Gamepad Brings Foldable Gaming Mode to Pixel Fold",
-    "description": "Google is expanding its Foldable Gaming Mode by adding a virtual gamepad to the Pixel Fold lineup, enhancing the gaming experience on Android 17.",
-    "category": "Mobile",
-    "labels": [
-      "Mobile",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Google is expanding its Foldable Gaming Mode by adding a virtual gamepad to the Pixel Fold lineup, enhancing the gaming experience on Android 17.",
-    "page": "articles/google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/16/november-2026-google-system-updates/"
     ]
   }
 ]
