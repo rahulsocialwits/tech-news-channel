@@ -1,5 +1,23 @@
 [
   {
+    "id": "venture-giants-bet-billions-on-anthropic-ahead-of-ipo-2026-11-23",
+    "title": "Venture Giants Bet Billions on Anthropic Ahead of IPO",
+    "description": "Notable Capital, GIC and Baillie Gifford invest heavily in Anthropic before its public debut.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Notable Capital, GIC and Baillie Gifford invest heavily in Anthropic before its public debut.",
+    "page": "articles/venture-giants-bet-billions-on-anthropic-ahead-of-ipo-2026-11-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    ]
+  },
+  {
     "id": "starlink-pricing-diverges-2020-vs-2026-costs-reveal-wide-variance-2026-11-23",
     "title": "Starlink Pricing Diverges: 2020 vs. 2026 Costs Reveal Wide Variance",
     "description": "Starlink’s satellite internet pricing has shifted dramatically since 2020, with customers paying vastly different bills in 2026 due to discounts and rate changes.",
@@ -1777,24 +1795,6 @@
     "page": "articles/google-rollout-of-pixel-virtual-gamepad-brings-foldable-gaming-mode-to-pixel-fold-2026-11-17.html",
     "source_urls": [
       "https://9to5google.com/2026/11/16/november-2026-google-system-updates/"
-    ]
-  },
-  {
-    "id": "robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17",
-    "title": "Robo‑Soldier Startup Faces Collapse After Payroll Misses",
-    "description": "A robotics venture backed by Eric Trump struggles to pay staff, raising doubts about its future.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "A robotics venture backed by Eric Trump struggles to pay staff, raising doubts about its future.",
-    "page": "articles/robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17.html",
-    "source_urls": [
-      "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
     ]
   }
 ]
