@@ -1,5 +1,23 @@
 [
   {
+    "id": "sierra-doubles-valuation-to-30-b-as-ai-driven-customer-experience-gains-momentum-2026-11-23",
+    "title": "Sierra Doubles Valuation to $30 B as AI‑Driven Customer Experience Gains Momentum",
+    "description": "Enterprise CX firm Sierra raises $1.75 B in Series F, boosting valuation to $30 B amid growing demand for AI in customer service.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Enterprise CX firm Sierra raises $1.75 B in Series F, boosting valuation to $30 B amid growing demand for AI in customer service.",
+    "page": "articles/sierra-doubles-valuation-to-30-b-as-ai-driven-customer-experience-gains-momentum-2026-11-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    ]
+  },
+  {
     "id": "clear-your-microsoft-edge-cache-to-keep-browsing-smooth-2026-11-23",
     "title": "Clear Your Microsoft Edge Cache to Keep Browsing Smooth",
     "description": "Learn how to delete cached data in Microsoft Edge to improve performance and free up space.",
@@ -1775,24 +1793,6 @@
     "page": "articles/india-s-cloud-providers-face-new-accountability-rules-after-recent-outage-2026-11-17.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
-    ]
-  },
-  {
-    "id": "spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17",
-    "title": "Spotify Launches AI Tool to Combat Deepfake Music Attribution",
-    "description": "Spotify introduces a new AI-powered system designed to detect and remove deepfake songs that falsely credit real artists, following a surge in counterfeit tracks on streaming platforms.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Spotify introduces a new AI-powered system designed to detect and remove deepfake songs that falsely credit real artists, following a surge in counterfeit tracks on streaming platforms.",
-    "page": "articles/spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
     ]
   }
 ]
