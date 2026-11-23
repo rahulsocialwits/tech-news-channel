@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-may-pause-annual-galaxy-watch-releases-after-2026-2026-11-23",
+    "title": "Samsung May Pause Annual Galaxy Watch Releases After 2026",
+    "description": "Samsung could stop yearly Galaxy Watch launches starting in 2027, signaling a shift toward deeper hardware upgrades.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Samsung could stop yearly Galaxy Watch launches starting in 2027, signaling a shift toward deeper hardware upgrades.",
+    "page": "articles/samsung-may-pause-annual-galaxy-watch-releases-after-2026-2026-11-23.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-galaxy-watch-2027-launch-skip-3738043/"
+    ]
+  },
+  {
     "id": "pixel-weather-adds-report-current-weather-feature-to-sharpen-forecast-accuracy-2026-11-23",
     "title": "Pixel Weather Adds ‘Report Current Weather’ Feature to Sharpen Forecast Accuracy",
     "description": "Google’s Pixel Weather app now lets users submit real‑time weather reports, helping the service refine local predictions.",
@@ -1776,24 +1794,6 @@
     "page": "articles/trmnl-unveils-1-300-full-color-e-paper-frame-that-looks-like-real-art-2026-11-17.html",
     "source_urls": [
       "https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art/"
-    ]
-  },
-  {
-    "id": "hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17",
-    "title": "Hyperscale Data Centers Consume 2% of U.S. Electricity, Study Finds",
-    "description": "A new study shows that hyperscale data centers account for about 2% of total U.S. electricity use, highlighting the growing energy demands of large cloud operators.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "A new study shows that hyperscale data centers account for about 2% of total U.S. electricity use, highlighting the growing energy demands of large cloud operators.",
-    "page": "articles/hyperscale-data-centers-consume-2-of-u-s-electricity-study-finds-2026-11-17.html",
-    "source_urls": [
-      "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
     ]
   }
 ]
