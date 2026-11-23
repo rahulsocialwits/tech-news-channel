@@ -1,5 +1,23 @@
 [
   {
+    "id": "ai-server-makers-slash-prices-amid-ram-shortage-yet-costs-remain-high-2026-11-23",
+    "title": "AI Server Makers Slash Prices Amid RAM Shortage, Yet Costs Remain High",
+    "description": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs, according to Tom's Hardware.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs, according to Tom's Hardware.",
+    "page": "articles/ai-server-makers-slash-prices-amid-ram-shortage-yet-costs-remain-high-2026-11-23.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable"
+    ]
+  },
+  {
     "id": "netscout-s-new-m-series-platform-slashes-data-center-energy-use-by-20-2026-11-23",
     "title": "Netscout’s New M‑Series Platform Slashes Data‑Center Energy Use by 20%",
     "description": "Netscout’s sustainability‑by‑design M‑Series platform delivers a 20% boost in energy efficiency, helping data‑center operators cut costs and meet climate goals amid AI‑driven growth.",
@@ -1776,24 +1794,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
-    ]
-  },
-  {
-    "id": "apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17",
-    "title": "Apple Watch’s Live Rewind Turns Conversations into Audio Memories",
-    "description": "Apple’s new Live Rewind feature on the Apple Watch can record and rewind spoken conversations, offering a novel way to capture missed moments, but it raises privacy and social concerns.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s new Live Rewind feature on the Apple Watch can record and rewind spoken conversations, offering a novel way to capture missed moments, but it raises privacy and social concerns.",
-    "page": "articles/apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17.html",
-    "source_urls": [
-      "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/"
     ]
   }
 ]
