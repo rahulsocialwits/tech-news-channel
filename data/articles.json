@@ -1,5 +1,23 @@
 [
   {
+    "id": "clear-your-microsoft-edge-cache-to-keep-browsing-smooth-2026-11-23",
+    "title": "Clear Your Microsoft Edge Cache to Keep Browsing Smooth",
+    "description": "Learn how to delete cached data in Microsoft Edge to improve performance and free up space.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Learn how to delete cached data in Microsoft Edge to improve performance and free up space.",
+    "page": "articles/clear-your-microsoft-edge-cache-to-keep-browsing-smooth-2026-11-23.html",
+    "source_urls": [
+      "https://www.engadget.com/2319769/how-to-clear-browser-cache-microsoft-edge/"
+    ]
+  },
+  {
     "id": "ai-server-makers-slash-prices-amid-ram-shortage-yet-costs-remain-high-2026-11-23",
     "title": "AI Server Makers Slash Prices Amid RAM Shortage, Yet Costs Remain High",
     "description": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs, according to Tom's Hardware.",
@@ -1775,25 +1793,6 @@
     "page": "articles/spotify-launches-ai-tool-to-combat-deepfake-music-attribution-2026-11-17.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
-    ]
-  },
-  {
-    "id": "us-blocks-china-s-remote-access-to-nvidia-ai-chips-amid-scandal-2026-11-17",
-    "title": "US Blocks China’s Remote Access to Nvidia AI Chips Amid Scandal",
-    "description": "The U.S. government has barred Chinese firms from remotely accessing Nvidia’s AI chips after a controversy involving the company’s CEO, raising concerns over supply chain security and geopolitical tensions.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "4 min read",
-    "excerpt": "The U.S. government has barred Chinese firms from remotely accessing Nvidia’s AI chips after a controversy involving the company’s CEO, raising concerns over supply chain security and geopolitical tensions.",
-    "page": "articles/us-blocks-china-s-remote-access-to-nvidia-ai-chips-amid-scandal-2026-11-17.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
     ]
   }
 ]
