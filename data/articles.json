@@ -1,5 +1,23 @@
 [
   {
+    "id": "starlink-pricing-diverges-2020-vs-2026-costs-reveal-wide-variance-2026-11-23",
+    "title": "Starlink Pricing Diverges: 2020 vs. 2026 Costs Reveal Wide Variance",
+    "description": "Starlink’s satellite internet pricing has shifted dramatically since 2020, with customers paying vastly different bills in 2026 due to discounts and rate changes.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Starlink’s satellite internet pricing has shifted dramatically since 2020, with customers paying vastly different bills in 2026 due to discounts and rate changes.",
+    "page": "articles/starlink-pricing-diverges-2020-vs-2026-costs-reveal-wide-variance-2026-11-23.html",
+    "source_urls": [
+      "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/"
+    ]
+  },
+  {
     "id": "microsoft-s-rdma-over-usb4-simplifies-local-ai-workloads-on-windows-11-2026-11-23",
     "title": "Microsoft’s RDMA over USB4 Simplifies Local AI Workloads on Windows 11",
     "description": "Microsoft’s new RDMA over USB4 feature lets developers run local AI models across multiple Windows 11 PCs without special adapters.",
@@ -1777,24 +1795,6 @@
     "page": "articles/robo-soldier-startup-faces-collapse-after-payroll-misses-2026-11-17.html",
     "source_urls": [
       "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
-    ]
-  },
-  {
-    "id": "infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17",
-    "title": "Infoblox Faces Security Breach After Hackers Access Company Data",
-    "description": "Cybersecurity firm Infoblox reports a breach where attackers accessed internal information, prompting an investigation.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Cybersecurity firm Infoblox reports a breach where attackers accessed internal information, prompting an investigation.",
-    "page": "articles/infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
     ]
   }
 ]
