@@ -1,5 +1,23 @@
 [
   {
+    "id": "netscout-s-new-m-series-platform-slashes-data-center-energy-use-by-20-2026-11-23",
+    "title": "Netscout’s New M‑Series Platform Slashes Data‑Center Energy Use by 20%",
+    "description": "Netscout’s sustainability‑by‑design M‑Series platform delivers a 20% boost in energy efficiency, helping data‑center operators cut costs and meet climate goals amid AI‑driven growth.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Enterprise"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Netscout’s sustainability‑by‑design M‑Series platform delivers a 20% boost in energy efficiency, helping data‑center operators cut costs and meet climate goals amid AI‑driven growth.",
+    "page": "articles/netscout-s-new-m-series-platform-slashes-data-center-energy-use-by-20-2026-11-23.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/netscouts-sustainability-by-design-approach-combats-surging-data-center-energy-consumption/"
+    ]
+  },
+  {
     "id": "whatsapp-web-sessions-on-public-computers-pose-new-security-risk-warns-indian-government-2026-11-23",
     "title": "WhatsApp Web Sessions on Public Computers Pose New Security Risk, Warns Indian Government",
     "description": "The Indian government warns users that leaving WhatsApp Web sessions open on public computers can expose accounts to hijacking, urging manual log‑outs after each use.",
@@ -1776,24 +1794,6 @@
     "page": "articles/apple-watch-s-live-rewind-turns-conversations-into-audio-memories-2026-11-17.html",
     "source_urls": [
       "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/"
-    ]
-  },
-  {
-    "id": "us-hyperscale-data-centers-consumed-82-twh-of-power-in-2025-surpassing-80-of-michigan-s-an-2026-11-17",
-    "title": "US Hyperscale Data Centers Consumed 82 TWh of Power in 2025, Surpassing 80% of Michigan’s Annual Consumption",
-    "description": "A Harvard-led study finds 403 US hyperscale data centers used 82 terawatt‑hours of electricity in 2025, generating 26 million tons of CO₂ and exceeding 80% of Michigan’s total power use.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "A Harvard-led study finds 403 US hyperscale data centers used 82 terawatt‑hours of electricity in 2025, generating 26 million tons of CO₂ and exceeding 80% of Michigan’s total power use.",
-    "page": "articles/us-hyperscale-data-centers-consumed-82-twh-of-power-in-2025-surpassing-80-of-michigan-s-an-2026-11-17.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates"
     ]
   }
 ]
