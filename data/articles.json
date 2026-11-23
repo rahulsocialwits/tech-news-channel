@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-rdma-over-usb4-simplifies-local-ai-workloads-on-windows-11-2026-11-23",
+    "title": "Microsoft’s RDMA over USB4 Simplifies Local AI Workloads on Windows 11",
+    "description": "Microsoft’s new RDMA over USB4 feature lets developers run local AI models across multiple Windows 11 PCs without special adapters.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s new RDMA over USB4 feature lets developers run local AI models across multiple Windows 11 PCs without special adapters.",
+    "page": "articles/microsoft-s-rdma-over-usb4-simplifies-local-ai-workloads-on-windows-11-2026-11-23.html",
+    "source_urls": [
+      "https://www.xda-developers.com/microsofts-rdma-over-usb4-will-make-running-local-ai-models-on-windows-11-a-lot-easier/"
+    ]
+  },
+  {
     "id": "google-home-app-replaces-nest-a-new-era-for-smart-home-control-2026-11-22",
     "title": "Google Home App Replaces Nest: A New Era for Smart Home Control",
     "description": "Google Home app now supersedes the old Nest app, offering a unified smart‑home experience with improved features and fewer bugs.",
@@ -1777,24 +1795,6 @@
     "page": "articles/infoblox-faces-security-breach-after-hackers-access-company-data-2026-11-17.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
-    ]
-  },
-  {
-    "id": "cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17",
-    "title": "Cybersecurity AI Startup Corma Hits $1 B Valuation in Just Three Months",
-    "description": "Corma, a cybersecurity AI firm, raised $125 million in a Series A that values the company at $1 billion after only three months of product launch.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Corma, a cybersecurity AI firm, raised $125 million in a Series A that values the company at $1 billion after only three months of product launch.",
-    "page": "articles/cybersecurity-ai-startup-corma-hits-1-b-valuation-in-just-three-months-2026-11-17.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
     ]
   }
 ]
