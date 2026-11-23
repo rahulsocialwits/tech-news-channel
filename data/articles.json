@@ -1,5 +1,24 @@
 [
   {
+    "id": "nvidia-reinstates-jensen-huang-amid-controversy-signals-stability-for-ai-infrastructure-2026-11-23",
+    "title": "Nvidia Reinstates Jensen Huang Amid Controversy, Signals Stability for AI Infrastructure",
+    "description": "Nvidia’s board reinstates CEO Jensen Huang after a brief resignation, underscoring the company’s pivotal role in the AI ecosystem.",
+    "category": "Technology",
+    "labels": [
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia’s board reinstates CEO Jensen Huang after a brief resignation, underscoring the company’s pivotal role in the AI ecosystem.",
+    "page": "articles/nvidia-reinstates-jensen-huang-amid-controversy-signals-stability-for-ai-infrastructure-2026-11-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece"
+    ]
+  },
+  {
     "id": "amazon-echo-dot-max-hits-record-low-at-25-below-its-previous-lowest-price-2026-11-23",
     "title": "Amazon Echo Dot Max Hits Record Low at $25 Below Its Previous Lowest Price",
     "description": "Amazon’s Echo Dot Max smart speaker drops 58% off, offering a new Alexa+ hub for $25 less than its prior record low.",
@@ -1775,24 +1794,6 @@
     "source_urls": [
       "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
       "https://9to5google.com/2026/11/17/email-text-with-gemini/"
-    ]
-  },
-  {
-    "id": "xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17",
-    "title": "Xreal Aura: Comfortable AR Glasses with a Control‑Pain Point",
-    "description": "Xreal’s Aura AR glasses offer a lightweight, high‑resolution experience, but users report frustrating controls that could limit adoption.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Xreal’s Aura AR glasses offer a lightweight, high‑resolution experience, but users report frustrating controls that could limit adoption.",
-    "page": "articles/xreal-aura-comfortable-ar-glasses-with-a-control-pain-point-2026-11-17.html",
-    "source_urls": [
-      "https://www.wired.com/review/xreal-aura/"
     ]
   }
 ]
