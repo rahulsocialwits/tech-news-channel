@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-acquires-decart-s-ai-optimization-tech-in-7-5-b-deal-2026-11-23",
+    "title": "Amazon Acquires Decart’s AI Optimization Tech in $7.5 B Deal",
+    "description": "Amazon is buying Decart’s AI optimization technology and research team for $7.5 billion as it prepares to sell its Trainium chips.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "Amazon is buying Decart’s AI optimization technology and research team for $7.5 billion as it prepares to sell its Trainium chips.",
+    "page": "articles/amazon-acquires-decart-s-ai-optimization-tech-in-7-5-b-deal-2026-11-23.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    ]
+  },
+  {
     "id": "nvidia-reinstates-jensen-huang-amid-controversy-signals-stability-for-ai-infrastructure-2026-11-23",
     "title": "Nvidia Reinstates Jensen Huang Amid Controversy, Signals Stability for AI Infrastructure",
     "description": "Nvidia’s board reinstates CEO Jensen Huang after a brief resignation, underscoring the company’s pivotal role in the AI ecosystem.",
@@ -1775,25 +1793,6 @@
     "page": "articles/nothing-ear-3-earbuds-hit-record-low-price-after-super-mic-case-launch-2026-11-17.html",
     "source_urls": [
       "https://www.androidauthority.com/nothing-ear-3-record-low-deal-3736224/"
-    ]
-  },
-  {
-    "id": "google-gemini-adds-separate-privacy-toggles-for-ai-training-and-chat-history-2026-11-17",
-    "title": "Google Gemini Adds Separate Privacy Toggles for AI Training and Chat History",
-    "description": "Google now lets users opt out of Gemini’s AI training while keeping their chat history, giving clearer control over personal data.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Google now lets users opt out of Gemini’s AI training while keeping their chat history, giving clearer control over personal data.",
-    "page": "articles/google-gemini-adds-separate-privacy-toggles-for-ai-training-and-chat-history-2026-11-17.html",
-    "source_urls": [
-      "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "https://9to5google.com/2026/11/17/email-text-with-gemini/"
     ]
   }
 ]
