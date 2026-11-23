@@ -1,5 +1,23 @@
 [
   {
+    "id": "grapheneos-launches-proof-of-concept-rcs-messaging-app-to-replace-google-messages-2026-11-23",
+    "title": "GrapheneOS Launches Proof‑of‑Concept RCS Messaging App to Replace Google Messages",
+    "description": "GrapheneOS has unveiled a new RCS messaging app that could eliminate the need for Google Messages on supported carriers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-23",
+    "readTime": "3 min read",
+    "excerpt": "GrapheneOS has unveiled a new RCS messaging app that could eliminate the need for Google Messages on supported carriers.",
+    "page": "articles/grapheneos-launches-proof-of-concept-rcs-messaging-app-to-replace-google-messages-2026-11-23.html",
+    "source_urls": [
+      "https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/"
+    ]
+  },
+  {
     "id": "apple-mac-mini-m6-the-new-always-on-hub-for-ai-agents-2026-11-23",
     "title": "Apple Mac Mini M6: The New Always‑On Hub for AI Agents",
     "description": "Apple’s latest Mac Mini M6 offers a compact, powerful platform that turns the small desktop into a dedicated AI agent hub, according to a recent review.",
@@ -1776,24 +1794,6 @@
     "page": "articles/openai-deploys-image-classifier-to-curb-csam-on-chatgpt-2026-11-17.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/openai-new-image-classifier-csam-chatgpt-10966342/"
-    ]
-  },
-  {
-    "id": "microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17",
-    "title": "Microsoft 365 Global Outage Traced to Three Combined Failures",
-    "description": "Microsoft explains how a hidden bug, traffic shift and capacity drop caused a worldwide Microsoft 365 outage.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-17",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft explains how a hidden bug, traffic shift and capacity drop caused a worldwide Microsoft 365 outage.",
-    "page": "articles/microsoft-365-global-outage-traced-to-three-combined-failures-2026-11-17.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
     ]
   }
 ]
