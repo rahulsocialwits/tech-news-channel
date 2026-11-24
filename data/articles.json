@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-expands-ai-mode-with-dive-deeper-links-to-boost-user-curiosity-2026-11-24",
+    "title": "Google Expands AI Mode with ‘Dive Deeper’ Links to Boost User Curiosity",
+    "description": "Google rolls out new ‘Dive Deeper’ links in its AI Mode, giving users more context beyond AI-generated answers.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Google rolls out new ‘Dive Deeper’ links in its AI Mode, giving users more context beyond AI-generated answers.",
+    "page": "articles/google-expands-ai-mode-with-dive-deeper-links-to-boost-user-curiosity-2026-11-24.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-search-ai-mode-dive-deeper-rollout-3738609/"
+    ]
+  },
+  {
     "id": "google-maps-introduces-high-visibility-mode-for-safer-navigation-2026-11-24",
     "title": "Google Maps Introduces High‑Visibility Mode for Safer Navigation",
     "description": "Google Maps rolls out a new high‑visibility map style featuring a purple route and a distinct color palette for light and dark modes, aimed at improving safety and clarity for users.",
@@ -1775,24 +1793,6 @@
     "page": "articles/whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18.html",
     "source_urls": [
       "https://www.androidauthority.com/whatsapp-cloud-backup-3736332/"
-    ]
-  },
-  {
-    "id": "nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18",
-    "title": "Nvidia’s Startup Portfolio Surges to $65 B as Jensen Huang Steps Down",
-    "description": "Nvidia’s private investments have nearly tripled, reaching $65 B, but the CEO’s exit raises questions about future deals.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia’s private investments have nearly tripled, reaching $65 B, but the CEO’s exit raises questions about future deals.",
-    "page": "articles/nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
     ]
   }
 ]
