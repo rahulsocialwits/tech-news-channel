@@ -1,5 +1,23 @@
 [
   {
+    "id": "jbl-live-680nc-headphones-hit-record-low-with-51-discount-2026-11-24",
+    "title": "JBL Live 680NC Headphones Hit Record Low with 51% Discount",
+    "description": "JBL Live 680NC headphones now available at a 51% discount, offering adaptive ANC, LDAC, and up to 80 hours of battery life.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "JBL Live 680NC headphones now available at a 51% discount, offering adaptive ANC, LDAC, and up to 80 hours of battery life.",
+    "page": "articles/jbl-live-680nc-headphones-hit-record-low-with-51-discount-2026-11-24.html",
+    "source_urls": [
+      "https://www.androidauthority.com/jbl-live-680nc-black-friday-deal-3738557/"
+    ]
+  },
+  {
     "id": "software-security-backlog-grows-as-teams-struggle-to-prioritize-fixes-2026-11-24",
     "title": "Software Security Backlog Grows as Teams Struggle to Prioritize Fixes",
     "description": "A new report shows software security teams are falling further behind on addressing vulnerabilities, with backlogs rising and decision‑making processes under scrutiny.",
@@ -1775,24 +1793,6 @@
     "page": "articles/google-keep-adds-filters-to-streamline-note-search-2026-11-18.html",
     "source_urls": [
       "https://www.androidauthority.com/google-keep-notes-filters-apk-teardown-3736360/"
-    ]
-  },
-  {
-    "id": "nvidia-faces-talent-exodus-as-ceo-dispute-intensifies-2026-11-18",
-    "title": "Nvidia Faces Talent Exodus as CEO Dispute Intensifies",
-    "description": "Internal letter warns that key Nvidia employees may leave if Jensen Huang is not reinstated as CEO, amid revenue growth concerns.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Internal letter warns that key Nvidia employees may leave if Jensen Huang is not reinstated as CEO, amid revenue growth concerns.",
-    "page": "articles/nvidia-faces-talent-exodus-as-ceo-dispute-intensifies-2026-11-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
-      "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
     ]
   }
 ]
