@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-centers-build-their-own-natural-gas-power-plants-to-power-ai-workloads-2026-11-24",
+    "title": "Data Centers Build Their Own Natural Gas Power Plants to Power AI Workloads",
+    "description": "Developers are turning to on-site natural gas plants to bypass grid approvals and meet the energy demands of AI data centers.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Developers are turning to on-site natural gas plants to bypass grid approvals and meet the energy demands of AI data centers.",
+    "page": "articles/data-centers-build-their-own-natural-gas-power-plants-to-power-ai-workloads-2026-11-24.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+    ]
+  },
+  {
     "id": "jbl-live-680nc-headphones-hit-record-low-with-51-discount-2026-11-24",
     "title": "JBL Live 680NC Headphones Hit Record Low with 51% Discount",
     "description": "JBL Live 680NC headphones now available at a 51% discount, offering adaptive ANC, LDAC, and up to 80 hours of battery life.",
@@ -1775,24 +1793,6 @@
     "page": "articles/loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18.html",
     "source_urls": [
       "https://www.wired.com/story/loop-earplugs-discount-code/"
-    ]
-  },
-  {
-    "id": "google-keep-adds-filters-to-streamline-note-search-2026-11-18",
-    "title": "Google Keep Adds Filters to Streamline Note Search",
-    "description": "Google Keep is set to launch new filter options that will help users quickly locate notes by date, color, and label.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Google Keep is set to launch new filter options that will help users quickly locate notes by date, color, and label.",
-    "page": "articles/google-keep-adds-filters-to-streamline-note-search-2026-11-18.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-keep-notes-filters-apk-teardown-3736360/"
     ]
   }
 ]
