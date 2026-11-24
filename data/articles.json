@@ -1,5 +1,23 @@
 [
   {
+    "id": "motorola-unveils-edge-70-neo-a-7-000-mah-powerhouse-for-india-s-premium-market-2026-11-24",
+    "title": "Motorola Unveils Edge 70 Neo, a 7,000‑mAh Powerhouse for India’s Premium Market",
+    "description": "Motorola’s new Edge 70 Neo packs a massive 7,000‑mAh battery, 45W TurboPower charging and 7.5W reverse charging, targeting India’s premium smartphone buyers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Motorola’s new Edge 70 Neo packs a massive 7,000‑mAh battery, 45W TurboPower charging and 7.5W reverse charging, targeting India’s premium smartphone buyers.",
+    "page": "articles/motorola-unveils-edge-70-neo-a-7-000-mah-powerhouse-for-india-s-premium-market-2026-11-24.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-launches-edge-70-neo-for-premium-segment-buyers-in-india/article71737595.ece"
+    ]
+  },
+  {
     "id": "google-expands-ai-mode-with-dive-deeper-links-to-boost-user-curiosity-2026-11-24",
     "title": "Google Expands AI Mode with ‘Dive Deeper’ Links to Boost User Curiosity",
     "description": "Google rolls out new ‘Dive Deeper’ links in its AI Mode, giving users more context beyond AI-generated answers.",
@@ -1775,24 +1793,6 @@
     "page": "articles/budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18.html",
     "source_urls": [
       "https://www.tomshardware.com/gift-guides-seasonal-sales/budget-friendly-gifts-for-gamers-keyboards-mice-headsets-and-more-under-usd80"
-    ]
-  },
-  {
-    "id": "whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18",
-    "title": "WhatsApp Adds Free 2GB Cloud Backup for Android Users",
-    "description": "WhatsApp now offers Android users a free 2GB cloud backup option, eliminating the need for Google Drive integration.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "WhatsApp now offers Android users a free 2GB cloud backup option, eliminating the need for Google Drive integration.",
-    "page": "articles/whatsapp-adds-free-2gb-cloud-backup-for-android-users-2026-11-18.html",
-    "source_urls": [
-      "https://www.androidauthority.com/whatsapp-cloud-backup-3736332/"
     ]
   }
 ]
