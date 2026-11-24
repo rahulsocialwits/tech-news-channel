@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-reports-hackers-ai-agents-found-and-exploited-0-day-with-minimal-human-input-2026-11-24",
+    "title": "Amazon Reports Hackers’ AI Agents Found and Exploited 0‑Day with Minimal Human Input",
+    "description": "Amazon says attackers used its Cairn AI framework to discover and exploit a zero‑day vulnerability, highlighting the dual use of AI in cybersecurity.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Amazon says attackers used its Cairn AI framework to discover and exploit a zero‑day vulnerability, highlighting the dual use of AI in cybersecurity.",
+    "page": "articles/amazon-reports-hackers-ai-agents-found-and-exploited-0-day-with-minimal-human-input-2026-11-24.html",
+    "source_urls": [
+      "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    ]
+  },
+  {
     "id": "bluetooth-vulnerability-lets-hackers-hijack-electric-trailer-brakes-remotely-2026-11-24",
     "title": "Bluetooth Vulnerability Lets Hackers Hijack Electric Trailer Brakes Remotely",
     "description": "A newly discovered flaw in Elecbrakes’ Bluetooth system could allow attackers to control trailer braking force from a distance, raising serious safety concerns for electric trailers.",
@@ -1775,24 +1793,6 @@
     "page": "articles/java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/java4shell-critical-java-security-flaw-explained-10968343/"
-    ]
-  },
-  {
-    "id": "oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18",
-    "title": "Oakland Startup Aims to End China’s Graphite Monopoly",
-    "description": "Molten Industries plans a new Oakland factory that could challenge China’s near‑total control of battery graphite supply.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Startups"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Molten Industries plans a new Oakland factory that could challenge China’s near‑total control of battery graphite supply.",
-    "page": "articles/oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/"
     ]
   }
 ]
