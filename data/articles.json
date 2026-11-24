@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-networks-brace-for-ai-driven-traffic-surge-2026-11-24",
+    "title": "Enterprise Networks Brace for AI‑Driven Traffic Surge",
+    "description": "Enterprise networks face a 450% traffic spike as AI agents replace human tasks, prompting a push for AI‑enabled network modernization.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Enterprise networks face a 450% traffic spike as AI agents replace human tasks, prompting a push for AI‑enabled network modernization.",
+    "page": "articles/enterprise-networks-brace-for-ai-driven-traffic-surge-2026-11-24.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+    ]
+  },
+  {
     "id": "meta-integrates-muse-ai-directly-into-instagram-dms-2026-11-24",
     "title": "Meta Integrates Muse AI Directly Into Instagram DMs",
     "description": "Meta launches Muse AI inside Instagram Direct, eliminating the need to switch apps for AI interactions.",
@@ -1775,24 +1793,6 @@
     "page": "articles/ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries"
-    ]
-  },
-  {
-    "id": "xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18",
-    "title": "Xiaomi Unveils 18 Pro Series with Back‑Display Innovation",
-    "description": "Xiaomi launches the 18 Pro and 18 Pro Max featuring a rear display, Leica‑tuned cameras and Qualcomm’s latest chipset.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Xiaomi launches the 18 Pro and 18 Pro Max featuring a rear display, Leica‑tuned cameras and Qualcomm’s latest chipset.",
-    "page": "articles/xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-18-pro-and-xiaomi-18-pro-max-launched-with-a-back-display/article71715318.ece"
     ]
   }
 ]
