@@ -1,5 +1,23 @@
 [
   {
+    "id": "aws-ceo-advocates-engineering-over-kill-switches-for-ai-safety-2026-11-24",
+    "title": "AWS CEO Advocates Engineering Over Kill Switches for AI Safety",
+    "description": "Amazon Web Services’ chief stresses that robust engineering, not emergency shutdowns, is the key to safe AI deployment.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Amazon Web Services’ chief stresses that robust engineering, not emergency shutdowns, is the key to safe AI deployment.",
+    "page": "articles/aws-ceo-advocates-engineering-over-kill-switches-for-ai-safety-2026-11-24.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/amazons-aws-ceo-says-engineering-not-kill-switches-is-path-to-ai-safety-10975921/"
+    ]
+  },
+  {
     "id": "votee-ai-and-ai-singapore-forge-partnership-to-advance-southeast-asian-language-ai-2026-11-24",
     "title": "Votee AI and AI Singapore Forge Partnership to Advance Southeast Asian Language AI",
     "description": "Votee AI and AI Singapore sign a memorandum of understanding to collaborate on AI research for Southeast Asian languages, aiming to improve language models and digital inclusion.",
@@ -1775,24 +1793,6 @@
     "page": "articles/security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18.html",
     "source_urls": [
       "https://www.technewsworld.com/story/security-teams-falling-further-behind-on-fixing-software-flaws-180734.html?rss=1"
-    ]
-  },
-  {
-    "id": "microsoft-s-copilot-reimagines-office-as-a-new-operating-system-for-work-2026-11-18",
-    "title": "Microsoft’s Copilot Reimagines Office as a New Operating System for Work",
-    "description": "Microsoft has announced that Word, Excel and PowerPoint now run inside its Copilot platform, positioning the AI assistant as the next generation operating system for productivity.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft has announced that Word, Excel and PowerPoint now run inside its Copilot platform, positioning the AI assistant as the next generation operating system for productivity.",
-    "page": "articles/microsoft-s-copilot-reimagines-office-as-a-new-operating-system-for-work-2026-11-18.html",
-    "source_urls": [
-      "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
     ]
   }
 ]
