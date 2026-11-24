@@ -1,5 +1,23 @@
 [
   {
+    "id": "meta-integrates-muse-ai-directly-into-instagram-dms-2026-11-24",
+    "title": "Meta Integrates Muse AI Directly Into Instagram DMs",
+    "description": "Meta launches Muse AI inside Instagram Direct, eliminating the need to switch apps for AI interactions.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Meta launches Muse AI inside Instagram Direct, eliminating the need to switch apps for AI interactions.",
+    "page": "articles/meta-integrates-muse-ai-directly-into-instagram-dms-2026-11-24.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    ]
+  },
+  {
     "id": "amazon-s-7-5-b-decart-deal-signals-a-software-first-push-in-the-ai-chip-race-2026-11-24",
     "title": "Amazon’s $7.5 B Decart Deal Signals a Software‑First Push in the AI Chip Race",
     "description": "Amazon has announced a $7.5 billion acquisition of Decart, a software company that optimizes AI workloads, as part of its strategy to improve the efficiency of its Trainium chips.",
@@ -1775,24 +1793,6 @@
     "page": "articles/xiaomi-unveils-18-pro-series-with-back-display-innovation-2026-11-18.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-18-pro-and-xiaomi-18-pro-max-launched-with-a-back-display/article71715318.ece"
-    ]
-  },
-  {
-    "id": "nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18",
-    "title": "Nvidia Clarifies Its Role in Financing New Cloud Data Centers",
-    "description": "Nvidia confirms it will only back data center loans if the project has independent financing and the facility is built with Nvidia hardware installed.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia confirms it will only back data center loans if the project has independent financing and the facility is built with Nvidia hardware installed.",
-    "page": "articles/nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
     ]
   }
 ]
