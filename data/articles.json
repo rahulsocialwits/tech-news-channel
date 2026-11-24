@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-unveils-homeview-the-wall-mounted-smart-home-dashboard-that-could-replace-your-phone-2026-11-24",
+    "title": "Apple Unveils HomeView: The Wall‑Mounted Smart‑Home Dashboard That Could Replace Your Phone",
+    "description": "Apple’s new HomeView turns a wall into a smart‑home control center, pairing HomeKit with HomeAssistant for a seamless dashboard experience.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s new HomeView turns a wall into a smart‑home control center, pairing HomeKit with HomeAssistant for a seamless dashboard experience.",
+    "page": "articles/apple-unveils-homeview-the-wall-mounted-smart-home-dashboard-that-could-replace-your-phone-2026-11-24.html",
+    "source_urls": [
+      "https://www.xda-developers.com/apples-homeview-makes-wall-mounted-smart-home-dashboard-worth-having/"
+    ]
+  },
+  {
     "id": "amazon-reports-hackers-ai-agents-found-and-exploited-0-day-with-minimal-human-input-2026-11-24",
     "title": "Amazon Reports Hackers’ AI Agents Found and Exploited 0‑Day with Minimal Human Input",
     "description": "Amazon says attackers used its Cairn AI framework to discover and exploit a zero‑day vulnerability, highlighting the dual use of AI in cybersecurity.",
@@ -1775,24 +1793,6 @@
     "page": "articles/cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18.html",
     "source_urls": [
       "https://indiatechnologynews.in/cloud-in-named-an-openai-select-partner-combining-openai-capabilities-with-aws-premier-tier-expertise-to-accelerate-enterprise-ai-in-india/"
-    ]
-  },
-  {
-    "id": "java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18",
-    "title": "Java 4Shell Vulnerability Sparks Global Security Advisories",
-    "description": "A critical flaw in Java, dubbed 4Shell, has prompted urgent security alerts worldwide, affecting millions of systems.",
-    "category": "Cybersecurity",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "A critical flaw in Java, dubbed 4Shell, has prompted urgent security alerts worldwide, affecting millions of systems.",
-    "page": "articles/java-4shell-vulnerability-sparks-global-security-advisories-2026-11-18.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/java4shell-critical-java-security-flaw-explained-10968343/"
     ]
   }
 ]
