@@ -1,5 +1,23 @@
 [
   {
+    "id": "amazon-s-7-5-b-decart-deal-signals-a-software-first-push-in-the-ai-chip-race-2026-11-24",
+    "title": "Amazon’s $7.5 B Decart Deal Signals a Software‑First Push in the AI Chip Race",
+    "description": "Amazon has announced a $7.5 billion acquisition of Decart, a software company that optimizes AI workloads, as part of its strategy to improve the efficiency of its Trainium chips.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Amazon has announced a $7.5 billion acquisition of Decart, a software company that optimizes AI workloads, as part of its strategy to improve the efficiency of its Trainium chips.",
+    "page": "articles/amazon-s-7-5-b-decart-deal-signals-a-software-first-push-in-the-ai-chip-race-2026-11-24.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    ]
+  },
+  {
     "id": "apple-unveils-homeview-the-wall-mounted-smart-home-dashboard-that-could-replace-your-phone-2026-11-24",
     "title": "Apple Unveils HomeView: The Wall‑Mounted Smart‑Home Dashboard That Could Replace Your Phone",
     "description": "Apple’s new HomeView turns a wall into a smart‑home control center, pairing HomeKit with HomeAssistant for a seamless dashboard experience.",
@@ -1775,24 +1793,6 @@
     "page": "articles/nvidia-clarifies-its-role-in-financing-new-cloud-data-centers-2026-11-18.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
-    ]
-  },
-  {
-    "id": "cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18",
-    "title": "Cloud.in Partners with OpenAI to Accelerate Enterprise AI in India",
-    "description": "Cloud.in, a Hostin Services subsidiary, has joined OpenAI’s Select Partner program, combining OpenAI capabilities with AWS Premier Tier expertise to boost enterprise AI adoption in India.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Cloud.in, a Hostin Services subsidiary, has joined OpenAI’s Select Partner program, combining OpenAI capabilities with AWS Premier Tier expertise to boost enterprise AI adoption in India.",
-    "page": "articles/cloud-in-partners-with-openai-to-accelerate-enterprise-ai-in-india-2026-11-18.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/cloud-in-named-an-openai-select-partner-combining-openai-capabilities-with-aws-premier-tier-expertise-to-accelerate-enterprise-ai-in-india/"
     ]
   }
 ]
