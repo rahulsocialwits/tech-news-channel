@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluetooth-vulnerability-lets-hackers-hijack-electric-trailer-brakes-remotely-2026-11-24",
+    "title": "Bluetooth Vulnerability Lets Hackers Hijack Electric Trailer Brakes Remotely",
+    "description": "A newly discovered flaw in Elecbrakes’ Bluetooth system could allow attackers to control trailer braking force from a distance, raising serious safety concerns for electric trailers.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "A newly discovered flaw in Elecbrakes’ Bluetooth system could allow attackers to control trailer braking force from a distance, raising serious safety concerns for electric trailers.",
+    "page": "articles/bluetooth-vulnerability-lets-hackers-hijack-electric-trailer-brakes-remotely-2026-11-24.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer"
+    ]
+  },
+  {
     "id": "data-centers-build-their-own-natural-gas-power-plants-to-power-ai-workloads-2026-11-24",
     "title": "Data Centers Build Their Own Natural Gas Power Plants to Power AI Workloads",
     "description": "Developers are turning to on-site natural gas plants to bypass grid approvals and meet the energy demands of AI data centers.",
@@ -1775,24 +1793,6 @@
     "page": "articles/oakland-startup-aims-to-end-china-s-graphite-monopoly-2026-11-18.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/"
-    ]
-  },
-  {
-    "id": "loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18",
-    "title": "Loop Earplugs Offer 25% Off to Boost Sleep, Focus and Comfort",
-    "description": "Loop Earplugs now available at a 25% discount, featuring Quiet 2 and gift sets for better sleep and concentration.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Loop Earplugs now available at a 25% discount, featuring Quiet 2 and gift sets for better sleep and concentration.",
-    "page": "articles/loop-earplugs-offer-25-off-to-boost-sleep-focus-and-comfort-2026-11-18.html",
-    "source_urls": [
-      "https://www.wired.com/story/loop-earplugs-discount-code/"
     ]
   }
 ]
