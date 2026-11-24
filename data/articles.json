@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-maps-introduces-high-visibility-mode-for-safer-navigation-2026-11-24",
+    "title": "Google Maps Introduces High‑Visibility Mode for Safer Navigation",
+    "description": "Google Maps rolls out a new high‑visibility map style featuring a purple route and a distinct color palette for light and dark modes, aimed at improving safety and clarity for users.",
+    "category": "Mobile",
+    "labels": [
+      "Mobile",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "Google Maps rolls out a new high‑visibility map style featuring a purple route and a distinct color palette for light and dark modes, aimed at improving safety and clarity for users.",
+    "page": "articles/google-maps-introduces-high-visibility-mode-for-safer-navigation-2026-11-24.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-maps-high-visibility-mode-3738618/"
+    ]
+  },
+  {
     "id": "aws-ceo-advocates-engineering-over-kill-switches-for-ai-safety-2026-11-24",
     "title": "AWS CEO Advocates Engineering Over Kill Switches for AI Safety",
     "description": "Amazon Web Services’ chief stresses that robust engineering, not emergency shutdowns, is the key to safe AI deployment.",
@@ -1775,24 +1793,6 @@
     "page": "articles/nvidia-s-startup-portfolio-surges-to-65-b-as-jensen-huang-steps-down-2026-11-18.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
-    ]
-  },
-  {
-    "id": "security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18",
-    "title": "Security Teams Struggle to Keep Software Flaws in Check",
-    "description": "Backlog of software security findings grows as teams debate prioritization, according to Black Duck report.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Backlog of software security findings grows as teams debate prioritization, according to Black Duck report.",
-    "page": "articles/security-teams-struggle-to-keep-software-flaws-in-check-2026-11-18.html",
-    "source_urls": [
-      "https://www.technewsworld.com/story/security-teams-falling-further-behind-on-fixing-software-flaws-180734.html?rss=1"
     ]
   }
 ]
