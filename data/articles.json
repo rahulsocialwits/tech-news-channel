@@ -1,5 +1,23 @@
 [
   {
+    "id": "software-security-backlog-grows-as-teams-struggle-to-prioritize-fixes-2026-11-24",
+    "title": "Software Security Backlog Grows as Teams Struggle to Prioritize Fixes",
+    "description": "A new report shows software security teams are falling further behind on addressing vulnerabilities, with backlogs rising and decision‑making processes under scrutiny.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-24",
+    "readTime": "3 min read",
+    "excerpt": "A new report shows software security teams are falling further behind on addressing vulnerabilities, with backlogs rising and decision‑making processes under scrutiny.",
+    "page": "articles/software-security-backlog-grows-as-teams-struggle-to-prioritize-fixes-2026-11-24.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/security-teams-falling-further-behind-on-fixing-software-flaws-180734.html?rss=1"
+    ]
+  },
+  {
     "id": "motorola-unveils-edge-70-neo-a-7-000-mah-powerhouse-for-india-s-premium-market-2026-11-24",
     "title": "Motorola Unveils Edge 70 Neo, a 7,000‑mAh Powerhouse for India’s Premium Market",
     "description": "Motorola’s new Edge 70 Neo packs a massive 7,000‑mAh battery, 45W TurboPower charging and 7.5W reverse charging, targeting India’s premium smartphone buyers.",
@@ -1775,24 +1793,6 @@
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
       "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
-    ]
-  },
-  {
-    "id": "budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18",
-    "title": "Budget‑Friendly Gaming Gear Hits the Market as $80 Gift Guide Goes Live",
-    "description": "Gamers can score keyboards, mice, headsets and more for under $80 this holiday season, according to Tom's Hardware's latest gift guide.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Gamers can score keyboards, mice, headsets and more for under $80 this holiday season, according to Tom's Hardware's latest gift guide.",
-    "page": "articles/budget-friendly-gaming-gear-hits-the-market-as-80-gift-guide-goes-live-2026-11-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/gift-guides-seasonal-sales/budget-friendly-gifts-for-gamers-keyboards-mice-headsets-and-more-under-usd80"
     ]
   }
 ]
