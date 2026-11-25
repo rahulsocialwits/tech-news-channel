@@ -1,5 +1,23 @@
 [
   {
+    "id": "anthropic-enables-standalone-desktop-apps-from-ai-artifacts-2026-11-25",
+    "title": "Anthropic Enables Standalone Desktop Apps from AI Artifacts",
+    "description": "Anthropic now lets users download AI artifacts as standalone applications for Mac and Windows, expanding the usability of its generative models.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Anthropic now lets users download AI artifacts as standalone applications for Mac and Windows, expanding the usability of its generative models.",
+    "page": "articles/anthropic-enables-standalone-desktop-apps-from-ai-artifacts-2026-11-25.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-artifacts-install-as-app-desktop-10977812/"
+    ]
+  },
+  {
     "id": "gemini-notebook-adds-time-sensitive-flashcards-to-boost-study-efficiency-2026-11-25",
     "title": "Gemini Notebook Adds Time‑Sensitive Flashcards to Boost Study Efficiency",
     "description": "Gemini Notebook’s new flashcard features give users better timing control, helping students study more effectively.",
@@ -1777,24 +1795,6 @@
     "page": "articles/samsung-unveils-feature-rich-galaxy-studio-headphones-in-latest-leak-2026-11-19.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-galaxy-studio-leak-specs-3737013/"
-    ]
-  },
-  {
-    "id": "palo-alto-networks-boosts-forecast-with-4-5-b-applied-compute-deal-2026-11-19",
-    "title": "Palo Alto Networks Boosts Forecast with $4.5 B Applied Compute Deal",
-    "description": "Palo Alto Networks raised its annual outlook after signing a $4.5 billion agreement with Applied Compute to expand its cloud security portfolio.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Palo Alto Networks raised its annual outlook after signing a $4.5 billion agreement with Applied Compute to expand its cloud security portfolio.",
-    "page": "articles/palo-alto-networks-boosts-forecast-with-4-5-b-applied-compute-deal-2026-11-19.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/tech-news-technology/palo-alto-raises-annual-forecast-signs-4-5-billion-deal-for-applied-compute-10969320/"
     ]
   }
 ]
