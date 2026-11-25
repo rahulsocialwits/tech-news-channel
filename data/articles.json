@@ -1,5 +1,23 @@
 [
   {
+    "id": "india-calls-for-inclusive-ai-governance-amid-rising-military-use-2026-11-25",
+    "title": "India Calls for Inclusive AI Governance Amid Rising Military Use",
+    "description": "India urges global cooperation on AI governance, warning against strategic one‑upmanship in military and intelligence applications.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "India urges global cooperation on AI governance, warning against strategic one‑upmanship in military and intelligence applications.",
+    "page": "articles/india-calls-for-inclusive-ai-governance-amid-rising-military-use-2026-11-25.html",
+    "source_urls": [
+      "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece"
+    ]
+  },
+  {
     "id": "anthropic-enables-standalone-desktop-apps-from-ai-artifacts-2026-11-25",
     "title": "Anthropic Enables Standalone Desktop Apps from AI Artifacts",
     "description": "Anthropic now lets users download AI artifacts as standalone applications for Mac and Windows, expanding the usability of its generative models.",
@@ -1777,24 +1795,6 @@
     "page": "articles/gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19.html",
     "source_urls": [
       "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/"
-    ]
-  },
-  {
-    "id": "samsung-unveils-feature-rich-galaxy-studio-headphones-in-latest-leak-2026-11-19",
-    "title": "Samsung Unveils Feature‑Rich Galaxy Studio Headphones in Latest Leak",
-    "description": "A recent leak shows Samsung’s new Galaxy Studio headphones will include a headphone jack, larger battery and other gamer‑friendly features.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "A recent leak shows Samsung’s new Galaxy Studio headphones will include a headphone jack, larger battery and other gamer‑friendly features.",
-    "page": "articles/samsung-unveils-feature-rich-galaxy-studio-headphones-in-latest-leak-2026-11-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-galaxy-studio-leak-specs-3737013/"
     ]
   }
 ]
