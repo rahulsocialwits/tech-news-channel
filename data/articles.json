@@ -1,5 +1,23 @@
 [
   {
+    "id": "u-s-lawmakers-question-faa-s-rapid-rollout-of-unproven-aviation-ai-tool-2026-11-25",
+    "title": "U.S. Lawmakers Question FAA’s Rapid Rollout of Unproven Aviation AI Tool",
+    "description": "Congressional leaders raise concerns over the Federal Aviation Administration’s nationwide deployment of an untested AI system for flight operations.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Congressional leaders raise concerns over the Federal Aviation Administration’s nationwide deployment of an untested AI system for flight operations.",
+    "page": "articles/u-s-lawmakers-question-faa-s-rapid-rollout-of-unproven-aviation-ai-tool-2026-11-25.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/us-lawmakers-raise-alarm-at-faa-decision-to-deploy-aviation-ai-tool-nationally/article71740981.ece"
+    ]
+  },
+  {
     "id": "whatsapp-tests-sound-enabled-stickers-in-public-beta-2026-11-25",
     "title": "WhatsApp Tests Sound‑Enabled Stickers in Public Beta",
     "description": "WhatsApp is experimenting with stickers that play audio clips, adding a new layer of interactivity to its messaging platform.",
@@ -1778,24 +1796,6 @@
     "page": "articles/sila-s-silicon-carbon-anode-deal-with-panasonic-signals-a-shift-in-u-s-battery-innovation-2026-11-19.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
-    ]
-  },
-  {
-    "id": "bose-tv-speaker-gets-29-off-on-amazon-a-budget-friendly-sound-upgrade-2026-11-19",
-    "title": "Bose TV Speaker Gets 29% Off on Amazon – A Budget-Friendly Sound Upgrade",
-    "description": "Bose’s compact TV Speaker is now available on Amazon with a 29% discount, offering improved TV audio for under $80.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Bose’s compact TV Speaker is now available on Amazon with a 29% discount, offering improved TV audio for under $80.",
-    "page": "articles/bose-tv-speaker-gets-29-off-on-amazon-a-budget-friendly-sound-upgrade-2026-11-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/bose-tv-speaker-deal-amazon-3736858/"
     ]
   }
 ]
