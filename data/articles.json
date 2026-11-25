@@ -1,5 +1,23 @@
 [
   {
+    "id": "whatsapp-tests-sound-enabled-stickers-in-public-beta-2026-11-25",
+    "title": "WhatsApp Tests Sound‑Enabled Stickers in Public Beta",
+    "description": "WhatsApp is experimenting with stickers that play audio clips, adding a new layer of interactivity to its messaging platform.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "WhatsApp is experimenting with stickers that play audio clips, adding a new layer of interactivity to its messaging platform.",
+    "page": "articles/whatsapp-tests-sound-enabled-stickers-in-public-beta-2026-11-25.html",
+    "source_urls": [
+      "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/"
+    ]
+  },
+  {
     "id": "google-maps-adds-motorcycle-specific-navigation-to-android-auto-2026-11-25",
     "title": "Google Maps Adds Motorcycle‑Specific Navigation to Android Auto",
     "description": "Google Maps rolls out new Android Auto feature that tailors routes for motorcyclists, improving safety and convenience on the road.",
@@ -1778,23 +1796,6 @@
     "page": "articles/bose-tv-speaker-gets-29-off-on-amazon-a-budget-friendly-sound-upgrade-2026-11-19.html",
     "source_urls": [
       "https://www.androidauthority.com/bose-tv-speaker-deal-amazon-3736858/"
-    ]
-  },
-  {
-    "id": "nvidia-halts-ai-chip-shipments-to-china-as-export-controls-tighten-2026-11-19",
-    "title": "Nvidia Halts AI Chip Shipments to China as Export Controls Tighten",
-    "description": "Nvidia has stopped shipping its AI chips to China amid growing U.S. export control pressure, impacting the global AI hardware market.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Nvidia has stopped shipping its AI chips to China amid growing U.S. export control pressure, impacting the global AI hardware market.",
-    "page": "articles/nvidia-halts-ai-chip-shipments-to-china-as-export-controls-tighten-2026-11-19.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-stops-ai-chips-china-us-export-controls-10969783/"
     ]
   }
 ]
