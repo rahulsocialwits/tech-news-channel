@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-centers-power-up-with-natural-gas-a-new-trend-in-sustainable-cloud-infrastructure-2026-11-25",
+    "title": "Data Centers Power Up with Natural Gas: A New Trend in Sustainable Cloud Infrastructure",
+    "description": "Data centers are increasingly installing natural gas power plants to meet growing energy demands and reduce carbon footprints.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Data centers are increasingly installing natural gas power plants to meet growing energy demands and reduce carbon footprints.",
+    "page": "articles/data-centers-power-up-with-natural-gas-a-new-trend-in-sustainable-cloud-infrastructure-2026-11-25.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+    ]
+  },
+  {
     "id": "nvidia-s-ceo-return-sparks-debate-over-ai-chip-security-2026-11-25",
     "title": "Nvidia’s CEO Return Sparks Debate Over AI Chip Security",
     "description": "Jensen Huang’s return to Nvidia’s board raises concerns about the company’s role in national security and the spread of advanced AI chips to adversaries.",
@@ -1777,23 +1795,6 @@
     "page": "articles/banks-warn-customers-using-ai-personal-finance-agents-are-on-their-own-2026-11-18.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
-    ]
-  },
-  {
-    "id": "new-ai-powered-hacking-tool-makes-penetration-testing-accessible-to-novice-attackers-2026-11-18",
-    "title": "New AI‑Powered Hacking Tool Makes Penetration Testing Accessible to Novice Attackers",
-    "description": "Artex, a point‑and‑shoot AI hacking platform, lets users launch automated attacks by feeding prompts to chatbots, raising concerns about the democratization of cybercrime.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Artex, a point‑and‑shoot AI hacking platform, lets users launch automated attacks by feeding prompts to chatbots, raising concerns about the democratization of cybercrime.",
-    "page": "articles/new-ai-powered-hacking-tool-makes-penetration-testing-accessible-to-novice-attackers-2026-11-18.html",
-    "source_urls": [
-      "https://www.wired.com/story/artex-ai-hacking-tools/"
     ]
   }
 ]
