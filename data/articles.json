@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-s-21-hour-code-red-outage-highlights-cloud-reliability-risks-2026-11-25",
+    "title": "Microsoft’s 21‑Hour ‘Code Red’ Outage Highlights Cloud Reliability Risks",
+    "description": "Microsoft’s internal Code Red alert after a 21‑hour outage underscores the importance of robust incident response in cloud services.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft’s internal Code Red alert after a 21‑hour outage underscores the importance of robust incident response in cloud services.",
+    "page": "articles/microsoft-s-21-hour-code-red-outage-highlights-cloud-reliability-risks-2026-11-25.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/tech-news-technology/microsoft-code-red-after-major-outage-what-it-means-10977435/"
+    ]
+  },
+  {
     "id": "google-messages-adds-gemini-tasks-for-smart-delivery-and-price-alerts-2026-11-25",
     "title": "Google Messages Adds Gemini Tasks for Smart Delivery and Price Alerts",
     "description": "Google Messages now integrates Gemini Tasks to provide real‑time delivery updates and price alerts directly in the chat interface.",
@@ -1777,25 +1795,6 @@
     "page": "articles/samsung-electronics-downplays-neocloud-concerns-amid-ai-driven-data-center-expansion-2026-11-19.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble/article71718769.ece"
-    ]
-  },
-  {
-    "id": "google-ai-ultra-upgrade-adds-youtube-premium-family-for-up-to-six-members-2026-11-19",
-    "title": "Google AI Ultra Upgrade Adds YouTube Premium Family for Up to Six Members",
-    "description": "Google’s AI Ultra tier now includes YouTube Premium Family, letting households enjoy ad‑free videos without extra cost.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Gadgets"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Google’s AI Ultra tier now includes YouTube Premium Family, letting households enjoy ad‑free videos without extra cost.",
-    "page": "articles/google-ai-ultra-upgrade-adds-youtube-premium-family-for-up-to-six-members-2026-11-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
-      "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/"
     ]
   }
 ]
