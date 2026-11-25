@@ -1,5 +1,23 @@
 [
   {
+    "id": "us-doj-launches-largest-anti-scam-operation-seizing-14-000-devices-and-17-billion-in-illic-2026-11-25",
+    "title": "US DOJ Launches Largest Anti‑Scam Operation, Seizing 14,000 Devices and $17 Billion in Illicit Funds",
+    "description": "The Department of Justice announced a record anti‑scam crackdown that recovered more than $8 billion in victim losses and charged over 800 defendants.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cybersecurity"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "The Department of Justice announced a record anti‑scam crackdown that recovered more than $8 billion in victim losses and charged over 800 defendants.",
+    "page": "articles/us-doj-launches-largest-anti-scam-operation-seizing-14-000-devices-and-17-billion-in-illic-2026-11-25.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/cyber-security/us-doj-touts-largest-ever-crackdown-on-scammers-across-the-globe-as-it-seizes-14-000-devices-and-usd17-billion-in-illicit-funds-operation-results-in-800-defendants-and-frees-2-200-forced-laborers"
+    ]
+  },
+  {
     "id": "alteryx-unveils-vura-governance-to-boost-enterprise-ai-trust-2026-11-25",
     "title": "Alteryx Unveils VURA Governance to Boost Enterprise AI Trust",
     "description": "Alteryx launches VURA Governance, a new framework that lets businesses validate AI outputs, enhance data transparency, and keep control over automated workflows.",
@@ -1778,23 +1796,6 @@
     "page": "articles/samsung-unveils-lighter-horizontal-leveling-for-selfie-cameras-2026-11-19.html",
     "source_urls": [
       "https://www.androidauthority.com/samsung-horizontal-leveling-selfie-videos-one-ui-9-5-3736963/"
-    ]
-  },
-  {
-    "id": "microsoft-s-60-000-employee-buyout-a-strategic-shift-driven-by-ai-2026-11-19",
-    "title": "Microsoft’s 60,000‑Employee Buyout: A Strategic Shift Driven by AI",
-    "description": "Microsoft CEO Satya Nadella explains why the company offered buyouts to 60,000 employees, citing AI as the key factor behind the workforce realignment.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft CEO Satya Nadella explains why the company offered buyouts to 60,000 employees, citing AI as the key factor behind the workforce realignment.",
-    "page": "articles/microsoft-s-60-000-employee-buyout-a-strategic-shift-driven-by-ai-2026-11-19.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
     ]
   }
 ]
