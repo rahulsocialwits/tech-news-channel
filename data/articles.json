@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-maps-adds-motorcycle-specific-navigation-to-android-auto-2026-11-25",
+    "title": "Google Maps Adds Motorcycle‑Specific Navigation to Android Auto",
+    "description": "Google Maps rolls out new Android Auto feature that tailors routes for motorcyclists, improving safety and convenience on the road.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Google Maps rolls out new Android Auto feature that tailors routes for motorcyclists, improving safety and convenience on the road.",
+    "page": "articles/google-maps-adds-motorcycle-specific-navigation-to-android-auto-2026-11-25.html",
+    "source_urls": [
+      "https://9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes/"
+    ]
+  },
+  {
     "id": "india-calls-for-inclusive-ai-governance-amid-rising-military-use-2026-11-25",
     "title": "India Calls for Inclusive AI Governance Amid Rising Military Use",
     "description": "India urges global cooperation on AI governance, warning against strategic one‑upmanship in military and intelligence applications.",
@@ -1777,24 +1795,6 @@
     "page": "articles/nvidia-halts-ai-chip-shipments-to-china-as-export-controls-tighten-2026-11-19.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-stops-ai-chips-china-us-export-controls-10969783/"
-    ]
-  },
-  {
-    "id": "gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19",
-    "title": "GameNative Fixes PC Gaming on Pixels and Exynos‑Powered Galaxy Phones",
-    "description": "GameNative’s latest update brings major PC gaming fixes to Google Pixel and Exynos Galaxy devices, expanding the platform’s reach beyond Snapdragon hardware.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "GameNative’s latest update brings major PC gaming fixes to Google Pixel and Exynos Galaxy devices, expanding the platform’s reach beyond Snapdragon hardware.",
-    "page": "articles/gamenative-fixes-pc-gaming-on-pixels-and-exynos-powered-galaxy-phones-2026-11-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/"
     ]
   }
 ]
