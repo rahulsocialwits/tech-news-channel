@@ -1,5 +1,24 @@
 [
   {
+    "id": "nvidia-s-ceo-return-sparks-debate-over-ai-chip-security-2026-11-25",
+    "title": "Nvidia’s CEO Return Sparks Debate Over AI Chip Security",
+    "description": "Jensen Huang’s return to Nvidia’s board raises concerns about the company’s role in national security and the spread of advanced AI chips to adversaries.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Jensen Huang’s return to Nvidia’s board raises concerns about the company’s role in national security and the spread of advanced AI chips to adversaries.",
+    "page": "articles/nvidia-s-ceo-return-sparks-debate-over-ai-chip-security-2026-11-25.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+    ]
+  },
+  {
     "id": "enterprise-networks-brace-for-ai-driven-traffic-surge-2026-11-24",
     "title": "Enterprise Networks Brace for AI‑Driven Traffic Surge",
     "description": "Enterprise networks face a 450% traffic spike as AI agents replace human tasks, prompting a push for AI‑enabled network modernization.",
@@ -1775,24 +1794,6 @@
     "page": "articles/new-ai-powered-hacking-tool-makes-penetration-testing-accessible-to-novice-attackers-2026-11-18.html",
     "source_urls": [
       "https://www.wired.com/story/artex-ai-hacking-tools/"
-    ]
-  },
-  {
-    "id": "ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18",
-    "title": "Ohio Bill Could Grant Data Centers Eminent Domain Power",
-    "description": "A leaked Ohio proposal would let AI data‑center operators seize private land under eminent domain, expanding the list of public utilities.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "A leaked Ohio proposal would let AI data‑center operators seize private land under eminent domain, expanding the list of public utilities.",
-    "page": "articles/ohio-bill-could-grant-data-centers-eminent-domain-power-2026-11-18.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries"
     ]
   }
 ]
