@@ -1,5 +1,23 @@
 [
   {
+    "id": "alteryx-unveils-vura-governance-to-boost-enterprise-ai-trust-2026-11-25",
+    "title": "Alteryx Unveils VURA Governance to Boost Enterprise AI Trust",
+    "description": "Alteryx launches VURA Governance, a new framework that lets businesses validate AI outputs, enhance data transparency, and keep control over automated workflows.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Alteryx launches VURA Governance, a new framework that lets businesses validate AI outputs, enhance data transparency, and keep control over automated workflows.",
+    "page": "articles/alteryx-unveils-vura-governance-to-boost-enterprise-ai-trust-2026-11-25.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/alteryx-strengthens-enterprises-ai-trust-with-vura-governance/"
+    ]
+  },
+  {
     "id": "enterprise-ai-shifts-focus-from-generative-models-to-contextual-intelligence-2026-11-25",
     "title": "Enterprise AI Shifts Focus From Generative Models to Contextual Intelligence",
     "description": "Businesses are moving beyond generative AI toward specialized, multilingual models that understand context and corporate knowledge.",
@@ -1777,24 +1795,6 @@
     "page": "articles/microsoft-s-60-000-employee-buyout-a-strategic-shift-driven-by-ai-2026-11-19.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-    ]
-  },
-  {
-    "id": "black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19",
-    "title": "Black Friday Laptop Deals Heat Up as Prices Drop Ahead of the Shopping Day",
-    "description": "Early Black Friday laptop discounts are already hitting the market, offering buyers a chance to snag high‑end models at steep markdowns before the holiday rush.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Early Black Friday laptop discounts are already hitting the market, offering buyers a chance to snag high‑end models at steep markdowns before the holiday rush.",
-    "page": "articles/black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19.html",
-    "source_urls": [
-      "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/"
     ]
   }
 ]
