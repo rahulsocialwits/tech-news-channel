@@ -1,5 +1,23 @@
 [
   {
+    "id": "enterprise-ai-shifts-focus-from-generative-models-to-contextual-intelligence-2026-11-25",
+    "title": "Enterprise AI Shifts Focus From Generative Models to Contextual Intelligence",
+    "description": "Businesses are moving beyond generative AI toward specialized, multilingual models that understand context and corporate knowledge.",
+    "category": "Technology",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Businesses are moving beyond generative AI toward specialized, multilingual models that understand context and corporate knowledge.",
+    "page": "articles/enterprise-ai-shifts-focus-from-generative-models-to-contextual-intelligence-2026-11-25.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/enterprise-ai-moves-beyond-generative-ai-as-businesses-look-towards-contextual-intelligence/"
+    ]
+  },
+  {
     "id": "data-centers-power-up-with-natural-gas-a-new-trend-in-sustainable-cloud-infrastructure-2026-11-25",
     "title": "Data Centers Power Up with Natural Gas: A New Trend in Sustainable Cloud Infrastructure",
     "description": "Data centers are increasingly installing natural gas power plants to meet growing energy demands and reduce carbon footprints.",
@@ -1777,24 +1795,6 @@
     "page": "articles/black-friday-laptop-deals-heat-up-as-prices-drop-ahead-of-the-shopping-day-2026-11-19.html",
     "source_urls": [
       "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/"
-    ]
-  },
-  {
-    "id": "banks-warn-customers-using-ai-personal-finance-agents-are-on-their-own-2026-11-18",
-    "title": "Banks Warn Customers Using AI Personal Finance Agents Are on Their Own",
-    "description": "Major banks caution users that AI-driven personal finance tools may expose them to security risks and lack protective oversight.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-11-18",
-    "readTime": "3 min read",
-    "excerpt": "Major banks caution users that AI-driven personal finance tools may expose them to security risks and lack protective oversight.",
-    "page": "articles/banks-warn-customers-using-ai-personal-finance-agents-are-on-their-own-2026-11-18.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
     ]
   }
 ]
