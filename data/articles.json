@@ -1,5 +1,23 @@
 [
   {
+    "id": "todoist-data-breach-6-of-customers-details-stolen-2026-11-25",
+    "title": "Todoist Data Breach: 6% of Customers’ Details Stolen",
+    "description": "Todoist confirms a data breach that exposed email IDs, password hashes and account creation dates for 6% of its users.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Todoist confirms a data breach that exposed email IDs, password hashes and account creation dates for 6% of its users.",
+    "page": "articles/todoist-data-breach-6-of-customers-details-stolen-2026-11-25.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"
+    ]
+  },
+  {
     "id": "u-s-lawmakers-question-faa-s-rapid-rollout-of-unproven-aviation-ai-tool-2026-11-25",
     "title": "U.S. Lawmakers Question FAA’s Rapid Rollout of Unproven Aviation AI Tool",
     "description": "Congressional leaders raise concerns over the Federal Aviation Administration’s nationwide deployment of an untested AI system for flight operations.",
@@ -1779,23 +1797,6 @@
     "page": "articles/pakistan-undersea-cable-fault-triggers-nationwide-internet-outage-2026-11-19.html",
     "source_urls": [
       "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region"
-    ]
-  },
-  {
-    "id": "sila-s-silicon-carbon-anode-deal-with-panasonic-signals-a-shift-in-u-s-battery-innovation-2026-11-19",
-    "title": "Sila’s Silicon‑Carbon Anode Deal with Panasonic Signals a Shift in U.S. Battery Innovation",
-    "description": "Sila Nanotechnologies has signed a multi‑year agreement with Panasonic Energy to supply silicon‑carbon anode material, a move that could enable lighter, higher‑capacity batteries for the U.S. market.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Sila Nanotechnologies has signed a multi‑year agreement with Panasonic Energy to supply silicon‑carbon anode material, a move that could enable lighter, higher‑capacity batteries for the U.S. market.",
-    "page": "articles/sila-s-silicon-carbon-anode-deal-with-panasonic-signals-a-shift-in-u-s-battery-innovation-2026-11-19.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
     ]
   }
 ]
