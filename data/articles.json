@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-messages-adds-gemini-tasks-for-smart-delivery-and-price-alerts-2026-11-25",
+    "title": "Google Messages Adds Gemini Tasks for Smart Delivery and Price Alerts",
+    "description": "Google Messages now integrates Gemini Tasks to provide real‑time delivery updates and price alerts directly in the chat interface.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Google Messages now integrates Gemini Tasks to provide real‑time delivery updates and price alerts directly in the chat interface.",
+    "page": "articles/google-messages-adds-gemini-tasks-for-smart-delivery-and-price-alerts-2026-11-25.html",
+    "source_urls": [
+      "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/"
+    ]
+  },
+  {
     "id": "us-doj-launches-largest-anti-scam-operation-seizing-14-000-devices-and-17-billion-in-illic-2026-11-25",
     "title": "US DOJ Launches Largest Anti‑Scam Operation, Seizing 14,000 Devices and $17 Billion in Illicit Funds",
     "description": "The Department of Justice announced a record anti‑scam crackdown that recovered more than $8 billion in victim losses and charged over 800 defendants.",
@@ -1778,24 +1796,6 @@
     "source_urls": [
       "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
       "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/"
-    ]
-  },
-  {
-    "id": "samsung-unveils-lighter-horizontal-leveling-for-selfie-cameras-2026-11-19",
-    "title": "Samsung Unveils Lighter Horizontal Leveling for Selfie Cameras",
-    "description": "Samsung introduces a new horizontal leveling feature for its Galaxy S26 selfie cameras, aiming to stabilize videos during everyday use.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Samsung introduces a new horizontal leveling feature for its Galaxy S26 selfie cameras, aiming to stabilize videos during everyday use.",
-    "page": "articles/samsung-unveils-lighter-horizontal-leveling-for-selfie-cameras-2026-11-19.html",
-    "source_urls": [
-      "https://www.androidauthority.com/samsung-horizontal-leveling-selfie-videos-one-ui-9-5-3736963/"
     ]
   }
 ]
