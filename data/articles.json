@@ -1,5 +1,23 @@
 [
   {
+    "id": "gemini-notebook-adds-time-sensitive-flashcards-to-boost-study-efficiency-2026-11-25",
+    "title": "Gemini Notebook Adds Time‑Sensitive Flashcards to Boost Study Efficiency",
+    "description": "Gemini Notebook’s new flashcard features give users better timing control, helping students study more effectively.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-25",
+    "readTime": "3 min read",
+    "excerpt": "Gemini Notebook’s new flashcard features give users better timing control, helping students study more effectively.",
+    "page": "articles/gemini-notebook-adds-time-sensitive-flashcards-to-boost-study-efficiency-2026-11-25.html",
+    "source_urls": [
+      "https://www.androidauthority.com/gemini-notebook-flashcards-3739247/"
+    ]
+  },
+  {
     "id": "microsoft-s-21-hour-code-red-outage-highlights-cloud-reliability-risks-2026-11-25",
     "title": "Microsoft’s 21‑Hour ‘Code Red’ Outage Highlights Cloud Reliability Risks",
     "description": "Microsoft’s internal Code Red alert after a 21‑hour outage underscores the importance of robust incident response in cloud services.",
@@ -1777,24 +1795,6 @@
     "page": "articles/palo-alto-networks-boosts-forecast-with-4-5-b-applied-compute-deal-2026-11-19.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/tech-news-technology/palo-alto-raises-annual-forecast-signs-4-5-billion-deal-for-applied-compute-10969320/"
-    ]
-  },
-  {
-    "id": "samsung-electronics-downplays-neocloud-concerns-amid-ai-driven-data-center-expansion-2026-11-19",
-    "title": "Samsung Electronics Downplays Neocloud Concerns Amid AI‑Driven Data Center Expansion",
-    "description": "Samsung Electronics reassures investors that its stance on neocloud firms and AI market volatility remains steady, despite recent debt‑fueled data center expansions by rivals.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Samsung Electronics reassures investors that its stance on neocloud firms and AI market volatility remains steady, despite recent debt‑fueled data center expansions by rivals.",
-    "page": "articles/samsung-electronics-downplays-neocloud-concerns-amid-ai-driven-data-center-expansion-2026-11-19.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble/article71718769.ece"
     ]
   }
 ]
