@@ -1,5 +1,23 @@
 [
   {
+    "id": "data-centers-fuel-u-s-natural-gas-surge-powering-the-cloud-economy-2026-11-26",
+    "title": "Data Centers Fuel U.S. Natural‑Gas Surge, Powering the Cloud Economy",
+    "description": "Data‑center growth is driving a sharp increase in U.S. natural‑gas demand, reshaping the energy mix for the cloud industry.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Data‑center growth is driving a sharp increase in U.S. natural‑gas demand, reshaping the energy mix for the cloud industry.",
+    "page": "articles/data-centers-fuel-u-s-natural-gas-surge-powering-the-cloud-economy-2026-11-26.html",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+    ]
+  },
+  {
     "id": "yokogawa-unveils-oprex-universal-autonomous-control-system-r1-01-for-process-automation-2026-11-26",
     "title": "Yokogawa Unveils OpreX Universal Autonomous Control System R1.01 for Process Automation",
     "description": "Yokogawa Electric launches a new PLC, the OpreX Universal Autonomous Control System R1.01, designed to streamline industrial process automation.",
@@ -1779,24 +1797,6 @@
     "page": "articles/everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-    ]
-  },
-  {
-    "id": "us-commerce-department-expands-ai-chip-export-controls-to-24-countries-2026-11-19",
-    "title": "US Commerce Department Expands AI Chip Export Controls to 24 Countries",
-    "description": "The new rule bars data‑center operators outside the U.S. from using advanced American AI chips to serve clients in 24 nations, including China, Iran and Russia.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "The new rule bars data‑center operators outside the U.S. from using advanced American AI chips to serve clients in 24 nations, including China, Iran and Russia.",
-    "page": "articles/us-commerce-department-expands-ai-chip-export-controls-to-24-countries-2026-11-19.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece"
     ]
   }
 ]
