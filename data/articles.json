@@ -1,5 +1,23 @@
 [
   {
+    "id": "x-introduces-first-ever-parental-controls-to-safeguard-young-users-2026-11-26",
+    "title": "X Introduces First‑Ever Parental Controls to Safeguard Young Users",
+    "description": "X rolls out new parental control tools, allowing parents to set limits on content, time, and interactions for children’s accounts.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "X rolls out new parental control tools, allowing parents to set limits on content, time, and interactions for children’s accounts.",
+    "page": "articles/x-introduces-first-ever-parental-controls-to-safeguard-young-users-2026-11-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
+    ]
+  },
+  {
     "id": "android-17-adds-feature-to-keep-audio-in-headphones-borrowing-from-ios-2026-11-26",
     "title": "Android 17 Adds Feature to Keep Audio in Headphones, Borrowing from iOS",
     "description": "Google’s latest Android 17 update introduces a setting that stops Bluetooth audio from switching to speakers when headphones are unplugged, a feature inspired by Apple’s iOS 26.",
@@ -1777,24 +1795,6 @@
     "page": "articles/lava-unveils-smart-4-pro-4g-phone-with-7-000-mah-battery-for-offline-buyers-2026-11-20.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-smart-4-pro-4g-phone-for-offline-buyers-in-india/article71723467.ece"
-    ]
-  },
-  {
-    "id": "uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20",
-    "title": "Uber Tests Rides for 10‑ to 12‑Year‑Olds, Offering Drivers Extra Pay",
-    "description": "Uber is piloting a new service that lets parents book rides for children aged 10 to 12, with drivers receiving higher compensation for the trips.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Uber is piloting a new service that lets parents book rides for children aged 10 to 12, with drivers receiving higher compensation for the trips.",
-    "page": "articles/uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20.html",
-    "source_urls": [
-      "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/"
     ]
   }
 ]
