@@ -1,5 +1,23 @@
 [
   {
+    "id": "android-17-adds-feature-to-keep-audio-in-headphones-borrowing-from-ios-2026-11-26",
+    "title": "Android 17 Adds Feature to Keep Audio in Headphones, Borrowing from iOS",
+    "description": "Google’s latest Android 17 update introduces a setting that stops Bluetooth audio from switching to speakers when headphones are unplugged, a feature inspired by Apple’s iOS 26.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Google’s latest Android 17 update introduces a setting that stops Bluetooth audio from switching to speakers when headphones are unplugged, a feature inspired by Apple’s iOS 26.",
+    "page": "articles/android-17-adds-feature-to-keep-audio-in-headphones-borrowing-from-ios-2026-11-26.html",
+    "source_urls": [
+      "https://www.androidauthority.com/android-17-keep-audio-in-headphones-3739645/"
+    ]
+  },
+  {
     "id": "neuralink-secures-fda-approval-to-launch-first-brain-computer-interface-trial-for-als-pati-2026-11-26",
     "title": "Neuralink Secures FDA Approval to Launch First Brain‑Computer Interface Trial for ALS Patients",
     "description": "Elon Musk’s Neuralink receives FDA permission to begin a pivotal trial of its brain‑computer interface in ALS patients.",
@@ -1777,25 +1795,6 @@
     "page": "articles/uber-tests-rides-for-10-to-12-year-olds-offering-drivers-extra-pay-2026-11-20.html",
     "source_urls": [
       "https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/"
-    ]
-  },
-  {
-    "id": "android-17-rollout-and-3d-emoji-specs-google-s-next-gen-mobile-push-2026-11-20",
-    "title": "Android 17 Rollout and 3D Emoji Specs: Google’s Next‑Gen Mobile Push",
-    "description": "Google is expanding Android 17 to 29 phones and tightening 3D emoji requirements, marking a significant shift in mobile OS and visual communication.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Google is expanding Android 17 to 29 phones and tightening 3D emoji requirements, marking a significant shift in mobile OS and visual communication.",
-    "page": "articles/android-17-rollout-and-3d-emoji-specs-google-s-next-gen-mobile-push-2026-11-20.html",
-    "source_urls": [
-      "https://www.androidauthority.com/motorola-android-17-update-rollout-status-3737510/",
-      "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/"
     ]
   }
 ]
