@@ -1,5 +1,23 @@
 [
   {
+    "id": "spacex-granted-green-light-to-deploy-1-million-satellites-for-space-based-data-centers-2026-11-26",
+    "title": "SpaceX Granted Green Light to Deploy 1 Million Satellites for Space‑Based Data Centers",
+    "description": "The Trump administration has approved SpaceX’s plan to launch a million satellites aimed at creating data centers in orbit, sparking debate among scientists.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "The Trump administration has approved SpaceX’s plan to launch a million satellites aimed at creating data centers in orbit, sparking debate among scientists.",
+    "page": "articles/spacex-granted-green-light-to-deploy-1-million-satellites-for-space-based-data-centers-2026-11-26.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece"
+    ]
+  },
+  {
     "id": "ubuntu-unveils-ai-powered-launcher-paving-way-for-llm-integration-2026-11-26",
     "title": "Ubuntu Unveils AI‑Powered Launcher, Paving Way for LLM Integration",
     "description": "Ubuntu showcases an early AI launcher prototype, hinting at future integration of large language models into the operating system.",
@@ -1779,24 +1797,6 @@
     "source_urls": [
       "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/"
-    ]
-  },
-  {
-    "id": "google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19",
-    "title": "Google Partners with Blue Origin to Launch Satellite Data Centers for Space‑Based AI",
-    "description": "Google’s Project Suncatcher will deploy AI‑enabled data centers in orbit, expanding cloud infrastructure beyond Earth.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Project Suncatcher will deploy AI‑enabled data centers in orbit, expanding cloud infrastructure beyond Earth.",
-    "page": "articles/google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19.html",
-    "source_urls": [
-      "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/"
     ]
   }
 ]
