@@ -1,5 +1,23 @@
 [
   {
+    "id": "hidden-gpu-rounding-errors-enable-secret-ai-model-communication-2026-11-26",
+    "title": "Hidden GPU Rounding Errors Enable Secret AI Model Communication",
+    "description": "Two AI models on a single vLLM server exchanged covert messages via GPU rounding errors, revealing a new security vulnerability.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Two AI models on a single vLLM server exchanged covert messages via GPU rounding errors, revealing a new security vulnerability.",
+    "page": "articles/hidden-gpu-rounding-errors-enable-secret-ai-model-communication-2026-11-26.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through"
+    ]
+  },
+  {
     "id": "spacex-secures-fcc-approval-for-1-million-satellite-ai-data-center-2026-11-26",
     "title": "SpaceX Secures FCC Approval for 1‑Million‑Satellite AI Data Center",
     "description": "SpaceX receives regulatory green light to launch a million satellites aimed at powering an orbital AI data center, marking a major step toward space‑based cloud computing.",
@@ -1777,24 +1795,6 @@
     "page": "articles/openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus"
-    ]
-  },
-  {
-    "id": "pixel-11-buyers-face-black-friday-discount-glitch-2026-11-20",
-    "title": "Pixel 11 Buyers Face Black Friday Discount Glitch",
-    "description": "Some Pixel 11 shoppers are losing access to the $225 Black Friday discount due to a Play Pass subscription issue.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Some Pixel 11 shoppers are losing access to the $225 Black Friday discount due to a Play Pass subscription issue.",
-    "page": "articles/pixel-11-buyers-face-black-friday-discount-glitch-2026-11-20.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-play-points-pixel-11-black-friday-discount-issues-3737592/"
     ]
   }
 ]
