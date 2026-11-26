@@ -1,5 +1,23 @@
 [
   {
+    "id": "evernex-expands-footprint-with-new-hyderabad-headquarters-2026-11-26",
+    "title": "Evernex Expands Footprint with New Hyderabad Headquarters",
+    "description": "Global IT services firm Evernex opens a new India hub to support the country’s growing data‑centre and enterprise market.",
+    "category": "Startups",
+    "labels": [
+      "Startups",
+      "Enterprise"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Global IT services firm Evernex opens a new India hub to support the country’s growing data‑centre and enterprise market.",
+    "page": "articles/evernex-expands-footprint-with-new-hyderabad-headquarters-2026-11-26.html",
+    "source_urls": [
+      "https://indiatechnologynews.in/evernex-establishes-india-headquarters-in-hyderabad-to-support-critical-it-infrastructure/"
+    ]
+  },
+  {
     "id": "vivo-unveils-x500-series-and-first-smartwatch-in-india-2026-11-26",
     "title": "Vivo Unveils X500 Series and First Smartwatch in India",
     "description": "Vivo launches its X500 Pro Max, X500, and X500 smartphones along with the Watch GT2 smartwatch, featuring a 2.07‑inch display and up to 25 days of battery life.",
@@ -1777,24 +1795,6 @@
     "page": "articles/bose-quietcomfort-ultra-2nd-gen-headphones-drop-to-369-in-latest-deal-2026-11-20.html",
     "source_urls": [
       "https://www.androidauthority.com/bose-qc-ultra-headphones-2nd-gen-deal-3737401/"
-    ]
-  },
-  {
-    "id": "whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20",
-    "title": "WhatsApp Expands Group Chat Capacity to 1,500 Members",
-    "description": "WhatsApp lifts its group chat limit, allowing up to 1,500 participants per conversation.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "WhatsApp lifts its group chat limit, allowing up to 1,500 participants per conversation.",
-    "page": "articles/whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20.html",
-    "source_urls": [
-      "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/"
     ]
   }
 ]
