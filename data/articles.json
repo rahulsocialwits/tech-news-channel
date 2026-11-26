@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-homeview-a-smart-display-that-s-still-a-step-behind-2026-11-26",
+    "title": "Apple HomeView: A Smart Display That’s Still a Step Behind",
+    "description": "Apple’s $299 HomeView smart display offers a sleek design and useful features, but reviewers say it falls short of competing with established home‑assistant devices.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Apple’s $299 HomeView smart display offers a sleek design and useful features, but reviewers say it falls short of competing with established home‑assistant devices.",
+    "page": "articles/apple-homeview-a-smart-display-that-s-still-a-step-behind-2026-11-26.html",
+    "source_urls": [
+      "https://www.technewsworld.com/story/apples-homeview-looks-right-at-home-id-still-wait-to-buy-one-180736.html?rss=1"
+    ]
+  },
+  {
     "id": "edovia-s-screens-app-turns-iphone-duo-into-a-mini-macbook-2026-11-26",
     "title": "Edovia’s Screens App Turns iPhone Duo Into a Mini MacBook",
     "description": "Edovia’s new Laptop Mode lets iPhone Duo users control a MacBook from their phone, turning the Duo into a portable remote desktop.",
@@ -1777,24 +1795,6 @@
     "page": "articles/six-ai-powered-gadgets-set-to-transform-home-offices-2026-11-20.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-    ]
-  },
-  {
-    "id": "google-enhances-gemini-mac-app-to-automate-repetitive-tasks-2026-11-20",
-    "title": "Google Enhances Gemini Mac App to Automate Repetitive Tasks",
-    "description": "Google’s Gemini for Mac now lets users automate eBay listings, creative workflows and form filling, boosting productivity on the desktop.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Gemini for Mac now lets users automate eBay listings, creative workflows and form filling, boosting productivity on the desktop.",
-    "page": "articles/google-enhances-gemini-mac-app-to-automate-repetitive-tasks-2026-11-20.html",
-    "source_urls": [
-      "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"
     ]
   }
 ]
