@@ -1,5 +1,23 @@
 [
   {
+    "id": "1password-confirms-customer-data-breach-passwords-remain-secure-2026-11-26",
+    "title": "1Password Confirms Customer Data Breach, Passwords Remain Secure",
+    "description": "Security firm 1Password reports a data breach that exposed customer information but not passwords, urging users to watch for suspicious recovery emails.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Security firm 1Password reports a data breach that exposed customer information but not passwords, urging users to watch for suspicious recovery emails.",
+    "page": "articles/1password-confirms-customer-data-breach-passwords-remain-secure-2026-11-26.html",
+    "source_urls": [
+      "https://www.androidauthority.com/1password-data-breach-3739555/"
+    ]
+  },
+  {
     "id": "spacex-granted-green-light-to-deploy-1-million-satellites-for-space-based-data-centers-2026-11-26",
     "title": "SpaceX Granted Green Light to Deploy 1 Million Satellites for Space‑Based Data Centers",
     "description": "The Trump administration has approved SpaceX’s plan to launch a million satellites aimed at creating data centers in orbit, sparking debate among scientists.",
@@ -1778,25 +1796,6 @@
     "page": "articles/amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20.html",
     "source_urls": [
       "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
-    ]
-  },
-  {
-    "id": "apple-eyes-agentic-ai-for-mac-new-hiring-signals-a-shift-2026-11-20",
-    "title": "Apple Eyes Agentic AI for Mac: New Hiring Signals a Shift",
-    "description": "Apple is reportedly building its own AI agent for macOS, hiring senior engineering managers to develop reliable, safe tools that could rival Meta Muse and OpenAI’s assistants.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "AI"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Apple is reportedly building its own AI agent for macOS, hiring senior engineering managers to develop reliable, safe tools that could rival Meta Muse and OpenAI’s assistants.",
-    "page": "articles/apple-eyes-agentic-ai-for-mac-new-hiring-signals-a-shift-2026-11-20.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/"
     ]
   }
 ]
