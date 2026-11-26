@@ -1,5 +1,23 @@
 [
   {
+    "id": "edovia-s-screens-app-turns-iphone-duo-into-a-mini-macbook-2026-11-26",
+    "title": "Edovia’s Screens App Turns iPhone Duo Into a Mini MacBook",
+    "description": "Edovia’s new Laptop Mode lets iPhone Duo users control a MacBook from their phone, turning the Duo into a portable remote desktop.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Edovia’s new Laptop Mode lets iPhone Duo users control a MacBook from their phone, turning the Duo into a portable remote desktop.",
+    "page": "articles/edovia-s-screens-app-turns-iphone-duo-into-a-mini-macbook-2026-11-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/"
+    ]
+  },
+  {
     "id": "evernex-expands-footprint-with-new-hyderabad-headquarters-2026-11-26",
     "title": "Evernex Expands Footprint with New Hyderabad Headquarters",
     "description": "Global IT services firm Evernex opens a new India hub to support the country’s growing data‑centre and enterprise market.",
@@ -1777,24 +1795,6 @@
     "page": "articles/google-enhances-gemini-mac-app-to-automate-repetitive-tasks-2026-11-20.html",
     "source_urls": [
       "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"
-    ]
-  },
-  {
-    "id": "bose-quietcomfort-ultra-2nd-gen-headphones-drop-to-369-in-latest-deal-2026-11-20",
-    "title": "Bose QuietComfort Ultra 2nd‑Gen Headphones Drop to $369 in Latest Deal",
-    "description": "Bose’s flagship noise‑canceling headphones hit a new low price of $369, offering lossless USB‑C audio and advanced comfort features for music lovers and commuters.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Bose’s flagship noise‑canceling headphones hit a new low price of $369, offering lossless USB‑C audio and advanced comfort features for music lovers and commuters.",
-    "page": "articles/bose-quietcomfort-ultra-2nd-gen-headphones-drop-to-369-in-latest-deal-2026-11-20.html",
-    "source_urls": [
-      "https://www.androidauthority.com/bose-qc-ultra-headphones-2nd-gen-deal-3737401/"
     ]
   }
 ]
