@@ -1,5 +1,23 @@
 [
   {
+    "id": "seamless-cross-platform-google-drive-access-without-the-app-2026-11-26",
+    "title": "Seamless Cross‑Platform Google Drive Access Without the App",
+    "description": "Users can now share a single Google Drive folder across Windows, macOS, Linux, and NAS devices without installing Google’s desktop client.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Users can now share a single Google Drive folder across Windows, macOS, Linux, and NAS devices without installing Google’s desktop client.",
+    "page": "articles/seamless-cross-platform-google-drive-access-without-the-app-2026-11-26.html",
+    "source_urls": [
+      "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/"
+    ]
+  },
+  {
     "id": "x-introduces-first-ever-parental-controls-to-safeguard-young-users-2026-11-26",
     "title": "X Introduces First‑Ever Parental Controls to Safeguard Young Users",
     "description": "X rolls out new parental control tools, allowing parents to set limits on content, time, and interactions for children’s accounts.",
@@ -1777,24 +1795,6 @@
     "page": "articles/openai-expands-access-to-dots-personal-agents-on-20-per-month-plus-tier-2026-11-20.html",
     "source_urls": [
       "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/"
-    ]
-  },
-  {
-    "id": "lava-unveils-smart-4-pro-4g-phone-with-7-000-mah-battery-for-offline-buyers-2026-11-20",
-    "title": "Lava Unveils Smart 4 Pro 4G Phone with 7,000‑mAh Battery for Offline Buyers",
-    "description": "Lava’s new Smart 4 Pro 4G smartphone features a massive 7,000‑mAh battery and 18W Type‑C charging, targeting users who need long‑lasting power without constant connectivity.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Lava’s new Smart 4 Pro 4G smartphone features a massive 7,000‑mAh battery and 18W Type‑C charging, targeting users who need long‑lasting power without constant connectivity.",
-    "page": "articles/lava-unveils-smart-4-pro-4g-phone-with-7-000-mah-battery-for-offline-buyers-2026-11-20.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-smart-4-pro-4g-phone-for-offline-buyers-in-india/article71723467.ece"
     ]
   }
 ]
