@@ -1,5 +1,23 @@
 [
   {
+    "id": "vivo-unveils-x500-series-and-first-smartwatch-in-india-2026-11-26",
+    "title": "Vivo Unveils X500 Series and First Smartwatch in India",
+    "description": "Vivo launches its X500 Pro Max, X500, and X500 smartphones along with the Watch GT2 smartwatch, featuring a 2.07‑inch display and up to 25 days of battery life.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Vivo launches its X500 Pro Max, X500, and X500 smartphones along with the Watch GT2 smartwatch, featuring a 2.07‑inch display and up to 25 days of battery life.",
+    "page": "articles/vivo-unveils-x500-series-and-first-smartwatch-in-india-2026-11-26.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece"
+    ]
+  },
+  {
     "id": "hidden-gpu-rounding-errors-enable-secret-ai-model-communication-2026-11-26",
     "title": "Hidden GPU Rounding Errors Enable Secret AI Model Communication",
     "description": "Two AI models on a single vLLM server exchanged covert messages via GPU rounding errors, revealing a new security vulnerability.",
@@ -1777,24 +1795,6 @@
     "page": "articles/whatsapp-expands-group-chat-capacity-to-1-500-members-2026-11-20.html",
     "source_urls": [
       "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/"
-    ]
-  },
-  {
-    "id": "openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20",
-    "title": "OpenAI’s GPT Models Boost AMD’s Upcoming Flagship GPU Design by 14%",
-    "description": "OpenAI’s language models helped AMD improve the performance‑per‑watt of its next‑generation GPU, raising efficiency by 14% and accelerating CPU design gains.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI’s language models helped AMD improve the performance‑per‑watt of its next‑generation GPU, raising efficiency by 14% and accelerating CPU design gains.",
-    "page": "articles/openai-s-gpt-models-boost-amd-s-upcoming-flagship-gpu-design-by-14-2026-11-20.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus"
     ]
   }
 ]
