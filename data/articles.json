@@ -1,5 +1,23 @@
 [
   {
+    "id": "new-york-enacts-five-year-ban-on-ai-chatbot-toys-for-children-2026-11-26",
+    "title": "New York Enacts Five‑Year Ban on AI Chatbot Toys for Children",
+    "description": "New York Governor Kathy Hochul signs law prohibiting sale of AI chatbot toys to kids for five years.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "New York Governor Kathy Hochul signs law prohibiting sale of AI chatbot toys to kids for five years.",
+    "page": "articles/new-york-enacts-five-year-ban-on-ai-chatbot-toys-for-children-2026-11-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/"
+    ]
+  },
+  {
     "id": "1password-confirms-customer-data-breach-passwords-remain-secure-2026-11-26",
     "title": "1Password Confirms Customer Data Breach, Passwords Remain Secure",
     "description": "Security firm 1Password reports a data breach that exposed customer information but not passwords, urging users to watch for suspicious recovery emails.",
@@ -1778,24 +1796,6 @@
     "page": "articles/samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20.html",
     "source_urls": [
       "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/"
-    ]
-  },
-  {
-    "id": "amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20",
-    "title": "Amazon Deploys Political Banner on Shopping Site Amid NYC Delivery Bill Fight",
-    "description": "Amazon uses its e‑commerce platform to push a political message against the Delivery Protection Act, sparking debate over corporate influence on consumer sites.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Cloud"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Amazon uses its e‑commerce platform to push a political message against the Delivery Protection Act, sparking debate over corporate influence on consumer sites.",
-    "page": "articles/amazon-deploys-political-banner-on-shopping-site-amid-nyc-delivery-bill-fight-2026-11-20.html",
-    "source_urls": [
-      "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
     ]
   }
 ]
