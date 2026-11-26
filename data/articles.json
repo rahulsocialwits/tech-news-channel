@@ -1,5 +1,23 @@
 [
   {
+    "id": "spacex-secures-fcc-approval-for-1-million-satellite-ai-data-center-2026-11-26",
+    "title": "SpaceX Secures FCC Approval for 1‑Million‑Satellite AI Data Center",
+    "description": "SpaceX receives regulatory green light to launch a million satellites aimed at powering an orbital AI data center, marking a major step toward space‑based cloud computing.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "SpaceX receives regulatory green light to launch a million satellites aimed at powering an orbital AI data center, marking a major step toward space‑based cloud computing.",
+    "page": "articles/spacex-secures-fcc-approval-for-1-million-satellite-ai-data-center-2026-11-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+    ]
+  },
+  {
     "id": "seamless-cross-platform-google-drive-access-without-the-app-2026-11-26",
     "title": "Seamless Cross‑Platform Google Drive Access Without the App",
     "description": "Users can now share a single Google Drive folder across Windows, macOS, Linux, and NAS devices without installing Google’s desktop client.",
@@ -1777,24 +1795,6 @@
     "page": "articles/pixel-11-buyers-face-black-friday-discount-glitch-2026-11-20.html",
     "source_urls": [
       "https://www.androidauthority.com/google-play-points-pixel-11-black-friday-discount-issues-3737592/"
-    ]
-  },
-  {
-    "id": "openai-expands-access-to-dots-personal-agents-on-20-per-month-plus-tier-2026-11-20",
-    "title": "OpenAI Expands Access to Dots Personal Agents on $20‑Per‑Month Plus Tier",
-    "description": "OpenAI is testing its proactive AI agents, Dots, for Plus subscribers, allowing users to run tasks without supervision.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "OpenAI is testing its proactive AI agents, Dots, for Plus subscribers, allowing users to run tasks without supervision.",
-    "page": "articles/openai-expands-access-to-dots-personal-agents-on-20-per-month-plus-tier-2026-11-20.html",
-    "source_urls": [
-      "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/"
     ]
   }
 ]
