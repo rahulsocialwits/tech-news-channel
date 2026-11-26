@@ -1,5 +1,23 @@
 [
   {
+    "id": "ubuntu-unveils-ai-powered-launcher-paving-way-for-llm-integration-2026-11-26",
+    "title": "Ubuntu Unveils AI‑Powered Launcher, Paving Way for LLM Integration",
+    "description": "Ubuntu showcases an early AI launcher prototype, hinting at future integration of large language models into the operating system.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Ubuntu showcases an early AI launcher prototype, hinting at future integration of large language models into the operating system.",
+    "page": "articles/ubuntu-unveils-ai-powered-launcher-paving-way-for-llm-integration-2026-11-26.html",
+    "source_urls": [
+      "https://www.xda-developers.com/ubuntu-shows-off-an-early-version-of-its-ai-powered-launcher-as-it-plans-to-integrate-llms-into-the-os/"
+    ]
+  },
+  {
     "id": "data-centers-fuel-u-s-natural-gas-surge-powering-the-cloud-economy-2026-11-26",
     "title": "Data Centers Fuel U.S. Natural‑Gas Surge, Powering the Cloud Economy",
     "description": "Data‑center growth is driving a sharp increase in U.S. natural‑gas demand, reshaping the energy mix for the cloud industry.",
@@ -1779,24 +1797,6 @@
     "page": "articles/google-partners-with-blue-origin-to-launch-satellite-data-centers-for-space-based-ai-2026-11-19.html",
     "source_urls": [
       "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/"
-    ]
-  },
-  {
-    "id": "everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19",
-    "title": "Everful Secures $48.5M to Expand Factory‑Direct Sourcing Platform",
-    "description": "Former Alibaba executive launches Everful, raising $48.5 million to help retailers source products directly from Chinese factories.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-19",
-    "readTime": "3 min read",
-    "excerpt": "Former Alibaba executive launches Everful, raising $48.5 million to help retailers source products directly from Chinese factories.",
-    "page": "articles/everful-secures-48-5m-to-expand-factory-direct-sourcing-platform-2026-11-19.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
     ]
   }
 ]
