@@ -1,5 +1,23 @@
 [
   {
+    "id": "apple-opens-first-hyderabad-store-ahead-of-december-10-launch-2026-11-26",
+    "title": "Apple Opens First Hyderabad Store Ahead of December 10 Launch",
+    "description": "Apple announces its inaugural retail location in Hyderabad, opening on December 10 at 5 PM in Kukatpally.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Apple announces its inaugural retail location in Hyderabad, opening on December 10 at 5 PM in Kukatpally.",
+    "page": "articles/apple-opens-first-hyderabad-store-ahead-of-december-10-launch-2026-11-26.html",
+    "source_urls": [
+      "https://www.thehindu.com/sci-tech/technology/apple-to-open-first-store-in-hyderabad-on-december-10/article71745814.ece"
+    ]
+  },
+  {
     "id": "apple-homeview-a-smart-display-that-s-still-a-step-behind-2026-11-26",
     "title": "Apple HomeView: A Smart Display That’s Still a Step Behind",
     "description": "Apple’s $299 HomeView smart display offers a sleek design and useful features, but reviewers say it falls short of competing with established home‑assistant devices.",
@@ -1777,24 +1795,6 @@
     "page": "articles/microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20.html",
     "source_urls": [
       "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/"
-    ]
-  },
-  {
-    "id": "six-ai-powered-gadgets-set-to-transform-home-offices-2026-11-20",
-    "title": "Six AI‑Powered Gadgets Set to Transform Home Offices",
-    "description": "A roundup of the latest AI‑enabled devices that promise smarter, more efficient workspaces for remote workers.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "A roundup of the latest AI‑enabled devices that promise smarter, more efficient workspaces for remote workers.",
-    "page": "articles/six-ai-powered-gadgets-set-to-transform-home-offices-2026-11-20.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
     ]
   }
 ]
