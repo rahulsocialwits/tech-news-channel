@@ -1,5 +1,23 @@
 [
   {
+    "id": "neuralink-secures-fda-approval-to-launch-first-brain-computer-interface-trial-for-als-pati-2026-11-26",
+    "title": "Neuralink Secures FDA Approval to Launch First Brain‑Computer Interface Trial for ALS Patients",
+    "description": "Elon Musk’s Neuralink receives FDA permission to begin a pivotal trial of its brain‑computer interface in ALS patients.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Software"
+    ],
+    "feature_image": "",
+    "date": "2026-11-26",
+    "readTime": "3 min read",
+    "excerpt": "Elon Musk’s Neuralink receives FDA permission to begin a pivotal trial of its brain‑computer interface in ALS patients.",
+    "page": "articles/neuralink-secures-fda-approval-to-launch-first-brain-computer-interface-trial-for-als-pati-2026-11-26.html",
+    "source_urls": [
+      "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/"
+    ]
+  },
+  {
     "id": "new-york-enacts-five-year-ban-on-ai-chatbot-toys-for-children-2026-11-26",
     "title": "New York Enacts Five‑Year Ban on AI Chatbot Toys for Children",
     "description": "New York Governor Kathy Hochul signs law prohibiting sale of AI chatbot toys to kids for five years.",
@@ -1778,24 +1796,6 @@
     "source_urls": [
       "https://www.androidauthority.com/motorola-android-17-update-rollout-status-3737510/",
       "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/"
-    ]
-  },
-  {
-    "id": "samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20",
-    "title": "Samsung Names New Mobile Division Head as Galaxy Z Fold 8 Debuts",
-    "description": "Samsung’s mobile division welcomes Choi Won-Joon as chief, following the launch of the Galaxy Z Fold 8.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Samsung’s mobile division welcomes Choi Won-Joon as chief, following the launch of the Galaxy Z Fold 8.",
-    "page": "articles/samsung-names-new-mobile-division-head-as-galaxy-z-fold-8-debuts-2026-11-20.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/"
     ]
   }
 ]
