@@ -1,5 +1,23 @@
 [
   {
+    "id": "texas-reopens-data-center-permits-sparking-rush-for-new-projects-2026-11-27",
+    "title": "Texas Reopens Data Center Permits, Sparking Rush for New Projects",
+    "description": "After a pause, Texas has lifted its freeze on data center approvals, prompting a surge of applications as companies scramble to secure permits before the new governor’s term begins.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "After a pause, Texas has lifted its freeze on data center approvals, prompting a surge of applications as companies scramble to secure permits before the new governor’s term begins.",
+    "page": "articles/texas-reopens-data-center-permits-sparking-rush-for-new-projects-2026-11-27.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival"
+    ]
+  },
+  {
     "id": "google-to-make-android-developers-addresses-public-to-meet-eu-transparency-rules-2026-11-27",
     "title": "Google to Make Android Developers’ Addresses Public to Meet EU Transparency Rules",
     "description": "Google will publish the physical addresses of all Android app developers worldwide as part of its compliance with new European privacy regulations.",
@@ -1778,24 +1796,6 @@
     "page": "articles/icici-direct-unveils-ai-powered-trading-suite-to-boost-investor-experience-2026-11-21.html",
     "source_urls": [
       "https://indiatechnologynews.in/icici-direct-enhances-its-platform-with-new-technology-led-features-for-traders-and-investors/"
-    ]
-  },
-  {
-    "id": "grand-theft-auto-vi-breaks-record-with-3-79-billion-first-day-retail-sales-2026-11-21",
-    "title": "Grand Theft Auto VI Breaks Record with $3.79 Billion First‑Day Retail Sales",
-    "description": "Rockstar Games’ latest entry in the GTA series tops all expectations, pulling in $3.79 billion in retail revenue on its opening day.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Rockstar Games’ latest entry in the GTA series tops all expectations, pulling in $3.79 billion in retail revenue on its opening day.",
-    "page": "articles/grand-theft-auto-vi-breaks-record-with-3-79-billion-first-day-retail-sales-2026-11-21.html",
-    "source_urls": [
-      "https://www.thehindu.com/entertainment/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports/article71727468.ece"
     ]
   }
 ]
