@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-halts-ai-chip-shipments-to-southeast-asia-amid-regulatory-scrutiny-2026-11-27",
+    "title": "NVIDIA Halts AI Chip Shipments to Southeast Asia Amid Regulatory Scrutiny",
+    "description": "NVIDIA has reportedly stopped shipping its AI chips to Southeast Asian markets following a week of leadership changes and heightened regulatory pressure.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "NVIDIA has reportedly stopped shipping its AI chips to Southeast Asian markets following a week of leadership changes and heightened regulatory pressure.",
+    "page": "articles/nvidia-halts-ai-chip-shipments-to-southeast-asia-amid-regulatory-scrutiny-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+    ]
+  },
+  {
     "id": "black-friday-2026-the-ultimate-tech-shopping-guide-2026-11-27",
     "title": "Black Friday 2026: The Ultimate Tech Shopping Guide",
     "description": "Explore the hottest Black Friday deals on Nintendo Switch 2, Meta Quest 3S, Sony soundbar, TP‑Link switch, and more, plus a look at Amazon workers’ protest plans.",
@@ -1783,24 +1801,6 @@
     "page": "articles/pci-ssc-asia-pacific-event-highlights-new-directions-for-payment-security-2026-11-21.html",
     "source_urls": [
       "https://indiatechnologynews.in/5tattva-joins-industry-leaders-to-discuss-the-future-of-payment-security-at-pci-ssc-asia-pacific-event-2026/"
-    ]
-  },
-  {
-    "id": "deepfake-driven-investment-scams-on-the-rise-experts-warn-2026-11-21",
-    "title": "Deepfake‑Driven Investment Scams on the Rise, Experts Warn",
-    "description": "Cybercriminals increasingly use deepfakes to lure investors into fraudulent schemes, according to a recent Indian Express investigation.",
-    "category": "Technology",
-    "labels": [
-      "Cybersecurity",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Cybercriminals increasingly use deepfakes to lure investors into fraudulent schemes, according to a recent Indian Express investigation.",
-    "page": "articles/deepfake-driven-investment-scams-on-the-rise-experts-warn-2026-11-21.html",
-    "source_urls": [
-      "https://indianexpress.com/article/technology/cybercriminals-deepfakes-investment-scams-cyber-fraud-10972682/"
     ]
   }
 ]
