@@ -1,5 +1,23 @@
 [
   {
+    "id": "german-startup-q-ant-unveils-light-based-ai-chip-to-slash-energy-use-2026-11-27",
+    "title": "German Startup Q.ANT Unveils Light‑Based AI Chip to Slash Energy Use",
+    "description": "Q.ANT’s new photonic processor promises to cut the power needed for AI workloads by performing calculations with light instead of electricity.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Q.ANT’s new photonic processor promises to cut the power needed for AI workloads by performing calculations with light instead of electricity.",
+    "page": "articles/german-startup-q-ant-unveils-light-based-ai-chip-to-slash-energy-use-2026-11-27.html",
+    "source_urls": [
+      "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    ]
+  },
+  {
     "id": "microsoft-365-companion-apps-to-disappear-as-memory-usage-rises-2026-11-27",
     "title": "Microsoft 365 Companion Apps to Disappear as Memory Usage Rises",
     "description": "Microsoft is phasing out its companion apps for Office 365 after a year of high memory consumption, according to XDA Developers.",
@@ -1778,23 +1796,6 @@
     "page": "articles/pune-startup-unveils-atomic-clock-prototype-amid-export-curbs-2026-11-21.html",
     "source_urls": [
       "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
-    ]
-  },
-  {
-    "id": "south-korea-deploys-ai-driven-surveillance-to-stop-college-exam-cheating-2026-11-21",
-    "title": "South Korea Deploys AI‑Driven Surveillance to Stop College Exam Cheating",
-    "description": "South Korea used AI micro‑cameras and emergency alerts to catch 54 students cheating on the national college entrance exam.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "South Korea used AI micro‑cameras and emergency alerts to catch 54 students cheating on the national college entrance exam.",
-    "page": "articles/south-korea-deploys-ai-driven-surveillance-to-stop-college-exam-cheating-2026-11-21.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown"
     ]
   }
 ]
