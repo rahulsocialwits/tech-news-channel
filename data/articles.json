@@ -1,5 +1,23 @@
 [
   {
+    "id": "google-to-make-android-developers-addresses-public-to-meet-eu-transparency-rules-2026-11-27",
+    "title": "Google to Make Android Developers’ Addresses Public to Meet EU Transparency Rules",
+    "description": "Google will publish the physical addresses of all Android app developers worldwide as part of its compliance with new European privacy regulations.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Google will publish the physical addresses of all Android app developers worldwide as part of its compliance with new European privacy regulations.",
+    "page": "articles/google-to-make-android-developers-addresses-public-to-meet-eu-transparency-rules-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/"
+    ]
+  },
+  {
     "id": "german-startup-q-ant-unveils-light-based-ai-chip-to-slash-energy-use-2026-11-27",
     "title": "German Startup Q.ANT Unveils Light‑Based AI Chip to Slash Energy Use",
     "description": "Q.ANT’s new photonic processor promises to cut the power needed for AI workloads by performing calculations with light instead of electricity.",
@@ -1778,24 +1796,6 @@
     "page": "articles/grand-theft-auto-vi-breaks-record-with-3-79-billion-first-day-retail-sales-2026-11-21.html",
     "source_urls": [
       "https://www.thehindu.com/entertainment/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports/article71727468.ece"
-    ]
-  },
-  {
-    "id": "pune-startup-unveils-atomic-clock-prototype-amid-export-curbs-2026-11-21",
-    "title": "Pune Startup Unveils Atomic Clock Prototype Amid Export Curbs",
-    "description": "A Pune‑based startup has announced a working atomic clock prototype, a critical technology for satellite navigation and telecommunications, as export restrictions tighten.",
-    "category": "Science",
-    "labels": [
-      "Science",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "A Pune‑based startup has announced a working atomic clock prototype, a critical technology for satellite navigation and telecommunications, as export restrictions tighten.",
-    "page": "articles/pune-startup-unveils-atomic-clock-prototype-amid-export-curbs-2026-11-21.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
     ]
   }
 ]
