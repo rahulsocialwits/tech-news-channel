@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-halts-server-chip-shipments-to-southeast-asia-amid-u-s-export-controls-2026-11-27",
+    "title": "Nvidia Halts Server Chip Shipments to Southeast Asia Amid U.S. Export Controls",
+    "description": "Nvidia has paused shipments of its server chips to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens export controls to keep AI hardware out of China.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Cloud"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Nvidia has paused shipments of its server chips to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens export controls to keep AI hardware out of China.",
+    "page": "articles/nvidia-halts-server-chip-shipments-to-southeast-asia-amid-u-s-export-controls-2026-11-27.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    ]
+  },
+  {
     "id": "1password-confirms-data-breach-asserts-user-vaults-remain-secure-2026-11-27",
     "title": "1Password Confirms Data Breach, Asserts User Vaults Remain Secure",
     "description": "1Password reports a data breach but confirms that user credentials were not compromised, reassuring customers of the service’s security posture.",
@@ -1777,24 +1795,6 @@
     "page": "articles/google-unveils-pixel-dro-p-a-new-ai-centric-update-for-pixel-10-2026-11-21.html",
     "source_urls": [
       "https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/"
-    ]
-  },
-  {
-    "id": "soundpeats-q40-hd-neckband-earbuds-drop-35-ahead-of-black-friday-2026-11-20",
-    "title": "SoundPEATS Q40 HD Neckband Earbuds Drop 35% Ahead of Black Friday",
-    "description": "SoundPEATS Q40 HD neckband earbuds are now 35% off for Prime members, offering LDAC support and sports‑ready design.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "SoundPEATS Q40 HD neckband earbuds are now 35% off for Prime members, offering LDAC support and sports‑ready design.",
-    "page": "articles/soundpeats-q40-hd-neckband-earbuds-drop-35-ahead-of-black-friday-2026-11-20.html",
-    "source_urls": [
-      "https://www.androidauthority.com/soundpeats-q40-hd-deal-3737825/"
     ]
   }
 ]
