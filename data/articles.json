@@ -1,5 +1,23 @@
 [
   {
+    "id": "1password-confirms-data-breach-asserts-user-vaults-remain-secure-2026-11-27",
+    "title": "1Password Confirms Data Breach, Asserts User Vaults Remain Secure",
+    "description": "1Password reports a data breach but confirms that user credentials were not compromised, reassuring customers of the service’s security posture.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "1Password reports a data breach but confirms that user credentials were not compromised, reassuring customers of the service’s security posture.",
+    "page": "articles/1password-confirms-data-breach-asserts-user-vaults-remain-secure-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
+    ]
+  },
+  {
     "id": "backloggd-users-urged-to-reset-passwords-after-security-breach-2026-11-27",
     "title": "Backloggd Users Urged to Reset Passwords After Security Breach",
     "description": "Backloggd has announced a data breach, prompting users to change passwords and review account activity.",
@@ -1777,24 +1795,6 @@
     "page": "articles/soundpeats-q40-hd-neckband-earbuds-drop-35-ahead-of-black-friday-2026-11-20.html",
     "source_urls": [
       "https://www.androidauthority.com/soundpeats-q40-hd-deal-3737825/"
-    ]
-  },
-  {
-    "id": "google-gains-u-s-smartphone-market-share-as-samsung-and-motorola-slip-2026-11-20",
-    "title": "Google Gains U.S. Smartphone Market Share as Samsung and Motorola Slip",
-    "description": "Google’s Pixel 11 series pushes the company ahead of Samsung and Motorola in U.S. market share for Q3 2026.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Pixel 11 series pushes the company ahead of Samsung and Motorola in U.S. market share for Q3 2026.",
-    "page": "articles/google-gains-u-s-smartphone-market-share-as-samsung-and-motorola-slip-2026-11-20.html",
-    "source_urls": [
-      "https://www.androidauthority.com/google-pixel-11-us-market-share-q3-2026-3737766/"
     ]
   }
 ]
