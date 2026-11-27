@@ -1,5 +1,23 @@
 [
   {
+    "id": "microsoft-365-companion-apps-to-disappear-as-memory-usage-rises-2026-11-27",
+    "title": "Microsoft 365 Companion Apps to Disappear as Memory Usage Rises",
+    "description": "Microsoft is phasing out its companion apps for Office 365 after a year of high memory consumption, according to XDA Developers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Microsoft is phasing out its companion apps for Office 365 after a year of high memory consumption, according to XDA Developers.",
+    "page": "articles/microsoft-365-companion-apps-to-disappear-as-memory-usage-rises-2026-11-27.html",
+    "source_urls": [
+      "https://www.xda-developers.com/microsoft-365-companion-apps-are-going-away-because-they-were-taking-up-too-much-memory/"
+    ]
+  },
+  {
     "id": "samsung-messages-adds-hands-free-texting-features-2026-11-27",
     "title": "Samsung Messages Adds Hands‑Free Texting Features",
     "description": "Samsung’s messaging app will soon let users find, send and forward texts using voice commands, expanding its hands‑free capabilities.",
@@ -1777,24 +1795,6 @@
     "page": "articles/south-korea-deploys-ai-driven-surveillance-to-stop-college-exam-cheating-2026-11-21.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown"
-    ]
-  },
-  {
-    "id": "spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21",
-    "title": "Spotify Founder Daniel Ek Invests in AI‑Driven Fusion Power Startup",
-    "description": "Spotify co‑founder Daniel Ek backs Europa Fusion, a startup founded by an AI researcher aiming to commercialize fusion energy.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Spotify co‑founder Daniel Ek backs Europa Fusion, a startup founded by an AI researcher aiming to commercialize fusion energy.",
-    "page": "articles/spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
     ]
   }
 ]
