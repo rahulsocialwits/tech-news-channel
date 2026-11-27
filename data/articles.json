@@ -1,5 +1,27 @@
 [
   {
+    "id": "black-friday-2026-the-ultimate-tech-shopping-guide-2026-11-27",
+    "title": "Black Friday 2026: The Ultimate Tech Shopping Guide",
+    "description": "Explore the hottest Black Friday deals on Nintendo Switch 2, Meta Quest 3S, Sony soundbar, TP‑Link switch, and more, plus a look at Amazon workers’ protest plans.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Explore the hottest Black Friday deals on Nintendo Switch 2, Meta Quest 3S, Sony soundbar, TP‑Link switch, and more, plus a look at Amazon workers’ protest plans.",
+    "page": "articles/black-friday-2026-the-ultimate-tech-shopping-guide-2026-11-27.html",
+    "source_urls": [
+      "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
+      "https://9to5google.com/2026/11/27/meta-quest-3s-black-friday-week-2026-deal/",
+      "https://www.androidauthority.com/sony-bravia-theater-bar-5-deal-3740574/",
+      "https://www.tomshardware.com/networking/network-switches/handy-tp-link-5-port-gigabit-ethernet-switch-returns-to-all-time-low-of-usd8-at-amazon-perfect-for-homelabbers-office-setups-and-iot-networking",
+      "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/"
+    ]
+  },
+  {
     "id": "black-friday-2026-gaming-monitor-deals-heat-up-the-market-2026-11-27",
     "title": "Black Friday 2026: Gaming Monitor Deals Heat Up the Market",
     "description": "Gamers get a chance to upgrade their setups with the hottest monitor deals of Black Friday 2026, featuring high refresh rates, low response times, and competitive pricing.",
@@ -1779,24 +1801,6 @@
     "page": "articles/deepfake-driven-investment-scams-on-the-rise-experts-warn-2026-11-21.html",
     "source_urls": [
       "https://indianexpress.com/article/technology/cybercriminals-deepfakes-investment-scams-cyber-fraud-10972682/"
-    ]
-  },
-  {
-    "id": "google-unveils-gemini-4-neon-a-new-benchmark-for-enterprise-ai-workflows-2026-11-21",
-    "title": "Google Unveils Gemini 4 Neon, A New Benchmark for Enterprise AI Workflows",
-    "description": "Google’s latest Gemini 4 Neon model promises advanced coding, analytical reasoning, and enterprise‑ready features, positioning it as a direct competitor to Claude Opus 5.5 and GPT‑6.2 Sol.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Google’s latest Gemini 4 Neon model promises advanced coding, analytical reasoning, and enterprise‑ready features, positioning it as a direct competitor to Claude Opus 5.5 and GPT‑6.2 Sol.",
-    "page": "articles/google-unveils-gemini-4-neon-a-new-benchmark-for-enterprise-ai-workflows-2026-11-21.html",
-    "source_urls": [
-      "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece"
     ]
   }
 ]
