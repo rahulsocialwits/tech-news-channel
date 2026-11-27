@@ -1,5 +1,23 @@
 [
   {
+    "id": "air-force-cloud-breach-highlights-need-for-robust-security-during-system-upgrades-2026-11-27",
+    "title": "Air Force Cloud Breach Highlights Need for Robust Security During System Upgrades",
+    "description": "A recent breach of the U.S. Air Force’s cloud infrastructure during a routine upgrade underscores the importance of stringent security protocols in government cloud environments.",
+    "category": "Cloud",
+    "labels": [
+      "Cloud",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "A recent breach of the U.S. Air Force’s cloud infrastructure during a routine upgrade underscores the importance of stringent security protocols in government cloud environments.",
+    "page": "articles/air-force-cloud-breach-highlights-need-for-robust-security-during-system-upgrades-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/"
+    ]
+  },
+  {
     "id": "whatsapp-adds-direct-travel-esim-purchases-2026-11-27",
     "title": "WhatsApp Adds Direct Travel eSIM Purchases",
     "description": "WhatsApp now lets users buy travel eSIMs within the app, simplifying international connectivity for travelers.",
@@ -1785,23 +1803,6 @@
     "page": "articles/how-to-extend-your-fitbit-s-battery-life-simple-tweaks-that-add-months-2026-11-21.html",
     "source_urls": [
       "https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/"
-    ]
-  },
-  {
-    "id": "home-networks-go-dark-light-raspberry-pi-turns-dns-into-a-privacy-fortress-2026-11-21",
-    "title": "Home Networks Go Dark‑Light: Raspberry Pi Turns DNS Into a Privacy Fortress",
-    "description": "A DIY Raspberry Pi setup pairs Pi‑hole with Unbound to block trackers and resolve DNS locally, cutting out Google and Cloudflare.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "A DIY Raspberry Pi setup pairs Pi‑hole with Unbound to block trackers and resolve DNS locally, cutting out Google and Cloudflare.",
-    "page": "articles/home-networks-go-dark-light-raspberry-pi-turns-dns-into-a-privacy-fortress-2026-11-21.html",
-    "source_urls": [
-      "https://www.xda-developers.com/pair-pi-hole-with-unbound-on-a-raspberry-pi/"
     ]
   }
 ]
