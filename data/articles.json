@@ -1,5 +1,23 @@
 [
   {
+    "id": "whatsapp-adds-direct-travel-esim-purchases-2026-11-27",
+    "title": "WhatsApp Adds Direct Travel eSIM Purchases",
+    "description": "WhatsApp now lets users buy travel eSIMs within the app, simplifying international connectivity for travelers.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "WhatsApp now lets users buy travel eSIMs within the app, simplifying international connectivity for travelers.",
+    "page": "articles/whatsapp-adds-direct-travel-esim-purchases-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/"
+    ]
+  },
+  {
     "id": "11-desk-mounted-power-switch-lets-gamers-boot-pcs-without-bending-2026-11-27",
     "title": "$11 Desk‑Mounted Power Switch Lets Gamers Boot PCs Without Bending",
     "description": "A budget external power switch for under‑desk PCs offers a convenient, cable‑free way to turn rigs on and off, appealing to gamers and office users alike.",
@@ -1784,24 +1802,6 @@
     "page": "articles/home-networks-go-dark-light-raspberry-pi-turns-dns-into-a-privacy-fortress-2026-11-21.html",
     "source_urls": [
       "https://www.xda-developers.com/pair-pi-hole-with-unbound-on-a-raspberry-pi/"
-    ]
-  },
-  {
-    "id": "anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21",
-    "title": "Anker Unveils 13‑in‑1 Nano Docking Station with Pop‑Out Travel Hub",
-    "description": "Anker’s new Nano Docking Station offers a 13‑in‑1 connectivity hub and a pop‑out travel hub, now discounted ahead of Black Friday.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Anker’s new Nano Docking Station offers a 13‑in‑1 connectivity hub and a pop‑out travel hub, now discounted ahead of Black Friday.",
-    "page": "articles/anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21.html",
-    "source_urls": [
-      "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/"
     ]
   }
 ]
