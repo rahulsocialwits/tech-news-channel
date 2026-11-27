@@ -1,5 +1,23 @@
 [
   {
+    "id": "11-desk-mounted-power-switch-lets-gamers-boot-pcs-without-bending-2026-11-27",
+    "title": "$11 Desk‑Mounted Power Switch Lets Gamers Boot PCs Without Bending",
+    "description": "A budget external power switch for under‑desk PCs offers a convenient, cable‑free way to turn rigs on and off, appealing to gamers and office users alike.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "A budget external power switch for under‑desk PCs offers a convenient, cable‑free way to turn rigs on and off, appealing to gamers and office users alike.",
+    "page": "articles/11-desk-mounted-power-switch-lets-gamers-boot-pcs-without-bending-2026-11-27.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/this-clever-usd11-external-pc-power-switch-lets-you-boot-your-rig-without-reaching-under-your-desk-this-must-buy-upgrade-for-your-desk-has-rgb-mechanical-keys-and-a-two-meter-cable-a-perfect-gift-for-a-techie"
+    ]
+  },
+  {
     "id": "raise-financial-services-unveils-ai-powered-tradingcharts-platform-for-indian-traders-2026-11-27",
     "title": "Raise Financial Services Unveils AI‑Powered TradingCharts Platform for Indian Traders",
     "description": "Raise Financial Services launches TradingCharts, an AI‑driven charting platform designed to give Indian traders real‑time data, analysis and trade execution in one interface.",
@@ -1784,24 +1802,6 @@
     "page": "articles/anker-unveils-13-in-1-nano-docking-station-with-pop-out-travel-hub-2026-11-21.html",
     "source_urls": [
       "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/"
-    ]
-  },
-  {
-    "id": "alteryx-unveils-vura-governance-to-boost-trust-in-ai-workflows-2026-11-21",
-    "title": "Alteryx Unveils VURA Governance to Boost Trust in AI Workflows",
-    "description": "Alteryx’s new VURA Governance Experience gives enterprises a way to validate AI outputs, automate workflows, and maintain visibility into business logic and data.",
-    "category": "Technology",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Alteryx’s new VURA Governance Experience gives enterprises a way to validate AI outputs, automate workflows, and maintain visibility into business logic and data.",
-    "page": "articles/alteryx-unveils-vura-governance-to-boost-trust-in-ai-workflows-2026-11-21.html",
-    "source_urls": [
-      "https://indiatechnologynews.in/alteryx-introduces-vura-governance-experience-to-help-enterprises-strengthen-trust-in-ai-outputs-and-automate-operations/"
     ]
   }
 ]
