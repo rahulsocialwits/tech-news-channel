@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung-messages-adds-hands-free-texting-features-2026-11-27",
+    "title": "Samsung Messages Adds Hands‑Free Texting Features",
+    "description": "Samsung’s messaging app will soon let users find, send and forward texts using voice commands, expanding its hands‑free capabilities.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Samsung’s messaging app will soon let users find, send and forward texts using voice commands, expanding its hands‑free capabilities.",
+    "page": "articles/samsung-messages-adds-hands-free-texting-features-2026-11-27.html",
+    "source_urls": [
+      "https://www.androidauthority.com/samsung-messages-hands-free-texting-update-3740679/"
+    ]
+  },
+  {
     "id": "apple-removes-minimax-ai-chatbot-amid-child-safety-concerns-2026-11-27",
     "title": "Apple Removes MiniMax AI Chatbot Amid Child‑Safety Concerns",
     "description": "Apple has pulled the MiniMax AI chatbot from its App Store after safety worries surfaced over its handling of child content.",
@@ -1777,24 +1795,6 @@
     "page": "articles/spotify-founder-daniel-ek-invests-in-ai-driven-fusion-power-startup-2026-11-21.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
-    ]
-  },
-  {
-    "id": "u-s-startup-sues-apple-over-tap-to-share-contacts-feature-in-india-2026-11-21",
-    "title": "U.S. Startup Sues Apple Over Tap‑to‑Share Contacts Feature in India",
-    "description": "A U.S. startup seeks $162 million in damages and an injunction after Apple’s tap‑to‑share contacts feature is alleged to infringe its patent, potentially affecting iPhone and Apple Watch imports into India.",
-    "category": "Startups",
-    "labels": [
-      "Startups",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "A U.S. startup seeks $162 million in damages and an injunction after Apple’s tap‑to‑share contacts feature is alleged to infringe its patent, potentially affecting iPhone and Apple Watch imports into India.",
-    "page": "articles/u-s-startup-sues-apple-over-tap-to-share-contacts-feature-in-india-2026-11-21.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
     ]
   }
 ]
