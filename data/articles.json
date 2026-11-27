@@ -1,5 +1,23 @@
 [
   {
+    "id": "backloggd-users-urged-to-reset-passwords-after-security-breach-2026-11-27",
+    "title": "Backloggd Users Urged to Reset Passwords After Security Breach",
+    "description": "Backloggd has announced a data breach, prompting users to change passwords and review account activity.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-11-27",
+    "readTime": "3 min read",
+    "excerpt": "Backloggd has announced a data breach, prompting users to change passwords and review account activity.",
+    "page": "articles/backloggd-users-urged-to-reset-passwords-after-security-breach-2026-11-27.html",
+    "source_urls": [
+      "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/"
+    ]
+  },
+  {
     "id": "apple-opens-first-hyderabad-store-ahead-of-december-10-launch-2026-11-26",
     "title": "Apple Opens First Hyderabad Store Ahead of December 10 Launch",
     "description": "Apple announces its inaugural retail location in Hyderabad, opening on December 10 at 5 PM in Kukatpally.",
@@ -1777,24 +1795,6 @@
     "page": "articles/google-gains-u-s-smartphone-market-share-as-samsung-and-motorola-slip-2026-11-20.html",
     "source_urls": [
       "https://www.androidauthority.com/google-pixel-11-us-market-share-q3-2026-3737766/"
-    ]
-  },
-  {
-    "id": "microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20",
-    "title": "Microsoft to Shut Down To Do App, Leaving Users Without a Direct Replacement",
-    "description": "Microsoft announced the discontinuation of its To Do app, the successor to Wunderlist, with no immediate replacement in the works.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-20",
-    "readTime": "3 min read",
-    "excerpt": "Microsoft announced the discontinuation of its To Do app, the successor to Wunderlist, with no immediate replacement in the works.",
-    "page": "articles/microsoft-to-shut-down-to-do-app-leaving-users-without-a-direct-replacement-2026-11-20.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/"
     ]
   }
 ]
