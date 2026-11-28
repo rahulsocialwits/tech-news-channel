@@ -1,5 +1,23 @@
 [
   {
+    "id": "dual-gpu-pcs-return-powered-by-local-ai-workloads-2026-11-28",
+    "title": "Dual‑GPU PCs Return, Powered by Local AI Workloads",
+    "description": "Consumers can now run two GPUs in a single PC, a move driven by the rise of local AI applications rather than gaming.",
+    "category": "Software",
+    "labels": [
+      "Software",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Consumers can now run two GPUs in a single PC, a move driven by the rise of local AI applications rather than gaming.",
+    "page": "articles/dual-gpu-pcs-return-powered-by-local-ai-workloads-2026-11-28.html",
+    "source_urls": [
+      "https://www.xda-developers.com/running-two-gpus-is-back-but-not-for-games/"
+    ]
+  },
+  {
     "id": "thermaltake-unveils-budget-rtx-5060-ti-gaming-desktops-at-1-299-2026-11-28",
     "title": "Thermaltake Unveils Budget RTX 5060 Ti Gaming Desktops at $1,299",
     "description": "Thermaltake offers new prebuilt gaming PCs featuring Nvidia RTX 5060 Ti graphics, 1TB storage, and an Intel AI software bundle for holiday shoppers.",
@@ -1788,24 +1806,6 @@
     "page": "articles/scientists-push-the-boundary-of-human-memory-with-brain-preservation-research-2026-11-22.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
-    ]
-  },
-  {
-    "id": "suri-the-seventh-note-a-2d-rhythm-platformer-that-celebrates-india-s-cultural-tapestry-2026-11-22",
-    "title": "Suri: The Seventh Note – A 2D Rhythm Platformer That Celebrates India’s Cultural Tapestry",
-    "description": "Suri: The Seventh Note, a new 2D rhythm platformer from Tathvamasi Studios, blends music, mythology, and Indian heritage in a fresh gaming experience.",
-    "category": "Gaming",
-    "labels": [
-      "Gaming",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Suri: The Seventh Note, a new 2D rhythm platformer from Tathvamasi Studios, blends music, mythology, and Indian heritage in a fresh gaming experience.",
-    "page": "articles/suri-the-seventh-note-a-2d-rhythm-platformer-that-celebrates-india-s-cultural-tapestry-2026-11-22.html",
-    "source_urls": [
-      "https://www.thehindu.com/life-and-style/this-2d-rhythm-platformer-video-game-is-an-ode-to-indias-multiplicities/article71697393.ece"
     ]
   }
 ]
