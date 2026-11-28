@@ -1,5 +1,23 @@
 [
   {
+    "id": "sandisk-unveils-record-low-2tb-pcie-5-0-ssd-for-black-friday-2026-11-28",
+    "title": "SanDisk Unveils Record‑Low 2TB PCIe 5.0 SSD for Black Friday",
+    "description": "SanDisk’s Optimus GX Pro 8100 2TB PCIe 5.0 SSD drops to $349, offering one of the cheapest Gen5 drives for gamers and creators.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "SanDisk’s Optimus GX Pro 8100 2TB PCIe 5.0 SSD drops to $349, offering one of the cheapest Gen5 drives for gamers and creators.",
+    "page": "articles/sandisk-unveils-record-low-2tb-pcie-5-0-ssd-for-black-friday-2026-11-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/sandisks-lightning-fast-optimus-gx-pro-8100-2tb-nvme-ssd-is-21-percent-off-and-usd0-18-cents-per-gb-usd349-for-a-pcie-5-0-m-2-ssd-is-about-as-good-as-it-gets-for-black-friday"
+    ]
+  },
+  {
     "id": "garmin-fenix-8-pro-drops-to-record-low-849-99-in-black-friday-deal-2026-11-28",
     "title": "Garmin Fenix 8 Pro Drops to Record‑Low $849.99 in Black Friday Deal",
     "description": "The 51mm Garmin Fenix 8 Pro smartwatch, featuring LTE and satellite messaging, is now available for $849.99, a $350 savings from its original price.",
@@ -1789,24 +1807,6 @@
     "page": "articles/ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22.html",
     "source_urls": [
       "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-    ]
-  },
-  {
-    "id": "signal-blocks-mobile-screenshots-to-combat-ai-driven-surveillance-2026-11-22",
-    "title": "Signal Blocks Mobile Screenshots to Combat AI‑Driven Surveillance",
-    "description": "Signal limits screenshot capability on Android and iOS to protect user privacy from AI‑powered monitoring.",
-    "category": "Technology",
-    "labels": [
-      "Technology",
-      "Security"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Signal limits screenshot capability on Android and iOS to protect user privacy from AI‑powered monitoring.",
-    "page": "articles/signal-blocks-mobile-screenshots-to-combat-ai-driven-surveillance-2026-11-22.html",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
     ]
   }
 ]
