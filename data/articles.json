@@ -1,5 +1,23 @@
 [
   {
+    "id": "nvidia-blackwell-ai-racks-surface-in-china-amid-export-control-violations-2026-11-28",
+    "title": "Nvidia Blackwell AI Racks Surface in China Amid Export‑Control Violations",
+    "description": "Reports reveal banned Nvidia Blackwell AI chips installed in a Chinese data center linked to a suspected spy, raising concerns over export‑control compliance.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Reports reveal banned Nvidia Blackwell AI chips installed in a Chinese data center linked to a suspected spy, raising concerns over export‑control compliance.",
+    "page": "articles/nvidia-blackwell-ai-racks-surface-in-china-amid-export-control-violations-2026-11-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang"
+    ]
+  },
+  {
     "id": "protecting-your-google-gemini-experience-essential-security-settings-you-should-enable-2026-11-28",
     "title": "Protecting Your Google Gemini Experience: Essential Security Settings You Should Enable",
     "description": "Learn how to secure your Google Gemini conversations by enabling key privacy settings and best practices.",
@@ -1792,23 +1810,6 @@
     "source_urls": [
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVM0WGVYd0FwWkM5Y3ZuNmo0NHJpRVBBc2tzSXBfNVUwbG9vankwUnFaTFJ0Z2RNUEd1bzdGTTVrMkczR1VCQ2xjY3oyMk9iaW9QNV8xcjFDdkVpVEFjbl9GbjE4TEV0STJESFN5clo3VXhaWlpfb2pRMDNKdEc4dzlqWG5YaHNyUUs2NWZTRnJON254WDRVTDR2SDJYUXQxV3oybUh1REZydWFiRUxFLTV1UHByUnMxQnFVNmt1UkFnUQ?oc=5",
       "https://indianexpress.com/article/technology/tech-news-technology/signal-blocks-screenshots-ai-agents-privacy-threat-10973703/"
-    ]
-  },
-  {
-    "id": "energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22",
-    "title": "Energy Companies Deploy Power‑Line‑Charging Drones to Monitor the Grid",
-    "description": "Energy firms are testing drones that can land on live high‑voltage lines, draw power, and continue monitoring without returning to base.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Energy firms are testing drones that can land on live high‑voltage lines, draw power, and continue monitoring without returning to base.",
-    "page": "articles/energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home"
     ]
   }
 ]
