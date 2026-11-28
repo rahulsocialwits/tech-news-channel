@@ -1,5 +1,27 @@
 [
   {
+    "id": "black-friday-2026-top-tech-deals-for-every-budget-2026-11-28",
+    "title": "Black Friday 2026: Top Tech Deals for Every Budget",
+    "description": "Discover the best Black Friday tech bargains of 2026, from OLED gaming monitors to smart displays and gaming accessories, all highlighted by top reviewers.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Discover the best Black Friday tech bargains of 2026, from OLED gaming monitors to smart displays and gaming accessories, all highlighted by top reviewers.",
+    "page": "articles/black-friday-2026-top-tech-deals-for-every-budget-2026-11-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
+      "https://9to5google.com/2026/11/27/amazon-echo-show-black-friday-google-nest-hub/",
+      "https://www.androidauthority.com/ice-blue-konkr-pocket-advance-3741052/",
+      "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "https://www.wired.com/story/best-black-friday-deals-11-27-2026/"
+    ]
+  },
+  {
     "id": "lenovo-loq-notebook-with-arc-b390-graphics-hits-799-this-black-friday-2026-11-28",
     "title": "Lenovo LOQ Notebook with Arc B390 Graphics Hits $799 This Black Friday",
     "description": "Lenovo’s LOQ gaming notebook, powered by Intel Arc B390, is available for just $799 during Black Friday sales.",
@@ -1785,24 +1807,6 @@
     "page": "articles/tcl-s-paper-like-11-5-inch-tablet-hits-black-friday-with-38-off-for-prime-members-2026-11-21.html",
     "source_urls": [
       "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/"
-    ]
-  },
-  {
-    "id": "apple-homeview-turns-your-kitchen-into-a-smart-cooking-studio-2026-11-21",
-    "title": "Apple HomeView Turns Your Kitchen Into a Smart Cooking Studio",
-    "description": "Apple’s new HomeView cooking feature lets users follow recipes, track ingredients, and get real‑time guidance on its smart display.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Apple’s new HomeView cooking feature lets users follow recipes, track ingredients, and get real‑time guidance on its smart display.",
-    "page": "articles/apple-homeview-turns-your-kitchen-into-a-smart-cooking-studio-2026-11-21.html",
-    "source_urls": [
-      "https://www.engadget.com/2318404/apple-homeview-cooking-feature/"
     ]
   }
 ]
