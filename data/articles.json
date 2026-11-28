@@ -1,5 +1,23 @@
 [
   {
+    "id": "lenovo-loq-notebook-with-arc-b390-graphics-hits-799-this-black-friday-2026-11-28",
+    "title": "Lenovo LOQ Notebook with Arc B390 Graphics Hits $799 This Black Friday",
+    "description": "Lenovo’s LOQ gaming notebook, powered by Intel Arc B390, is available for just $799 during Black Friday sales.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Lenovo’s LOQ gaming notebook, powered by Intel Arc B390, is available for just $799 during Black Friday sales.",
+    "page": "articles/lenovo-loq-notebook-with-arc-b390-graphics-hits-799-this-black-friday-2026-11-28.html",
+    "source_urls": [
+      "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price"
+    ]
+  },
+  {
     "id": "air-force-cloud-breach-highlights-need-for-robust-security-during-system-upgrades-2026-11-27",
     "title": "Air Force Cloud Breach Highlights Need for Robust Security During System Upgrades",
     "description": "A recent breach of the U.S. Air Force’s cloud infrastructure during a routine upgrade underscores the importance of stringent security protocols in government cloud environments.",
@@ -1785,24 +1803,6 @@
     "page": "articles/apple-homeview-turns-your-kitchen-into-a-smart-cooking-studio-2026-11-21.html",
     "source_urls": [
       "https://www.engadget.com/2318404/apple-homeview-cooking-feature/"
-    ]
-  },
-  {
-    "id": "how-to-extend-your-fitbit-s-battery-life-simple-tweaks-that-add-months-2026-11-21",
-    "title": "How to Extend Your Fitbit’s Battery Life: Simple Tweaks That Add Months",
-    "description": "Discover easy ways to keep your Fitbit running longer, from adjusting settings to managing notifications, based on tips from Engadget.",
-    "category": "Gadgets",
-    "labels": [
-      "Gadgets",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-21",
-    "readTime": "3 min read",
-    "excerpt": "Discover easy ways to keep your Fitbit running longer, from adjusting settings to managing notifications, based on tips from Engadget.",
-    "page": "articles/how-to-extend-your-fitbit-s-battery-life-simple-tweaks-that-add-months-2026-11-21.html",
-    "source_urls": [
-      "https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/"
     ]
   }
 ]
