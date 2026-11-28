@@ -1,5 +1,23 @@
 [
   {
+    "id": "openai-countersues-apple-over-alleged-trade-secret-theft-2026-11-28",
+    "title": "OpenAI Countersues Apple Over Alleged Trade‑Secret Theft",
+    "description": "OpenAI files counter‑lawsuit against Apple, accusing the iPhone maker of stealing proprietary AI technology.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "OpenAI files counter‑lawsuit against Apple, accusing the iPhone maker of stealing proprietary AI technology.",
+    "page": "articles/openai-countersues-apple-over-alleged-trade-secret-theft-2026-11-28.html",
+    "source_urls": [
+      "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/"
+    ]
+  },
+  {
     "id": "lineageos-24-pc-port-brings-android-17-to-laptops-2026-11-28",
     "title": "LineageOS 24 PC Port Brings Android 17 to Laptops",
     "description": "The new LineageOS 24 PC port lets users run Android 17 on their laptops, offering a full Android experience on desktop hardware.",
@@ -1787,26 +1805,6 @@
     "page": "articles/milestone-summit-unites-160-developers-to-push-ai-driven-video-technology-forward-2026-11-22.html",
     "source_urls": [
       "https://indiatechnologynews.in/milestone-brings-together-partners-and-developers-from-around-the-world-to-shape-whats-next-for-video-technology/"
-    ]
-  },
-  {
-    "id": "intel-s-core-i7-14700k-hits-record-low-while-google-and-samsung-push-mobile-innovation-2026-11-22",
-    "title": "Intel’s Core i7‑14700K Hits Record Low, While Google and Samsung Push Mobile Innovation",
-    "description": "Intel’s Core i7‑14700K drops to $249.99, and Google and Samsung release new Pixel 11 and Galaxy Z Fold 8 models that reshape the mid‑range and foldable markets.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Intel’s Core i7‑14700K drops to $249.99, and Google and Samsung release new Pixel 11 and Galaxy Z Fold 8 models that reshape the mid‑range and foldable markets.",
-    "page": "articles/intel-s-core-i7-14700k-hits-record-low-while-google-and-samsung-push-mobile-innovation-2026-11-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
-      "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
-      "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
-      "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/"
     ]
   }
 ]
