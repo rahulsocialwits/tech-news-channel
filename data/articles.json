@@ -1,5 +1,23 @@
 [
   {
+    "id": "lineageos-24-pc-port-brings-android-17-to-laptops-2026-11-28",
+    "title": "LineageOS 24 PC Port Brings Android 17 to Laptops",
+    "description": "The new LineageOS 24 PC port lets users run Android 17 on their laptops, offering a full Android experience on desktop hardware.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "The new LineageOS 24 PC port lets users run Android 17 on their laptops, offering a full Android experience on desktop hardware.",
+    "page": "articles/lineageos-24-pc-port-brings-android-17-to-laptops-2026-11-28.html",
+    "source_urls": [
+      "https://www.androidauthority.com/lineageos-pc-port-3741004/"
+    ]
+  },
+  {
     "id": "sandisk-unveils-record-low-2tb-pcie-5-0-ssd-for-black-friday-2026-11-28",
     "title": "SanDisk Unveils Record‑Low 2TB PCIe 5.0 SSD for Black Friday",
     "description": "SanDisk’s Optimus GX Pro 8100 2TB PCIe 5.0 SSD drops to $349, offering one of the cheapest Gen5 drives for gamers and creators.",
@@ -1789,24 +1807,6 @@
       "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
       "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
       "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/"
-    ]
-  },
-  {
-    "id": "ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22",
-    "title": "AI’s Progress Chart Gets a Major Revision, Highlighting Coding Strengths and Judgment Gaps",
-    "description": "A new METR report updates the AI time‑horizon graph, showing rapid coding gains but slower progress on judgment tasks.",
-    "category": "AI",
-    "labels": [
-      "AI",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "A new METR report updates the AI time‑horizon graph, showing rapid coding gains but slower progress on judgment tasks.",
-    "page": "articles/ai-s-progress-chart-gets-a-major-revision-highlighting-coding-strengths-and-judgment-gaps-2026-11-22.html",
-    "source_urls": [
-      "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     ]
   }
 ]
