@@ -1,5 +1,23 @@
 [
   {
+    "id": "protecting-your-google-gemini-experience-essential-security-settings-you-should-enable-2026-11-28",
+    "title": "Protecting Your Google Gemini Experience: Essential Security Settings You Should Enable",
+    "description": "Learn how to secure your Google Gemini conversations by enabling key privacy settings and best practices.",
+    "category": "Technology",
+    "labels": [
+      "Technology",
+      "Security"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Learn how to secure your Google Gemini conversations by enabling key privacy settings and best practices.",
+    "page": "articles/protecting-your-google-gemini-experience-essential-security-settings-you-should-enable-2026-11-28.html",
+    "source_urls": [
+      "https://www.engadget.com/2325814/important-gemini-security-settings-should-be-using/"
+    ]
+  },
+  {
     "id": "sakana-ai-s-homegrown-models-aim-to-boost-japan-s-industrial-competitiveness-2026-11-28",
     "title": "Sakana AI’s Homegrown Models Aim to Boost Japan’s Industrial Competitiveness",
     "description": "Sakana AI is developing domestic AI models to strengthen Japan’s industrial sector and address national security concerns.",
@@ -1791,23 +1809,6 @@
     "page": "articles/energy-companies-deploy-power-line-charging-drones-to-monitor-the-grid-2026-11-22.html",
     "source_urls": [
       "https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home"
-    ]
-  },
-  {
-    "id": "sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22",
-    "title": "Sterilized Soil Holds Life‑Like Chemistry for Six Years, Hinting at Earth’s Origins",
-    "description": "Scientists discovered that sterilized soil can retain biologically important chemical reactions for six years, offering clues about how life may have begun on Earth.",
-    "category": "Technology",
-    "labels": [
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Scientists discovered that sterilized soil can retain biologically important chemical reactions for six years, offering clues about how life may have begun on Earth.",
-    "page": "articles/sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22.html",
-    "source_urls": [
-      "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
     ]
   }
 ]
