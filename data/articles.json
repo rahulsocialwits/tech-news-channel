@@ -1,5 +1,23 @@
 [
   {
+    "id": "sakana-ai-s-homegrown-models-aim-to-boost-japan-s-industrial-competitiveness-2026-11-28",
+    "title": "Sakana AI’s Homegrown Models Aim to Boost Japan’s Industrial Competitiveness",
+    "description": "Sakana AI is developing domestic AI models to strengthen Japan’s industrial sector and address national security concerns.",
+    "category": "AI",
+    "labels": [
+      "AI",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "Sakana AI is developing domestic AI models to strengthen Japan’s industrial sector and address national security concerns.",
+    "page": "articles/sakana-ai-s-homegrown-models-aim-to-boost-japan-s-industrial-competitiveness-2026-11-28.html",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
+    ]
+  },
+  {
     "id": "black-friday-s-best-home-tech-deals-from-robot-vacuums-to-home-theater-2026-11-28",
     "title": "Black Friday’s Best Home‑Tech Deals: From Robot Vacuums to Home Theater",
     "description": "Explore the top Black Friday bargains for the Narwal Freo 20 robot vacuum and Sony’s BRAVIA Theater Trio, and why they’re worth the savings this holiday season.",
@@ -1790,24 +1808,6 @@
     "page": "articles/sterilized-soil-holds-life-like-chemistry-for-six-years-hinting-at-earth-s-origins-2026-11-22.html",
     "source_urls": [
       "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
-    ]
-  },
-  {
-    "id": "ugreen-dxp4800-gt-nas-enclosure-slashes-cloud-costs-with-20-black-friday-discount-2026-11-22",
-    "title": "UGreen DXP4800 GT NAS Enclosure Slashes Cloud Costs with 20% Black Friday Discount",
-    "description": "UGreen’s 4‑bay DXP4800 GT NAS drops 20% off on Amazon, offering dual 10GbE ports and up to 144TB of storage to help users cut cloud subscription fees.",
-    "category": "Cloud",
-    "labels": [
-      "Cloud",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "UGreen’s 4‑bay DXP4800 GT NAS drops 20% off on Amazon, offering dual 10GbE ports and up to 144TB of storage to help users cut cloud subscription fees.",
-    "page": "articles/ugreen-dxp4800-gt-nas-enclosure-slashes-cloud-costs-with-20-black-friday-discount-2026-11-22.html",
-    "source_urls": [
-      "https://www.tomshardware.com/pc-components/nas/ditch-cloud-subscriptions-with-a-usd132-discount-on-a-4-bay-ugreen-dxp4800-gt-nas-enclosure-in-amazon-black-friday-deal-offers-dual-10gbe-ports-and-supports-up-to-144tb-of-storage"
     ]
   }
 ]
