@@ -1,5 +1,23 @@
 [
   {
+    "id": "garmin-fenix-8-pro-drops-to-record-low-849-99-in-black-friday-deal-2026-11-28",
+    "title": "Garmin Fenix 8 Pro Drops to Record‑Low $849.99 in Black Friday Deal",
+    "description": "The 51mm Garmin Fenix 8 Pro smartwatch, featuring LTE and satellite messaging, is now available for $849.99, a $350 savings from its original price.",
+    "category": "Gadgets",
+    "labels": [
+      "Gadgets",
+      "Technology"
+    ],
+    "feature_image": "",
+    "date": "2026-11-28",
+    "readTime": "3 min read",
+    "excerpt": "The 51mm Garmin Fenix 8 Pro smartwatch, featuring LTE and satellite messaging, is now available for $849.99, a $350 savings from its original price.",
+    "page": "articles/garmin-fenix-8-pro-drops-to-record-low-849-99-in-black-friday-deal-2026-11-28.html",
+    "source_urls": [
+      "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/"
+    ]
+  },
+  {
     "id": "sandisk-unveils-ultra-fast-2tb-portable-ssd-at-record-low-price-2026-11-28",
     "title": "SanDisk Unveils Ultra‑Fast 2TB Portable SSD at Record Low Price",
     "description": "SanDisk’s new 2TB portable SSD, delivering up to 1,000 MB/s read speeds, drops to $269.99 – its lowest price since launch.",
@@ -1789,24 +1807,6 @@
     "page": "articles/signal-blocks-mobile-screenshots-to-combat-ai-driven-surveillance-2026-11-22.html",
     "source_urls": [
       "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-    ]
-  },
-  {
-    "id": "google-gemini-gets-a-fresh-camera-redesign-on-android-2026-11-22",
-    "title": "Google Gemini Gets a Fresh Camera Redesign on Android",
-    "description": "Google’s Gemini app now features a streamlined in‑app camera for quick image prompts on Android devices.",
-    "category": "Software",
-    "labels": [
-      "Software",
-      "Technology"
-    ],
-    "feature_image": "",
-    "date": "2026-11-22",
-    "readTime": "3 min read",
-    "excerpt": "Google’s Gemini app now features a streamlined in‑app camera for quick image prompts on Android devices.",
-    "page": "articles/google-gemini-gets-a-fresh-camera-redesign-on-android-2026-11-22.html",
-    "source_urls": [
-      "https://9to5google.com/2026/11/21/gemini-camera-redesign/"
     ]
   }
 ]
